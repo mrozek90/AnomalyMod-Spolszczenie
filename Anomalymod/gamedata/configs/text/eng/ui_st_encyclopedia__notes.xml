@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	
+	<string id="encyclopedia__notes">
+		<text>Notatki</text>
+	</string>
+	
+	<string id="encyclopedia__notes__state">
+		<text>Stan ekwipunku</text>
+	</string>
+	<string id="encyclopedia__notes__state_text">
+		<text>
+			Stan elementów twojego ekwipunku:\n \n
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes__ironman">
+		<text>Statystyki trybu Ironman</text>
+	</string>
+	<string id="encyclopedia__notes__ironman_text">
+		<text>
+			Statystyki trybu Ironman:\n
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_mysteries_of_the_zone">
+		<text>Tajemnice Zony</text>
+	</string>
+	<string id="encyclopedia__notes_mysteries_of_the_zone_text">
+		<text>
+		Gdzieś w tej okolicy ukrywa się ziomek Striełoka. Pasowałoby z nim pogadać, może dowiem się czegoś o Zonie? Szkoda tylko, że nie mam pojęcia, gdzie go szukać.\n \nTen dziwny dziadek w Czerwonym Lesie, Leśnik, powinien wiedzieć, kto to jest i gdzie go znaleźć. Wydaje mi się, że są w jakiś sposób powiązani.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_living_legend">
+		<text>Striełok wrócił?</text>
+	</string>
+	<string id="encyclopedia__notes_living_legend_text">
+		<text>
+			Jeśliby wierzyć plotkom, legendarny stalker niedawno powrócił. Jest jednym z niewielu, którym udało się dotrzeć do centrum Zony.\n \nLudzie robią z tego nie wiadomo co. %s pewnie zechce się ze mną zobaczyć. 
+
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_mortal_sin">
+		<text>Kolejny klan?</text>
+	</string>
+	<string id="encyclopedia__notes_mortal_sin_text">
+		<text>
+			Aż czuć to napięcie. Kręcą się tu jacyś dziwaczni stalkerzy, głoszą kazania i próbują namówić innych na dołączenie do ich "klanu". Nikt nie wie, o co im tak naprawdę chodzi.\n \nWygląda na to, że nadciąga kolejna burza. %s. Muszę się z nim zobaczyć.
+		</text>
+	</string>
+
+	<string id="encyclopedia__notes_recipe_cooking_1">
+		<text>Zapiski kucharza</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_cooking_1_text">
+		<text>
+			Plik ręcznie sporządzonych zapisków. Zawiera szczegółowe przepisy i porady, jak marynować mięso mutantów w alkoholu. Według notatek, alkohol wyciąga z mięsa część promieniowania. Autorem zapisków musi być doświadczony stalker.
+		</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_memoirs_1_of_2">
+		<text>Zapiski stalkera #1</text>
+	</string>
+	<string id="encyclopedia__notes_letter_memoirs_1_of_2_text">
+		<text>
+			Stary, wypłowiały dziennik w oprawce. Mimo osłonki upływ czasu odcisnął na nim swoje piętno. Do odczytania nadaje się tylko niewielka część:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_memoirs_1_of_2_text2">
+		<text>
+		\n \nMuszę to napisać. Może zejdzie ze mnie to wszystko, chociaż trochę. Mam tylko nadzieję, że ktoś to kiedyś przeczyta, że coś po mnie zostanie i nikt nie popełni błędów, które ja popełniłem.\n \nNie mam zbyt wielu kumpli, w Zonie właściwie nie mam nikogo. Handlarze mają mnie za jakiegoś wyrzutka. Ten brodaty gostek w Zatonie śmieje się z sarkazmem za każdym razem, kiedy mnie widzi. A Hawajczyk? Tym swoim niby luzem pokazuje, jak bardzo ze mnie kpi. A jebać tych gnoi! Jedyne, czego mi od nich trzeba, to amunicji, żarcia i wody… od czasu do czasu.\n \nZacząłem dziś pisać, żeby ktoś kiedyś dowiedział się, co przeszedłem tamtej pieprzonej nocy. Może jak zobaczą, co się stało, ogarną w końcu, czemu wolę być sam. Do Zony przyszedłem w pojedynkę. I co? Od razu sparowali mnie z jakimś świeżakiem. Okazało się, że to jakiś amator kamieni. "To minerały, nie kamienie!", powtarzał.\n \n Miał hobby, zbierał te swoje kamyczki. Pokazywał, chwalił się – a to takie, a tamto siakie. Jak się dowiedział o artefaktach, o tych naszych unikatowych "minerałach" to wiadome, jaki mógł być jego kolejny krok. Zebrał tyle tego szajsu, że w końcu wyrósł mu od nich jakiś guz w bebzunie. Non stop sraczka, rzygaczka, permanentny wkurw… jak baba w ciąży, wiecie, tylko zamiast gówniaka miał tam wielkie, złośliwe raczysko. Nawet nazwał guza imieniem swojego pierwszego pupila.\n \nNie powiem, jak na tamte czasy, spoko się z nim łaziło. I przydał mi się parę razy. Nigdy nie zaczepialiśmy bandosów, staraliśmy się unikać mutantów. Głównie węszyliśmy przy anomaliach, zbieraliśmy te jego kamyki, a jak los zdarzył, to i artefakt jakiś przytargaliśmy z chodki.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_memoirs_2_of_2">
+		<text>Zapiski stalkera #2</text>
+	</string>
+	<string id="encyclopedia__notes_letter_memoirs_2_of_2_text">
+		<text>
+			Stary, wypłowiały dziennik w oprawce. Mimo osłonki upływ czasu odcisnął na nim swoje piętno. Do odczytania nadaje się tylko niewielka część:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_memoirs_2_of_2_text2">
+		<text>
+			\n \nUsłyszeliśmy plotkę o anomalii w jakiejś jaskini czy innej dziurze w ziemi. Ponoć obrodziła całą górą artefaktów, ale z jakiegoś powodu nikt nie chciał tam chodzić.\n \nTrzęsidupy – tak sobie o nich pomyśleliśmy. No bo niby czemu nikt tam nie wskoczył i nie zgarnął chabaru? Kasa leżała na ziemi, wystarczyło się tylko schylić.\n \nJak nie my to kto? – śmialiśmy się. Popytaliśmy towarzycho, zasięgnęliśmy języka, w końcu zebraliśmy szpej i poszliśmy do tej jaskini. Nawet nie zdążyliśmy wpakować się do środka, wyleciał na nas jakiś cień. Wypieprzyłem się, rąbnąłem w coś łbem i tyle mnie było.\n \nW końcu odzyskałem przytomność. Usłyszałem tylko czyjeś wycie. Mutanty, pomyślałem, ale okazało się, że to był mój kumpel. Leżał zaraz obok. Zdarło z niego całą skórę. Widziałem zalane krwią mięśnie i kości wystające z paskudnych ran. Trzymał coś w rękach. Przyjrzałem się. Okazało się, że ściskał własne flaki, próbując wyczołgać się z tej pieprzonej jaskini. Szok, że w ogóle jeszcze żył.\n \nNie mogłem zrozumieć, co się w ogóle stało. Wymacałem ręką pistolet. Na autopilocie odpiąłem kaburę i zacząłem strzelać do tej cholernej ciemnicy. W magu miałem dwadzieścia naboi, był pełny. Selektor ognia zawsze miałem na pojedynczy. Nie wiem czemu to tak pamiętam, ale wiem, że zostało mi siedem pestek, kiedy to coś złapało mnie za rękę i kazało ciągnąć za spust.\n \nWtedy nawet nie wiedziałem, gdzie celuję. Po prostu naciskałem języczek raz za razem – pach! pach! pach! – i nie mogłem przestać. W końcu mnie puściło, ale byłem tak spietrany, że przez parę kolejnych minut dalej cisnąłem spust, chociaż słyszałem tylko kliknięcia pustego zamka. Chyba wiedziałem, że jeśli przestanę, będę musiał zmierzyć się z tym, co zrobiłem kumplowi. Nie odważyłem się nawet zabrać jego nieśmiertelnika. Po prostu uciekłem.\n \nJak mógłbym z kimkolwiek rozmawiać, czy znaleźć sobie kolejnego kumpla wiedząc, że i jego Zona może mi zabrać? Dużo lepiej być samemu. Przyjaźń ma swoją cenę, jest obarczona ryzykiem. Ta chwila spokoju, świadomość, że zawsze masz do kogo otworzyć gębę nie warta jest tego, że możesz go stracić na zawsze w najpaskudniejszy możliwy sposób. Guz na głowie ciągle mi o tym przypomina.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_freedom_manual_1_of_2">
+		<text>Techniki przesłuchań - podstawy, część 1</text>
+	</string>
+	<string id="encyclopedia__notes_letter_freedom_manual_1_of_2_text">
+		<text>
+			Broszura informacyjna z logo Wolności w prawym górnym rogu i prostym rysunkiem pistoletu celującego w klęczącego człowieka. Zatytułowana "Techniki przesłuchań - podstawy" i napisana typowym dla tej frakcji, dość luźnym językiem:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_freedom_manual_1_of_2_text2">
+		<text>
+		\n \nW sumie nie ma co nawijać o takich pierdołach, bo to oczywista oczywistość, ale - serio - nie gadaj o tym z ludźmi, nie pokazuj im tej broszurki, nie sprzedawaj nikomu wiedzy.\n \nPo wszystkim wywal ją w krzaki, spal w pizdu albo w ostateczności daj jakiemuś serio zaufanemu ziomkowi. Raczej nie chcesz, żeby wszyscy się o tym dowiedzieli. A co, jeśli ktoś wykorzysta te patenty przeciw tobie? Masz schowek? Bankowo jakiś masz. Zrób przysługę sam sobie i dziób na kłódkę, czaisz? A jakby co, to zwrotów nie przyjmujemy, żeby nie było, że nie ostrzegałem.\n \nW Zonie każdy ma schowek. K A Ż D Y. Nawet najbiedniejszy, najnędzniejszy bandziorek ma skitrane kilka racji i parę awaryjnych pestek do spluwy. Tak to po prostu działa. Coś zarobisz - opchniesz arty, psie chwosty, czy szpej tego gnoja, którego parę minut wcześniej osobiście zastrzeliłeś - i coś za to kupisz - szamę, lepszą giwerę, paczkę szlugów, czy działkę koksu. Jak ktoś cię z tego obrobi, to nie będziesz stał i gapił się w niebo jak debil, tylko pójdziesz do swojej skrytki, weźmiesz to, co tam zakitrałeś na czarną godzinę i jakoś się z tego gówna wykaraskasz.\n \nJest źle, a będzie gorzej. Zapamiętaj, że jak coś spieprzysz, sam będziesz sobie winien i nikt nie będzie się z tobą cackał.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_freedom_manual_2_of_2">
+		<text>Techniki przesłuchań - podstawy, część 2</text>
+	</string>
+	<string id="encyclopedia__notes_letter_freedom_manual_2_of_2_text">
+		<text>
+			Broszura informacyjna z logo Wolności w prawym górnym rogu i prostym rysunkiem pistoletu celującego w klęczącego człowieka. Zatytułowana "Techniki przesłuchań - podstawy" i napisana typowym dla tej frakcji, dość luźnym językiem:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_freedom_manual_2_of_2_text2">
+		<text>
+			\n \nWiesz, co jest najlepsze w schowkach? No ruszże mózgownicą. Każdy ma jakąś swoją tajną skrytkę, tak? I po co? Żeby trzymać tam bezpiecznie chabar! Możesz się dowiedzieć, gdzie kto trzyma fanty, sposób jest prosty jak budowa cepa. Wybierz tylko porządnie swój cel.\n \nJak już obczaisz, kogo chcesz orżnąć i dopracujesz swój genialny plan - no wiesz, znajdziesz miejscówkę z dala od ludzi, gdzie totalnym przypadkiem będziecie tylko wy dwaj i tego typu pierdoły - rozjeb mu łeb. Psychicznie w sensie. Jak go zastrzelisz, to raczej nic już ci nie powie i cały misterny plan w pizdu.\n \nPrzedziuraw mu kolana albo ramiona. Niech się obsra z bólu. Niech boli tak bardzo, żeby uważał cię za swoją jedyną szansę na przeżycie kabały, w jaką się wpierdolił. W końcu ci ulegnie, rzuci gnata w trawę i padnie przed tobą.\n \nTo jest to. Podejdź, zagadaj. Nie wrzeszcz na dzień dobry, postaraj się być miły, ale stanowczy. Nie musisz go zabijać - to w końcu człowiek taki, jak i ty. Mutantów jest pod dostatkiem, jak chcesz bez sensu postrzelać. Poza tym, po coś to wszystko robisz, nie? S C H O W E K. Jego schowek, gwoli ścisłości. Postrasz go trochę - powiedz, że pochlastasz mu mordę, że wrzucisz go w anomalię i nie będzie nawet czego do trumny włożyć, co tam chcesz. Po prostu zmuś typa, żeby zaczął myśleć, że schowek i tak już mu nie będzie potrzebny. Niech obsra się drugi raz, tym razem ze strachu. Powinien wyćwierkać ci miejscówkę dosyć szybko. A potem już rób, co tam sobie uważasz - okaż człowieczeństwo i puść go, niech szuka ratunku, albo strzel mu w ryj i zostaw w trawie. Twoja wola.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_stalker_letter_1_of_2">
+		<text>Pamiętnik #1</text>
+	</string>
+	<string id="encyclopedia__notes_letter_stalker_letter_1_of_2_text">
+		<text>
+			Kilka stron wyrwanych z pamiętnika. Zapisane niebieskim atramentem, rozmazanym na skutek wpływu środowiska. Tekst jest ledwie czytelny, a autor pozostaje nieznany.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_stalker_letter_1_of_2_text2">
+		<text>
+		\n \nWciąż czuję piekło tej anomalii na plecach. Pali nawet teraz, chociaż siedzę w Skadowsku, w bezpiecznym miejscu, z dala od tego pierdolonego piekarnika. Możecie sobie tylko wyobrazić, przez co przeszedłem będąc tam, między tymi wszystkimi spalaczami.\n \nJob twoju, czasem pali jeszcze bardziej. Dorobiłem się, kurwa, detektora anomalii na plecach. Wszyscy wiedzą, że jak cię osmali Spalaczem, albo coś zeżre w kwasówkach, cholerstwo nie złazi zbyt łatwo - a czasem nie złazi w ogóle. To tak, jakby część Zony weszła bezpośrednio w twoje ciało. Chyba o to chodzi z tymi "naznaczonymi przez Zonę", nie wiem.\n \nAle te koszmary... to gówno jest najgorsze. Jak doświadczasz tych wszystkich załamań praw fizyki, tracisz jakąkolwiek pewność siebie. No bo w co tak naprawdę wierzyć?\n \nNie mam problemu z dziesięcioma juchociągami lecącymi na mnie w środku nocy. Prościzna, nie takie rzeczy się robiło. Ale to, że te cholerne anomalie robią sobie jaja z praw fizyki nie mieści mi się w głowie. Czy to w ogóle możliwe? Czy to, co miałem za rzeczywistość, faktycznie nią jest? Ciągle myślę o tym, że Zona to po prostu jakiś koszmar. Chcę się z niego obudzić tak bardzo, że trafiam do kolejnego koszmaru, znowu do tej pieprzonej Zony. I tak parę razy, do momentu, aż wyskakuję z wrzaskiem z wyra, cały zlany zimnym potem.\n
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_stalker_letter_2_of_2">
+		<text>Pamiętnik #2</text>
+	</string>
+	<string id="encyclopedia__notes_letter_stalker_letter_2_of_2_text">
+		<text>
+			Kilka stron wyrwanych z pamiętnika. Zapisane niebieskim atramentem, rozmazanym na skutek wpływu środowiska. Tekst jest ledwie czytelny, a autor pozostaje nieznany.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_stalker_letter_2_of_2_text2">
+		<text>
+			\n \nZawsze, kiedy o tym myślę, plecy zaczynają mi się telepać i puszczają jakąś czerwoną breję.\n \nNie zbliżam się do anomalii już ze cztery miechy. Próbuję jakoś wyżyć z polowań, ale za długo tak nie pociągnę. To nie jest robota dla mnie.\n \nSzramy na plecach ciągle na coś reagują, jakby żyły niezależnie ode mnie. Czasami myślę, że lepiej byłoby zostać w tym pieprzonym gospodarstwie i się tam spalić żywcem. Może byłoby ze mnie więcej pożytku, gdyby chociaż kabany nażarły się padliną. A może i nie. Zresztą, one też są popierdolone - pakują się w Spalacze całymi stadami.\n \nGdyby nie spalone gospodarstwo, Skadowsk przestałby istnieć w ciągu paru dni. Dziki na pewno przedarłyby się w końcu przez te pordzewiałe burty, nieważne, ile by do nich strzelać. Gdyby nie ta - jak mówią chłopaki - wędzarnia na wzgórzu, już dawno byłoby po ptokach. Zresztą, co po tej wędzarni - mięso dzików, zwłaszcza tamtych, i tak jest bezużyteczne. Żylaste, śmierdzące, zjarane tak, że żaden lokalny Gordon Ramsay nic już z niego nie wyczaruje.\n \n \nCzasem chodzę na Zaton pooglądać fajerwerki, nawet jeśli skóra pali tak, że aż mnie wykręca. Wracam, bo ciągle mam wrażenie, że coś tam zostawiłem, że coś mnie stamtąd wzywa. Przez sznyty i to cholerne pieczenie muszę spać na brzuchu, albo na którymś z boków.\n \nNienawidzę spać na boku. Zawsze wolałem na plecach. Ta cholerna Zona wie, gdzie uderzyć. Zawsze coś spieprzy, każdą miłą rzecz potrafi zamienić w koszmar. I nigdy nie pyta o zdanie.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_ecologist_report_1_of_3">
+		<text>Raport polowy 39B rew. 2 (część 1)</text>
+	</string>
+	<string id="encyclopedia__notes_letter_ecologist_report_1_of_3_text">
+		<text>
+			Maszynopis ostemplowany pieczątką grupy badawczej Ekologów. Sklasyfikowany jako ściśle poufny. Na dokumencie widnieje podpis: %c[pda_white]Arkadij Ćwietkowskij%c[ui_gray_1].\n \nMłodszy Naukowiec Laboratorium i Bunkra Badawczego RX12
+			\nRaport polowy 39b rew. 2 dot. Odkrycia Żyjących Umarłych
+			\n• Data: %c[pda_white]19.03.2014%c[ui_gray_1]
+			\n• Plik nr: %c[pda_white]34%c[ui_gray_1]
+			\n• Strona: %c[pda_white]1%c[ui_gray_1] z %c[pda_white]3%c[ui_gray_1]
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_ecologist_report_1_of_3_text2">
+		<text>
+			  \n"Zombie", jak wyrażają się o tych istotach lokalni mieszkańcy, to byty wykazujące się bardzo ograniczoną żywotnością, raczej pozbawione zdolności świadomego odczuwania bodźców.\n \nDane naukowe wykazują, że mózgi tych istot nie prowadzą żadnych procesów, a ich aktywność neurologiczna zdaje się niemal niewykrywalna. Z medycznego punktu widzenia można uznać, że istnieją w stanie śmierci mózgowej. Jednakże, testy przeprowadzone w terenie wykazały, że z przyczyn nieznanych obecnemu stanowi wiedzy, "zombie" wykazują - w reakcji na określone bodźce - proste zachowania mechaniczne (przypominające działania instynktowne, jednak powodowane wyraźnie odmienną logiką).\n \nJedna z teorii głosi, że mechanizmy te są rodzajem zapory neurochemicznej, zmuszającej ciało do poruszania się w określony sposób w odpowiedzi na konkretne impulsy zewnętrzne. Z tego względu zaleca się zbliżać do tych istot wyłącznie z pełną ostrożnością.\n \nW zakresie fizjologii, przeprowadzone przez nas testy wykazały osobliwą, lecz potencjalnie owocną naukowo samodzielność konkretnych części ciała po oddzieleniu ich od badanego obiektu. Upraszczając - część oddzielona mechanicznie od korpusu zachowywała swoją pełną funkcjonalność pomimo braku dostępu do jakichkolwiek składników odżywczych. Jednym z najbardziej spektakularnych i jednocześnie udanych przedsięwzięć zespołu badawczego było utrzymanie przy życiu wątroby i serca takiej istoty przez ponad trzy miesiące, bez podłączenia ich do innych organów, krwiobiegu czy systemów podtrzymujących życie.\n \nDalsza analiza nie sugeruje żadnych zmian na poziomie molekularnym ani subatomowym.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_ecologist_report_2_of_3">
+		<text>Raport polowy 39B rew. 2 (część 2)</text>
+	</string>
+	<string id="encyclopedia__notes_letter_ecologist_report_2_of_3_text">
+		<text>
+			Maszynopis ostemplowany pieczątką grupy badawczej Ekologów. Sklasyfikowany jako ściśle poufny. Na dokumencie widnieje podpis: %c[pda_white]Arkadij Ćwietkowskij%c[ui_gray_1].\n \nMłodszy Naukowiec Laboratorium i Bunkra Badawczego RX12
+			\nRaport polowy 39b rew. 2 dot. Odkrycia Żyjących Umarłych
+			\n• Data: %c[pda_white]21.03.2014%c[ui_gray_1]
+			\n• Plik nr: %c[pda_white]34%c[ui_gray_1]
+			\n• Strona: %c[pda_white]2%c[ui_gray_1] z %c[pda_white]3%c[ui_gray_1]
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_ecologist_report_2_of_3_text2">
+		<text>
+			\nNasze odkrycia mogą stanowić podstawę do poprawnego wyjaśnienia, dlaczego pomimo wielokrotnych postrzałów w kończyny, okolicę miednicy, organy wewnętrzne czy inne części ciała, nadal są w stanie funkcjonować, właściwie bez żadnych przeszkód.\n \nPrzemieszczanie się tych istot wygląda na mocno utrudnione, a bieganie jest dla nich całkowicie niemożliwe. Jednakże zdolność posługiwania się bronią, podobnie jak możliwość korzystania z niektórych narzędzi i niezbyt skomplikowanych urządzeń, wydaje się niezmieniona.\n \n \nProsiłbym o nie posługiwanie się takimi terminami jak "zabójstwo", czy "destrukcja", w kontekście dezaktywacji poszczególnych osobników. Wynika to z aspektu psychologicznego, według którego termin "dezaktywacja" jest nacechowany bardziej neutralnie, niż "destrukcja" (i jego pochodne), a także może służyć zdystansowaniu członków zespołów naukowych od pozornie ludzkiej postaci, którą zachowują badane istoty i stłumieniu wyrzutów sumienia po "dezaktywacji" osobników.\n \nDezaktywacja wymaga oddzielenia połączenia z układem motorycznym. Najłatwiej osiągnąć je poprzez fizyczne uszkodzenie mózgu lub okolic kręgosłupa spowodowane urazem balistycznym.\n \nKażdy członek zespołu badawczego powinien pamiętać, że kończyny istot pozostają aktywne nawet po dezaktywacji, dlatego wciąż zaleca się zachowanie szczególnych środków ostrożności. Najbardziej skuteczną metodą trwałego unieruchomienia poszczególnych osobników jest fizyczne usunięcie kręgów szyjnych lub pnia mózgu za pomocą narzędzi chirurgicznych, lub - jeśli nie są one w tej chwili dostępne - dowolnego ostrego przedmiotu.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_ecologist_report_3_of_3">
+		<text>Raport polowy 39B rew. 2 (część 3)</text>
+	</string>
+	<string id="encyclopedia__notes_letter_ecologist_report_3_of_3_text">
+		<text>
+			Maszynopis ostemplowany pieczątką grupy badawczej Ekologów. Sklasyfikowany jako ściśle poufny. Na dokumencie widnieje podpis: %c[pda_white]Arkadij Ćwietkowskij%c[ui_gray_1].\n	\nMłodszy Naukowiec Laboratorium i Bunkra Badawczego RX12
+			\nRaport polowy 39b rew. 2 dot. Odkrycia Żyjących Umarłych
+			\n• Data: %c[pda_white]29.03.2014%c[ui_gray_1]
+			\n• Plik nr: %c[pda_white]34%c[ui_gray_1]
+			\n• Strona: %c[pda_white]3%c[ui_gray_1] z %c[pda_white]3%c[ui_gray_1]
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_ecologist_report_3_of_3_text2">
+		<text>
+			\nW pewnych, acz należy zaznaczyć, że niezwykle rzadkich przypadkach, poszczególne "zombie" wykazują bardziej złożone zachowania.\n \nNiektóre osobniki opuszczają broń, lub w ogóle rezygnują z udziału w walce. Ze względu na swoją wartość naukową, silnie odradza się dezaktywację istot przejawiających takie zachowania.\n \nNajwyższym priorytetem w takich przypadkach powinna być izolacja wykazujących bardziej złożone reakcje osobników do celów analizy laboratoryjnej. Neuropsycholodzy są bardzo zainteresowani wynikami badań, ze względu na potencjalne możliwości przeszczepów pnia mózgu. Teoretycznie badania pod tym kątem mogłyby pomóc pacjentom w późnych stadiach choroby Alzheimer'a i innych, cechujących się podłożem neurologicznym.\n \nJeśli istnieje taka możliwość, należy unikać uszkodzenia nerek i serc w czasie dezaktywacji - organy te mają ogromny potencjał transplantacyjny, zakładając, że tego typu przeszczepy staną się w ogóle wykonalne. Możliwe jest także pobieranie organów od unieruchomionych "zombie", jednak w takich wypadkach należy zwracać szczególną uwagę na nielegalnych mieszkańców, tak zwanych stalkerów, którzy mogą być z konkretnymi osobnikami związani emocjonalnie.\n \nJeśli spotkania ze stalkerem w trakcie pobierania próbek jest nieuniknione, istnieją dwa sposoby na rozwiązanie sytuacji bez uciekania się do przemocy, lub co najmniej minimalizujące z ich strony szansę ataku.\n
+			\nSposób 1.\n \nW przypadku natknięcia się na stalkera niedoświadczonego, prośba o spojrzenie dezaktywowanemu osobnikowi w oczy zwykle wystarcza do przekonania go. Nawet jeśli unieruchomiony osobnik dalej "żyje", jego gałki oczne pozostają całkowicie niewrażliwe na bodźce, sprawiając wrażenie nie tyle martwych, ile nieludzkich.\n
+			\nSposób 2.\n \nBardziej doświadczonym stalkerom zazwyczaj łatwiej przemówić do rozsądku, ze względu na ich umiejętność tłumienia emocji i radzenia sobie z pełnym ich spektrum. Jednakże, we wszelkich kontaktach z członkami tutejszej społeczności zaleca się korzystanie z posiadanej wiedzy psychologicznej, gdyż w niektórych przypadkach rozumna komunikacja jest wykluczona.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_monolith_prayer_1_of_3">
+		<text>Modlitwa Monolitu #1</text>
+	</string>
+	<string id="encyclopedia__notes_letter_monolith_prayer_1_of_3_text">
+		<text>
+			Dokument bez konkretnego tytułu, zawierający kilka zdań zapisanych jedno pod drugim. Częste odniesienia do Monolitu sugerują religijny charakter tekstu. Papier jest w bardzo dobrym stanie, co świadczy o tym, że traktowano go z należną czcią i darzono szacunkiem tak, by nie uległ żadnym uszkodzeniom. Tekst modlitwy brzmi tak:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_monolith_prayer_1_of_3_text2">
+		<text>
+		\n \nO, Monolicie!
+		\nModlimy się do Ciebie!
+		\nO, Monolicie!
+		\nNasze Światło pośród mroku
+		\nO, Monolicie!
+		\nZ nadzieją w sercach idziemy!
+		\nIdziemy naprzód, przeciw niewiernym!
+		\n \nO, Monolicie!
+		\nPrzebacz nam grzechy!
+		\nO, Monolicie!
+		\nWskaż Przeznaczenie!
+		\nO, Monolicie!
+		\nDaj Siłę by spełnić Cel!
+		\nO, Monolicie!
+		\nDaj Nadzieję na śmierć wrogów Twych!
+		\nO, Monolicie!
+		\nPodziel się swym Światłem!
+		\n \nO, Monolicie!
+		\nJesteśmy dziećmi Twymi!
+		\nO, Monolicie!
+		\nJedyna nadziejo na odkupienie!
+		\nO, Monolicie!
+		\nImię Twoje w naszych sercach!
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_monolith_prayer_2_of_3">
+		<text>Modlitwa Monolitu #2</text>
+	</string>
+	<string id="encyclopedia__notes_letter_monolith_prayer_2_of_3_text">
+		<text>
+			Dokument bez konkretnego tytułu, zawierający kilka zdań zapisanych jedno pod drugim. Częste odniesienia do Monolitu sugerują religijny charakter tekstu. Papier jest w bardzo dobrym stanie, co świadczy o tym, że traktowano go z należną czcią i darzono szacunkiem tak, by nie uległ żadnym uszkodzeniom. Tekst modlitwy brzmi tak:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_monolith_prayer_2_of_3_text2">
+		<text>
+			\n \nWojownicy Monolitu, wytrwamy!
+			\nO, Monolicie, Światło nasze!
+			\nWeź nasze dusze, nasze umysły
+			\nI oczyść je!
+			\nZniszcz zwątpienia i wahania!
+			\nO, Monolicie, Nadziejo nasza!
+			\nMy żołnierze Twoi
+			\nMy życie Tobie powierzamy
+			\nMy dusze Tobie powierzamy
+			\nI z Tobą pragniemy być jednością!
+			\nO, Monolicie, usuniemy wszystkie przeszkody z Twojej drogi!
+			\nWeź nasze ciała!
+			\nI naszą krew!
+			\nI nasze dusze!
+			\nI połącz je w jedno!
+			\nW nas zawsze trwasz, o, Monolicie.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_monolith_prayer_3_of_3">
+		<text>Modlitwa Monolitu #3</text>
+	</string>
+	<string id="encyclopedia__notes_letter_monolith_prayer_3_of_3_text">
+		<text>
+			Dokument bez konkretnego tytułu, zawierający kilka zdań zapisanych jedno pod drugim. Częste odniesienia do Monolitu sugerują religijny charakter tekstu. Papier jest w bardzo dobrym stanie, co świadczy o tym, że traktowano go z należną czcią i darzono szacunkiem tak, by nie uległ żadnym uszkodzeniom. Tekst modlitwy brzmi tak:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_monolith_prayer_3_of_3_text2">
+		<text>
+			\n \nO, Monolicie!
+			\nJesteś naszym przeznaczeniem.
+			\nA my braćmi swymi.
+			\nWszyscyśmy braćmi Światła Monolitu.
+			\nUmrzemy za Ciebie.
+			\nUmrzemy w Imię Twoje
+			\nUmrzemy za Światło Twoje
+			\nŚmierć jest tylko początkiem
+			\nIdziemy z Imieniem Twym na ustach naszych, o, Monolicie!
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_monolithian_thoughts">
+		<text>Dziennik Monolitowca</text>
+	</string>
+	<string id="encyclopedia__notes_letter_monolithian_thoughts_text">
+		<text>
+			Ręcznie zapisana kartka papieru. Na początku tekst bardzo chaotyczny, nieczytelny i nieskładny, jakby autor cierpiał w wyniku poważnych zaburzeń psychicznych. Co ciekawe, kolejne zdania stają się coraz bardziej zrozumiałe, litery coraz równiejsze, a ostatnie słowa zapisane są ze starannością godną maszynopisu. Treść jest następująca:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_monolithian_thoughts_text2">
+		<text>
+			\n \nOdkąd pamiętam, wokół mnie była. Ciemność. I nie widziałem niczego. Kompletna pustka... przez godziny. Dni. I nagle... zobaczyłem. Światło! Tak jasne, tak... przyjemne. Chciałem go. Dotknąć. Chciałem. Poczuć. Wiedziałem, że chce... Mi pomóc. Chce mnie ocalić. Wiedziałem...\n \nDotknąłem Go. Zapomniałem. O wszystkim. Nie było życia za mną. Za mną była ciemność. Tylko. Światło było przede mną.\n \nJego imię brzmi Monolit. Zachował mnie, jestem mu dozgonnie wdzięczny.\n \nCzasem widzę twarze. Twarze z przeszłości. Kobieta. Dziecko. Rodzina? Jestem ubrany... w biel. Cały. Może byłem naukowcem? To dziwne słowo... Radar... NIE! To jest ta ciemność! Chce mojej śmierci! NIE POZWOLĘ SIĘ ZABIĆ!\n \nNie ma odwrotu! Światło jest tylko przede mną! W stronę Światła! W stronę Monolitu!
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_letter_to_outside">
+		<text>List do Nataszy</text>
+	</string>
+	<string id="encyclopedia__notes_letter_letter_to_outside_text">
+		<text>
+			Zwykły list, pewnie napisany przez jednego ze stalkerów do kogoś za Kordonem, może do żony, albo dziewczyny. Fakt, że trzymasz go w ręku świadczy o tym, że nigdy nie dotarł do odbiorcy.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_letter_to_outside_text2">
+		<text>
+			\n \nCześć, Nataszka!\n
+			\nJak ci tam leci? Jak dzieciaki?\n \nPowiedz Sańce, że jak nie będzie cię słuchał, złoję go, jak tylko wrócę do domu.\n \nCo u mnie... Cóż, nie sądzę, że zrozumiesz. Zona... To miejsce jest... jest wyjątkowe. Tylko tutaj czuję taką prawdziwą więź z innymi ludźmi. Tutaj widać, kto jaki jest naprawdę.\n \nNikt nie próbuje nosić maski. Nie udaje. Tylko szczerość, czasem do bólu. Tak, jak mówiłem, wszystko ci opowiem, jak się spotkamy.\n \nZarobiłem kupę szmalu! W końcu mnie stać na ten naszyjnik, który tak Ci się podobał.\n \nDziękuję za twoje listy. Nawet nie wiesz, ile dla mnie znaczą. Kiedy o Tobie myślę, wszystko wydaje się jakieś takie... lepsze. Niedługo się spotkamy. Pozdrów ode mnie dzieciaki!\n 
+			\n \nKocham Cię!\n
+			\n- Michaił. Twój dzielny Stalker.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_military_stalker">
+		<text>Notatka wojenstalkera</text>
+	</string>
+	<string id="encyclopedia__notes_letter_military_stalker_text">
+		<text>
+			Notatka znaleziona w schowku. Trudno określić, po co została napisana. Najprawdopodobniej ktoś w ten sposób zabijał czas w ciągu długiej, nudnej nocy i uznał, że lepiej będzie zostawić swoje dzieło dla potomnych, niż wrzucić je do ogniska. Treść jest następująca:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_military_stalker_text2">
+		<text>
+			\n \nOoo tak! Jestem Wojskowym Stalkerem!\n \nTo niewiarygodne. Najlepsze wyposażenie. Najlepsze zadania. Najlepsza broń. Najlepsze wszystko! W końcu jest pokój między nami a stalkerami. Już nie musimy strzelać do siebie przy każdym kontakcie. I to jest sztos, naprawdę. Wszyscy jesteśmy tutejsi, powinniśmy trzymać się razem, jak prawdziwi bracia Słowianie. Co z rabusiami? Jebać ich, ot co! Im to akurat nie żal żadnej kulki między oczy.\n \nW tym oddziale jestem świeżakiem, ale już czuję, że stałem się prawdziwym mężczyzną. Ważnym i poważnym. To jest sztos uczucie.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_mercenary">
+		<text>Notatka najemnika</text>
+	</string>
+	<string id="encyclopedia__notes_letter_mercenary_text">
+		<text>
+			Krótka notatka napisana przez jednego z Najemników. Wygląda na to, że zdecydował opisać swoje przemyślenia na temat Zony i tego, co w niej robi. Pełne przeznaczenie raczej nie do ustalenia.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_mercenary_text2">
+		<text>
+			\n \nWięc... z tego co widzę, nie ma tu nic nadzwyczajnego.\n \nWciąż jesteśmy prywatną armią. Żołnierze fortuny - tak się kiedyś mówiło. Przynajmniej możemy wybierać, co robimy, a czego nie. Czasem wprost odmawiamy jakichś zleceń, bo są zbyt "brudne". Jeśli klient chce, żeby odstrzelić paru porządnych kolesi, po których z daleka widać, że robią, co mogą, żeby się uczciwie utrzymać, bo ma taki kaprys - jebać takiego. Do Zony w takich sprawach zawsze mogą wybrać się osobiście.\n \nCo do rabusiów, dezerterów i innych obszczymurów - zawsze do usług. O każdej porze dnia i w każdym miejscu. Wiadomo, kiedy MUSIMY zadbać o swoje interesy, temat jest bardziej złożony. Ale zabijać niewinnych ludzi, tylko dlatego, że ktoś wskazał ich palcem? O nie, nie, nie. W takich sprawach to do tych hamerykańskich laleczek. Im wszystko jedno, do kogo strzelają.\n \nMy jesteśmy inni. Weźcie to pod uwagę następnym razem, kiedy dacie nam kasę.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_military_log">
+		<text>Dziennik komunikacji WZRN</text>
+	</string>
+	<string id="encyclopedia__notes_letter_military_log_text">
+		<text>
+			\nPełna nazwa dokumentu: %c[pda_white]Dziennik komunikacji / operacja WZBN / 05.04.2014 18:36:21%c[ui_gray_1]\n Wydruk transkrypcji transmisji radiowej między jednostkami wojskowymi stacjonującymi w Zonie. Fakt, że posiadał go przy sobie członek oddziału SKAT dowodzi, że był on zaangażowany w przebieg tajnej operacji, najprawdopodobniej polegającej na uzyskaniu dostępu do danych nadzorczych. Transkrypcja rozmowy:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_military_log_text2">
+		<text>
+			\n \n- Sztab główny, tu WZBN 1-03. Zdobyliśmy fotografię INB. 240 fotografii anomalii na bagnach, w przybliżeniu 1400 fotografii głównej bazy. Kiedy powrót?
+			\n- WZBN 1-03, tu Sztab. W tej chwili brak możliwości powrotu. WZBN 4-07 zgłasza problemy w obszarze Magazynów Wojskowych, ponownie wzywa wsparcie. Tym razem ich sygnał SOS jest silny, jesteśmy przekonani, że wciąż żyją.
+			\n- Przyjąłem. Śmigłowiec?
+			\n- Odmawiam. Zbyt wysoka aktywność anomalna w okolicy INB Agroprom. Za duże ryzyko. Udaj się na Jantar, WZBN 1-03. Jeden z Mi-24 was podejmie.
+			\n- Przyjąłem, WZBN 1-03. Informacje o kolejnej emisji?
+			\n- Potwierdzam. Sacharow przekazuje, że kolejna powinna wydarzyć się za dwa dni. Pospieszcie się, WZBN 1-03, te informacje nigdy się nie sprawdzają.
+			\n- Przyjąłem. Ruszamy. Powiadomcie załogę, wyznaczamy przybliżony czas spotkania za 7 godzin od teraz. WZBN 1-03, bez odbioru.
+			\n- Czekaj, 1-03. Co z podziemiami N-2? Znaleźliście tam cokolwiek?
+			\n- Potwierdzam. Znaleźliśmy anomalię nowego typu. Wygląda jak pewnego rodzaju teleport. Jajogłowi powinni być nią zainteresowani - usmażyliśmy detektory próbując zmierzyć pole psioniczne wokół. Nie znam przyczyny, być może chodzi o fale elektromagnetyczne.
+			\n- Przyjąłem, WZBN 1-03. Powodzenia w drodze na Jantar. Kolejny kontakt za 7 godzin. Sztab, bez odbioru.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_stalker_letter_3">
+		<text>List do Mikołaja</text>
+	</string>
+	<string id="encyclopedia__notes_letter_stalker_letter_3_text">
+		<text>
+			Napisany odręcznie list zaadresowany do jakiegoś Mikołaja. Prawdopodobnie fragment korespondencji między dwoma stalkerami. Mimo, że wymiana informacji odbywa się głównie za pomocą PDA, niektórzy wciąż preferują bardziej tradycyjne sposoby, zwłaszcza w sprawach prywatnych i do kontaktu z przyjaciółmi. Te listy przekazywane są kurierom, którym  - podobnie, jak przewodnikom - powierza się najtrudniejsze i najbardziej niebezpieczne zadania.\n \nCzęsto dostarczenie adresatowi przesyłki zajmuje kilka dni, ale szansa na przejęcie wiadomości jest znacznie niższa, niż w przypadku komunikowania się przez PDA. Zawód kuriera jest szanowany przez stalkerów, a ludzie zajmujący się dostarczaniem przesyłek mają duży wpływ na społeczność stalkerów. Treść listu jest następująca:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_stalker_letter_3_text2">
+		<text>
+			\n \nMikołaju,\n
+			\nWłaśnie wróciłem z wyprawy do centrum Zony. To było prawdziwe piekło.\n \nMonolit i armia wciąż tłuką się między sobą bez żadnego powodu. W pewnym momencie wydawało mi się, że w końcu doszło do zawieszenia broni, ale było to tylko chwilowe. Może uznali, że pora się przegrupować.\n \nPrzez ciągłą destrukcję nie miałem wyboru, jak zwiewać z tamtego miejsca. Raz nawet mnie prawie dopadli, ci pieprzeni psychole.\n \nNie winię ich, to był mój błąd. Po prostu nie zwróciłem na nich uwagi. Tak czy inaczej, mimo trudności, udało mi się dotrzeć do Prypeci. Planuję tu trochę zostać, póki sytuacja się nie uspokoi.\n \nWracając do tego, o czym rozmawialiśmy ostatnio, wydaje mi się, że musimy odłożyć naszą misję na później, aż będzie tu trochę ciszej. Odkąd tu jestem, nie udało mi się zmrużyć oka, ale chcę cię zapewnić, że wszystko ze mną w porządku, przynajmniej fizycznie.\n
+			\nW kontakcie i dobrej Ci Zony.\n
+			\nRua.
+		</text>
+	</string>
+
+	
+	<string id="encyclopedia__notes_recipe_basic_1_text">
+		<text>
+			Ten poradnik zawiera podstawowe zagadnienia dotyczące przetrwania. Posiada też opis najpopularniejszych zestawów surwiwalowych. Ostatnie rozdziały informują, jak z dostępnych materiałów stworzyć podstawowe wyposażenie.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_basic_2_text">
+		<text>
+			Ten poradnik zawiera podstawowe zagadnienia dotyczące przetrwania. Posiada też opis najpopularniejszych zestawów surwiwalowych. Ostatnie rozdziały informują, jak z dostępnych materiałów stworzyć podstawowe wyposażenie.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_basic_3_text">
+		<text>
+			Ten poradnik zawiera podstawowe zagadnienia dotyczące przetrwania. Posiada też opis najpopularniejszych zestawów surwiwalowych. Ostatnie rozdziały informują, jak z dostępnych materiałów stworzyć podstawowe wyposażenie.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_basic_4_text">
+		<text>
+			Ten poradnik zawiera podstawowe zagadnienia dotyczące przetrwania. Posiada też opis najpopularniejszych zestawów surwiwalowych. Ostatnie rozdziały informują, jak z dostępnych materiałów stworzyć podstawowe wyposażenie.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_recipe_advanced_1_text">
+		<text>
+			Podręcznik zawierający specyfikacje techniczne. Niektórzy czytają tego typu opracowania by pogłębić swoją wiedzę i dowiedzieć się więcej na temat działania kompleksów i fabryk w Zonie. Zawiera szczegółowe informacje o mechanice i elektronice.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_advanced_2_text">
+		<text>
+			Podręcznik zawierający specyfikacje techniczne. Niektórzy czytają tego typu opracowania by pogłębić swoją wiedzę i dowiedzieć się więcej na temat działania kompleksów i fabryk w Zonie. Zawiera szczegółowe informacje o mechanice i elektronice.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_advanced_3_text">
+		<text>
+			Podręcznik zawierający specyfikacje techniczne. Niektórzy czytają tego typu opracowania by pogłębić swoją wiedzę i dowiedzieć się więcej na temat działania kompleksów i fabryk w Zonie. Zawiera szczegółowe informacje o mechanice i elektronice.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_advanced_4_text">
+		<text>
+			Podręcznik zawierający specyfikacje techniczne. Niektórzy czytają tego typu opracowania by pogłębić swoją wiedzę i dowiedzieć się więcej na temat działania kompleksów i fabryk w Zonie. Zawiera szczegółowe informacje o mechanice i elektronice.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_recipe_expert_1_text">
+		<text>
+			Książka do nauki inżynierii przemysłowej, zawiera szczegółowe instrukcje dotyczące tworzenia i posługiwania się zaawansowaną elektroniką. Pojawiają się tu pojęcia takie, jak: wzmacniacz operacyjny, dioda półprzewodnikowa, tranzystor bipolarny, tranzystor polowy.\n \nDruga część książki zawiera poradnik rozwiązywania problemów dotyczących urządzeń elektronicznych. Można się z niej wiele dowiedzieć.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_expert_2_text">
+		<text>
+			Książka do nauki inżynierii przemysłowej, zawiera szczegółowe instrukcje dotyczące tworzenia i posługiwania się zaawansowaną elektroniką. Pojawiają się tu pojęcia takie, jak: wzmacniacz operacyjny, dioda półprzewodnikowa, tranzystor bipolarny, tranzystor polowy.\n \nDruga część książki zawiera poradnik rozwiązywania problemów dotyczących urządzeń elektronicznych. Można się z niej wiele dowiedzieć.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_expert_3_text">
+		<text>
+			Książka do nauki inżynierii przemysłowej, zawiera szczegółowe instrukcje dotyczące tworzenia i posługiwania się zaawansowaną elektroniką. Pojawiają się tu pojęcia takie, jak: wzmacniacz operacyjny, dioda półprzewodnikowa, tranzystor bipolarny, tranzystor polowy.\n \nDruga część książki zawiera poradnik rozwiązywania problemów dotyczących urządzeń elektronicznych. Można się z niej wiele dowiedzieć.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_expert_4_text">
+		<text>
+			Książka do nauki inżynierii przemysłowej, zawiera szczegółowe instrukcje dotyczące tworzenia i posługiwania się zaawansowaną elektroniką. Pojawiają się tu pojęcia takie, jak: wzmacniacz operacyjny, dioda półprzewodnikowa, tranzystor bipolarny, tranzystor polowy.\n \nDruga część książki zawiera poradnik rozwiązywania problemów dotyczących urządzeń elektronicznych. Można się z niej wiele dowiedzieć.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_recipe_drug_1_text">
+		<text>
+			Kilka stron wyrwanych z notesu. Zapisane niebieskim atramentem, rozmazanym na skutek wpływu środowiska. Tekst jest ledwie czytelny. Zawiera sposób przygotowania różnych rodzajów używek i lekarstw, korzystając z ogólnodostępnych wyrobów medycznych.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_drug_2_text">
+		<text>
+			Kilka stron wyrwanych z notesu. Zapisane niebieskim atramentem, rozmazanym na skutek wpływu środowiska. Tekst jest ledwie czytelny. Zawiera sposób przygotowania różnych rodzajów używek i lekarstw, korzystając z ogólnodostępnych wyrobów medycznych.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_drug_3_text">
+		<text>
+			Kilka stron wyrwanych z notesu. Zapisane niebieskim atramentem, rozmazanym na skutek wpływu środowiska. Tekst jest ledwie czytelny. Zawiera sposób przygotowania różnych rodzajów używek i lekarstw, korzystając z ogólnodostępnych wyrobów medycznych.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_drug_4_text">
+		<text>
+			Kilka stron wyrwanych z notesu. Zapisane niebieskim atramentem, rozmazanym na skutek wpływu środowiska. Tekst jest ledwie czytelny. Zawiera sposób przygotowania różnych rodzajów używek i lekarstw, korzystając z ogólnodostępnych wyrobów medycznych.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_recipe_ammo_1_text">
+		<text>
+			Każdy stalker powinien wiedzieć, jak dopasować pod siebie broń, ale także, jak dobrać do niej właściwą amunicję. Te instrukcje zawierają precyzyjne informacje na temat różnych rodzajów amunicji, dodatkowo opisując podstawowe elementy pocisków różnego kalibru.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_ammo_2_text">
+		<text>
+			Każdy stalker powinien wiedzieć, jak dopasować pod siebie broń, ale także, jak dobrać do niej właściwą amunicję. Te instrukcje zawierają precyzyjne informacje na temat różnych rodzajów amunicji, dodatkowo opisując podstawowe elementy pocisków różnego kalibru.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_ammo_3_text">
+		<text>
+			Każdy stalker powinien wiedzieć, jak dopasować pod siebie broń, ale także, jak dobrać do niej właściwą amunicję. Te instrukcje zawierają precyzyjne informacje na temat różnych rodzajów amunicji, dodatkowo opisując podstawowe elementy pocisków różnego kalibru.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_ammo_4_text">
+		<text>
+			Każdy stalker powinien wiedzieć, jak dopasować pod siebie broń, ale także, jak dobrać do niej właściwą amunicję. Te instrukcje zawierają precyzyjne informacje na temat różnych rodzajów amunicji, dodatkowo opisując podstawowe elementy pocisków różnego kalibru.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_note_from_spirit">
+		<text>Notka od Spiryta</text>
+	</string>
+	<string id="encyclopedia__notes_note_from_spirit_text">
+		<text>
+			Spiryt ma dziwny nawyk - wiecznie proponuje wojskowe zaopatrzenie w zamian za wódkę.\n \nZobaczmy:\n
+			\n• 4 magazynki 9x18 mm za 5 butelek wódki 
+			\n• 2 magazynki 5.45 mm za 5 butelek wódki 
+			\n• 4 magazynki 5.45 mm za 10 butelek wódki 
+			\n• 3 paczki śrutu 12x70 za 10 butelek wódki 
+			\n• 1 magazynek 7.62mm 7N1 za 10 butelek wódki 
+			\n• 3 magazynki 7.62x54 mm PP za 15 butelek wódki i 7.000 RU
+			\n• Pancerz Beryl-5M za 20 butelek wódki 
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_note_from_aslan">
+		<text>Notka od Aslana</text>
+	</string>
+	<string id="encyclopedia__notes_note_from_aslan_text">
+		<text>
+			Aslan ma dość niejasne hobby. Zbiera naszywki frakcyjne. Twierdzi, że to optymalna metoda zdobywania łupów wojennych dla chłopaków.\n \nTreść notki jest następująca:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_note_from_aslan_text2">
+		<text>
+			\n \nPrzyniesiesz mi naszywki po innych stalkerach  - może dostaniesz trochę szpeju.\n \nZa 25 naszywek dowolnej frakcji  - nie licząc Ekologów i Monolitu - masz szansę na podrzędny artefakt. Za 50 - artefakt będzie silniejszy, do tego dorzucam jakiś solidny sprzęt. To samo możesz dostać za 25 naszywek Monolitu albo Ekologów. Pamiętaj, że to loteria, możesz coś zyskać, a może być i tak, że gówno dostaniesz. Dopiero za 50 naszywek Monolitu lub Ekologów gwarantuję ci naprawdę kozacki przedmiot i wyposażenie tylko dla najlepszych.\n \nCzemu nagrody są tak wypasione? Bo wielu woli trzymać naszywki jako trofea wojenne.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_note_from_trunk">
+		<text>Notka od Trunka</text>
+	</string>
+	<string id="encyclopedia__notes_note_from_trunk_text">
+		<text>
+			Trunk mówi, że może wymieniać się ze mną amunicją. Prawdopodobnie handlują nadwyżkami w zamian za to, czego naprawdę potrzebuję.
+			\nOto, czym jest zainteresowany:\n
+			\n• wymieni 100 sztuk 9x18 mm +P+ na 100 sztuk 9x19 mm FMJ.
+			\n• wymieni 100 sztuk 5.45x39 mm na 100 sztuk 5.56x45 mm.
+			\n• wymieni 20 granatów M203 na 10 granatów F1.
+			\n• wymieni 3 głowice do RPG na 10 granatów RGD-5.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_note_from_meeker">
+		<text>Notka od Cichego</text>
+	</string>
+	<string id="encyclopedia__notes_note_from_meeker_text">
+		<text>
+			Nie bacząc na nieciekawą sytuację, w jakiej znalazł się oddział Gryfa, Cichy ma dostęp do specjalnego wyposażenia. Żeby dostać to, czego potrzebuję, muszę mu złożyć zamówienie.\n \nMogę składać tylko po jednym zamówieniu. Nie uznaje opłat z góry. Wysyła wiadomość, kiedy zamówienie będzie gotowe. Oto lista towaru:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_note_from_meeker_text2">
+		<text>
+			\n• Orzeł Stepowy - ręcznie wykonany pistolet oparty o Desert Eagle. Doprecyzowane elementy zapewniają niezwykłą celność. Cena: 8.000 RU.
+			\n• Alpine - zmodyfikowany SIG P220 z powiększonym magazynkiem. Cena: 6.500 RU.
+			\n• Marsz - zmodyfikowany USP Compact. Większy kaliber, większa szybkostrzelność. Cena: 7.000 RU.
+			\n• Frasier - wykonany na zamówienie w oparciu o MP5. Zwiększony kaliber, poprawione charakterystyki, wzmocnione elementy. Cena: 9.500 RU.
+			\n• Karabiner - zmodyfikowany na potrzeby armii SPAS-12. Mniejszy odrzut, automatyczny tryb ognia. Cena: 11.000 RU.
+			\n• Armsel Protecta - strzelba wykonana w oparciu o Strikera. Cena: 17.000 RU.
+			\n• Burza - zmodyfikowana OC-14 Groza, wyprodukowana dla jednostek specjalnych Specnazu, w tajemniczy sposób wydostała się z wojska. Jedną ze zmian wartych odnotowania jest zwiększona pojemność magazynka. Cena: 19.000 RU.
+			\n• H&amp;K G36 - rzadki widok w Zonie. Cena: 14.000 RU.
+			\n• FN F2000. Belgijski rarytas i przyzwoity karabin szturmowy. Cena: 17.000 RU.
+			\n• Przypływ - ekskluzywna modyfikacja WSS Wintoreza. Mniejsza szybkostrzelność w zamian za większą moc obalającą. Cena: 20.000 RU.
+			\n• SWU2-A - ewolucja karabinu snajperskiego SWUmk-2. Dawniej broń należała do Maksa, legendarnego strażnika Wolności. Cena: 24.000 RU.
+			\n• Ryś - wojskowa modyfikacja SWD zwiększająca celność i moc obalającą. Cena: 18.000 RU.
+			\n• Karabin Gaussa - Broń-trofeum. Na palcach jednej ręki można policzyć, ile sprawnych sztuk tej broni znajduje się w Zonie. Absolutna celność i obrażenia, niemal bez odrzutu. Cena: 150.000 RU.
+			\n• Egzoszkielet Monolitu - najlepsza kombinacja statystyk ochronnych. W dodatku, nie zdobędziesz go w inny sposób, chyba że staniesz się przedstawicielem ich bractwa. Cena: 100.000 RU.
+			\n• Egzoszkielet najemników - być może jeden z najbardziej niezawodnych w kwestii ochrony. Cena: 75.000 RU.
+			\n• Egzoszkielet bandytów - ekskluzywność w najczystszej postaci. Cena: 65.000 RU.
+			\n• Kombinezon Monolitu z zamkniętym obiegiem powietrza - podobnie jak ich egzoszkieletu, raczej nie znajdziesz go nigdzie indziej. Cena: 70.000 RU.
+			\n• Kombinezon najemników z zamkniętym obiegiem powietrza - doskonała ochrona przed anomaliami i prawdziwa gratka dla przeciętnego stalkera. Cena: 50.000 RU.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_note_from_grifon">
+		<text>Notka od Gryfa</text>
+	</string>
+	<string id="encyclopedia__notes_note_from_grifon_text">
+		<text>
+			Gryf i jego oddział utknęli na przedmieściach Prypeci. Nie mogą wrócić z pustymi rękami. Jedno z ukrytych laboratoriów (X-8) znajduje się w północnej części dzielnicy. Najemnicy sądzą, że uda im się znaleźć tam ważne dokumenty.\n \nOferuje nagrodę, jeśli dostarczę mu cokolwiek, co uda mi się tam znaleźć. Jego słowa:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_note_from_grifon_text2">
+		<text>
+			Właściwie przybyliśmy tu, żeby odzyskać informacje z laboratorium X-8, zlokalizowanego w okolicy Jubilejnego, na północ stąd. W środku znaleźliśmy windę na piętro  -1, ale zanim zjechaliśmy na dół, wlecieli w nas jebani Monoliciarze. To przez nich teraz jesteśmy po uszy w gównie.\n \nDuszman pewnie i tak nas zabije, ale musimy mu przynieść cokolwiek użytecznego. Zostało nas niewielu i raczej nie dostaniemy wsparcia, żeby wydostać się z pierdolonego centrum jebanej Zony. Może mógłbyś spróbować zjechać do labu? A nuż zostało tam coś ciekawego... Możesz zarobić sporo kasy, wiesz?
+		</text>
+	</string>
+	
+</string_table>

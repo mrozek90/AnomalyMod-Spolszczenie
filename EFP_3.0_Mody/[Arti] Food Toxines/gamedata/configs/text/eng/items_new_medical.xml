@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+    <string id="st_carbon">
+		<text>Activated charcoal tablets</text>
+	</string>
+	<string id="st_carbon_descr">
+		<text>Consumable activated charcoal tablets produced from coconut husks that are used to treat ingested poisons and toxins. The tablet works by mechanically trapping potential toxic chemicals or poisons in micropores, preventing poisons from being procesed by the body but also trapping any undigested vitamins, drugs, or alcohol. Very commonly used by stalkers to counteract the toxins that are common in mutant flesh and old food.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] antitoxin\n
+		%c[d_blue] • %c[ui_gray_2] mild alcohol sobering effect\n
+		</text>
+	</string>
+
+	<string id="st_emetic">
+		<text>Emetine vial</text>
+	</string>
+	<string id="st_emetic_descr">
+		<text>Vial of emetine, a drug derived from the ipecac root. Emetine is often used to treat amoeba dysentery and to induce vomiting in poisoning situations. Being a mild poison itself, it is unsafe to take this drug in unapproved doses. This is considered by many stalkers as a last resort if they ate something foul or dangerous and need it ejected out of their system, like a really bad meal. To use, go to a far-away corner, take the dropper out and put three drops in the back of your throat.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] antitoxin\n
+		%c[d_blue] • %c[ui_gray_2] induces vomiting\n
+		%c[d_blue] • %c[ui_gray_2] potent alcohol sobering effect\n
+		</text>
+	</string>
+
+	<string id="st_decoction_dog">
+		<text>Blind Dog Distillate</text>
+	</string>
+	<string id="st_decoction_dog_descr">
+		<text>Foul-smelling purple liquid made from the hearts and livers of blind dogs. Affectionately known by stalkers as 'Hair of the Dog', this is a favorite folk remedy for fatigue and tiredness. It also confers some of the Blind Dog's natural resistance to toxicity, however the drink is mildly toxic itself. The taste isn't too terrible, either - if you imagine you're drinking a glass of kvass it almost tastes the same.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] zone-produced medicine\n
+		%c[d_blue] • %c[ui_gray_2] mildly toxic\n
+		</text>
+	</string>
+
+	<string id="st_decoction_boar">
+		<text>Tincture of Boar's Hoof</text>
+	</string>
+	<string id="st_decoction_boar_descr">
+		<text>Coarse, opaque brown liquid made from pulverized boar hoof. Tastes fondly of playground dirt. A popular folk remedy for radiation sickness, if you decide that diarrhea and fatigue is better than dying of radiation poisoning.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] zone-produced medicine\n
+		%c[d_blue] • %c[ui_gray_2] mildly toxic\n
+		</text>
+	</string>
+
+	<string id="st_decoction_flesh">
+		<text>Flesh serum extract</text>
+	</string>
+	<string id="st_decoction_flesh_descr">
+		<text>Rank purple liquid that burns the nose hairs on smelling. This disgusting concoction is made from the raw meat and eyes of mutated pigs. Accelerates the body's healing mechanisms by unknown means, and thus the best thing for a wounded stalker recovering from his injuries. However, the taste makes you wish for a bullet.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] zone-produced medicine\n
+		%c[d_blue] • %c[ui_gray_2] moderately toxic\n
+		</text>
+	</string>
+
+	<string id="st_decoction_krovoso">
+		<text>Bloodsucker Brew</text>
+	</string>
+	<string id="st_decoction_krovoso_descr">
+		<text>Opaque, oily red fluid resembling blood plasma made from the heart and tentacles of the fearsome bloodsucker. Causes the body to rapidly produce red blood cells and platelets and hastens natural wound regeneration, making it extremely potent at dealing with bleeding and open wounds. In demand amongst Duty members to seal up wounds incurred when clearing mutant nests. The taste is not too bad either, but the texture of the medicine makes it hard to swallow. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] zone-produced medicine\n
+		%c[d_blue] • %c[ui_gray_2] moderately toxic\n
+		</text>
+	</string>
+
+	<string id="st_decoction_cat">
+		<text>'Tiger's Eye' Tonic</text>
+	</string>
+	<string id="st_decoction_cat_descr">
+		<text>Fizzy, clear liquid with the aroma of ammonia made from fermented Lurker eye and Cat Thyroid gland. A potent alternative to the more popular 'Hair of the Dog', this drink is used by experienced hunters to chase their prey for long distances and stay mentally alert even after days in the field. However, catching cats is more difficult than dogs, and oftentimes Lurkers will make meals out of hapless stalkers, so this is a relatively uncommon concoction.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] zone-produced medicine\n
+		%c[d_blue] • %c[ui_gray_2] moderately toxic\n
+		</text>
+	</string>
+
+	<string id="st_decoction_chimera">
+		<text>'Apex Predator'</text>
+	</string>
+	<string id="st_decoction_chimera_descr">
+		<text>Murky, bitter medicine made from the heart and flesh of the mighty Chimera. Stored in a flask as direct exposure to light denatures the active ingredients. Chimera blood have high amounts of unknown organic molecules that superficially resemble steroids, which scientists believe grant the monster its stupendous power, stamina, and regenerative ability. This medicine allows stalkers to have a small fraction of the Chimera's ability, but due to the difficulty of sourcing ingredients it is extremely rare. The medicine is also highly toxic to the blood, so extended use is not recommended.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] zone-produced medicine\n
+		%c[d_blue] • %c[ui_gray_2] very toxic\n
+		</text>
+	</string>
+
+	<string id="st_decoction_giant">
+		<text>Pseudogiant Elixir</text>
+	</string>
+	<string id="st_decoction_giant_descr">
+		<text>Potent medicine brewed from the hand and eyes of the Pseudogiant. If not shaken, sediment collects at the bottom which is thicker than mixed concrete. Legends speak of Monolith fighters who have continued to fight despite taking rifle rounds to the chest or having limbs blown off with explosivesD, completely and totally numb to all pain. Revered as a gift of the Zone.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] zone-produced medicine\n
+		%c[d_blue] • %c[ui_gray_2] very toxic\n
+		%c[d_blue] • %c[ui_gray_2] colossal damage resistance\n
+		</text>
+	</string>
+
+	<string id="st_breadmold">
+		<text>Old Bread</text>
+	</string>
+	<string id="st_breadmold_descr">
+		<text>Old piece of bread partially covered in mold. Not particularly safe to eat, but still nutritious.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] food\n
+		%c[d_red] • %c[ui_gray_2] low quality\n
+		</text>
+	</string>
+
+	<string id="st_nuts_new_descr">
+		<text>Bag of 'Dee's Nuts' brand assorted nuts. Contains peanuts, hazelnuts, cashews and almonds in a nice and popular blend. Nutrition value is quite high, and is quite easy to eat on the trail. Especially delicious if combined with raisins. Imported from South Africa.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] food\n
+		%c[d_blue] • %c[ui_gray_2] imported\n
+		%c[d_blue] • %c[ui_gray_2] high quality\n
+		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		</text>
+	</string>
+
+	<string id="st_poison_0">
+		<text>I feel fine.</text>
+	</string>
+	<string id="st_poison_1">
+		<text>I feel a little sick.</text>
+	</string>
+	<string id="st_poison_2">
+		<text>I don't feel so great.</text>
+	</string>
+	<string id="st_poison_3">
+		<text>I do not feel well.</text>
+	</string>
+	<string id="st_poison_4">
+		<text>I feel terrible..</text>
+	</string>
+	<string id="st_poison_5">
+		<text>I wont't make it...</text>
+	</string>
+
+	<string id="st_poison_verbose">
+		<text>Poison level: </text>
+	</string>
+
+	<string id="ui_mcm_menu_poison">
+		<text>Poison</text>
+	</string>
+	<string id="ui_mcm_poison_title">
+		<text>Food Poisoning Config</text>
+	</string>
+	<string id="ui_mcm_poison_verbosity">
+		<text>Verbosity level:</text>
+	</string>
+	
+	<string id="ui_mcm_poison_verbosity_desc">
+		<text>Off: No message indications of poisoning.\n \nApproximate: Rough estimates on poisoning level.\n \nExact: Gives exact poison level out of 1000.</text>
+	</string>
+	<string id="ui_mcm_lst_poison_off">
+		<text>Off</text>
+	</string>
+	<string id="ui_mcm_lst_poison_approx">
+		<text>Approximate</text>
+	</string>
+	<string id="ui_mcm_lst_poison_full">
+		<text>Full</text>
+	</string>
+	<string id="ui_mcm_poison_doc">
+		<text>Doctors heal poisoning</text>
+	</string>
+	<string id="ui_mcm_poison_doc_desc">
+		<text>Doctors will completely purge poisoning on heal.</text>
+	</string>
+	<string id="ui_mcm_poison_chance">
+		<text>Pill drop chance</text>
+	</string>
+	<string id="ui_mcm_poison_chance_desc">
+		<text>Chance for stalkers to drop activated charcoal.</text>
+	</string>
+	<string id="ui_mcm_poison_dev">
+		<text>Dev mode</text>
+	</string>
+	<string id="ui_mcm_poison_dev_desc">
+		<text>Enables console printing and allows some functions.</text>
+	</string>
+</string_table>

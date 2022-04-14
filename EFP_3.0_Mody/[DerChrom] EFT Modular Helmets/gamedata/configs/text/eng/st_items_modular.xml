@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- Upgrade Parts -->
+	<string id="st_cryechops">
+		<text>Crye Airframe Chops</text>
+	</string>
+	<string id="st_cryechops_descr">
+		<text>Additional booking for the Airframe helmet, which protects the ear and the jaw area from fragmentation and small-caliber ricochets.</text>
+	</string>
+
+	<string id="st_fshield">
+		<text>Multi-hit ballistic face shield-visor</text>
+	</string>
+	<string id="st_fshield_descr">
+		<text>Special high-strength ballistic visor, used by the special forces assault teams.</text>
+	</string>	
+
+	<string id="st_visor">
+		<text>Ops-Core FAST Visor</text>
+	</string>
+	<string id="st_visor_descr">
+		<text>FAST Visor designed to protect the eyes and part of the serviceman's face from shell fragments, mines, grenades, drops of chemically aggressive liquids and oils, coarsely dispersed aerosols, thermal factors, atmospheric influences and mechanical damages in all types of combat operations.</text>
+	</string>	
+	
+	<string id="st_slaap">
+		<text>SLAAP armor Plate</text>
+	</string>
+	<string id="st_slaap_descr">
+		<text>Additional armor for the Ops-Core FAST helmet, made of a special polyethylene plate (5th protection class).</text>
+	</string>
+	
+	<string id="st_altyn_fshield">
+		<text>Altyn face shield</text>
+	</string>
+	<string id="st_altyn_fshield_descr">
+		<text>Special armored face shield for heavy helmet Altyn. Increases the chances of surviving the impacts of bullets and shrapnel.</text>
+	</string>	
+
+	<string id="st_maska_fshield">
+		<text>Maska 1Sch face shield</text>
+	</string>
+	<string id="st_maska_fshield_descr">
+		<text>Special faceshield for Maska 1Sch helmet</text>
+	</string>	
+
+	<string id="st_mandible">
+		<text>Ops-Core Fast GUNSIGHT Mandible</text>
+	</string>
+	<string id="st_mandible_descr">
+		<text>Special additional ballistic protection for the Ops-Core FAST helmet, mounted on the Side Armor component. (Fits LZSh light helmet aswell)</text>
+	</string>	
+
+	<string id="st_trooper_fshield">
+		<text>Tac-Kek Heavy Trooper mask</text>
+	</string>
+	<string id="st_trooper_fshield_descr">
+		<text>Tac-Kek Heavy Trooper, an additional helmet ballistic mask module based on the Ops Core type, based on the famous movie universe. This is the way.</text>
+	</string>	
+
+	<string id="st_helm_gssh">
+		<text>GSSh-01 active headset</text>
+	</string>
+	<string id="st_helm_gssh_descr">
+		<text>GSSh-01 headset is used in Russian Ratnik military gear set.</text>
+	</string>	
+
+<!-- Modular Helmets -->
+
+	<string id="st_helm_crye">
+		<text>Crye Precision Airframe Tan</text>
+	</string>
+	<string id="st_helm_crye_descr">
+		<text>%c[ui_gray_1]The AirFrame ballistic helmet sets the standards in protection, comfort, and modularity. The unique overlapping shell design of the AirFrame creates an integrated vent that provides passive cooling and can reduce the damaging effects of explosive blast waves.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_altyn">
+		<text>Altyn helmet</text>
+	</string>
+	<string id="st_helm_altyn_descr">
+		<text>%c[ui_gray_1]"Altyn" passed real combat tests in Afghanistan and Chechnya and is still in service with the Ministry of Internal Affairs of the Russian Federation and the army special forces. The installation of an armored visor shield is possible.\n \n
+		</text>
+	</string>
+	
+	<string id="st_helm_maska">
+		<text>Maska 1Sch helmet</text>
+	</string>
+	<string id="st_helm_maska_descr">
+		<text>%c[ui_gray_1]Protective helmet "Maska-1" appeared in service in 1991, as a replacement for the "Sphere" helmet.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_lzsh">
+		<text>LZSh light helmet</text>
+	</string>
+	<string id="st_helm_lzsh_descr">
+		<text>%c[ui_gray_1]Lightweight protective helmet made in Russia. In fact the copy of Ops-core Fast helmet, but with lower characteristics.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_tackek">
+		<text>Tac-Kek Fast MT Helmet</text>
+	</string>
+	<string id="st_helm_tackek_descr">
+		<text>%c[ui_gray_1]A non-ballistic replica of the Ops-Core Fast helmet from Tac-Kek. It can be modified by various components.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_gallet">
+		<text>MSA Gallet TC 800 High Cut combat helmet</text>
+	</string>
+	<string id="st_helm_gallet_descr">
+		<text>%c[ui_gray_1]Ballistic helmet MSA TC 800, designed for use by tactical teams of police special forces, in combat and reconnaissance operations. It can be modified by various components.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_ops">
+		<text>Ops-Core Fast MT SUPER HIGH CUT Helmet</text>
+	</string>
+	<string id="st_helm_ops_descr">
+		<text>%c[ui_gray_1]Ops-Core Fast ballistic helmet is popular in special forces all around the world. Can be modified with different components. Comes in black and tan.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_kiver">
+		<text>Kiver-M Helmet</text>
+	</string>
+	<string id="st_helm_kiver_descr">
+		<text>%c[ui_gray_1]Ballistic helmet.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_wendy">
+		<text>Team Wendy EXFIL Ballistic Helmet</text>
+	</string>
+	<string id="st_helm_wendy_descr">
+		<text>%c[ui_gray_1]One of the most recent tactical ballistic helmets with extensive customization capabilities. Comes in black and coyote tan.\n \n
+		</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	
+	<string id="encyclopedia_factions">
+		<text>Frakcje</text>
+	</string>
+	
+	<string id="encyclopedia_factions_bandit">
+		<text>Bandyci</text>
+	</string>
+	<string id="encyclopedia_factions_bandit_text">
+		<text>
+			%c[pda_white]Bandyci%c[ui_gray_1] to członkowie kryminalnego podziemia operujący w Zonie.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nNiektórzy ludzie przychodzą do Zony odpokutować dawne przewiny, inni szukać oświecenia, jeszcze inni po prostu szukają przygód. Bandyci nie są żadnymi z nich.\n \nTwarda ręka Sułtana siłą wymusiła na kilkudziesięciu mniejszych gangach tu działających współpracę i zachowanie pozornej spójności celów.\n \nWiększość Bandytów otwarcie uczestniczy w podjazdówkach na terytorium innych frakcji. Tylko najsprytniejsi wybierają przenikanie w ich szeregi by oszukiwać, porywać, wymuszać i przekupywać pozostając względnie bezkarnym.\n \nTutaj prawo jest tym, co za nie uznasz. Sułtan lubi widzieć, że Bandyci stanowią prawo sami sobie.\n
+			\n%c[pda_blue]Statystyki%c[ui_gray_1]\n
+			\n• Prowodyr: Sułtan\n• Główna melina: Dolina Mroku\n• Barwy: różne
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_clear_sky">
+		<text>Czyste Niebo</text>
+	</string>
+	<string id="encyclopedia_factions_clear_sky_text">
+		<text>
+			%c[pda_white]Czyste Niebo%c[ui_gray_1] to frakcja naukowców oddanych badaniu wewnętrznych mechanizmów Zony.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nPomijając rolę, jaką odegrała w Wojnach Frakcji w 2011 roku, raczej uważana jest za frakcję pokojową, inwestującą czas i energię bardziej raczej w badania, niż w politykę, czy wojnę.\n \nJej członków cechuje pogląd, że Zona jest jednocześnie błogosławieństwem i przekleństwem - jako niesamowite wydarzenie z wciąż niedoszacowanym potencjałem - i może stanowić zagrożenie dla ludzkości, jeśli nie będzie utrzymywana w równowadze.\n \nZwłaszcza ostatnia część ich ideologii kiedyś doprowadziła frakcję niemal do zguby. Wierząc, że człowiek zwany Striełokiem zaburza równowagę Zony, próbując wedrzeć się do Elektrowni, Czyste Niebo - by go zatrzymać - stworzyło jedną z najliczniejszych armii, które kiedykolwiek istniały na tym terenie.\n \nUdało im się to dopiero w pobliżu Elektrowni, na chwilę przed Trzecią Wielką Emisją. Nikt nie jest całkowicie pewien, co wydarzyło się później - poza faktem, że Czyste Niebo zostało zdziesiątkowane i straciło wszystkich przywódców, a siły Monolitu broniące dostępu do obszaru stały się potężniejsze.\n \nObecnie, po odbudowaniu, frakcja nadal istnieje i działa. W dużej mierze sprawcą takiego stanu rzeczy jest ich nowy lider, Zimny. Czyste Niebo w tej chwili kontynuuje badania swoich poprzedników, ukryte gdzieś na skraju Zony.\n
+			\n%c[pda_blue]Statystyki%c[ui_gray_1]\n
+			\n• Lider: Zimny\n• Baza główna: Bagna\n• Barwy: biała i niebieska
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_duty">
+		<text>Powinność</text>
+	</string>
+	<string id="encyclopedia_factions_duty_text">
+		<text>
+			%c[pda_white]Powinność%c[ui_gray_1] to paramilitarna organizacja utworzona, by chronić ludzkość przed okropnościami Zony.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nZałożona przez byłych zawodowych żołnierzy jako pełna dumy i siły frakcja, obecnie jest cieniem dawnej siebie za sprawą skandali i szeregu niepowodzeń w północnych częściach Zony.\n \nWoronin i Pietrenko, po stracie najlepszych ludzi i części dowództwa musieli bardzo się postarać, by utrzymać wśród pozostałych typową dla siebie dyscyplinę.\n \nPomimo przeciwności, frakcja nadal żyje swoimi ideałami, robiąc wszystko, co tylko w ich mocy, by Rostok dalej był bezpieczną przystanią dla neutralnych stalkerów.\n \nCzłonkowie niebędący w oddziałach defensywnych Baru zwykle spędzają czas, tropiąc Bandytów czy oczyszczając leża mutantów i przekazując próbki naukowcom.\n \nMimo dawno utraconej siły, Powinność nadal stanowi ideologiczne przeciwieństwo Wolności wierząc, że Zona jest zbyt niebezpieczna, by dostęp do niej nie był ściśle kontrolowany.\n
+			\n%c[pda_blue]Statystyki%c[ui_gray_1]\n
+			\n• Oficer dowodzący: Generał Woronin\n• Główna siedziba: Rostok\n• Barwy: czarna i czerwona
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_ecologist">
+		<text>Ekolodzy</text>
+	</string>
+	<string id="encyclopedia_factions_ecologist_text">
+		<text>
+			%c[pda_white]Ekolodzy%c[ui_gray_1] to potoczne określenie pracowników instytutów, należących do wspieranych przez rząd organizacji badawczych.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nNigdzie na świecie nie ma ekosystemu takiego, jak w Zonie. Nic więc dziwnego, że budzi ogromne zainteresowanie rządu i instytucji naukowych.\n \nCel istnienia frakcji jest prosty - badanie artefaktów, anomalii, mutantów i wszystkich innych, niespotykanych w naturze rzeczy.\n \nDo tej pory Ekolodzy umieścili w Zonie dwa laboratoria badawcze. Jedno z nich znajduje się w Jantarze, a drugie w okolicy Jupitera - to właśnie w nim przeprowadzają większość z tajemniczych eksperymentów.\n \nW czasie badań terenowych zwykle towarzyszy im eskorta, najczęściej złożona z byłych najemników, stalkerów lub żołnierzy zatrudnionych bezpośrednio przez nich. Czasem wychodzą bez obstawy, polegając na własnym uzbrojeniu.\n \nWielu łowców artefaktów i rzadkich mutantów sprzedaje naukowcom próbki swoich zdobyczy. Ekolodzy zwykle płacą za takie przedmioty znacznie lepiej, niż ktokolwiek inny.\n
+			\n%c[pda_blue]Statystyki%c[ui_gray_1]\n
+			\n• Główny Badacz: Profesor Sacharow\n• Główne Laboratorium: Jantar\n• Barwy: różne
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_freedom">
+		<text>Wolność</text>
+	</string>
+	<string id="encyclopedia_factions_freedom_text">
+		<text>
+			%c[pda_white]Wolność%c[ui_gray_1] stanowią uzbrojeni anarchiści, walczący o swobodny dostęp do Zony.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nCzłonkowie tej frakcji wierzą w możliwość koegzystencji z Zoną, postrzegając ją jako fenomen tak naukowy, jak i społeczno-polityczny. Uważają, że powinna być terytorium wolnym od jakichkolwiek rządów i sprzeciwiają się komukolwiek, kto próbuje przejąć nad nią kontrolę lub działać wbrew jej naturze.\n \nZ powodu takich poglądów stanowią całkowite przeciwieństwo Powinności, która wszelkie formy koegzystencji postrzega jako co najmniej naiwne i w najlepszym wypadku tymczasowe, a w najgorszym wieszcząc całkowite zniszczenie.\n \nZdecydowane działania Łukasza w kwestii walki z Monolitem, połączone z opanowaniem Lokiego w stosunku do innych frakcji sprawiły, że Wolność cieszy się bardzo dużym uznaniem wśród stalkerów. Przynajmniej na razie.\n
+			\n%c[pda_blue]Statystyki%c[ui_gray_1]\n
+			\n• Lider: Łukasz\n• Główna baza: Magazyny Wojskowe\n• Barwy: zielona, oliwkowa i żółta
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_loner">
+		<text>Samotnicy</text>
+	</string>
+	<string id="encyclopedia_factions_loner_text">
+		<text>
+			%c[pda_white]Samotnicy%c[ui_gray_1], także jako "%c[pda_white]wolni stalkerzy%c[ui_gray_1]" to ci, którzy nie dołączyli do żadnej z frakcji.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nStalkerzy pojawiają się w Zonie z naprawdę wielu powodów - pragnienie przeżycia przygody, potrzeba poznawania tego, co nieznane, czy chęć rozpoczęcia całego życia od nowa to tylko najczęstsze z nich.\n \nWiększość głównych frakcji ma do nich stosunek neutralny, bądź wręcz sojuszniczy, widząc w nich potencjalnych rekrutów, czy zewnętrznych pracowników podejmujących się zadań, których członkowie frakcji nie mogą, bądź nie chcą wykonywać we własnym zakresie.\n \nDuża część przychodu wolnych stalkerów pochodzi ze zbierania artefaktów, części mutantów, handlu bronią i rozmaitych innych przedmiotów odnajdywanych w opuszczonych budynkach, czy przy ciałach innych poszukiwaczy.\n \nNiemal każdy stalker marzy o tym, że pewnego dnia odnajdzie legendarny Spełniacz Życzeń - najczęściej opisywany jako antyczną skałę pochodzącą z kosmosu, zdolną do wypełniania najbardziej skrytych pragnień.\n
+			\n%c[pda_blue]Statystyki%c[ui_gray_1]\n
+			\n• Najbardziej wpływowy handlarz: Sidorowicz\n• Poligon treningowy: Kordon\n• Barwy: różne
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_mercenary">
+		<text>Najemnicy</text>
+	</string>
+	<string id="encyclopedia_factions_mercenary_text">
+		<text>
+			%c[pda_white]Najemnicy%c[ui_gray_1] to frakcja złożona z zagranicznych, prywatnych oddziałów militarnych.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nBardzo poważnie podchodzą do swoich zadań i pracy w ogóle. Ich kluczem do sukcesu wydaje się planowanie operacji w najdrobniejszych szczegółach i doskonałe przygotowanie techniczne.\n \nWielu postrzega ich jako wynajętych zabójców, co w żadnym wypadku nie jest prawdą. Najemnicy w Zonie zatrudnieni są w ramach najróżniejszych kontraktów - od poszukiwania najrzadszych artefaktów i przedmiotów, po ochronę cennych ładunków w trakcie ich podróży najbardziej niebezpieczne obszary.\n \nChociaż często postrzega się ich przez pryzmat bezwzględnego dążenia do wypełnienia wszystkich celów misji, stalkerzy plotkują między sobą o tym, że jeszcze bardziej tajemniczy od samych najemników jest ich pracodawca, którego motywy są bardziej obce, niż wytwory Zony.\n
+			\n%c[pda_blue]Statystyki%c[ui_gray_1]\n
+			\n• Łącznik z kontrahentami: Duszman\n• Główna baza: Martwe Miasto\n• Barwy: niebieska i czarna
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_military">
+		<text>Wojsko</text>
+	</string>
+	<string id="encyclopedia_factions_military_text">
+		<text>
+			%c[pda_white]Wojsko%c[ui_gray_1] na polecenie MWS (ukraińskiego MSW) wysyła do Zony siły połączone, w skład których wchodzą oddziały Specnazu, specjalnie szkoleni wojskowi stalkerzy i kompanie regularnych poborowych. Całość na miejscu koordynowana jest przez Służbę Bezpieczeństwa Ukrainy.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nGłówne zadanie - zabezpieczenie kordonu otaczającego Zonę tak, by nikt nie mógł przedostać się w żadnym kierunku.\n \nNienawidzą ich prawie wszyscy, z wyjątkiem Powinności - która ma pewne układy ze Specnazem - i Ekologów, ze względu na to, że też są finansowani przez rząd.\n \nMają rozkazy by otwierać ogień do wszystkich osób przebywających w Zonie nielegalnie. Przeciętny żołdak traktuje takich ludzi tylko niewiele lepiej, niż zwierzęta.\n \nW przeciwieństwie do dowódców oddziałów i oficerów - Ci akurat zwykle są łatwi do przekupienia. Najlepszym przykładem jest wioska kotów w Kordonie, leżąca raptem kilkaset metrów od dużego punktu kontrolnego.\n
+			\n%c[pda_blue]Statystyki%c[ui_gray_1]\n
+			\n• Oficer dowodzący: Major Kuźniecow\n• Sztab główny: Agroprom\n• Barwy: zielona i oliwkowa
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_monolith">
+		<text>Monolit</text>
+	</string>
+	<string id="encyclopedia_factions_monolith_text">
+		<text>
+			%c[pda_white]Monolit%c[ui_gray_1] stanowią pseudo-religijni fanatycy uważający wszystkich oprócz współwyznawców za wroga.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nZafiksowani swoim fanatyzmem, stawiają silny opór wszystkim próbom przedarcia się do centrum Zony. Większość stalkerów uważa ich za totalnych obłąkańców.\n \nChoć fizycznie zdają się być na równi z innymi stalkerami, odróżnia ich całkowite oddanie sprawie i zapał - weterani opowiadali o członkach Monolitu rzucających się z gołymi pięściami na karabiny z chwilą wystrzelania się z amunicji, czy samobójczej detonacji, gdy istniało choć minimalne ryzyko schwytania.\n \nJeszcze parę lat temu uważało się, że bojownikami stają się stalkerzy ulegli procesowi prania mózgu - odpowiedzialny za to miał być Mózgozwęglacz, przynajmniej do czasu wyłączenia go przez Striełoka.\n \nJednakże w ostatnich latach aktywność Monolitu utrzymywała się mniej więcej na tym samym poziomie, co sugeruje, że ich nieograniczone zasoby rekrutów i materiałów.\n
+			\n%c[pda_blue]Statystyki%c[ui_gray_1]\n
+			\n• Orędownik: Królik\n• Święte Miasto: Prypeć\n• Barwy: biała, czarna i brązowa
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_greh">
+		<text>Grzech</text>
+	</string>
+	<string id="encyclopedia_factions_greh_text">
+		<text>
+			%c[pda_white]Grzech%c[ui_gray_1] stanowią niezwykle agresywni kultyści wierzący w boską istotę Zony, postrzegający ją jako źródło uzdrowienia i "rozgrzeszenia". Legendy krążące o tej frakcji często wspominają, że jej członkowie to zmutowani w nieznany sposób stalkerzy.\n 
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nRzadko się o nich słyszy. Jeśli ktoś opowiada o frakcji, zwykle używa określeń takich jak zzombifikowany, zmutowany czy opętany. To prawdopodobnie Grzech stanowi źródło legend o "mrocznych stalkerach". Złowroga frakcja szuka sposobów do rozszerzenia wpływu Zony na cały świat i wygląda na to, że nic nie powstrzyma ich przed próbami wypełnienia tego celu.\n \nPomimo trupiego odcienia skóry i pozornie słabego stanu zdrowia stanowią siłę, z którą trzeba się liczyć. Zdolnościami bojowymi dorównują najbardziej doświadczonym stalkerom, a fanatyczne oddanie swoim ideałom zmusza ich do ciągłego napierania, nie bacząc na grad pocisków i odłamków.\n \nKrążą pogłoski, jakoby założycielami Grzechu byli więźniowie z cel śmierci poddani tajnym eksperymentom w podziemnych laboratoriach na długo przed pojawieniem się Zony.\n \nZ drugiej strony, w szeregi frakcji musiała zostać wcielona cała masa wszelkiej maści wyrzutków, renegatów, chętnych rekrutów i jeńców poddanych praniu mózgu i w jakiś sposób mutacjom tak, by z pełnym oddaniem służyli Grzechowi.\n
+			\n%c[pda_blue]Statystyki%c[ui_gray_1]\n
+			\n• Ojciec Założyciel: Czarnobóg\n• Zbór: Generatory\n• Barwy: brązowa, szara i czarna
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_isg">
+		<text>UNISG</text>
+	</string>
+	<string id="encyclopedia_factions_isg_text">
+		<text>
+			%c[pda_white]Międzynarodowa Grupa Badawcza ONZ%c[ui_gray_1], rozwinięcie skrótowca: %c[pda_white]United Nations International Scientific Group%c[ui_gray_1] to jednostka specjalna wykazująca ogromne zainteresowanie Zoną. UNISG jest bezpośrednim, acz dużo bardziej bezwzględnym następcą oryginalnej ISG.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+		    \nPierwotna ISG została rozwiązana z powodu nieprzewidzianych okoliczności niedługo po jej założeniu w 2011 roku. ONZ przekonała się do reaktywacji Międzynarodowej Grupy Badawczej upoważnionej do badań nad Zoną po tym, jak potężną, acz z tej odległości kompletnie nieszkodliwą emisję obserwowano nawet z Londynu.\n \nOficjalnie kontynuuje misję poprzedniczki - badając Zonę z naukowego punktu widzenia - jako odpowiedź zachodniej Europy na powstanie finansowanych przez lokalny rząd Ekologów.\n \nW rzeczywistości władze Ukrainy podejrzewają, że członkom UNISG zależy na wykorzystaniu faktu powstania Zony dla własnych celów politycznych i finansowych. Co raczej oczywiste, SBU wolałaby, żeby wiedza o Zonie nie wpadła w niepowołane ręce. Z tego powodu członkowie grup kierowanych przez ONZ nie otrzymują oficjalnych pozwoleń na pobyt w Strefie Wykluczenia.\n \nPracownicy UNISG wykonujący zadania w Zonie robią zatem wszystko, by utrzymać swoje działania w tajemnicy - nie wykluczając likwidacji świadków. Jakiekolwiek są ich prawdziwe cele, agenci ONZ działający obecnie w terenie nie są bezbronni. Znaczną część ich przygotowania do "zdobywania wiedzy" zajmuje najnowocześniejsza broń i zaawansowana znajomość współczesnych taktyk bojowych.\n
+			\n%c[pda_blue]Statystyki%c[ui_gray_1]\n
+			\n• Przywódcy: nieznani\n• Siedziba: nieznana\n• Barwy: biała, zielona i brązowa
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_renegade">
+		<text>Renegaci</text>
+	</string>
+	<string id="encyclopedia_factions_renegade_text">
+		<text>
+			%c[pda_white]Renegaci%c[ui_gray_1] są jednymi z najpodlejszych, najbardziej nikczemnych stalkerów w całej historii Zony.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]\n
+			\nCzłonkami frakcji są stalkerzy zbyt podli nawet jak na "standardy" Bandytów - w ich szeregach miejsce znaleźli najgorszego sortu łajdacy, szuje, cwaniaczki, ludzie nieuczciwi i tak dwulicowi, że nikt nie chce mieć z nimi do czynienia.\n \nJedynym prawem, którego przestrzegali było prawo siły. Żerowali głównie na najsłabszych przy krawędziach Zony - atakując najczęściej młodych i niedoświadczonych, nie mających w starciu żadnych szans.\n \nZepchnięci przez miażdżące siły przeciwników na Bagna. Pojedynczym watażkom i całym grupom barbarzyńców udało się scalić w jedną frakcję tylko ze względu na obecność i zagrożenie płynące ze strony Czystego Nieba.\n
+			\n%c[pda_blue]Statystyki%c[ui_gray_1]\n
+			\n• Liderzy: nieznani\n• Siedziba: nieznana\n• Barwy: różne
+		</text>
+	</string>
+
+	<string id="encyclopedia_factions_zombified">
+		<text>Zzombifikowani</text>
+	</string>
+	<string id="encyclopedia_factions_zombified_text">
+		<text>
+			%c[pda_white]Zzombifikowani%c[ui_gray_1], czasem po prostu zombie - potoczne określenie stalkerów, którzy na skutek wpływu silnego promieniowania psionicznego ulegli nieodwracalnym uszkodzeniom mózgu, zbyt dużym, by mogli świadomie służyć Monolitowi.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nIstoty te utraciły wszystkie wyższe funkcje mózgu, kierują się wyłącznie szczątkowym refleksem i najbardziej podstawowymi umiejętnościami. Cechują się utratą samoświadomości i wysoką odpornością na ból.\n \nZdrowie fizyczne i psychiczne zzombifikowanych stalkerów z czasem ulega pogorszeniu. Jednym z ostatnich stadiów jest całkowita utrata człowieczeństwa. To, co pozostaje po takiej przemianie również określane jest jako zombie.\n \nW przeciwieństwie do mutantów, zzombifikowani stalkerzy potrafią posługiwać się bronią i niektórymi narzędziami. Często obserwuje się u nich pracę zespołową, czasem wspierają żołnierzy Monolitu.\n
+			\n%c[pda_blue]Statystyki%c[ui_gray_1]\n
+			\n• Metody ochrony/opóźnienia zombifikacji: anabiotyki, hełmy psioniczne, używki i noszenie nakryć głowy zapewniających ochronę psioniczną.\n• Najczęstsze przyczyny zombifikacji: emisje, Mózgozwęglacz, Machina Cudów, kontrolery.\n• Barwy: różne
+		</text>
+	</string>
+</string_table>

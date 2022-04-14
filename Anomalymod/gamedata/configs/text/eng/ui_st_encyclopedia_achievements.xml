@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	
+	<string id="encyclopedia_achievements">
+		<text>Osiągnięcia</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_bookworm_food">
+		<text>Mól książkowy</text>
+	</string>
+	<string id="encyclopedia_achievements_bookworm_food_text">
+		<text>
+			%c[pda_white]Mól książkowy%c[ui_gray_1] wymaga odblokowania wszystkich artykułów dostępnych w Przewodniku po Zonie.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nArtykuły można odblokować w różny sposób. Czasem wystarczy rozmowa z ważną postacią, czasem pobranie danych z karty pamięci. Nawet samo odwiedzenie lokacji może być pomocne.\n
+			\n%c[pda_blue]Premia%c[ui_gray_1]
+			\nWszystkie znajdowane w przyszłości karty pamięci przy ciałach martwych stalkerów zostaną zastąpione rzadkimi PDA.\n \nMając na uwadze, że z kolejnymi aktualizacjami mogą pojawiać się nowe artykuły, efekt "Mola książkowego" zostanie tymczasowo wyłączony, by karty pamięci mogły znów się pojawić.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_completionist">
+		<text>Kropka nad "i"</text>
+	</string>
+	<string id="encyclopedia_achievements_completionist_text">
+		<text>
+			%c[pda_white]Kropka nad "i"%c[ui_gray_1] wymaga odblokowania wszystkich dostępnych osiągnięć.\n
+			\n%c[pda_blue]Premia%c[ui_gray_1]
+			\nPodwaja ilość zdobytych punktów rangi w stosunku do tych otrzymywanych, gdy odblokowujesz pozostałe osiągnięcia.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_down_to_earth">
+		<text>Na ziemię!</text>
+	</string>
+	<string id="encyclopedia_achievements_down_to_earth_text">
+		<text>
+			%c[pda_white]Na ziemię!%c[ui_gray_1] wymaga zniszczenia 3 helikopterów za pomocą broni ręcznej, lub tylko 1, jeśli użyjesz do tego granatnika RPG lub RG-6.\n
+			\n%c[pda_blue]Premia%c[ui_gray_1]
+			\nHelikoptery Mi-24 "Hind" stopniowo zostaną wymienione na słabsze Mi-2 "Hoplite".
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_duga_free">
+		<text>Duga wolna!</text>
+	</string>
+	<string id="encyclopedia_achievements_duga_free_text">
+		<text>
+			%c[pda_white]Duga wolna!%c[ui_gray_1] wymaga wyłączenia Mózgozwęglacza i Machiny Cudów.\n
+			\n%c[pda_blue]Premia%c[ui_gray_1]
+			\nPoruszanie się przez Jantar i Radar po wyłączeniu emiterów psionicznych stanie się dużo prostsze.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_geologist">
+		<text>Łowca artefaktów</text>
+	</string>
+	<string id="encyclopedia_achievements_geologist_text">
+		<text>
+			%c[pda_white]Łowca artefaktów%c[ui_gray_1] wymaga wykrycia minimum 50 artefaktów.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nDo wykrywania artefaktów niezbędne są detektory dostępne u większości handlarzy.\n \nUżywając ich w pobliżu anomalii istnieje szansa, że wykryjesz stworzone w nich artefakty.\n
+			\n%c[pda_blue]Premia%c[ui_gray_1]
+			\nZwiększy się szansa znalezienia artefaktów w anomaliach.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_heavy_pockets">
+		<text>Pełne kieszenie</text>
+	</string>
+	<string id="encyclopedia_achievements_heavy_pockets_text">
+		<text>
+			%c[pda_white]Pełne kieszenie%c[ui_gray_1] wymagają posiadania w jednym momencie 1.000.000 RU w gotówce.\n
+			\n%c[pda_blue]Premia%c[ui_gray_1]
+			\nWiększość handlarzy zacznie oferować ci wyposażenie, które w innym przypadku będzie dostępne tylko, gdy będziesz z frakcją w doskonałych relacjach.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_infopreneur">
+		<text>Mądrzejszy od Sidorowicza</text>
+	</string>
+	<string id="encyclopedia_achievements_infopreneur_text">
+		<text>
+			%c[pda_white]Mądrzejszy od Sidorowicza%c[ui_gray_1] wymaga dostarczenia przynajmniej 50 PDA handlarzom informacjami.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nPDA znajdziesz przy ciałach martwych stalkerów. Można je sprzedać handlarzom informacjami mówiąc, że posiadasz informacje do sprzedania.\n
+			\n%c[pda_blue]Premia%c[ui_gray_1]
+			\nHandlarze informacjami zaoferują ci większe sumy za kolejne PDA, które im dostarczysz.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_mechanized_warfare">
+		<text>Wyścig zbrojeń</text>
+	</string>
+	<string id="encyclopedia_achievements_mechanized_warfare_text">
+		<text>
+			%c[pda_white]Wyścig zbrojeń%c[ui_gray_1] wymaga dostarczenia wszystkich 3 zestawów narzędzi jednemu z techników.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nNarzędzia podstawowe, zaawansowane i precyzyjne najczęściej znajdziesz w schowkach, chociaż czasami będą je mieć przy sobie inni stalkerzy.\n
+			\n%c[pda_blue]Premia%c[ui_gray_1]
+			\nDodatkowe przedmioty użyte przy naprawie są bardziej efektywne.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_patriarch">
+		<text>Patriarcha</text>
+	</string>
+	<string id="encyclopedia_achievements_patriarch_text">
+		<text>
+			%c[pda_white]Patriarcha%c[ui_gray_1] wymaga osiągnięcia najwyższej możliwej rangi.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nPunkty rangi można otrzymać niemal za każdą aktywność w Zonie.\n \nW kategorii Funkcje znajdziesz artykuł poświęcony temu zagadnieniu.\n
+			\n%c[pda_blue]Premia%c[ui_gray_1]
+			\nBędziesz mógł zwerbować 2 dodatkowych towarzyszy.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_radiotherapy">
+		<text>Radioterapia</text>
+	</string>
+	<string id="encyclopedia_achievements_radiotherapy_text">
+		<text>
+			%c[pda_white]Radioterapia%c[ui_gray_1] wymaga przetrwania 25 emisji i 25 burz psionicznych.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nEmisje i burze psioniczne pojawiają się w różnych odstępach czasowych, które można dostosować poprzez menu opcji pogody.\n \nOba zjawiska można włączyć i wyłączyć w dowolnym czasie w trakcie rozgrywki. Muszą być włączone, jeśli chcesz odblokować to osiągnięcie.\n
+			\n%c[pda_blue]Premia%c[ui_gray_1]
+			\nIstnieje niewielka szansa, że przeżyjesz emisję lub burzę psioniczną bez konieczności ukrycia się.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_rag_and_bone">
+		<text>Komornik</text>
+	</string>
+	<string id="encyclopedia_achievements_rag_and_bone_text">
+		<text>
+			%c[pda_white]Komornik%c[ui_gray_1] wymaga zebrania (przynajmniej częściowo) zawartości z przynajmniej 100 schowków.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nZapełnione schowki można znaleźć praktycznie w całej Zonie. Po ukończeniu zadania możesz otrzymać koordynaty, dzięki któremu schowek stanie się widoczny na mapie.\n
+			\n%c[pda_blue]Premia%c[ui_gray_1]
+			\nMaksymalna łączna wartość przedmiotów w nowo powstałych schowkach będzie wyższa.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_silver_or_lead">
+		<text>W łeb czy w łapę?</text>
+	</string>
+	<string id="encyclopedia_achievements_silver_or_lead_text">
+		<text>
+			%c[pda_white]W łeb czy w łapę?%c[ui_gray_1] wymaga zabicia 500 stalkerów, lub sprawienia, że 50 się podda.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nWymagania tego osiągnięcia pewnie zostaną spełnione w trakcie normalnej rozgrywki, ale jeśli koniecznie chcesz je odblokować, nie zabijaj neutralnych i przyjaznych stalkerów, jeśli zależy ci na swojej reputacji.\n
+			\n%c[pda_blue]Premia%c[ui_gray_1]
+			\nStalkerzy którzy się poddali, mogą czasami podać ci koordynaty drugiego swojego schowka.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_tourist">
+		<text>Turysta</text>
+	</string>
+	<string id="encyclopedia_achievements_tourist_text">
+		<text>
+			%c[pda_white]Turysta%c[ui_gray_1] wymaga odwiedzenia wszystkich 33 lokacji w Zonie.\n
+			\n%c[pda_blue]Premia%c[ui_gray_1]
+			\nOtrzymasz koordynaty 3 unikatowych schowków.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_well_dressed">
+		<text>Fajne futerko!</text>
+	</string>
+	<string id="encyclopedia_achievements_well_dressed_text">
+		<text>
+			%c[pda_white]Fajne futerko!%c[ui_gray_1] wymaga zabicia 500 mutantów, lub zdobycia 250 części ich ciał.\n
+			\n%c[pda_blue]Premia%c[ui_gray_1]
+			\nPatroszenie zajmie ci znacznie mniej czasu.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_wishful_thinking">
+		<text>Pobożne życzenia</text>
+	</string>
+	<string id="encyclopedia_achievements_wishful_thinking_text">
+		<text>
+			%c[pda_white]Pobożne życzenia%c[ui_gray_1] wymaga ukończenia wątku "Żywa Legenda".\n
+			\n%c[pda_blue]Premia%c[ui_gray_1]
+			\nOdblokujesz Renegatów jako frakcję grywalną.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_infantile_pleasure">
+		<text>Dziecinna frajda</text>
+	</string>
+	<string id="encyclopedia_achievements_infantile_pleasure_text">
+		<text>
+			%c[pda_white]Dziecinna frajda%c[ui_gray_1] wymaga zniszczenia 200 skrzynek.
+			\n \n%c[pda_green]Informacje%c[ui_gray_1]
+			\nWymagania tego osiągnięcia pewnie zostaną spełnione w trakcie normalnej rozgrywki. Skrzynki można znaleźć prawie wszędzie. Najwięcej zawierają lokacje powiązane z przemysłem.
+			\n \n%c[pda_blue]Premia%c[ui_gray_1]
+			\nSzansa na znalezienie w skrzynkach przedmiotów będzie o 25% wyższa.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_recycler">
+		<text>Nic się nie marnuje!</text>
+	</string>
+	<string id="encyclopedia_achievements_recycler_text">
+		<text>
+			%c[pda_white]Nic się nie marnuje!%c[ui_gray_1] wymaga rozmontowania 200 przedmiotów.
+			\n \n%c[pda_green]Informacje%c[ui_gray_1]
+			\nWiększość przedmiotów można rozmontować na elementy bazowe. W tym procesie używany jest Multitool i/lub Szwajcarski scyzoryk.\n \nW kategorii Funkcje znajdziesz artykuł poświęcony temu zagadnieniu.
+			\n \n%c[pda_blue]Premia%c[ui_gray_1]
+			\nSzansa na uzyskanie dodatkowej części podczas demontażu wzrośnie o 33%.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_artificer_eagerness">
+		<text>Rzemieślnik</text>
+	</string>
+	<string id="encyclopedia_achievements_artificer_eagerness_text">
+		<text>
+			%c[pda_white]Rzemieślnik%c[ui_gray_1] wymaga stworzenia 50 przedmiotów.
+			\n \n%c[pda_green]Informacje%c[ui_gray_1]
+			\nZestawy do tworzenia możesz znaleźć w schowkach lub przy innych stalkerach; część z nich posiada receptury i/lub poradniki pozwalające na tworzenie kolejnych przedmiotów.
+			\n \n%c[pda_blue]Premia%c[ui_gray_1]
+			\nZaawansowane przedmioty będą wymagały mniejszej liczby komponentów do stworzenia.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_unforeseen_guest">
+		<text>Niespodziewany gość</text>
+	</string>
+	<string id="encyclopedia_achievements_unforeseen_guest_text">
+		<text>
+			%c[pda_white]Niespodziewany gość%c[ui_gray_1] wymaga bycia obserwowanym podczas podszywania się łącznie przez 5 godzin.
+			\n \n%c[pda_green]Informacje%c[ui_gray_1]
+			\nMożesz podszywać się pod członków innych frakcji, zakładając na siebie należące do nich stroje.\n \nW kategorii Funkcje znajdziesz artykuł poświęcony temu zagadnieniu.
+			\n \n%c[pda_blue]Premia%c[ui_gray_1]
+			\nTwoje nagłe, niespodziewane zachowania podczas podszywania się będą mniej podejrzane.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_absolver">
+		<text>Rozgrzeszenie</text>
+	</string>
+	<string id="encyclopedia_achievements_absolver_text">
+		<text>
+			%c[pda_white]Rozgrzeszenie%c[ui_gray_1] wymaga ukończenia wątku "Grzech Śmiertelny".
+			\n \n%c[pda_green]Informacje%c[ui_gray_1]
+			\nTo osiągnięcie dostępne jest tylko w trybie fabularnym.
+			\n \n%c[pda_blue]Premia%c[ui_gray_1]
+			\nOdblokujesz Grzech jako frakcję grywalną.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_collaborator">
+		<text>Kolaborant</text>
+	</string>
+	<string id="encyclopedia_achievements_collaborator_text">
+		<text>
+			%c[pda_white]Kolaborant%c[ui_gray_1] wymaga ukończenia wątku "Operacja Łuna".
+			\n \n%c[pda_green]Informacje%c[ui_gray_1]
+			\nTo osiągnięcie dostępne jest tylko w trybie fabularnym.
+			\n \n%c[pda_blue]Premia%c[ui_gray_1]
+			\nOdblokujesz UNISG jako frakcję grywalną.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_iron_curtain">
+		<text>Żelazna kurtyna</text>
+	</string>
+	<string id="encyclopedia_achievements_iron_curtain_text">
+		<text>
+			%c[pda_white]Żelazna kurtyna%c[ui_gray_1] wymaga, by twoja frakcja miała w Zonie przewagę, posiadając ponad połowę terytoriów.
+			\n \n%c[pda_green]Informacje%c[ui_gray_1]
+			\nTo osiągnięcie dostępne jest tylko w trybie Wojny Frakcji.\n \nLokacje podziemne są ignorowane.
+			\n \n%c[pda_blue]Premia%c[ui_gray_1]
+			\nOtrzymasz za swoje zasługi pokaźną nagrodę pieniężną.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_murky_spirit">
+		<text>Mroczny stalker</text>
+	</string>
+	<string id="encyclopedia_achievements_murky_spirit_text">
+		<text>
+			%c[pda_white]Mroczny stalker%c[ui_gray_1] wymaga ukończenia wszystkich trzech wątków "Straceńców Zony" w trybie Ironman.
+			\n \n%c[pda_green]Informacje%c[ui_gray_1]
+			\nTo osiągnięcie dostępne jest tylko w trybie fabularnym. Co ważniejsze, tryb Ironman musi być aktywny podczas całej rozgrywki.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_invictus">
+		<text>Niezwyciężony</text>
+	</string>
+	<string id="encyclopedia_achievements_invictus_text">
+		<text>
+			%c[pda_white]Niezwyciężony%c[ui_gray_1] wymaga niemożliwego:
+			\n%c[d_red] • %c[ui_gray_1]Ukończ wszystkie trzy wątki "Straceńców Zony".
+			\n%c[d_red] • %c[ui_gray_1]Tryb Ironman musi być aktywny od pierwszego dnia w Zonie do chwili ukończenia trybu fabularnego.
+			\n%c[d_red] • %c[ui_gray_1]Graj na najwyższych ustawieniach poziomu trudności i opcji postępu.
+			\n%c[d_red] • %c[ui_gray_1]W trakcie gry możesz zginąć tylko raz.
+			\n%c[d_red] • %c[ui_gray_1]Nie korzystaj z trybu debug mode.
+			\nBaw się dobrze!
+		</text>
+	</string>
+	
+</string_table>

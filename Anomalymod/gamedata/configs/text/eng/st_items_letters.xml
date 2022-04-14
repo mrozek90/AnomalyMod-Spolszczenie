@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Notes + Recipes
+-->
+
+<string_table>
+
+	<string id="st_recipe_basic_1">
+		<text>Poradnik przetrwania (zagad. #1)</text>
+	</string>
+	<string id="st_recipe_basic_2">
+		<text>Poradnik przetrwania (zagad. #2)</text>
+	</string>
+	<string id="st_recipe_basic_3">
+		<text>Poradnik przetrwania (zagad. #3)</text>
+	</string>
+	<string id="st_recipe_basic_4">
+		<text>Poradnik przetrwania (zagad. #4)</text>
+	</string>
+	<string id="st_recipe_basic_descr">
+		<text>Ten poradnik zawiera podstawowe zagadnienia dotyczące przetrwania. Posiada też opis najpopularniejszych zestawów surwiwalowych. Ostatnie rozdziały informują, jak z dostępnych materiałów stworzyć podstawowe wyposażenie.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_green] • %c[ui_gray_2] pogłębia wiedzę\n
+		%c[d_blue] • %c[ui_gray_2] receptura tworzenia\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n</text>
+	</string>
+	
+	<string id="st_recipe_advanced_1">
+		<text>Specyfikacje techniczne (wyd. 1)</text>
+	</string>
+	<string id="st_recipe_advanced_2">
+		<text>Specyfikacje techniczne (wyd. 2)</text>
+	</string>
+	<string id="st_recipe_advanced_3">
+		<text>Specyfikacje techniczne (wyd. 3)</text>
+	</string>
+	<string id="st_recipe_advanced_4">
+		<text>Specyfikacje techniczne (wyd. 4)</text>
+	</string>
+	<string id="st_recipe_advanced_descr">
+		<text>Podręcznik zawierający specyfikacje techniczne. Niektórzy czytają tego typu opracowania by pogłębić swoją wiedzę i dowiedzieć się więcej na temat działania kompleksów i fabryk w Zonie. Zawiera szczegółowe informacje o mechanice i elektronice.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_green] • %c[ui_gray_2] pogłębia wiedzę\n
+		%c[d_blue] • %c[ui_gray_2] receptura tworzenia\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n</text>
+	</string>
+	
+	<string id="st_recipe_expert_1">
+		<text>Szczegółowe instrukcje (wyd. 1)</text>
+	</string>
+	<string id="st_recipe_expert_2">
+		<text>Szczegółowe instrukcje (wyd. 2)</text>
+	</string>
+	<string id="st_recipe_expert_3">
+		<text>Szczegółowe instrukcje (wyd. 3)</text>
+	</string>
+	<string id="st_recipe_expert_4">
+		<text>Szczegółowe instrukcje (wyd. 4)</text>
+	</string>
+	<string id="st_recipe_expert_descr">
+		<text>Książka do nauki inżynierii przemysłowej, zawiera szczegółowe instrukcje dotyczące tworzenia i posługiwania się zaawansowaną elektroniką. Pojawiają się tu pojęcia takie, jak: wzmacniacz operacyjny, dioda półprzewodnikowa, tranzystor bipolarny, tranzystor polowy.\n \nDruga część książki zawiera poradnik rozwiązywania problemów dotyczących urządzeń elektronicznych.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_green] • %c[ui_gray_2] pogłębia wiedzę\n
+		%c[d_blue] • %c[ui_gray_2] receptura tworzenia\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n</text>
+	</string>
+	
+	<string id="st_recipe_drug_1">
+		<text>Receptury nr 1</text>
+	</string>
+	<string id="st_recipe_drug_2">
+		<text>Receptury nr 2</text>
+	</string>
+	<string id="st_recipe_drug_3">
+		<text>Receptury nr 3</text>
+	</string>
+	<string id="st_recipe_drug_4">
+		<text>Receptury nr 4</text>
+	</string>
+	<string id="st_recipe_drug_descr">
+		<text>Kilka stron wyrwanych z notesu. Zapisane niebieskim atramentem, rozmazanym na skutek wpływu środowiska. Tekst jest ledwie czytelny.\n \nZawiera sposób przygotowania różnych rodzajów używek i lekarstw, korzystając z ogólnodostępnych wyrobów medycznych.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_green] • %c[ui_gray_2] pogłębia wiedzę\n
+		%c[d_blue] • %c[ui_gray_2] receptura tworzenia\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n</text>
+	</string>
+	
+	<string id="st_recipe_ammo_1">
+		<text>Instrukcje bezpieczeństwa dot. amunicji (wyd. 1)</text>
+	</string>
+	<string id="st_recipe_ammo_2">
+		<text>Instrukcje bezpieczeństwa dot. amunicji (wyd. 2)</text>
+	</string>
+	<string id="st_recipe_ammo_3">
+		<text>Instrukcje bezpieczeństwa dot. amunicji (wyd. 3)</text>
+	</string>
+	<string id="st_recipe_ammo_4">
+		<text>Instrukcje bezpieczeństwa dot. amunicji (wyd. 4)</text>
+	</string>
+	<string id="st_recipe_ammo_descr">
+		<text>Każdy stalker powinien wiedzieć, jak dopasować pod siebie broń, ale także, jak dobrać do niej właściwą amunicję. Te instrukcje zawierają precyzyjne informacje na temat różnych rodzajów amunicji, dodatkowo opisując podstawowe elementy pocisków różnego kalibru.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_green] • %c[ui_gray_2] pogłębia wiedzę\n
+		%c[d_blue] • %c[ui_gray_2] receptura tworzenia\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n</text>
+	</string>
+	
+	<string id="st_recipe_cooking_1">
+		<text>Zapiski kucharza</text>
+	</string>
+	<string id="st_recipe_cooking_descr">
+		<text>Plik ręcznie sporządzonych zapisków. Zawiera szczegółowe przepisy i porady, jak marynować mięso mutantów w alkoholu. Według notatek, alkohol wyciąga z mięsa część promieniowania. Autorem zapisków musiał być doświadczony stalker.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_green] • %c[ui_gray_2] pogłębia wiedzę\n
+		%c[d_blue] • %c[ui_gray_2] przepisy kuchenne\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n</text>
+	</string>
+	
+	<string id="st_memoirs_1_of_2_name">
+		<text>Zapiski stalkera (część 1 z 2)</text>
+	</string>
+	<string id="st_memoirs_1_of_2_desc">
+		<text>Stary, wypłowiały dziennik w oprawce. Mimo osłonki upływ czasu odcisnął na nim swoje piętno. Do odczytania nadaje się tylko niewielka część.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot osobisty\n
+		</text>
+	</string>
+	<string id="st_memoirs_2_of_2_name">
+		<text>Zapiski stalkera(część 2 z 2)</text>
+	</string>
+	<string id="st_memoirs_2_of_2_desc">
+		<text>Stary, wypłowiały dziennik w oprawce. Mimo osłonki upływ czasu odcisnął na nim swoje piętno. Do odczytania nadaje się tylko niewielka część.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot osobisty\n
+		</text>
+	</string>
+	<string id="st_freedom_manual_1_of_2_name">
+		<text>Techniki przesłuchań - podstawy (część 1 z 2)</text>
+	</string>
+	<string id="st_freedom_manual_1_of_2_desc">
+		<text>Broszura informacyjna z logo Wolności w prawym górnym rogu i prostym rysunkiem pistoletu celującego w klęczącego człowieka. Zatytułowana "Techniki przesłuchań - podstawy" i napisana typowym dla tej frakcji, dość luźnym językiem.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot osobisty\n
+		</text>
+	</string>
+	<string id="st_freedom_manual_2_of_2_name">
+		<text>Techniki przesłuchań - podstawy (część 2 z 2)</text>
+	</string>
+	<string id="st_freedom_manual_2_of_2_desc">
+		<text>Broszura informacyjna z logo Wolności w prawym górnym rogu i prostym rysunkiem pistoletu celującego w klęczącego człowieka. Zatytułowana "Techniki przesłuchań - podstawy" i napisana typowym dla tej frakcji, dość luźnym językiem.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot osobisty\n
+		</text>
+	</string>
+	<string id="st_stalker_letter_1_of_2_name">
+		<text>Pamiętnik (część 1 z 2)</text>
+	</string>
+	<string id="st_stalker_letter_1_of_2_desc">
+		<text>Kilka stron wyrwanych z pamiętnika. Zapisane niebieskim atramentem, rozmazanym na skutek wpływu środowiska. Tekst jest ledwie czytelny, a autor pozostaje nieznany.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot osobisty\n
+		</text>
+	</string>
+	<string id="st_stalker_letter_2_of_2_name">
+		<text>Pamiętnik (część 2 z 2)</text>
+	</string>
+	<string id="st_stalker_letter_2_of_2_desc">
+		<text>Kilka stron wyrwanych z pamiętnika. Zapisane niebieskim atramentem, rozmazanym na skutek wpływu środowiska. Tekst jest ledwie czytelny, a autor pozostaje nieznany.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot osobisty\n
+		</text>
+	</string>
+	<string id="st_ecologist_report_1_of_3_name">
+		<text>Raport polowy 39B rew. 2 (część 1 z 3)</text>
+	</string>
+	<string id="st_ecologist_report_1_of_3_desc">
+		<text>Maszynopis ostemplowany pieczątką grupy badawczej Ekologów. Sklasyfikowany jako ściśle poufny. Na dokumencie widnieje podpis: %c[ui_gray_1]Arkadij Ćwietkowskij.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot naukowy\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot osobisty\n
+		</text>
+	</string>
+	<string id="st_ecologist_report_2_of_3_name">
+		<text>Raport polowy 39B rew. 2 (część 2 z 3)</text>
+	</string>
+	<string id="st_ecologist_report_2_of_3_desc">
+		<text>Maszynopis ostemplowany pieczątką grupy badawczej Ekologów. Sklasyfikowany jako ściśle poufny. Na dokumencie widnieje podpis: %c[ui_gray_1]Arkadij Ćwietkowskij.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot naukowy\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot osobisty\n
+		</text>
+	</string>
+	<string id="st_ecologist_report_3_of_3_name">
+		<text>Raport polowy 39B rew. 2 (część 3 z 3)</text>
+	</string>
+	<string id="st_ecologist_report_3_of_3_desc">
+		<text>Maszynopis ostemplowany pieczątką grupy badawczej Ekologów. Sklasyfikowany jako ściśle poufny. Na dokumencie widnieje podpis: %c[ui_gray_1]Arkadij Ćwietkowskij.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot naukowy\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot osobisty\n
+		</text>
+	</string>
+	<string id="st_monolith_prayer_1_of_3_name">
+		<text>Modlitwa Monolitu (część 1 z 3)</text>
+	</string>
+	<string id="st_monolith_prayer_1_of_3_desc">
+		<text>Dokument bez konkretnego tytułu, zawierający kilka zdań zapisanych jedno pod drugim. Częste odniesienia do Monolitu sugerują religijny charakter tekstu. Papier jest w bardzo dobrym stanie, co świadczy o tym, że traktowano go z należną czcią i darzono szacunkiem tak, by nie uległ żadnym uszkodzeniom.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot osobisty\n
+		</text>
+	</string>
+	<string id="st_monolith_prayer_2_of_3_name">
+		<text>Modlitwa Monolitu (część 2 z 3)</text>
+	</string>
+	<string id="st_monolith_prayer_2_of_3_desc">
+		<text>Dokument bez konkretnego tytułu, zawierający kilka zdań zapisanych jedno pod drugim. Częste odniesienia do Monolitu sugerują religijny charakter tekstu. Papier jest w bardzo dobrym stanie, co świadczy o tym, że traktowano go z należną czcią i darzono szacunkiem tak, by nie uległ żadnym uszkodzeniom.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot osobisty\n
+		</text>
+	</string>
+	<string id="st_monolith_prayer_3_of_3_name">
+		<text>Modlitwa Monolitu (część 3 z 3)</text>
+	</string>
+	<string id="st_monolith_prayer_3_of_3_desc">
+		<text>Dokument bez konkretnego tytułu, zawierający kilka zdań zapisanych jedno pod drugim. Częste odniesienia do Monolitu sugerują religijny charakter tekstu. Papier jest w bardzo dobrym stanie, co świadczy o tym, że traktowano go z należną czcią i darzono szacunkiem tak, by nie uległ żadnym uszkodzeniom.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot osobisty\n
+		</text>
+	</string>
+	<string id="st_monolithian_thoughts_name">
+		<text>Dziennik Monolitowca</text>
+	</string>
+	<string id="st_monolithian_thoughts_desc">
+		<text>Ręcznie zapisana kartka papieru. Na początku tekst jest bardzo chaotyczny, nieczytelny i nieskładny, jakby autor cierpiał w wyniku poważnych zaburzeń psychicznych. Co ciekawe, kolejne zdania stają się coraz bardziej zrozumiałe, litery coraz równiejsze, a ostatnie słowa zapisane są ze starannością godną maszynopisu.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot osobisty\n
+		</text>
+	</string>
+	<string id="st_letter_to_outside_name">
+		<text>List do Nataszy</text>
+	</string>
+	<string id="st_letter_to_outside_desc">
+		<text>Zwykły list, pewnie napisany przez jednego ze stalkerów do kogoś za Kordonem, może do żony, albo dziewczyny. Fakt, że trzymasz go w ręku świadczy o tym, że nigdy nie dotarł do odbiorcy.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot osobisty\n
+		</text>
+	</string>
+	<string id="st_letter_military_stalker_name">
+		<text>Notatka wojskowego stalkera</text>
+	</string>
+	<string id="st_letter_military_stalker_desc">
+		<text>Notatka znaleziona w schowku. Trudno określić, po co została napisana. Najprawdopodobniej ktoś w ten sposób zabijał czas w ciągu długiej, nudnej nocy i uznał, że lepiej będzie zostawić swoje dzieło dla potomnych, niż wrzucić je do ogniska.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot osobisty\n
+		</text>
+	</string>
+	<string id="st_letter_mercenary_name">
+		<text>Notatka najemnika</text>
+	</string>
+	<string id="st_letter_mercenary_desc">
+		<text>Krótka notatka napisana przez jednego z najemników. Wygląda na to, że zdecydował opisać swoje przemyślenia na temat Zony i tego, co w niej robi. Pełne przeznaczenie raczej nie do ustalenia.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot osobisty\n
+		</text>
+	</string>
+	<string id="st_letter_military_log_name">
+		<text>Dziennik komunikacji WZRN</text>
+	</string>
+	<string id="st_letter_military_log_desc">
+		<text>Wydruk transkrypcji transmisji radiowej między jednostkami wojskowymi stacjonującymi w Zonie. Fakt, że posiadał go przy sobie członek oddziału SKAT dowodzi, że był on zaangażowany w przebieg tajnej operacji, najprawdopodobniej polegającej na uzyskaniu dostępu do danych nadzorczych.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot wojskowy\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot osobisty\n
+		</text>
+	</string>
+	<string id="st_letter_stalker_letter_3_name">
+		<text>List do Mikołaja</text>
+	</string>
+	<string id="st_letter_stalker_letter_3_desc">
+		<text>Napisany odręcznie list zaadresowany do jakiegoś Mikołaja. Prawdopodobnie fragment korespondencji między dwoma stalkerami.\n \nMimo, że wymiana informacji odbywa się głównie za pomocą PDA, niektórzy wciąż preferują bardziej tradycyjne sposoby, zwłaszcza w sprawach prywatnych i do kontaktu z przyjaciółmi. Te listy przekazywane są kurierom, którym - podobnie, jak przewodnikom - powierza się najtrudniejsze i najbardziej niebezpieczne zadania.\n \nCzęsto dostarczenie adresatowi przesyłki zajmuje kilka dni, ale szansa na przejęcie wiadomości jest znacznie niższa, niż w przypadku komunikowania się przez PDA. Zawód kuriera jest szanowany przez stalkerów, a ludzie zajmujący się dostarczaniem przesyłek mają duży wpływ na społeczność stalkerów.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot osobisty\n
+		</text>
+	</string>
+</string_table>

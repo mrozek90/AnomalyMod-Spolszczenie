@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	
+	<string id="encyclopedia_historic">
+		<text>Historyczne</text>
+	</string>
+	
+	<string id="encyclopedia_historic_final_day">
+		<text>Dzień Sądu</text>
+	</string>
+	<string id="encyclopedia_historic_final_day_text">
+		<text>
+		\nFrakcję %c[guide_blue]Dzień Sądu%c[ui_gray] znaną także jako %c[guide_blue]Dzień Ostateczny%c[ui_gray] lub "%c[guide_blue]dzicy stalkerzy%c[ui_gray]" stanowili głównie naukowcy.\n
+			\n%c[guide_green]Informacje%c[ui_gray]\n
+			\nWierzyli, że Zona jest znakiem końca świata, rozszerzając się i obejmując większy teren z każdą emisją.\n \nPoza ich fascynacją zzombifikowanymi stalkerami i polowaniem na nie w celach badawczych wiadomo właściwie tylko tyle, że ich przywódca został zamordowany przez stalkera zwanego Duchem.\n \nZważywszy, że ich aktywność obserwowano krótko po emisji, która zdziesiątkowała Czyste Niebo, wydaje się prawdopodobnym, że Dzień Sądu utworzyła niewielka grupa ocalałych, którzy nie mogli poradzić sobie z tym, co widzieli w Elektrowni.
+			\n%c[pda_green]Statystyki%c[ui_gray_1]\n
+			\n• Przywódcy: nieznani\n• Siedziba: nieznana\n• Barwy: nieznane\n
+			\n%c[pda_green]Ciekawostki%c[ui_gray_1]
+			\n• Cała wiedza o frakcji opiera się o dokumenty projektowe gry.
+			\n• Frakcja usunięta z gry S.T.A.L.K.E.R.: Cień Czarnobyla.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_historic_isg">
+		<text>ISG</text>
+	</string>
+	<string id="encyclopedia_historic_isg_text">
+		<text>
+		%c[guide_blue]Międzynarodowa Grupa Badawcza%c[ui_gray] (ang: International Scientific Group) została założona do prowadzenia badań nad Zoną.\n
+			\n%c[guide_green]Informacje%c[ui_gray]\n
+			\nZe względu na nagłe pojawienie się Zony, ONZ powołało zespół badawczy, którego celem miało być zbadanie i wyjaśnienie jej fenomenu.\n \nNajbardziej interesującym pod względem naukowym wydawało się sześć dużych generatorów, znajdujących się na północ od elektrowni. To właśnie one stały się celem wyprawy dla nowej jednostki ONZ.\n \nPodczas trwającej kilka miesięcy misji, naukowcy musieli zmierzyć się problemami, do których w żaden sposób nie mogli się przygotować.\n \nBadaczy zaskakiwały niewidzialne anomalie, zmutowana przyroda siała spustoszenie. Niektórzy z dnia na dzień znikali bez wyjaśnienia tylko po to, by za jakiś czas powrócić jako zombie próbujące wyrządzić jak największe szkody byłym kolegom.\n \nEkspedycja szybko została odwołana, ze względu na gwałtowny wzrost liczby ofiar. Zespół osiągnął bardzo słabe wyniki, nie wypełniając żadnego z celów, do których został powołany.\n \nNiezrażony porażką zespołu ONZ, rząd Ukrainy powołał własny instytut badań nad Zoną - obecnie jego pracownicy zwani są zwykle Ekologami.
+			\n%c[pda_green]Statystyki%c[ui_gray_1]\n
+			\n• Przywódcy: nieznani\n• Siedziba: Generatory\n• Barwy: biel i czerwień\n
+			\n%c[pda_green]Ciekawostki%c[ui_gray_1]
+			\n• Frakcja usunięta z gry S.T.A.L.K.E.R.: Czyste Niebo.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_historic_renegade">
+		<text>Renegaci</text>
+	</string>
+	<string id="encyclopedia_historic_renegade_text">
+		<text>
+		%c[guide_blue]Renegaci%c[ui_gray] byli jednymi z najpodlejszych, najbardziej nikczemnych stalkerów w całej historii Zony.\n
+			\n%c[guide_green]Informacje%c[ui_gray]\n
+			\nCzłonkami frakcji byli stalkerzy, którzy zostali wyrzuceni za swoich pierwotnych grup za popełnione zbrodnie. Cechowali się całkowitym brakiem hamulców i brutalnością.\n \nJedynym prawem, którego przestrzegali było prawo siły. Żerowali głównie na najsłabszych przy krawędziach Zony - atakując najczęściej młodych i niedoświadczonych, nie mających w starciu żadnych szans.\n \nZepchnięci przez miażdżące siły przeciwników na Bagna. Pojedynczym watażkom i całym grupom barbarzyńców udało się scalić w jedną frakcję tylko ze względu na obecność i zagrożenie płynące ze strony Czystego Nieba.
+			\n%c[pda_green]Statystyki%c[ui_gray_1]\n
+			\n• Przywódcy: nieznani\n• Siedziba: Bagna\n• Barwy: różne\n
+			\n%c[pda_green]Ciekawostki%c[ui_gray_1]
+			\n• Frakcja przedstawiona bardzo powierzchownie w grze S.T.A.L.K.E.R.: Czyste Niebo.
+			\n• Jedynym powodem jej istnienia było umożliwienie graczowi dołączenia do bandytów.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_historic_rat_wolf">
+		<text>Szczurowilk</text>
+	</string>
+	<string id="encyclopedia_historic_rat_wolf_text">
+		<text>
+			%c[pda_white]Szczurowilki%c[ui_gray_1] były rzadkim podgatunkiem zmutowanych szczurów.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nDużo bardziej niebezpieczne w porównaniu do ich kuzynów faktycznie występujących w Zonie. Szczurowilki miały być wszystkożernymi maszynami do zabijania.\n \nCzęsto dowodziły stadami zwykłych szczurów. Jako, że były od nich od dwóch do trzech razy większe, można je było w łatwy sposób odróżnić.\n \nPoza wzrostem, różniło je niewiele. Szczurowilki miały większe i całkowicie czarne oczy, a ich górne części ciał były bardziej nadęte i tłuste.\n \nOstatecznie zadziałała selekcja naturalna. Przez to, że tak wyróżniały się swoimi nienaturalnymi rozmiarami,stanowiły łatwy cel dla żyjących w Zonie kotów i innych, podobnych rozmiarów mutantów.\n
+			\n%c[pda_green]Statystyki%c[ui_gray_1]
+			\n• Sposób ataku: fizyczny\n• Żywotność: średnia\n• Szybkość: średnia\n• Cechy szczególne: brak\n
+			\n%c[pda_green]Ciekawostki%c[ui_gray_1]
+			\n• Cała wiedza o tych mutantach opiera się o dokumenty projektowe gry.
+			\n• Mutant usunięty z gry S.T.A.L.K.E.R.: Cień Czarnobyla.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_historic_tark">
+		<text>Tark</text>
+	</string>
+	<string id="encyclopedia_historic_tark_text">
+		<text>
+			%c[pda_white]Tarki%c[ui_gray_1] to wymarłe koniowate, powstałe najprawdopodobniej w wyniku mutacji konia Przewalskiego.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nZe względu na ogromne promieniowanie, na jakie zostały wystawione w trakcie pojawienia się Zony, te kreatury w niewielkim stopniu przypominały swoich protoplastów.\n \nIch tylne nogi stały się atroficzne, podczas gdy przednie przesadnie urosły. Ogon i spora część pyska zaniknęły, ewentualnie pokryte były plamami rozkładu.\n \nPodobnie do mięsaczy, ciała tarków były przesadnie napuchnięte. Również tak, jak i zmutowane świnie, tarki polowały w dużych grupach - najprawdopodobniej ze względu na resztki instynktu stadnego.\n \nW przeciwieństwie do innych mutantów, te istoty były niezwykle dzikie i wyobcowane. Bardzo możliwe, ze ostatecznym powodem ich wyginięcia była wrodzona strachliwość, która doprowadzała poszczególne osobniki do szaleństwa.\n
+			\n%c[pda_green]Statystyki%c[ui_gray_1]
+			\n• Sposób ataku: fizyczny\n• Żywotność: średnia\n• Szybkość: duża\n• Cechy szczególne: szaleństwo.\n
+			\n%c[pda_green]Ciekawostki%c[ui_gray_1]
+			\n• Cała wiedza o tych mutantach opiera się o powód ich usunięcia.
+			\n• Tark przegrał w konkursie "Monster Ball" organizowanym przez GSC. Konkurs polegał na nadsyłaniu przez fanów produkcji własnych propozycji mutantów. Główną nagrodą miało być zaimplementowanie zwycięskiej propozycji do gry. Dzięki "Monster Ball" do gier z serii S.T.A.L.K.E.R. trafił... snork.
+		</text>
+	</string>
+	
+</string_table>

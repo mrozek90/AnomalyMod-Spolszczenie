@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="ls_header">
+		<text>S.T.A.L.K.E.R. Anomaly 1.5.1 PL</text>
+	</string>
+	<string id="ls_tip_number">
+		<text>Dobra rada #</text>
+	</string>
+	<string id="ls_tip_1">
+		<text>Unikaj przeciążania. To cię kiedyś zabije. Pamiętaj, żeby co jakiś czas sprzedawać graty, których nie potrzebujesz, albo upychać je po schowkach na zaś. Możesz użyć plecaków sprzedawanych przez handlarzy jako schowków.</text>
+	</string>
+	<string id="ls_tip_2">
+		<text>Patrosząc mutanty zdobędziesz trofea i mięso, które możesz usmażyć, kiedy zabraknie kasy na konserwę. Przygotuj sobie coś na zbicie promieniowania po takiej wyżerce.</text>
+	</string>
+	<string id="ls_tip_3">
+		<text>Bez podstawowych, zaawansowanych czy precyzyjnych narzędzi technicy nie będą mogli zainstalować ulepszeń broni i kombinezonów. Takie zestawy często znajdziesz w schowkach, o których dowiesz się w nagrodę za wykonywanie zadań.</text>
+	</string>
+	<string id="ls_tip_4">
+		<text>Potrzeba snu to opcjonalna funkcja, dzięki której upływ czasu i spożywanie odpowiednich przedmiotów będzie stopniowo męczyć postać gracza - w końcu wymuszając odpoczynek i potrzebę snu. Jego brak może mieć bardzo przykre konsekwencje.</text>
+	</string>
+	<string id="ls_tip_5">
+		<text>Patrole helikopterów to opcjonalna funkcja z bardzo dużym wpływem na Zonę. Kiedy zostanie włączona, członkowie frakcji posiadających helikopter będą mogli wzywać wsparcie lotnicze do pomocy w niszczeniu celów lub sił obronnych przeciwnika.</text>
+	</string>
+	<string id="ls_tip_6">
+		<text>Tryb Ironman daje prawdziwe poczucie śmiertelności. Kiedy gracz straci ostatnie życie, wszystkie zapisy danej postaci zostaną permanentnie usunięte. Mądrze wybieraj lokalizację początkową i frakcję.</text>
+	</string>
+	<string id="ls_tip_7">
+		<text>Zapoznaj się z zestawami do szycia, smarami i klejem w tubce. Pomogą ci utrzymać wyposażenie w dobrym stanie, jeśli nie możesz zanieść ich w niedługim czasie do technika. Pełne zestawy naprawcze są skuteczniejsze, ale dużo rzadsze, cięższe i droższe.</text>
+	</string>
+	<string id="ls_tip_8">
+		<text>Plecaki można kupić albo znaleźć i użyć do utworzenia własnego schowka. Schowki utworzone przez gracza nigdy nie znikają, a inni stalkerzy nie mają do nich dostępu. Pozostają permanentne do czasu zabrania wszystkich przedmiotów.</text>
+	</string>
+	<string id="ls_tip_9">
+		<text>Śpiwór to świetna sprawa do zażywania odpoczynku w Zonie, jeśli akurat w twojej okolicy nie ma żadnego przyzwoitego łóżka. Mają je w ofercie najważniejsi handlarze, ale wielu stalkerów zostawia je w swoich schowkach.</text>
+	</string>
+	<string id="ls_tip_10">
+		<text>Cmentarzysko Pojazdów to wielki plac cywilnych, wojskowych i rolniczych pojazdów użytych w 1986 roku. Mimo promieniowania, to świetna miejscówka na ukrycie schowka. Stalker z dobrym wzrokiem na pewno znajdzie tam sporo wartościowego chabaru.</text>
+	</string>
+	<string id="ls_tip_11">
+		<text>Artefakty mogą chronić przed anomaliami, z których pochodzą. Szukasz czegoś, co da ci lepszą ochronę przed ogniem? Znajdź sobie obiecujący Spalacz albo Kometę i wyciągaj detektor!</text>
+	</string>
+	<string id="ls_tip_12">
+		<text>Wykonywanie zadań na rzecz frakcji podnosi poziom ich przychylności wobec ciebie. W miarę poprawy relacji między wami ich handlarze będą powiększać asortyment i obniżać ceny.</text>
+	</string>
+	<string id="ls_tip_13">
+		<text>Ranga ma osiem poziomów i może ulegać zmianom dzięki prawie każdej aktywności dostępnej w grze. Niektóre funkcje wymagają osiągnięcia pewnej rangi zanim będzie można z nich skorzystać, czy odblokować w pełni.</text>
+	</string>
+	<string id="ls_tip_14">
+		<text>Większość zadań możesz anulować po ich przyjęciu. Zrób to rozmawiając ze zleceniodawcą. Pamiętaj tylko, że spadnie ci reputacja i poziom uznania.</text>
+	</string>
+	<string id="ls_tip_15">
+		<text>Reputacja daje obraz tego, jak dany stalker postrzegany jest przez przez frakcję. Można ją zyskać lub stracić dzięki (odpowiednio) pomaganiu lub krzywdzeniu przypadkowych stalkerów.</text>
+	</string>
+	<string id="ls_tip_16">
+		<text>Reputacja jest dynamiczna i zmienia się dosyć często. Dostępne są następujące poziomy: najgorsza, okropna, ponura, wątpliwa, neutralna, dobra, świetna, znakomita i najlepsza.</text>
+	</string>
+	<string id="ls_tip_17">
+		<text>Mroczny Wąwóz to puszcza między Kordonem i Doliną Mroku. Mimo, że jest tam co zwiedzać, najczęściej przesiadują w nim samotnicy i bandyci z nagrodą wyznaczoną za ich głowy.</text>
+	</string>
+	<string id="ls_tip_18">
+		<text>Pamiętaj, żeby pytać zwykłych stalkerów, czy nie mają pracy. To, że nie są nikim ważnym nie znaczy, że nie zechcą zapłacić komuś innemu za ubrudzenie sobie rąk.</text>
+	</string>
+	<string id="ls_tip_19">
+		<text>Arena w Rostoku organizuje dwa rodzaje imprez: typowe zawody, gdzie stalkerzy walczą ze sobą za pieniądze oraz wyzwania, które polegają na zabijaniu coraz to silniejszych mutantów.</text>
+	</string>
+	<string id="ls_tip_20">
+		<text>Promień wykluczenia online może być zmieniony w menu opcji. Jego zadaniem jest stworzenie wokół gracza strefy braku spawnu, dzięki której żaden mutant ani wrogo nastawiony stalker nie zaskoczy cię nagłym pojawieniem się tuż za plecami.</text>
+	</string>
+	<string id="ls_tip_21">
+		<text>Zimnego, Zarodnika i resztę najważniejszych członków Czystego Nieba możesz zapytać o ich historię. To pomoże ci zrozumieć, czemu ich frakcja nadal istnieje.</text>
+	</string>
+	<string id="ls_tip_22">
+		<text>Odkąd Szulga opuścił Janów, by walczyć z Monolitem, Wolność całkowicie przejęła teren stacji kolejowej. Wielu stalkerów, którzy odeszli z tej frakcji, zgłosiło się ponownie, by umocnić pozycję w Janowie.</text>
+	</string>
+	<string id="ls_tip_23">
+		<text>Osiągnięcie "Kropka nad i" otrzymasz za odblokowanie wszystkich pozostałych osiągnięć. Ich dostępność zależy od wybranego trybu gry, a nawet tego, do której frakcji należysz.</text>
+	</string>
+	<string id="ls_tip_24">
+		<text>Dużo łatwiej uniknąć wykrycia, przemieszczając się w nocy lub w czasie ulewy. Za to zwiększa się ryzyko napotkania groźnych mutantów.</text>
+	</string>
+	<string id="ls_tip_25">
+		<text>Porównywanie cen czystego, zdrowego jedzenia u handlarzy to dobry nawyk. A zabieranie go ze sobą na wyprawę - jeszcze lepszy. Pamiętaj, żeby zabrać też coś do popicia.</text>
+	</string>
+	<string id="ls_tip_26">
+		<text>Dostępne są różne typy plecaków. Niektóre pozwolą ci taszczyć więcej chabaru, a inne - jak plecak myśliwski - dadzą bonus do umiejętności.</text>
+	</string>
+	<string id="ls_tip_27">
+		<text>Jeśli gra staje się trochę zbyt wymagająca, możesz spróbować obniżyć poziom trudności za pomocą opcji postępu. Wczytaj grę, wyjdź do menu głównego i wciśnij F1, albo znajdź opcje w ustawieniach.</text>
+	</string>
+	<string id="ls_tip_28">
+		<text>Bazy frakcji zazwyczaj posiadają medyka, który za drobną opłatą poskłada cię do kupy i wyciągnie z ciebie promieniowanie. Medycy sprzedają leki taniej, niż inni handlarze.</text>
+	</string>
+	<string id="ls_tip_29">
+		<text>Handlarze, zwłaszcza ci, którzy mają konszachty w całej Zonie pomogą ci dogadać się z wrogą frakcją w sprawie czasowego zawieszenia broni. A czy zawieszenie broni jest cokolwiek warte... to zależy.</text>
+	</string>
+	<string id="ls_tip_30">
+		<text>Ekologom wiecznie brakuje próbek mutantów, zwłaszcza tych najrzadszych. Dobrze za nie płacą. Niektórzy naukowcy mogą prosić cię o dostarczenie konkretnych egzemplarzy za jeszcze lepsze pieniądze.</text>
+	</string>
+	<string id="ls_tip_31">
+		<text>Zawsze noś latarkę i rozważ inwestycję w noktowizor. Nigdy nie wiesz, kiedy zdarzy się tak, że wylądujesz w środku nocy na totalnym zadupiu.</text>
+	</string>
+	<string id="ls_tip_32">
+		<text>Zbieraj każdy jeden pocisk, nieważne jakiego kalibru i trzymaj, choćby nie wiem co. A nuż akurat jutro będziesz potrzebował takiej amunicji? Naboje to także dobre źródło przychodu.</text>
+	</string>
+	<string id="ls_tip_33">
+		<text>Nie olewaj broni tylko dlatego, że "nie jest w twoim typie". Amunicja jest tu deficytowa, a nawet najlepszy snajper kiedyś będzie musiał dać dyla ze stanowiska. I czym się wtedy obroni?</text>
+	</string>
+	<string id="ls_tip_34">
+		<text>Daleko zajdziesz, inwestując w ochronę psioniczną. Koniecznie załatw sobie jakieś pigułki blokujące - Czarny Stalker jeden wie, kiedy wpadniesz na kontrolera.</text>
+	</string>
+	<string id="ls_tip_35">
+		<text>Cicho, nasłuchuj. Dźwięk niesie się po wzgórzach i przez najgęstsze zarośla. Słaby, ale znajomy odgłos może wystarczyć, żebyś przygotował się do ataku z zaskoczenia.</text>
+	</string>
+	<string id="ls_tip_36">
+		<text>Nie wyrzucaj pistoletu. Noś go ze sobą na wszelki wypadek. Waży tyle, co nic, jest łatwy w obsłudze i tani w utrzymaniu. Jeśli zadbasz o swój pistolet, on na pewno zadba o ciebie.</text>
+	</string>
+	<string id="ls_tip_37">
+		<text>Handlarze zlecą ci poważniejszą robotę, kiedy poprawisz swoją reputację względem frakcji, do których należą. Pamiętaj, że jaka praca, taka płaca - dobrze płatne fuchy na pewno będą wymagały lepszych umiejętności.</text>
+	</string>
+	<string id="ls_tip_38">
+		<text>Zachomikuj sobie parę artefaktów. Może dzięki nim uda ci się złowić jeszcze lepsze.</text>
+	</string>
+	<string id="ls_tip_39">
+		<text>Jeśli zaczynasz przegrywać bitwę, rozważ ucieczkę. Nie tylko zachowasz życie, ale zaoszczędzisz kupę szmalu i leków.</text>
+	</string>
+	<string id="ls_tip_40">
+		<text>Zaczęli do ciebie strzelać? Zachowaj spokój, policz wystrzały i pruj do nich, kiedy będą przeładowywać.</text>
+	</string>
+	<string id="ls_tip_41">
+		<text>Miej przy sobie coś do zatamowania krwawienia. Medyk może i da radę poskładać cię do kupy, ale dopiero pod warunkiem, że się nie wykrwawisz idąc do niego.</text>
+	</string>
+	<string id="ls_tip_42">
+		<text>Używaj tłumika i podkradaj się do grup przeciwników - może to nie peleryna niewidka, ale na pewno kupisz sobie trochę czasu, zanim zorientują się, gdzie jesteś.</text>
+	</string>
+	<string id="ls_tip_43">
+		<text>Większość stalkerów łowi artefakty na południu Zony, ale weterani wiedzą, że najlepsze miejsca są na północ od Czerwonego Lasu. Szkoda, że tylko nieliczni mogą się poszczycić przetrwaniem w tamtych stronach bez przygotowania.</text>
+	</string>
+	<string id="ls_tip_44">
+		<text>Szukanie artefaktów bez osprzętu to samobójstwo. Zaplanuj wymarsz i sprawdź, czy szpej zapewnia odpowiednią ochronę, czy masz naładowany detektor i kilka ołowianych pojemników. Wyjdź na pusto, żebyś dał radę wrócić z łupem.</text>
+	</string>
+	<string id="ls_tip_45">
+		<text>Uprzedzony to uzbrojony. Zdobywaj informacje, zanim wyruszysz dalej.</text>
+	</string>
+	<string id="ls_tip_46">
+		<text>Jeśli trafisz na kontrolera, znajdź coś, co osłoni cię przed jego wzrokiem (drzewo, głaz, ściana). Bez utrzymania kontaktu wzrokowego nie przetrzepie ci mózgu.</text>
+	</string>
+	<string id="ls_tip_47">
+		<text>Najlepszym środkiem obrony przed mutantami są inni stalkerzy.</text>
+	</string>
+	<string id="ls_tip_48">
+		<text>Stimpaki są całkiem przydatne. Dają kopa dużo szybciej, niż apteczki.</text>
+	</string>
+	<string id="ls_tip_49">
+		<text>Hełm na głowie wpływa na możliwość sprintu, zakuty łbie.</text>
+	</string>
+	<string id="ls_tip_50">
+		<text>Miej jakąś pomocniczą spluwę, na której możesz polegać, gdyby nagle zabrakło ci amunicji w głównej broni. Stalkerzy lubią mieć awaryjne pistolety, ale obrzyn za pazuchą też zrobi robotę.</text>
+	</string>
+	<string id="ls_tip_51">
+		<text>Udźwig to ważna rzecz, kiedy idziesz szukać artefaktów. Może zostaw część gratów w bezpiecznym miejscu, zanim wleziesz w środek pola anomalii? Potem - o ile przeżyjesz - zgarniesz je z powrotem.</text>
+	</string>
+	<string id="ls_tip_52">
+		<text>Odbiornik radiowy pomoże ci znaleźć rzeczy ukryte z dala od ciebie. Częstotliwość zmienisz klikając LPM / PPM i SHIFT + LPM / PPM. Nie zapominaj, że do kręcenia pokrętłem musisz mieć wolną rękę; z pistoletem w dłoni zrobisz sobie krzywdę.</text>
+	</string>
+	<string id="ls_tip_53">
+		<text>Chociaż wojskowi są nastawieni do stalkerów agresywnie, niektórym z nich można dać w łapę, żeby przez jakiś czas patrzyli w innym kierunku.</text>
+	</string>
+	<string id="ls_tip_54">
+		<text>Dbaj o swój szpej, żeby i on dbał o ciebie.</text>
+	</string>
+	<string id="ls_tip_55">
+		<text>Żeby przenosić pełną pulę przedmiotów danego rodzaju do/z ekwipunku, przytrzymaj CTRL i kliknij dwa razy na wybranym przedmiocie.</text>
+	</string>
+	<string id="ls_tip_56">
+		<text>Używanie starej amunicji przyspiesza zużycie broni, co nie znaczy, że jest ona bezużyteczna - w awaryjnej sytuacji lepsza taka, niż żadna.</text>
+	</string>
+	<string id="ls_tip_57">
+		<text>Sprawdzaj PDA znalezione przy zwłokach. Często zawierają wartościowe informacje. Jeśli nie możesz uzyskać dostępu, poproś kogoś, kto zna się na elektronice o odblokowanie.</text>
+	</string>
+	<string id="ls_tip_58">
+		<text>Możesz sprawdzić szczegóły przedmiotu, klikając na niego PPM. Znajdziesz tam informacje takie jak jego opis, stan poszczególnych elementów, a w przypadku broni i strojów - możliwe do instalacji ulepszenia wraz z niezbędnymi częściami.</text>
+	</string>
+	<string id="ls_tip_59">
+		<text>Naprawa poważnie uszkodzonych przedmiotów u technika będzie bardzo kosztowna. Zdobądź sprawne części zamienne rozbierając znaleziony szpej, a zaoszczędzisz trochę grosza, jeśli spróbujesz wymienić je samodzielnie.</text>
+	</string>
+	<string id="ls_tip_60">
+		<text>Wsłuchaj się w anomalie: czasem łatwiej określić ich pozycję na słuch, niż wzrokiem.</text>
+	</string>
+	<string id="ls_tip_61">
+		<text>Zrób użytek z min do zastawiania pułapek. Najlepiej używać ich naprowadzając na nie wrogów, czy wywabiając ukryte cele.</text>
+	</string>
+	<string id="ls_tip_62">
+		<text>Zawsze miej w plecaku parę apteczek, bloker psioniczny i anabiotyk w przypadku, gdy nastąpi emisja, a w pobliżu nie będzie żadnego bezpiecznego schronienia. Może nie zapewnią ci pełnej ochrony, ale zwiększą szanse na dotarcie do schronu zanim wypali ci mózg.</text>
+	</string>
+	<string id="ls_tip_63">
+		<text>Zbieraj naboje do broni, z których raczej nie korzystasz, a na dłuższą metę zaoszczędzisz trochę grosza. Nawet stare pociski mogą się przydać - wciąż można nimi strzelać albo przerabiać z użyciem narzędzi rusznikarskich.</text>
+	</string>
+	<string id="ls_tip_64">
+		<text>Wychodzisz w Zonę? Weź ze sobą tylko najpotrzebniejsze rzeczy. Dzięki temu będziesz miał więcej miejsca na chabar.</text>
+	</string>
+	<string id="ls_tip_65">
+		<text>Zerkaj w detektor możliwie często. Czasem artefakty pojawiają się nawet po burzach psionicznych.</text>
+	</string>
+	<string id="ls_tip_66">
+		<text>Opóźnienie napraw to opcjonalna funkcja dostępna w ogólnych ustawieniach rozgrywki. Jej włączenie skutkuje koniecznością pozostawienia ekwipunku na jakiś czas u technika, by ten mógł go naprawić.</text>
+	</string>
+	<string id="ls_tip_67">
+		<text>Może i na pierwszy rzut oka opłaca się być zdradzieckim chujkiem, ale na dłuższą metę ci, którym zaleziesz za skórę wpadną na pomysł, żeby cię odstrzelić. Nawet jeśli spróbujesz się gdzieś przyczaić, ktoś cię wytropi i pośle do piachu.</text>
+	</string>
+	<string id="ls_tip_68">
+		<text>Osiągnięcie "Wyścig zbrojeń" otrzymasz dostarczając wszystkie trzy zestawy narzędzi jednemu z techników. Po otrzymaniu osiągnięcia, przedmioty używane do naprawy wyposażenia będą bardziej efektywne.</text>
+	</string>
+	<string id="ls_tip_69">
+		<text>Niektórzy starzy wyjadacze nadal korzystają z papierowych notatników zamiast PDA. Warto czasem zerknąć w ich zapiski - może nawet czegoś się nauczysz?</text>
+	</string>
+	<string id="ls_tip_70">
+		<text>Każde urządzenie korzysta z własnego zasilania. Jeśli coś przestaje działać, po prostu wymień baterie. Możesz to zrobić klikając PPM na urządzeniu w twoim ekwipunku.</text>
+	</string>
+	<string id="ls_tip_71">
+		<text>Zapamiętuj odgłosy wydawane przez różne mutanty. Świadomość, co dokładnie próbuje się do ciebie podkraść pomoże wybrać taktykę obrony.</text>
+	</string>
+	<string id="ls_tip_72">
+		<text>Zawsze miej przy sobie magazynek czy dwa amunicji przeciwpancernej. Może mutanty nie noszą pancerza, ale wrodzy stalkerzy owszem.</text>
+	</string>
+	<string id="ls_tip_73">
+		<text>Leki przeciwpromienne mają swoje tańsze zamienniki, choć niektóre z nich mają poważne efekty uboczne. Uważaj przy łączeniu ich z innymi, a w ostateczności skonsultuj się z lekarzem lub farmaceutą, gdyż każdy lek niewłaściwie stosowany zagraża twojemu życiu lub zdrowiu.</text>
+	</string>
+	<string id="ls_tip_74">
+		<text>Nawet najbardziej wytrzymały komandos szybko padnie z wycieńczenia, jeśli całe dnie będzie tylko biegał maratony i strzelał do przeciwników. Pamiętaj o odpowiednim odżywianiu się i uzupełnianiu płynów.</text>
+	</string>
+	<string id="ls_tip_75">
+		<text>Zgaś latarkę, skoro próbujesz się zakraść.</text>
+	</string>
+	<string id="ls_tip_76">
+		<text>"I tobie nie chorować!" Zdrowie to podstawa. Jeśli możesz - unikaj narkotyków i używek, jedz tylko nieskażoną żywność, pij filtrowaną wodę i śpij regularnie.</text>
+	</string>
+	<string id="ls_tip_77">
+		<text>Narzędzia się zużywają. Niektóre z nich - noże, na przykład - można naprawić. Większość jednak ma ograniczoną ilość użyć więc lepiej miej coś w zapasie.</text>
+	</string>
+	<string id="ls_tip_78">
+		<text>Dobrze sprawdź teren, po którym zamierzasz się przemieszczać. Zauważenie pijawki zanim ona zauważy ciebie może uratować ci życie.</text>
+	</string>
+	<string id="ls_tip_79">
+		<text>W czasie walki z pojedynczym przeciwnikiem najlepiej schować się za osłoną. Poczekaj i po prostu zacznij strzelać, kiedy on przestanie.</text>
+	</string>
+	<string id="ls_tip_80">
+		<text>Zwracaj uwagę na stan baterii w swoich urządzeniach i miej parę sztuk w zapasie. Nie chcesz, żeby PDA zdechło ci w najgorszym możliwym momencie.</text>
+	</string>
+	<string id="ls_tip_81">
+		<text>Jeśli opcja "Ograniczona ilość śrub" jest włączona, mogą ci się one skończyć. Odwiedź handlarza, by kupić kolejne paczki. Od biedy, stare łuski po nabojach też dadzą radę.</text>
+	</string>
+	<string id="ls_tip_82">
+		<text>Licznik Geigera ma trzy tryby pracy: aktywny - pokazuje wartość promieniowania, gdy trzymasz go w ręku; ciągły - pokazuje wartość, jeśli jest w twoim ekwipunku; bieżący - pokazuje wartość w momencie naciśnięcia właściwego przycisku, o ile licznik jest w twoim ekwipunku.</text>
+	</string>
+	<string id="ls_tip_83">
+		<text>Zestawy do wytwarzania leków pozwalają tworzyć medykamenty samodzielnie, używając przedmiotów, które inaczej pewnie byś po prostu wyrzucił.</text>
+	</string>
+	<string id="ls_tip_84">
+		<text>Zestawy rusznikarskie mogą zostać użyte do przerabiania starej amunicji z użyciem części pocisków w celu uzyskania nabojów o lepszych właściwościach.</text>
+	</string>
+	<string id="ls_tip_85">
+		<text>Niektórzy handlarze chętnie odkupują PDA od stalkerów. Im więcej PDA dostarczysz, tym lepsze będą z tego pieniądze, zwłaszcza po odblokowaniu osiągnięcia "Mądrzejszy od Sidorowicza".</text>
+	</string>
+	<string id="ls_tip_86">
+		<text>Dostęp do najlepszego wyposażenia uzyskasz dopiero, gdy udowodnisz swoją wartość handlarzowi frakcji. Uzyskasz go również po odblokowaniu osiągnięcia "Pełne Kieszenie".</text>
+	</string>
+	<string id="ls_tip_87">
+		<text>Możesz grać na instrumentach muzycznych używając ich w menu ekwipunku.</text>
+	</string>
+	<string id="ls_tip_88">
+		<text>Jeśli potrzebujesz dostać się w jakieś miejsce, ale nie znasz drogi, spróbuj wypytać handlarza.</text>
+	</string>
+	<string id="ls_tip_89">
+		<text>Przewodników znajdziesz głównie w barach i w bazach frakcji. Za opłatą przeprowadzą cię bezpiecznie, gdziekolwiek zechcesz.</text>
+	</string>
+	<string id="ls_tip_90">
+		<text>Aslan, barman najemników w Martwym Mieście prowadzi "loterię", w której uczestniczą inni najemnicy. Jedyne, czego potrzebujesz, to naszywek innych stalkerów.</text>
+	</string>
+	<string id="ls_tip_91">
+		<text>Technicy potrzebują elementów broni do pracy. Sprzedaż niepotrzebnych części zamiennych da ci zastrzyk gotówki, ale nie spodziewaj się z tego żadnych kokosów.</text>
+	</string>
+	<string id="ls_tip_92">
+		<text>Za tysiąc rubli większość techników pozwoli ci skorzystać ze swojego warsztatu, żebyś mógł sam naprawić swoje graty.</text>
+	</string>
+	<string id="ls_tip_93">
+		<text>Możesz werbować jako towarzyszy innych stalkerów, o ile wystarczająco cię szanują. Pamiętaj, że bierzesz wtedy za nich pełną odpowiedzialność - jak coś im się stanie, ty za to bekniesz.</text>
+	</string>
+	<string id="ls_tip_94">
+		<text>Domyślnie środkowy przycisk myszy otwiera menu wydawania rozkazów towarzyszom.</text>
+	</string>
+	<string id="ls_tip_95">
+		<text>Do demontażu strojów i broni będziesz potrzebował odpowiednich narzędzi. Można je kupić u handlarzy i techników.</text>
+	</string>
+	<string id="ls_tip_96">
+		<text>Wbrew popularnemu przekonaniu, łażenie non stop w masce przeciwgazowej nie uchroni cię od konieczności jedzenia i picia.</text>
+	</string>
+	<string id="ls_tip_97">
+		<text>Padłeś? Powstań. Wczytaj zapis!</text>
+	</string>
+	<string id="ls_tip_98">
+		<text>Nie zatrzymuj się. Serio. Nieruchome cele łatwiej trafić.</text>
+	</string>
+	<string id="ls_tip_99">
+		<text>Zachowaj czujność, stalkerze. Śmierć zawsze czai się w pobliżu. Jeśli ją zobaczysz, celuj w głowę.</text>
+	</string>
+	<string id="ls_tip_100">
+		<text>Z głodu umrzesz w ciągu tygodnia, ale po postrzale zdechniesz w kilka sekund. Utrzymuj kombinezon w dobrym stanie, to może pożyjesz trochę dłużej.</text>
+	</string>
+	<string id="ls_tip_101">
+		<text>Nie wahaj się sprawdzać Przewodnika w PDA. Pewnie znajdziesz tam odpowiedź na to, co cię trapi.</text>
+	</string>
+</string_table>

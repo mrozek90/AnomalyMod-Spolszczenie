@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+
+<!--
+	Basic items (Some are not used anymore)
+-->
+
+<string_table>
+
+	<string id="st_itm_campfire">
+		<text>Ognisko</text>
+	</string>
+	<string id="st_itm_campfire_descr">
+		<text>Ogniska jako tako nie możesz przenieść. Zresztą, w ogóle nie powinieneś tego widzieć, sio! No, już! Idź, postrzelaj do mięsaczy, czy coś.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[0,100,255,255] • %c[ui_gray_2] ulubione miejsce stalkerów\n
+		%c[0,100,255,255] • %c[ui_gray_2] można użyć do gotowania\n
+		%c[0,100,255,255] • %c[ui_gray_2] można opowiadać historie\n
+		%c[0,100,255,255] • %c[ui_gray_2] można połączyć z gitarą i wódką\n
+		</text>
+	</string>
+	
+	<string id="st_poxod_rukzak">
+		<text>Anomalny plecak</text>
+	</string>
+	<string id="st_poxod_rukzak_descr">
+		<text>Na pierwszy rzut oka, ten plecak nie posiada, żadnych użytecznych właściwości. Jednak umieszczone w nim przedmioty z czasem tracą na wadze. Plotka głosi, że jest to wynikiem transportu plecaków dla wojska, przypadkowo złapanego w anomalię. Próby odtworzenia jego unikalnych właściwości przez naukowców zakończyły się niepowodzeniem. Partie anomalnych plecaków zostały zakupione przez wpływowych ludzi w Strefie, którzy nadal eksportują je na cały świat.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] unikalny przedmiot\n
+		</text>
+	</string>
+
+	<string id="st_bolt">
+		<text>Śruba</text>
+	</string>
+	<string id="st_bolt_descr">
+		<text>Typowa, zardzewiała śruba. Stalkerzy dzięki takim przedmiotom mogą wyznaczać bezpieczne ścieżki przez pola anomalii.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[ui_gray_2] • %c[ui_gray_2] przedmiot codziennego użytku\n
+		%c[ui_gray_2] • %c[ui_gray_2] nieskończony\n
+		</text>
+	</string>
+	
+	<string id="st_bolty">
+		<text>Śruba</text>
+	</string>
+	<string id="st_bolty_descr">
+		<text>Typowa, zardzewiała śruba. Stalkerzy dzięki takim przedmiotom mogą wyznaczać bezpieczne ścieżki przez pola anomalii.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[ui_gray_2] • %c[ui_gray_2] przedmiot codziennego użytku\n
+		</text>
+	</string>
+	
+	<string id="st_bolt_bullet">
+		<text>Pusta łuska</text>
+	</string>
+	<string id="st_bolt_bullet_descr">
+		<text>Czasem stalkerzy korzystają z łusek po nabojach zamiast śrub do wyznaczania bezpiecznych ścieżek przez pola anomalii.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[ui_gray_2] • %c[ui_gray_2] przedmiot codziennego użytku\n
+		</text>
+	</string>
+	
+	<string id="st_identity_card">
+		<text>Dowód osobisty USS </text>
+	</string>
+	<string id="st_identity_card_descr">
+		<text>To jest twój dowód osobisty, który ujawnia Twoją prawdziwą tożsamość. Trzymaj go w ukryciu. Jako Szturmowiec USS specjalizujesz się w karabinach szturmowych i ciężkiej broni. Specjalizujesz się także w kontroli odrzutu broni. Niska prędkość sprintu.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot osobisty\n
+		</text>
+	</string>
+	<string id="st_identity_card_assaulter_descr">
+		<text>Jako Szturmowiec USS masz wyjątkowe mocne i słabe strony.\n\n
+		%c[d_cyan]WYPOSAŻENIE\n
+		%c[default]Zwinność w ciężkim pancerzu: %c[d_red_1]A+\n
+		%c[d_blue] • %c[default]Zamknięta zwinność oddechowa : %c[d_red_1]C\n
+		%c[d_blue] • %c[default]Używanie artefaktów: %c[d_red_1]C\n\n
+		%c[d_cyan]BROŃ\n
+		%c[d_blue] • %c[default]Walka nożem: %c[d_red_1]A+\n
+		%c[d_blue] • %c[default]Specjalizacja w obsłudze: %c[d_red_1]Broni z dużym odrzutem\n
+		%c[d_blue] • %c[default]Specjalność w konserwacji: %c[d_red_1]Broni ciężkiej\n\n
+		%c[d_cyan]MEDYCYNA\n
+		%c[d_blue] • %c[default]Zręczność w używaniu bandaży/apteczek: %c[d_red_1]B\n
+		%c[d_blue] • %c[default]Umiejętności medyczne: %c[d_red_1]C\n
+		%c[d_blue] • %c[default]Umiejętności posługiwania się lekami: %c[d_red_1]C\n\n
+		%c[d_cyan]GIMNASTYKA\n
+		%c[d_blue] • %c[default]Wytrzymałość: %c[ui_gray_1] %c[d_red_1]bardzo wysoka\n
+		%c[d_blue] • %c[default]Prędkość sprintu: %c[d_red_1]wolna\n
+		%c[d_blue] • %c[default]Wysokość skoku: %c[d_red_1]niska\n
+		%c[d_blue] • %c[default]Zwinność w upadku/skoku: %c[d_red_1]niska\n
+		%c[d_blue] • %c[default]Bazowa wytrzymałość: %c[d_red_1]niska\n
+		%c[d_blue] • %c[default]Maksymalny udźwig: %c[ui_gray_1] %c[d_red_1]wysoki\n\n
+		%c[d_cyan]PROFIL ZDROWOTNY\n
+		%c[d_blue] • %c[default]Wskaźnik spożycia żywności: %c[d_red_1]wysoki\n
+		%c[d_blue] • %c[default]Potrzeba snu: %c[d_red_1]wysoka\n\n
+		%c[d_cyan]ODPORNOŚĆ UKŁADU ODPORNOŚCIOWEGO \n
+		%c[d_blue] • %c[default]Leki/alkohol: %c[d_red_1]A+\n
+		%c[d_blue] • %c[default]Niezdrowe jedzenie: %c[d_red_1]B\n
+		%c[d_blue] • %c[default]Artefakty: %c[d_red_1]C\n
+		%c[d_blue] • %c[default]Radiacja: %c[ui_gray_1] %c[d_red_1]C\n
+		</text>
+	</string>
+	<string id="st_identity_card_recon_descr">
+		<text>Jako Zwiadowca USS masz wyjątkowe mocne i słabe strony.\n\n
+		%c[d_cyan]WYPOSAŻENIE\n
+		%c[default]Zwinność w ciężkim pancerzu: %c[d_red_1]C\n
+		%c[d_blue] • %c[default]Zamknięta zwinność oddechowa: %c[d_red_1]A+\n
+		%c[d_blue] • %c[default]Używanie artefaktów: %c[d_red_1]A+\n\n
+		%c[d_cyan]BROŃ\n
+		%c[d_blue] • %c[default]Walka nożem: %c[d_red_1]A\n
+		%c[d_blue] • %c[default]Specjalizacja w obsłudze: %c[d_red_1]Lekkiej broni maszynowej\n
+		%c[d_blue] • %c[default]Specjalność w konserwacji: %c[d_red_1]Lekkiej broni maszynowej\n\n
+		%c[d_cyan]MEDYCYNA\n
+		%c[d_blue] • %c[default]Zręczność w używaniu bandaży/apteczek: %c[d_red_1]A+\n
+		%c[d_blue] • %c[default]Umiejętności medyczne: %c[d_red_1]A\n
+		%c[d_blue] • %c[default]Umiejętności posługiwania się lekami: %c[d_red_1]A\n\n
+		%c[d_cyan]GIMNASTYKA\n
+		%c[d_blue] • %c[default]Wytrzymałość: %c[ui_gray_1] %c[d_red_1]niska\n
+		%c[d_blue] • %c[default]Prędkość sprintu: %c[d_red_1]wysoka\n
+		%c[d_blue] • %c[default]Wysokość skoku: %c[d_red_1]wysoka\n
+		%c[d_blue] • %c[default]Zwinność w upadku/skoku: %c[d_red_1]wysoka\n
+		%c[d_blue] • %c[default]Bazowa wytrzymałość: %c[d_red_1]wysoka\n
+		%c[d_blue] • %c[default]Maksymalny udźwig: %c[ui_gray_1] %c[d_red_1]niska\n\n
+		%c[d_cyan]PROFIL ZDROWOTNY\n
+		%c[d_blue] • %c[default]Wskaźnik spożycia żywności: %c[d_red_1]niska\n
+		%c[d_blue] • %c[default]Potrzeba snu: %c[d_red_1]średnia\n\n
+		%c[d_cyan]ODPORNOŚĆ UKŁADU ODPORNOŚCIOWEGO \n
+		%c[d_blue] • %c[default]Leki/alkohol: %c[d_red_1]C\n
+		%c[d_blue] • %c[default]Niezdrowe jedzenie: %c[d_red_1]C\n
+		%c[d_blue] • %c[default]Artefakty: %c[d_red_1]A\n
+		%c[d_blue] • %c[default]Radiacja: %c[ui_gray_1] %c[d_red_1]A\n
+		</text>
+	</string>
+	<string id="st_identity_card_sniper_descr">
+		<text>Twoje atrybuty jako Snajper USS są wyjątkowo dobrze wyważone.\n\n
+		%c[d_cyan]WYPOSAŻENIE\n
+		%c[default]Zwinność w ciężkim pancerzu: %c[d_red_1]B\n
+		%c[d_blue] • %c[default]Zamknięta zwinność oddechowa : %c[d_red_1]B\n
+		%c[d_blue] • %c[default]Używanie artefaktów: %c[d_red_1]B\n\n
+		%c[d_cyan]BROŃ\n
+		%c[d_blue] • %c[default]Walka nożem: %c[d_red_1]B\n
+		%c[d_blue] • %c[default]Specjalizacja w obsłudze: %c[d_red_1]Broni snajperskiej\n
+		%c[d_blue] • %c[default]Specjalność w konserwacji: %c[d_red_1]Broni snajperskiej\n\n
+		%c[d_cyan]MEDYCYNA\n
+		%c[d_blue] • %c[default]Zręczność w używaniu bandaży/apteczek: %c[d_red_1]B\n
+		%c[d_blue] • %c[default]Umiejętności medyczne: %c[d_red_1]B\n
+		%c[d_blue] • %c[default]Umiejętności posługiwania się lekami: %c[d_red_1]B+\n\n
+		%c[d_cyan]GIMNASTYKA\n
+		%c[d_blue] • %c[default]Wytrzymałość: %c[ui_gray_1] %c[d_red_1]średnia\n
+		%c[d_blue] • %c[default]Prędkość sprintu: %c[d_red_1]średnia\n
+		%c[d_blue] • %c[default]Wysokość skoku: %c[d_red_1]średnia\n
+		%c[d_blue] • %c[default]Zwinność w upadku/skoku : %c[d_red_1]średnia\n
+		%c[d_blue] • %c[default]Kondycja biegania: 
+		%c[d_red_1]wysoka\n
+		%c[d_blue] • %c[default]Kondycja podczas sprintu: 
+		%c[d_red_1]średnia\n
+		%c[d_blue] • %c[default]Maksymalny udźwig: %c[ui_gray_1] %c[d_red_1]średni\n\n
+		%c[d_cyan]PROFIL ZDROWOTNY\n
+		%c[d_blue] • %c[default]Wskaźnik spożycia żywności : %c[d_red_1]średni\n
+		%c[d_blue] • %c[default]Potrzeba snu: %c[d_red_1]niska\n\n
+		%c[d_cyan]ODPORNOŚĆ UKŁADU ODPORNOŚCIOWEGO \n
+		%c[d_blue] • %c[default]Leki/alkohol: %c[d_red_1]B\n
+		%c[d_blue] • %c[default]Niezdrowe jedzenie: %c[d_red_1]A+\n
+		%c[d_blue] • %c[default]Artefakty: %c[d_red_1]B\n
+		%c[d_blue] • %c[default]Radiacja: %c[ui_gray_1] %c[d_red_1]B\n
+		</text>
+	</string>
+	
+	<string id="st_energy">
+		<text>nic</text>
+	</string>
+	<string id="st_energy_descr">
+		<text>Jednostka skumulowanej energii to amperogodzina (Ah)</text>
+	</string>
+
+	<string id="green_bug_name">
+		<text>Zielony żuk</text>
+	</string>
+	<string id="green_bug_description">
+		<text>Zielony żuk to nieodłączny towarzysz każdego stalkera. Nie ma w Zonie nikogo, kto by go nie spotkał. Jeśli spotkasz zielonego żuka tylko raz, czy dwa przez całe swoje życie - jesteś prawdziwym farciarzem. Psucie się twojego nastroju jest wprost proporcjonalne do ilości spotkań z zielonym żuczkiem.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] znacznie zwiększa szansę na crash gry\n
+		%c[d_blue] • %c[ui_gray_2] nie można wyrzucić\n
+		%c[d_blue] • %c[ui_gray_2] nie można sprzedać\n
+		</text>
+	</string>
+	
+	<string id="sleep_itm_warning_bniskaout">
+		<text>Nie jest bezpiecznie teraz spać!</text>
+	</string>
+	
+</string_table>

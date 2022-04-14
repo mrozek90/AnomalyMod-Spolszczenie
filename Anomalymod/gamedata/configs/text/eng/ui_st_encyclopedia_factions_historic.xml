@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	
+	<string id="encyclopedia_factions_historic">
+		<text>Frakcje (nieistniejące)</text>
+	</string>
+	
+	<string id="encyclopedia_factions_historic_final_day">
+		<text>Dzień Sądu</text>
+	</string>
+	<string id="encyclopedia_factions_historic_final_day_text">
+		<text>
+			Frakcję %c[guide_blue]Dzień Sądu%c[ui_gray] znaną także jako %c[guide_blue]Dzień Ostateczny%c[ui_gray] lub "%c[guide_blue]dzicy stalkerzy%c[ui_gray]" stanowili głównie naukowcy.\n
+			\n%c[guide_green]Informacje%c[ui_gray]\n
+			\nWierzyli, że Zona jest znakiem końca świata, rozszerzając się i obejmując większy teren z każdą emisją.\n \nPoza ich fascynacją zzombifikowanymi stalkerami i polowaniem na nie w celach badawczych wiadomo właściwie tylko tyle, że ich przywódca został zamordowany przez stalkera zwanego Duchem.\n \nZważywszy, że ich aktywność obserwowano krótko po emisji, która zdziesiątkowała Czyste Niebo, wydaje się prawdopodobnym, że Dzień Sądu utworzyła niewielka grupa ocalałych, którzy nie mogli poradzić sobie z tym, co widzieli w Elektrowni.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_historic_isg">
+		<text>ISG</text>
+	</string>
+	<string id="encyclopedia_factions_historic_isg_text">
+		<text>
+			%c[guide_blue]Międzynarodowa Grupa Badawcza%c[ui_gray] (ang: International Scientific Group) została założona do prowadzenia badań nad Zoną.\n
+			\n%c[guide_green]Informacje%c[ui_gray]\n
+			\nZe względu na nagłe pojawienie się Zony, ONZ powołało zespół badawczy, którego celem miało być zbadanie i wyjaśnienie jej fenomenu.\n \nNajbardziej interesującym pod względem naukowym wydawało się sześć dużych generatorów, znajdujących się na północ od elektrowni. To właśnie one stały się celem wyprawy dla nowej jednostki ONZ.\n \nPodczas trwającej kilka miesięcy misji, naukowcy musieli zmierzyć się problemami, do których w żaden sposób nie mogli się przygotować.\n \nBadaczy zaskakiwały niewidzialne anomalie, zmutowana przyroda siała spustoszenie. Niektórzy z dnia na dzień znikali bez wyjaśnienia tylko po to, by za jakiś czas powrócić jako zombie próbujące wyrządzić jak największe szkody byłym kolegom.\n \nEkspedycja szybko została odwołana, ze względu na gwałtowny wzrost liczby ofiar. Zespół osiągnął bardzo słabe wyniki, nie wypełniając żadnego z celów, do których został powołany.\n \nNiezrażony porażką zespołu ONZ, rząd Ukrainy powołał własny instytut badań nad Zoną - obecnie jego pracownicy zwani są zwykle Ekologami.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_historic_renegade">
+		<text>Renegaci</text>
+	</string>
+	<string id="encyclopedia_factions_historic_renegade_text">
+		<text>
+			%c[guide_blue]Renegaci%c[ui_gray] byli jednymi z najpodlejszych, najbardziej nikczemnych stalkerów w całej historii Zony.\n
+			\n%c[guide_green]Informacje%c[ui_gray]\n
+			\nCzłonkami frakcji byli stalkerzy, którzy zostali wyrzuceni za swoich pierwotnych grup za popełnione zbrodnie. Cechowali się całkowitym brakiem hamulców i brutalnością.\n \nJedynym prawem, którego przestrzegali było prawo siły. Żerowali głównie na najsłabszych przy krawędziach Zony - atakując najczęściej młodych i niedoświadczonych, nie mających w starciu żadnych szans.\n \nZepchnięci przez miażdżące siły przeciwników na Bagna. Pojedynczym watażkom i całym grupom barbarzyńców udało się scalić w jedną frakcję tylko ze względu na obecność i zagrożenie płynące ze strony Czystego Nieba.
+		</text>
+	</string>
+	
+</string_table>

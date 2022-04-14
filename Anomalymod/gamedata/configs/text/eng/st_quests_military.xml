@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON MILITARY WAREHOUSES MAP
+<	CoC 1.4.08 - DoctorX Questlines 1.6
+<
+<	Modified by: DoctorX
+<	Last revised: October 07, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- STORYLINE TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Lukash (Freedom Honcho) Default Storyline Task -->
+
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_default_task_name">
+		<text>Weź kolejne zadanie</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_default_task_text">
+		<text>Otrzymaj kolejne zadanie.</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_default_task_about">
+		<text>Chciałbym, abyś się z kimś spotkał. Nie kumplujemy się jakoś mocno, ale przydałaby mu się twoja pomoc.</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_default_task_finish">
+		<text>Powodzenia, stalkerze.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Lukash (Freedom Honcho) Assassination Storyline Task- -->
+
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_name">
+		<text>Zabójstwo dla Łukasza</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_text">
+		<text>Łukasz wyznaczył cel, który musi zostać wyeliminowany.</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_about">
+		<text>Hej, cieszę się że wpadłeś. Jest coś, czym musisz się dla mnie zająć. Mamy wspólnego wroga, którego trzeba się pozbyć. Jest niebezpieczny. Im szybciej go ogarniesz, tym lepiej.</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_finish">
+		<text>Świetnie, brachu! Dzięki.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Lukash (Freedom Honcho) Freedom Assault on Monolith Storyline Task -->
+
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_name">
+		<text>My albo oni</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_text">
+		<text>Łukasz poprosił cię o poprowadzenie szturmu przeciwko Monolitowi.</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_about">
+		<text>Siły Monolitu coraz śmielej przedzierają się przez Barierę. Tym razem będzie inaczej - to my zrobimy im wjazd na chatę! Sformowałem oddział, jest gotowy do wymarszu. Chcę, żebyś poprowadził ich do ataku na siły Monolitu. Pozbądź się tych fanatyków.</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_finish">
+		<text>Stary, urodzony z ciebie przywódca. Dobra robota.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Lukash (Freedom Honcho) Search Lab X-8 (Outskirts) Storyline Task -->
+
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_name">
+		<text>Przeszukaj Laboratorium X-8</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_text">
+		<text>Przeszukaj Laboratorium X-8 na Przedmieściach Prypeci w poszukiwaniu dowodów na obecność żołnierzy Czystego Nieba w kompleksie.</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_about">
+		<text>Dotarły do mnie informacje o tym, że jakiś czas temu byli członkowie Czystego Nieba działali w Laboratorium X-8. Zbadaj każdy kąt kompleksu i sprawdź, czy uda ci się odzyskać jakieś pozostawione przez nich dokumenty.</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_finish">
+		<text>Wyśmienita robota. Dobrze się spisałeś</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- CHANGE FACTIONS TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	December 08, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Ďđîďóůĺííűé äčŕëîă Ëóęŕřŕ -->
+
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_name">
+		<text>Wolność!</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_text">
+		<text>Łukasz pokaże ci jak wygląda życie Wolności za 15.000 RU.</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_about">
+		<text>Zachciało się życia w prawdziwej Wolności, co? Taa, myślę że coś ogarniemy. W tej robocie musisz mieć jaja jak nibyolbrzymy, inaczej marniutki twój los.\n \nOgólnie dość mocno się tu luzujemy, ale wiesz - jak trzeba spiąć dupę i ruszyć w teren to nie ma, że nie. Jest awantura? Rzucasz wszystko, łapiesz karabin i ogień! Za dużo kręci się tu tych piździelców z Monolitu, fajansiarzy z Powinności i dupków z nieRządu, żeby totalnie wszystko olać, kapujesz?\n \nWalczymy o Wolną Zonę. Jeśli poważnie chcesz nam pomóc i walczyć o nasze ideały, klepnij na stół piętnaście koła. Wiesz, wpisowe - każdy to przechodził. Wszystko ci wtedy podkręcę.</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_finish">
+		<text>Okej! Pomyśl sobie o tym, jak o pierwszym dniu nowego życia, życia na Wolności, hahaha! Zapamiętaj sobie tylko parę rzeczy - jeśli spróbujesz zakłócić Wolność naszych chłopaków, momentalnie lądujesz w Wiosce Pijawek. Czy to jest, kurwa, jasne, żoł... Wróć! Czy to jest jasne?\n \nNo i druga sprawa - jeśli trafisz na kogoś, kto jednak z Wolnością przegina, zgłaszaj dowódcom. Nie, to nie podpierdalanie, to dbanie o wspólnotę.</text>
+	</string>
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Lukash (Freedom Honcho) Payoff Change Factions Task -->
+
+	<string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_name">
+		<text>Wolność!</text>
+	</string>
+	<string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_text">
+		<text>Łukasz pokaże ci jak wygląda życie Wolności za 15.000 RU.</text>
+	</string>
+	<string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_about">
+		<text>Zachciało się życia w prawdziwej Wolności, co? Taa, myślę że coś ogarniemy. W tej robocie musisz mieć jaja jak nibyolbrzymy, inaczej marniutki twój los.\n \nOgólnie dość mocno się tu luzujemy, ale wiesz - jak trzeba spiąć dupę i ruszyć w teren to nie ma, że nie. Jest awantura? Rzucasz wszystko, łapiesz karabin i ogień! Za dużo kręci się tu tych piździelców z Monolitu, fajansiarzy z Powinności i dupków z nieRządu, żeby totalnie wszystko olać, kapujesz?\n \nWalczymy o Wolną Zonę. Jeśli poważnie chcesz nam pomóc i walczyć o nasze ideały, klepnij na stół piętnaście koła. Wiesz, wpisowe - każdy to przechodził. Wszystko ci wtedy podkręcę.</text>
+	</string>
+	<string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_finish">
+		<text>Okej! Pomyśl sobie o tym, jak o pierwszym dniu nowego życia, życia na Wolności, hahaha! Zapamiętaj sobie tylko parę rzeczy - jeśli spróbujesz zakłócić Wolność naszych chłopaków, momentalnie lądujesz w Wiosce Pijawek. Czy to jest, kurwa, jasne, żoł... Wróć! Czy to jest jasne?\n \nNo i druga sprawa - jeśli trafisz na kogoś, kto jednak z Wolnością przegina, zgłaszaj dowódcom. Nie, to nie podpierdalanie, to dbanie o wspólnotę.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- DYNAMIC TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Lukash (Freedom Honcho) Stop Enemy Assault Task -->
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_name">
+		<text>Zniszczenie przeciwnika</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_text">
+		<text>Grupa stalkerów przysparza problemów przyjaciołom Wolności. Łukasz oferuje nagrodę temu, kto pozbędzie się tych dupków.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_about">
+		<text>Kurwa, te dupki sobie nie odpuszczą! Dobra, wygląda na to, że musimy dać im lekcję. Ej, stalker! Pomożesz Wolności? Oczywiście, nie za darmo.\n \nSłuchaj, jest kilku frajerów, którzy podkradają się blisko naszych pozycji. Odważyli się otworzyć ogień do naszych i próbowali zrobić wodę z mózgu moim ludziom, rozumiesz? Chyba nadszedł czas udzielić im śmiertelnej lekcji na temat przestrzeni osobistej. Zrobisz to?</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_finish">
+		<text>Ach, świetnie! Może w końcu będziemy mieli trochę ciszy i spokoju.</text>
+	</string>
+
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_name">
+		<text>Przestrzeń do życia</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_text">
+		<text>Przeprowadź szturm na terytorium wroga i przejmij je dla Wolności. Zamelduj się Łukaszowi po ukończeniu zadania.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_about">
+		<text>Mam dla ciebie bardzo istotną, ale niebezpieczną misję. Więc tak, z jednej strony trzepie nas Monolit, z drugiej podbijają tu pajace z Powinności. Nie powiem, żeby mi ta sytuacja jakoś bardzo odpowiadała.\n \nSzukam kogoś, kto da radę wlecieć w jednych, albo drugich i rozgonić ich na cztery wiatry, wiesz, żeby zyskać trochę przestrzeni do życia. Zajmiesz się tym?</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_finish">
+		<text>Ha! Udało ci się, stary - jesteś szalony! Trzymaj, zasłużyłeś na to. Tak, jak i na mój szacunek.</text>
+	</string>
+
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_name">
+		<text>Miej miłosierdzie</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_text">
+		<text>Członek Wolności zdezerterował i przyłączył się do Monolitu. Łukasz zlecił ci odszukanie i zabicie go.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_about">
+		<text>Ech, stary, mam bardzo złe wieści. Jednemu z naszych Monolit zrobił z mózgu papę. Dobry był z niego chłop i wiem, że za nic nie chciałby żyć, jako fanatyczny popapraniec. Proszę, znajdź go i ulżyj chłopakowi, nawet jeśliby miał jakieś resztki świadomości. W innym wypadku będę musiał posłać gości z jego własnego oddziału, a wiesz, jakie to będzie dla nich trudne...</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_finish">
+		<text>Zrobione? Dobrze. Wiem, że to nie było proste. Chłopaki na Barierze wypiją toast za poległego brata. Jeśli chodzi o ciebie, oto twoja nagroda.</text>
+	</string>
+
+
+	<!-- ASSASSINATE DUTY FOR FREEDOM TASK -->
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_name">
+		<text>Śmierć zdrajcom</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_text">
+		<text>Łukasz zlecił ci pozbycie się kłopotliwego stalkera.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_about">
+		<text>W okolicy kręci się gość, który parę dni temu odstrzelił jednego z naszych chłopaków. Nie było, nie ma i nie będzie mojej zgody na zabijanie członków Wolności na ich własnym terenie! Jemu na pewno nie ujdzie to na sucho!\n \nWiem, gdzie teraz kibluje. Pójdziesz tam i wyjaśnisz mu, że tak się nie robi. Zapłacimy, o to nie dygaj.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_finish">
+		<text>O tak! To ich nauczy, aby z nami nie zadzierać. Oto twoja nagroda, tak jak obiecałem. Dobra robota, stalkerze.</text>
+	</string>
+
+
+	<!-- FIND WEAPON FOR FREEDOM TASK -->
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_name">
+		<text>Wolny rynek broni: %s</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_text">
+		<text>Łukasz poprosił cię o zdobycie dla niego konkretnej broni w idealnym stanie. Wróć do niego, kiedy znajdziesz to, o co poprosił.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_about">
+		<text>Nasi darczyńcy dbają o wyposażenie chłopaków, nigdy tego nie kwestionowałem. Problem w tym, że nie chcę ich prosić o coś lepszego, żeby nie było, że próbuję się wywyższać - wszyscy przecież jesteśmy równi!\n \nPrzydałby się %s. Jeśli znajdziesz egzemplarz w idealnym stanie, to zapłacę ci za niego niezłą sumkę.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_fetch_about">
+		<text>Nasi darczyńcy dbają o wyposażenie chłopaków, nigdy tego nie kwestionowałem. Problem w tym, że nie chcę ich prosić o coś lepszego, żeby nie było, że próbuję się wywyższać - wszyscy przecież jesteśmy równi!\n \nPrzydałby się %s. Jeśli znajdziesz egzemplarz w idealnym stanie, to zapłacę ci za niego niezłą sumkę.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_fetch_finish">
+		<text>Dobra robota. Taka giwera zrobi robotę, kiedy coś pójdzie nie tak. Oto zapłata, tak jak obiecałem.</text>
+	</string>
+	
+	<!-- Lukash (Freedom Honcho) Decimate the Enemy Task -->
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_name">
+		<text>Kowboj</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_text">
+		<text>Łukasz zachęca do ataku na wrogów Wolności. Przynieś mu %s, jako dowód wykonanej roboty.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_about">
+		<text>Aktualnie trochę utknęliśmy między młotem a kowadłem. Wiesz, monole na północy, powinniaki na południu, a żeby nie było zbyt nudno, to od czasu do czasu wojo urządza tu przemarsze i defilady. Co ty na to, żeby wyjaśnić im starymi, dobrymi metodami, co myślimy o ich interesach i dowódcach? Po zakończeniu zadania będzie na ciebie czekać niezła sumka.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_fetch_about">
+		<text>Aktualnie trochę utknęliśmy między młotem a kowadłem. Wiesz, monole na północy, powinniaki na południu, a żeby nie było zbyt nudno, to od czasu do czasu wojo urządza tu przemarsze i defilady! Co ty na to, żeby wyjaśnić im starymi, dobrymi metodami, co myślimy o ich interesach i dowódcach? %s będzie fajną pamiątką. Po zakończeniu zadania będzie na ciebie czekać niezła sumka.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_fetch_finish">
+		<text>Dobra robota, stary. Oto twoja zapłata.</text>
+	</string>
+	
+	<!-- Lukash (Freedom Honcho) Mortal Sin Unquenchable Flame Tasks -->
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_7_about">
+		<text>Siema, stary. Jest ostry temat. Pamiętasz tych świrów z Grzechu? Chyba nie skumali, kiedy ostatnio skopałeś ich kolektywne dupska. Myślę, że czas na poprawkę.\n \nLoki dał mi cynk, że jakieś ich niedobitki zbierają się w Zatonie, konkretnie w okolicy opuszczonych magazynów podstacji. Podejdź tam i załatw temat raz na zawsze.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_7_finish">
+		<text>Haha! Nowicjusze zaczynają uważać cię za prawdziwego Rambo. W sumie im się nie dziwię - wracasz w jednym kawałku z najgorszych awantur. Trzymaj, mały podarunek dla naszego lokalnego bohatera.</text>
+	</string>
+
+	<!-- Lukash (Freedom Honcho) Rescue the Freedom Agent Task -->
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_8_name">
+		<text>Wolność w niewoli</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_8_text">
+		<text>Wyciągnij szpiega Wolności z szeregów wrogiej frakcji. Pozbądź się członków oddziału, do którego należy i sprowadź go do bazy Wolności. Szpieg korzysta z SWD.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_8_about">
+		<text>Aktualnie jeden z moich najlepszych ludzi szpieguje naszego wroga, próbując dowiedzieć się czegoś ciekawego. To twardy gość, ale przegapił ostatnie próby kontaktu. Zacząłem się martwić. Mam dziwne przeczucie, że mogli go zdemaskować, a oddział do którego należy czeka na dogodny moment, by go uciszyć. Musimy sprowadzić go do domu.\n \nPodesłał mi swoje namiary, ale cały czas przebywa z oddziałem. Musisz się nimi zająć, a jego samego odeskortować w jednym kawałku. Rozpoznasz go po karabinie, który nosi - SWD. Prawdopodobnie będzie musiał otworzyć do ciebie ogień, by się nie zdemaskować. Nie martw się, nie będzie strzelał zbyt celnie, więc nie miej mu tego za złe, jeśli przypadkiem cię trafi.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_8_finish">
+		<text>Doskonała robota. Czas przekonać się, czy to wszystko było warte zachodu.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_8_msg_join">
+		<text>Hej stary, stój! To ja! Jestem z Wolności! Sorówa, że do ciebie strzelałem, ale wiesz, nie mogłem dać się zdemaskować. Gdyby coś się zjebało, mieliby mnie jak na widelcu. Rozumiesz, brat. No ale udało ci się. Dawaj, wracamy na Magazyny. Prowadź!</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_8_msg_leave">
+		<text>Dzięki za wyciągnięcie mnie z tej kabały, stalker! Do zobaczenia!</text>
+	</string>
+	
+	
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_9_name">
+		<text>Czemu oni mogą, a my nie?</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_9_text">
+		<text>Zniszcz pojazdy na posterunku w Kordonie.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_9_about">
+		<text>Masz może materiały wybuchowe? Jeśli tak, to mam dla ciebie naprawdę poważną robotę. Wojskowi ściągają do Zony pojazdy opancerzone. Powiedz mi, czy to jest sprawiedliwe? Rozejrzyj się, patrz na tą zardzewiałą kupę złomu, która zalega w naszych magazynach! Jeśli my nie możemy mieć czołgów, które działałyby w Zonie, to rząd też nie!\n \nMoi szpiedzy informują, że wozy zbierają na jednym posterunku w Kordonie. Jakby prosili się, żeby się nimi zająć... Wiem też, że wojaczki czują się na tyle pewnie, że praktycznie ich nie pilnują. Możesz tam wbić bez spiny, że przerobią cię na sito. Wchodzisz w to? Pakuj szpej i jazda!</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Skinflint (Freedom Mechanic) -->
+	
+	<!-- FIND MUTANT MEAT FOR FREEDOM TASK -->
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_name">
+		<text>Ochota na dziczyznę</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_text">
+		<text>Zabij i wypatrosz mutanty. Potem dostarcz %s Kutwie.</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_about">
+		<text>Mam dla ciebie duże zlecenie, stary. Oczywiście, jeśli nie boisz się paru mutasów. Zainteresowany?</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_fetch_about">
+		<text>Paru naszych chłopców planuje melanż z okazji urodzin Boba Marley'a. Że nie w terminie? A kogo by to obchodziło! W każdym razie, pasowałoby im zorganizować jakąś szamę - jeśli jesteś chętny do pomocy, to przynieś mi %s, a ja zadbam, żebyś nie był stratny. Jah nigdy o tobie nie zapomni!</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_fetch_finish">
+		<text>Ale będzie żarcia! Oto twoja nagroda. A może kupisz flaszkę i poświętujesz z nami?</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Skinflint (Freedom Mechanic) Deliver Equipment Dynamic Task -->
+
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_2_name">
+		<text>Wszystko na legalu</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_2_text">
+		<text>Kutwa potrzebuje kogoś do odebrania dostawy.</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_2_about">
+		<text>Jeden z naszych kurierów miał dziś dostarczyć mi paczkę. Wygląda na to, że ukrył ją gdzieś, kiedy wpadł na patrol Powinności. Zanim odłączył się od sieci wysłał mi namiar na schowek, więc jeśli zgodzisz się na wycieczkę po towar, który miał mi dostarczyć, to dostaniesz część jego wynagrodzenia.</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_2_finish">
+		<text>Niech no spojrzę - widzisz... ach tak. Dokładnie to, czego było nam trzeba. Dziękuję, stalkerze, oto twoja działka.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Skinflint (Freedom Trader) Night Terror Task -->
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_3_name">
+		<text>Zjawy mroku</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_3_text">
+		<text>Kutwa zapłaci za pozbycie się przerażającego mutanta grasującego w Wiosce Pijawek. Tylko nie prześpij roboty.</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_3_about">
+		<text>Ostatnimi czasy ciężko o spokojny sen w obozie. Każdej nocy słyszymy krzyki, ale zanim byliśmy w stanie zareagować, kolejny z naszych zniknął w ciemnościach. Następnego dnia znaleźliśmy jego szczątki rozrzucone po całej Wiosce Pijawek.\n \nŁukasz uważa, że grasuje tam bardzo rzadki mutant - silniejszy i bardziej okrutny skurwysyn, który poluje tylko nocą. Nasi weterani mówią, że powinniśmy odpuścić sobie nocne spacerki, dopóki mutant nie przeniesie się gdzieś indziej i przy odrobinie szczęścia przyczepi się do Powinnościowców, ponieważ bezpośredni atak na niego jest zbyt niebezpieczny.\n \nJa natomiast uważam, że jeśli masz na tyle wielkie cojones, żeby zaczekać w wiosce do zmroku, to po pozbyciu się mutanta będziesz mógł kąpać się w rubelkach, a reszta ludzi będzie ci wdzięczna za umożliwienie im spokojnego przespania nocy, na tyle, na ile się da, rzut beretem od Mózgozwęglacza.</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_3_finish">
+		<text>Wow, udało ci się! Jesteś zdrowo jebnięty, stary. Przekażę dobre wieści ludziom w obozie. Dobrze mieć u siebie takiego zdolnego łowcę.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Skinflint (Freedom Trader) Scarce Supplies Task -->
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_4_name">
+		<text>Niedobór zapasów</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_4_text">
+		<text>Kutwa potrzebuje: %s by być w stanie zaopatrywać medyka Wolności.</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_4_about">
+		<text>Niektórzy z naszych mają czasem za dużo werwy i za bardzo rwą do przodu, rozumiesz... Nie mamy aktualnie wystarczającej liczby zasobów, żeby zapewnić im opiekę medyczną.</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_4_fetch_about">
+		<text>Wiesz, jakie trudne i szorstkie może być życie w Wolności, co nie? Spieprzanie przed pociskami i walka z fanatykami to tylko jedna z naszych codziennych "rozrywek". Zmierzam do tego, że niektórym wydaje się, że są większymi koksami, niż w rzeczywistości, przez co zaczyna nam brakować medykamentów.\n \nTwardy jest zbyt spizgany, żeby zająć się swoimi logistycznymi obowiązkami, więc odpowiedzialność za to spada na mnie. Jeśli jesteś w stanie mi pomóc przynosząc %s, to Wolność będzie mieć wobec ciebie dług. No a ty trochę kasy ode mnie. </text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_4_fetch_finish">
+		<text>Ach, świetnie. Upewnię się, że Twardy dostanie to dopiero, gdy jego pacjenci nie będą ich potrzebować. Wielkie dzięki, stalkerze.</text>
+	</string>
+	
+	
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_5_name">
+		<text>Sprzęt do łowienia artefaktów</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_5_about">
+		<text>Więc tak, jest pewna sprawa, raczej pilna. Słuchaj no, nikomu nie chce się dymać z chabarem na Białoruś, bo to się zupełnie mija z celem i szkoda na to zdrowia. W naszej części Zony istnieją dokładnie dwa bunkry badawcze, z którymi Wolność kontaktuje się w sprawie dostaw artefaktów. Nie mniej i nie więcej.\n \nJeden jest ściśnięty między Powinnością, Wojskiem i Czarny Stalker jeszcze wie, kim. Drugi - rzut beretem od Prypeci. No i oba... są sponsorowane przez rząd, z którym walczymy. Musimy na JUŻ zacząć gromadzić sprzęt do zbierania i lokalizowania artefaktów, gdyby zdarzyło się tak, że jajogłowi nagle stwierdzą, że nie i "dziękujemy za współpracę, proszę wypierdalać".\n \nPotrzebujemy detektorów Niedźwiedź i pojemników na artefakty. Im więcej, tym lepiej - najlepiej hurtowo. Mam świadomość, że zebranie wszystkiego może trochę zająć, ale nie bój żaby - twoja zapłata będzie adekwatna do wysiłku, który włożysz w to zadanie. A jeśli przy okazji ogarniesz zapas baterii do wszystkich wynalazków, to wpadnie ci jakiś bonusik za fatygę. A więc, wchodzisz w to?</text>
+	</string>
+	
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- MECHANIC TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Screw (Freedom Mechanic) Find Level 1 Toolkit Task -->
+
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_name">
+		<text>Znajdź %s</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_text">
+		<text>%s są potrzebne Śrubie do instalacji podstawowych ulepszeń broni oraz pancerzy. Powinieneś dostarczyć mu takowe, jeśli zdołasz jakieś znaleźć.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_about">
+		<text>Joł, mordeczko. Byłbyś zainteresowany małą robótką dla mnie? Potrzebuję konkretnego zestawu narzędzi, żebym mógł pracować przy broni i pancerzach.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_fetch_about">
+		<text>Dobrze, potrzebne mi %s. Zapłacę ci za jeden z tych zestawów, jeśli uda ci się go znaleźć.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_fetch_finish">
+		<text>Dzięki, stary! Wiedziałem, że nie bez powodu poprosiłem o to właśnie ciebie. Wyglądasz na takiego, co potrafi znaleźć w Zonie wszystko.</text>
+	</string>
+
+
+
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_name">
+		<text>Znajdź %s</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_text">
+		<text>%s są potrzebne Śrubie do instalacji zaawansowanych ulepszeń broni oraz pancerzy. Powinieneś dostarczyć mu takowe, jeśli zdołasz jakieś znaleźć.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_about">
+		<text>Haha, wolałbym nie pytać, ale przydało by mi się więcej narzędzi. Ostatnio dostarczyłeś mi takie jakich potrzebowałem, ale okazuje się, że brakuje w nim paru gratów. Jesteś w stanie znów mi pomóc?</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_fetch_about">
+		<text>Potrzebuję zestawu narzędzi zaawansowanych. Ten zestaw powinien mi wystarczyć na jakiś czas. Będę ci wdzięczny, jeśli znajdziesz go dla mnie, a nawet zaoferuję ci zniżkę na moje usługi.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_fetch_finish">
+		<text>Rób dalej taką robotę, to niedługo wszyscy cię tu pokochają. Dzięki, stary.</text>
+	</string>
+
+
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_name">
+		<text>Znajdź %s</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_text">
+		<text>%s są potrzebne Śrubie do instalacji precyzyjnych ulepszeń broni oraz pancerzy. Powinieneś dostarczyć mu takowe, jeśli zdołasz jakieś znaleźć.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_about">
+		<text>Haha, nie chcę już o to pytać, ale przydał by mi się ostatni już zestaw narzędzi. Ostatnio dostarczyłeś mi zestaw, jakiego potrzebowałem, ale okazuje się, że potrzebny mi będzie jeszcze lepszy. Jesteś w stanie znów mi pomóc?</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_fetch_about">
+		<text>Potrzebuję zestawu narzędzi precyzyjnych. Taki zestaw na pewno będzie zawierać wszystko, czego tylko będę potrzebował. Będę ci wdzięczny jeśli znajdziesz go dla mnie, a w zamian zaoferuję ci dużą zniżkę na moje usługi.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_fetch_finish">
+		<text>Zrobiłeś mega robotę, gwarantuję ci, że ludzie tutaj na pewno to docenią. Dziękuję, stary.</text>
+	</string>
+	
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Defend the barrier -->
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<string id="barrier_defense_monolith_announce">
+		<text>Do wszystkich przyjaźnie nastawionych stalkerów w okolicy: duży oddział Monolitu zbliża się do Bariery. Każda pomoc zostanie doceniona i odpowiednio wynagrodzona.</text>
+	</string>
+	<string id="barrier_defense_monolith_title">
+		<text>Broń Bariery</text>
+	</string>
+	<string id="barrier_defense_monolith_descr">
+		<text>Wolność prosi o pomoc w odparciu ataku ze strony Monolitu.</text>
+	</string>
+	
+	<string id="barrier_defense_monolith_chatter_1">
+		<text>Monolit? Ja spasuję...</text>
+	</string>
+	<string id="barrier_defense_monolith_chatter_2">
+		<text>Hmm, darmowa kasa. Zasuwam!</text>
+	</string>
+	<string id="barrier_defense_monolith_chatter_3">
+		<text>I tak nie planowałem wybierać się w najbliższym czasie na Magazyny Wojskowe.</text>
+	</string>
+	<string id="barrier_defense_monolith_chatter_4">
+		<text>Wynagrodzona w jaki sposób? Gotówka, artefakty czy broń? Nie widzi mi się zadupcać tam za flaszkę i poklepanie po plecach.</text>
+	</string>
+	<string id="barrier_defense_monolith_chatter_5">
+		<text>Cholera! Jestem za daleko, zanim tam dolecę, dawno będzie po ptokach. A szkoda, bo chciałem przetestować swój nowy karabin.</text>
+	</string>
+	<string id="barrier_defense_monolith_chatter_6">
+		<text>Napierdalanie Meneliciarzy? Haha, taką robotę to i za friko! Pieprzeni fanatycy.</text>
+	</string>
+	<string id="barrier_defense_monolith_chatter_7">
+		<text>Będzie można zatrzymać to, co znajdę przy ciałach?</text>
+	</string>
+	
+	<string id="barrier_defense_monolith_intro_1">
+		<text>Odebrałem waszą transmisję, przybyłem pomóc w obronie Bariery.</text>
+	</string>
+	<string id="barrier_defense_monolith_intro_2">
+		<text>Dzięki! Zwiad meldował o kilku oddziałach idących w tę stronę. Każda lufa się przyda. Znajdź sobie miejsce i czekaj. Prościzna, co? Jeśli uznasz, że to dla ciebie za dużo i zwiejesz, nikt nie będzie miał ci tego za złe, tylko pożegnaj się z nagrodą.</text>
+	</string>
+	
+	<string id="barrier_defense_monolith_outro_1">
+		<text>Bariera jest bezpieczna, przynajmniej na razie.</text>
+	</string>
+	<string id="barrier_defense_monolith_outro_2">
+		<text>Dobrze strzelasz, stalkerze. Tyle powinno pokryć koszty tego, co wpakowałeś w tych sukinsynów. A tu trzymaj mały bonus, żebyś miał za co się zrelaksować. Dobrze, że byłeś w pobliżu!</text>
+	</string>
+	
+	<string id="barrier_defense_monolith_start_announce">
+		<text>Zwiadowcy meldują, że Monolit się zbliża. Wszyscy na pozycje!</text>
+	</string>
+	<string id="barrier_defense_monolith_midchatter">
+		<text>O kurwa, uważajcie! Mają RPG!</text>
+	</string>
+	<string id="barrier_defense_monolith_run_announce">
+		<text>To nie wczasy pod gruszą, stalker. Ciesz się, że są tu ludzie z jajami większymi niż twoje. Dzięki nim na pewno przeżyjesz.</text>
+	</string>
+	<string id="barrier_defense_monolith_end_announce">
+		<text>Dobra robota, bracia. Dziękuję wszystkim chętnym, którzy nie dali nogi. Przyjdźcie do mnie po nagrodę.</text>
+	</string>
+	
+	<string id="barrier_defense_zombie_announce">
+		<text>Do każdego przyjaźnie nastawionego stalkera, który to czyta: duża grupa zombi zbliża się do Bariery. Każda forma pomocy będzie doceniona i odpowiednio wynagrodzona.</text>
+	</string>
+	<string id="barrier_defense_zombie_title">
+		<text>Broń Bariery</text>
+	</string>
+	<string id="barrier_defense_zombie_descr">
+		<text>Wolność prosi o pomoc w odparciu ataku zombi.</text>
+	</string>
+	
+	<string id="barrier_defense_zombie_chatter_1">
+		<text>Biedne stworzenia...</text>
+	</string>
+	<string id="barrier_defense_zombie_chatter_2">
+		<text>Spasuję, to nie dla mnie.</text>
+	</string>
+	<string id="barrier_defense_zombie_chatter_3">
+		<text>Przynajmniej to nie pojeby z Monolitu.</text>
+	</string>
+	<string id="barrier_defense_zombie_chatter_4">
+		<text>Lepiej żeby tym razem było warto. Ostatnim razem więcej wybuliłem na ammo, niż dostałem w zamian.</text>
+	</string>
+	<string id="barrier_defense_zombie_chatter_5">
+		<text>Cholera! Jestem za daleko, dotrę na miejsce jak będzie już po wszystkim. Szkoda, bo chciałem przetestować nowy karabin.</text>
+	</string>
+	<string id="barrier_defense_zombie_chatter_6">
+		<text>Zombi nadchodzą z Radaru? Cholera... mój przyjaciel wybrał się tam kilka dni temu...</text>
+	</string>
+	<string id="barrier_defense_zombie_chatter_7">
+		<text>Mogę sobie wziąć to, co znajdę przy ciałach?</text>
+	</string>
+	
+	
+	<string id="barrier_defense_zombie_intro_1">
+		<text>Odebrałem waszą transmisję, przybyłem pomóc w walce z zombi.</text>
+	</string>
+	<string id="barrier_defense_zombie_intro_2">
+		<text>Bardzo dobrze. Nie ma z nimi zbyt wielu problemów, ale przez Monolit i samozwańczych "żołnierzy" brakuje nam ludzi. Zobaczysz, będzie, jak na strzelnicy.</text>
+	</string>
+	
+	<string id="barrier_defense_zombie_start_announce">
+		<text>Horda się przebija, wszyscy na pozycje!</text>
+	</string>
+	<string id="barrier_defense_zombie_midchatter">
+		<text>Więcej ich matka nie miała?!</text>
+	</string>
+	<string id="barrier_defense_zombie_run_announce">
+		<text>Co to ma być?! Boisz się stworzeń, które ledwo łażą? Cienias!</text>
+	</string>
+	<string id="barrier_defense_zombie_end_announce">
+		<text>Dobra robota, bracia. Mogą w końcu spoczywać w spokoju. Ochotnicy, wpadnijcie do mnie po nagrodę.</text>
+	</string>
+	
+	<string id="barrier_defense_zombie_outro_1">
+		<text>Wszyscy nie żyją, tym razem na pewno.</text>
+	</string>
+	<string id="barrier_defense_zombie_outro_2">
+		<text>Bardzo dobrze. Mam nadzieję, że nie nie znalazłeś wśród nich nikogo znajomego. Czasami po strzelaninie z umarlakami ludzie wracają z Bariery bardziej roztrzęsieni, niż kiedy walczymy tu z Monolitem. Napijmy się za te biedne dusze, a to coś, co pomoże ci nie skończyć tak, jak oni.</text>
+	</string>
+	
+	<string id="barrier_defense_reinforcements_1">
+		<text>Trzymajcie się chłopaki, nadciągamy z pomocą!</text>
+	</string>
+	<string id="barrier_defense_reinforcements_2">
+		<text>Właśnie wyruszyliśmy z bazy, wkrótce będziemy na miejscu.</text>
+	</string>
+	<string id="barrier_defense_reinforcements_3">
+		<text>Sytuacja tam wygląda aż tak źle? Myślałem, że jest was tam wystarczająco!</text>
+	</string>
+	<string id="barrier_defense_reinforcements_4">
+		<text>Już się zaczęło! Dalej, ruszcie dupy, albo wszystko przegapicie!</text>
+	</string>
+	
+	<!-- Solid (Freedom Medic) -->
+	<string id="mil_freedom_medic_task_1_name">
+		<text>Znajdź %s</text>
+	</string>
+	<string id="mil_freedom_medic_task_1_text">
+		<text>%s są potrzebne Twardemu do produkcji medykamentów. Powinieneś dostarczyć mu wszystko, co uda ci się znaleźć.</text>
+	</string>
+	<string id="mil_freedom_medic_task_1_about">
+		<text>Biorąc pod uwagę to, co zostało z naszych zapasów medycznych, to z taką liczbą urazów jaką muszę się dziennie zajmować, zaczynam się poważnie martwić, stalkerze. Prędzej czy później zabraknie mi bandaży i apteczek. Chciałbym, żebyś znalazł mi jeden z tych starych zestawów do produkcji leków. Jestem pewien, że się przyda.</text>
+	</string>
+	<string id="mil_freedom_medic_task_1_fetch_about">
+		<text>Żebyś wiedział że jest. %s, wszędzie tego szukam. Powinien zawierać odpowiedni koktajl składników potrzebny mi do produkcji leków każdego typu. Oczywiście dla użytku medycznego. Wiem, co niektórzy ludzie mówią na mój temat. Nie słuchaj tego pierdolenia. Wszystko, co mi potrzebne to przyzwoity zestaw i znów będę w stanie doprowadzić moją małą klinikę do przyzwoitego stanu.</text>
+	</string>
+	<string id="mil_freedom_medic_task_1_fetch_finish">
+		<text>Świetna robota! Jestem twoim dłużnikiem.</text>
+	</string>
+
+</string_table>

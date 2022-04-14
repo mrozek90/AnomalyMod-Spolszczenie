@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	EFT
+-->
+
+<string_table>
+	<string id="eft_graphics_card_name">
+		<text>Graphics Card (GPU)</text>
+	</string>
+	<string id="eft_graphics_card_desc">
+		<text>
+		Graphics card is just as good source of electronic components as anything else - fans, GPUs, IC, etc.
+		</text>
+	</string>
+	
+	<string id="eft_tetriz_game_name">
+		<text>Tetriz Portable Game</text>
+	</string>
+	<string id="eft_tetriz_game_desc">
+		<text>
+		An ancient artifact of a lost past. Traders exchange it for rubles.
+		</text>
+	</string>
+
+	<string id="eft_military_cboard_name">
+		<text>Military Circuit Board</text>
+	</string>
+	<string id="eft_military_cboard_desc">
+		<text>
+		Electronic part used in military vehicles and systems.
+		</text>
+	</string>
+	
+	<string id="eft_powerbank_battery_name">
+		<text>Powerbank</text>
+	</string>
+	<string id="eft_powerbank_battery_desc">
+		<text>
+		Rechargeable high capacity battery.
+		</text>
+	</string>
+
+	<string id="eft_ledx_skintrans_name">
+		<text>LEDX Skin Transilluminator</text>
+	</string>
+	<string id="eft_ledx_skintrans_desc">
+		<text>
+		A device designed to accurately determine the position of the veins under the skin.
+		</text>
+	</string>
+
+	<string id="eft_ram_card_name">
+		<text>RAM</text>
+	</string>
+	<string id="eft_ram_card_desc">
+		<text>
+		Old RAM is a primary source of IC chips for various microcontroller purposes of the locals.
+		</text>
+	</string>
+	
+	<string id="eft_ssd_drive_name">
+		<text>SSD Drive</text>
+	</string>
+	<string id="eft_ssd_drive_desc">
+		<text>
+		Solid state drive. Used to store data, with enhanced read and write performance.
+		</text>
+	</string>
+
+	<string id="eft_cpu_fan_name">
+		<text>CPU Fan</text>
+	</string>
+	<string id="eft_cpu_fan_desc">
+		<text>
+		In conditions of total deficiency of elementary goods and conveniences, CPU cooling fans come in handy for crafty locals - wind power generators made from them charge radios, they are used as household fans, and even serve as vent intakes, replacing native heavy blades.
+		</text>
+	</string>
+
+	<string id="eft_military_cofdm_name">
+		<text>Military COFDM Wireless Signal Transmitter</text>
+	</string>
+	<string id="eft_military_cofdm_desc">
+		<text>
+		Two-way Speaking Military COFDM wireless AV+data Signal Transmitter SG-C10.
+		</text>
+	</string>
+
+	<string id="eft_sas_drive_name">
+		<text>SAS Drive</text>
+	</string>
+	<string id="eft_sas_drive_desc">
+		<text>
+		Reinforced case with SAS hard drive. Used for data storage in military industry.
+		</text>
+	</string>
+
+	<string id="eft_power_supply_name">
+		<text>Power Supply Unit</text>
+	</string>
+	<string id="eft_power_supply_desc">
+		<text>
+		PC power supply unit can be easily converted from powering PCs to a universal charger for all kinds of low-voltage rechargeable batteries and devices.
+		</text>
+	</string>
+
+	<string id="eft_pc_cpu_name">
+		<text>PC CPU</text>
+	</string>
+	<string id="eft_pc_cpu_desc">
+		<text>
+		PC central processing units, in lack of properly working computers, have found their purpose as a construction material for makeshift antenna reflector-type parasites.
+		</text>
+	</string>
+
+	<string id="eft_dvd_drive_name">
+		<text>DVD Drive</text>
+	</string>
+	<string id="eft_dvd_drive_desc">
+		<text>
+		Magnets, laser diodes, and lenses make PC DVD drives a valuable resource for all sorts of makeshift survivor geekery, including motion detectors and designators.
+		</text>
+	</string>
+
+	<string id="eft_golden_gphone_name">
+		<text>Golden 1GPhone</text>
+	</string>
+	<string id="eft_golden_gphone_desc">
+		<text>
+		GPhone 1G edition orange gold. There is a small 1G logo on the back side.
+		</text>
+	</string>
+
+	<string id="eft_skull_ring_name">
+		<text>Gold Skull Ring</text>
+	</string>
+	<string id="eft_skull_ring_desc">
+		<text>
+		A ring in the shape of a skull, like a real attribute of a goon who has reached success.
+		</text>
+	</string>
+
+	<string id="eft_silver_badge_name">
+		<text>Silver Badge</text>
+	</string>
+	<string id="eft_silver_badge_desc">
+		<text>
+		SheriffEli's silver badge
+		</text>
+	</string>
+
+	<string id="eft_gold_wwatch_name">
+		<text>Roler Submariner Gold Wrist Watch</text>
+	</string>
+	<string id="eft_gold_wwatch_desc">
+		<text>
+		Gold watch of the famous Roler brand. The case is made of 18 karats yellow gold.
+		</text>
+	</string>
+
+	<string id="eft_bronze_lion_name">
+		<text>Bronze Lion</text>
+	</string>
+	<string id="eft_bronze_lion_desc">
+		<text>
+		Collectible bronze lion. The thing is heavy, seemingly beautiful. In general, for aesthetic pleasure or for sale.
+		</text>
+	</string>
+
+	<string id="eft_cat_figurine_name">
+		<text>Cat Figurine</text>
+	</string>
+	<string id="eft_cat_figurine_desc">
+		<text>
+		An antique statuette of a cat, made of a rare sort of wood-makassar.
+		</text>
+	</string>
+
+	<string id="eft_antique_teapot_name">
+		<text>Antique Teapot</text>
+	</string>
+	<string id="eft_antique_teapot_desc">
+		<text>
+		An item from a rare collection of antique silver tea service set.
+		</text>
+	</string>
+
+	<string id="eft_horse_figurine_name">
+		<text>Horse Figurine</text>
+	</string>
+	<string id="eft_horse_figurine_desc">
+		<text>
+		Horrendously kitsch horse figurine is useless in Tarkov - just as anywhere else - but somewhere out there, there are dealers still willing to buy such things. Something is not right about this.
+		</text>
+	</string>
+
+	<string id="eft_antique_vase_name">
+		<text>Antique Vase</text>
+	</string>
+	<string id="eft_antique_vase_desc">
+		<text>
+		Porcelain vase from a private collection. In theory, can serve as beer pitcher.
+		</text>
+	</string>
+
+	<string id="eft_raven_figurine_name">
+		<text>Raven Figurine</text>
+	</string>
+	<string id="eft_raven_figurine_desc">
+		<text>
+		Raven figurine made of rare materials. The word Markstrom is written on the base.
+		</text>
+	</string>
+
+	<string id="eft_wooden_clock_name">
+		<text>Wooden Clock</text>
+	</string>
+	<string id="eft_wooden_clock_desc">
+		<text>
+		Extremely artfully made wooden clock in the form of a two-headed eagle. Rare and expensive thing.
+		</text>
+	</string>
+
+	<string id="eft_golden_rooster_name">
+		<text>Golden Rooster</text>
+	</string>
+	<string id="eft_golden_rooster_desc">
+		<text>
+		Golden rooster on an acrylic platform with chickenprism logo.
+		</text>
+	</string>
+	
+	<string id="eft_prokill_chain_name">
+		<text>Chain with Prokill Medallion</text>
+	</string>
+	<string id="eft_prokill_chain_desc">
+		<text>
+		Chain with the Prokill medallion. The attribute of the Contract Wars, and now - a relic.
+		</text>
+	</string>
+
+	<string id="eft_hard_drive_name">
+		<text>Damaged Hard Drive</text>
+	</string>
+	<string id="eft_hard_drive_desc">
+		<text>
+		Random access storage device (information storage device), based on the magnetic recording principle. Serves as the main data drive in most computers. From broken disks, hardware specialists salvage the controllers and magnets for re-use in other electronics.
+		</text>
+	</string>
+
+	<string id="eft_intel_folder_name">
+		<text>Folder with Intelligence</text>
+	</string>
+	<string id="eft_intel_folder_desc">
+		<text>
+		A folder with various documents that can be very useful and valuable to various individuals in the zone.
+		</text>
+	</string>
+	
+	<string id="eft_mino_tag_name">
+        <text>Dogtag 'Minotaur'</text>
+    </string>
+    <string id="eft_mino_tag_desc">
+        <text>
+        Well-worn and battered military dogtag of an American style. Only the codename is on the tag with no other identifying marks; likely belonged to either a mercenary group or black operations unit. The agent this dogtag belonged to is codenamed 'Minotaur'. Two silver bars are present on the tag, usually indicative of the rank of Captain.
+        </text>
+    </string>
+    
+    <string id="eft_maid_tag_name">
+        <text>Dogtag 'Maiden'</text>
+    </string>
+    <string id="eft_maid_tag_desc">
+        <text>
+        Well-worn and battered military dogtag of an American style. Only the codename is on the tag with no other identifying marks; likely belonged to either a mercenary group or black operations unit. The agent this dogtag belonged to is codenamed 'Maiden'. A single silver bar is engraved on the tag, indicative of the rank of First Lieutenant.
+        </text>
+    </string>
+
+    <string id="eft_arti_tag_name">
+        <text>Dogtag 'Artificer'</text>
+    </string>
+    <string id="eft_arti_tag_desc">
+        <text>
+        Well-worn and battered military dogtag of an American style. Only the codename is on the tag with no other identifying marks; likely belonged to either a mercenary group or black operations unit. The agent this dogtag belonged to is codenamed 'Artificer'. A gear symbol is embossed on the tag, which is definitely not a standard rank.
+        </text>
+    </string>
+	
+	<string id="eft_khan_tag_name">
+        <text>Dogtag 'Khan'</text>
+    </string>
+    <string id="eft_khan_tag_desc">
+        <text>
+        Well-worn and battered military dogtag of an American style. Only the codename is on the tag with no other identifying marks; likely belonged to either a mercenary group or black operations unit. The agent this dogtag belonged to is codenamed 'Khan'. The dogtag smells strongly of cigarette smoke and strong liquor, even despite repeated washing.
+        </text>
+    </string>
+	
+	<string id="eft_hawu_tag_name">
+        <text>Dogtag 'Haruka'</text>
+    </string>
+    <string id="eft_hawu_tag_desc">
+        <text>
+        Well-worn and battered military dogtag of an American style. Only the codename is on the tag with no other identifying marks; likely belonged to either a mercenary group or black operations unit. The agent this dogtag belonged to is codenamed 'Haruka'. Bizarrely, the tag has an extremely intricate filigree below the rank; what looks to be a cat face of some kind with large eyes.
+        </text>
+	</string>
+	
+	<string id="eft_flash_tag_name">
+        <text>Dogtag 'Flashbang'</text>
+    </string>
+    <string id="eft_flash_tag_desc">
+        <text>
+        Well-worn and battered military dogtag of an American style. Only the codename is on the tag with no other identifying marks; likely belonged to either a mercenary group or black operations unit. The agent this dogtag belonged to is codenamed 'Flashbang'. Fittingly, a lightbulb is engraved below the name.
+        </text>
+    </string>
+	
+    <string id="eft_4k_tag_name">
+        <text>Dogtag '4000'</text>
+    </string>
+    <string id="eft_4k_tag_desc">
+        <text>
+        Well-worn and battered military dogtag of an American style. Only the codename is on the tag with no other identifying marks; likely belonged to either a mercenary group or black operations unit. The agent this dogtag belonged to is codenamed '4000'. A sniper's reticle is engraved below the name.
+        </text>
+    </string>
+	
+	<string id="eft_ketchup_tag_name">
+		<text>Dogtag 'Ketchup'</text>
+    </string>
+    <string id="eft_ketchup_tag_desc">
+        <text>
+		Well-worn and battered military dogtag of an American style. Only the codename is on the tag with no other identifying marks; likely belonged to either a mercenary group or black operations unit. The agent this dogtag belonged to is codenamed 'Ketchup'. A small first aid cross is engraved below - perhaps the group medical officer?
+        </text>
+    </string>
+
+	<string id="eft_raven_tag_name">
+		<text>Dogtag 'Voron'</text>
+    </string>
+    <string id="eft_raven_tag_desc">
+        <text>
+		Well-worn and battered military dogtag of Russian make. Only the codename is on the tag with no other identifying marks; likely belonged to either a mercenary group or black operations unit. The agent this dogtag belonged to is codenamed 'Voron'. A raven's head is delicately engraved on the reverse side.
+        </text>
+    </string>
+
+	<string id="eft_beef_tag_name">
+        <text>Dogtag 'Beef'</text>
+    </string>
+    <string id="eft_beef_tag_desc">
+        <text>
+		Well-worn and battered military dogtag of an American style. Only the codename is on the tag with no other identifying marks; likely belonged to either a mercenary group or black operations unit. The agent this dogtag belonged to is codenamed 'Beef'. Finely embossed with a skull wearing a pair of nightvision goggles.
+        </text>
+    </string>
+
+	<string id="eft_gwub_tag_name">
+		<text>Dogtag 'Grub'</text>
+	</string>
+	<string id="eft_gwub_tag_desc">
+		<text>
+		Well-worn and battered military dogtag of Russian make. Only the codename is on the tag with no other identifying marks; likely belonged to either a mercenary group or black operations unit. 'Grub' is embossed on the tag in Latin characters; on the obverse side are intricate Arabic words.
+		</text>
+	</string>
+
+	<string id="eft_amer_tag_name">
+		<text>Metal dogtag</text>
+	</string>
+	<string id="eft_amer_tag_desc">
+		<text>
+		Rectangular Dogtag with some soldier's name, blood type and faith. The style is standard of NATO forces, particularly of the U.S. Armed Forces. However, it is known that Freedom will adopt Western-style tags as well, and mercenaries tend to use dog tags with coded information on them to mislead people.
+		</text>
+	</string>
+	
+	<string id="eft_rus_tag_name">
+		<text>Metal dogtag</text>
+	</string>
+	<string id="eft_rus_tag_desc">
+		<text>
+		Oval dogtag characteristic of Russian and Ukrainian armed forces. These are a common find on Military soldiers and indicative of military origins for other stalkers. Some mercenaries will forgo these tags in order to preserve identity and secrecy of their operations.
+		</text>
+	</string>
+
+</string_table>

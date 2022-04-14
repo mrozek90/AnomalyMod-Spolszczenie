@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+<!-- Lukash (Freedom Leader) -->
+	<string id="about_freedom_lider_miklyha_0">
+		<text>Czy to Ty jesteś Stalkerem, który przedarł się za Mózgozwęglacz i żył tam przez ponad pół roku?</text>
+	</string>
+	<string id="about_freedom_lider_miklyha_1">
+		<text>Cóż, jestem jednym z nich. A poza tym to nie było pół roku - bardziej coś koło miesiąca. Poza tym się zgadza. Jestem Łukasz. Miło Cię poznać.</text>
+	</string>
+	<string id="about_freedom_lider_miklyha_2">
+		<text>Opowiesz mi, jak tam było?</text>
+	</string>
+	<string id="about_freedom_lider_miklyha_3">
+		<text>Słuchaj, kolego. Ja wiem, że tamto miejsce jest mega ciekawe, wszystkim wydaje się, że żyły artefaktów, el dorado, cuda na kiju i takie tam, ale wolałbym nie bawić się we wspominki. Jedyne, co ma znaczenie to to, że wróciłem stamtąd cały i zdrowy.</text>
+	</string>
+	<string id="about_freedom_lider_miklyha_4">
+		<text>Rozumiem. Dzięki.</text>
+	</string>
+	
+	<string id="monolith_eidolon_start_0">
+		<text>Chwała Monolitowi, bracie.</text>
+	</string>
+	
+	<string id="find_blackbox_mlr_reward_freedom_0">
+		<text>Znalazłem jakiś rejestrator lotu.</text>
+	</string>
+	<string id="find_blackbox_mlr_reward_freedom_1">
+		<text>Powaga? Daj go tutaj. Zobaczmy, co planują ci frajerzy.</text>
+	</string>
+
+
+	<string id="look_for_cs_history_part_3_1_0">
+		<text>Szukam Leszego, podobno jest gdzieś tutaj?</text>
+	</string>
+	<string id="look_for_cs_history_part_3_1_1">
+		<text>Żebyś wiedział, że jest. Idź na pierwsze piętro, znajdziesz go na końcu korytarza.</text>
+	</string>
+	<string id="look_for_cs_history_part_3_1_2">
+		<text>Dziękuję.</text>
+	</string>
+	
+	<string id="devushka_5_help_0">
+		<text>Moja przyjaciółka chciałaby się z Tobą zobaczyć. Wydaje mi się, że ją znasz.</text>
+	</string>
+	<string id="devushka_5_help_1">
+		<text>Ach, tak. Wejdźcie! Zapalcie sobie blancika - przyda wam się mały relaksik przed taką... wycieczką. Dobrze zrobiliście wpadając w odwiedziny. Robota Lokiego stała się dużo cięższa po tym, jak Monolit znowu urósł w siłę. Jestem pewny, że leki, które chcecie mu dostarczyć pomogą uratować wielu dobrych ludzi.</text>
+	</string>
+	
+	<string id="devushka_help1_0">
+		<text>Podobno Hip jeszcze nigdy nie była za Barierą. To prawda?</text>
+	</string>
+	<string id="devushka_help1_1">
+		<text>Z tego co mi wiadomo, to tak, ale nie można jej za to winić. Wiesz, jak sam parę razy zobaczysz, że ziomkom dosłownie na Twoich oczach wypala mózgi, szybko dochodzisz do wniosku, że to nie dla Ciebie bajka. A jakby tego było mało, ciągle podgryzają nas kundle z Powinności, ech.\n \nCóż, dziewczyna wygląda na pewną siebie i zdecydowaną, jeśli chodzi o tę wyprawę. Udacie się na stację Janów w Jupiterze, musicie dostarczyć Lokiemu zapas leków, bo inaczej chłopaki na północy popadają jak muchy. Nie możemy sobie pozwolić na utratę Janowa.</text>
+	</string>
+	<string id="devushka_help1_2">
+		<text>W porządku. Wygląda na to, że imm szybciej wyruszymy, tym lepiej.</text>
+	</string>
+	<string id="devushka_help1_3">
+		<text>Hola, hola. Potrzebuję czasu, żeby się przygotować.</text>
+	</string>
+
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_ask">
+		<text>Hej, Łukasz! Chciałbyś opowiedzieć mi o życiu w Wolności?</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_1">
+		<text>Jasne! Chłopaki uwielbiają świętować urodziny Boba Marley'a. Robią bibę, jak tylko im się przypomni. W końcu każda okazja jest dobra, co nie? A że mało kto pamięta datę jego urodzin... przecież liczą się chęci! Zawsze przed obchodami upewniamy się, że mamy w opór towaru - przecież trzeba sobie wtedy dobrze pojeść, coś przypalić, może czasem fuknąć, normalka. Jak się bawić, to się bawić!\n \nTo trochę zabawne, że wszystkim dookoła wydaje się, że jedyne co tu robimy, to upalamy się ziołem. Mało kto widzi, ile naprawdę mamy roboty, ale co zrobisz? Nie jestem tu po to, by mówić tym ludziom, jak mają żyć. Wyobraź sobie, że trafiasz do krainy totalnej wolności, bez nakazów, zakazów, rządu, słowem: niczego, co mogłoby cię ograniczyć z zewnątrz. Zostaje ci tylko honor, duch i własna moralność. A tu pojawia się jeden taki, czy owaki, zaczyna zgrywać tatuśka i mówi ci, że to jest be, a tamto cacy. No bez jaj.\n \nDla stalkerów potrzebujących bata nad głową i pokazywania palcem, co i gdzie mają robić istnieje coś takiego jak Powinność. To Woronin ze swoimi napakowanymi smutasami zgrywa w Zonie rolę tatuśka. Zauważ, że dopiero, gdy ludzie będący za nim i jego pomysłami wdepną w gówno takie, że leżą i wykrwawiają się w jakimś przydrożnym rowie, desperacko wzywając pomocy albo błagając o litość, dopiero wtedy zaczynają łapać, jak bezużyteczną wydmuszką jest wtłaczana im do głowy idea "Powinności".</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_2">
+		<text>Jakiś czas temu wojskowym udało się opracować kamizelkę kuloodporną zawierającą zamknięte w kapsułkach fragmenty artefaktu, który zapewniał jej właściwości leczące. Musisz przyznać, że pomysł brzmi świetnie! No i wiesz, spróbowaliśmy przejąć takie cudeńko. W końcu nam się udało, więc postaraliśmy się zaadaptować to do naszych własnych kombinezonów.\n \nCóż... krótko mówiąc, nie wszystko poszło tak, jak powinno, niemniej jednak podzieliliśmy się naszą wiedzą z innymi. Tak, w razie gdyby ktoś chciałby spróbować dokonać tego, czego nam się nie udało.\n \nI właśnie to jest kolejna rzecz, która według mnie charakteryzuje Wolność - wolny przepływ informacji. Pewien mądry facet powiedział mi kiedyś: "uważaj na tych, którzy odmawiają ci dostępu do informacji, bo głęboko w swoim sercu widzą się wtedy jako lepsi od ciebie." Nigdy nie zapomnę tych słów i zadbam, by Wolność też o nich nie zapomniała.</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_3">
+		<text>Jasne! Na pewno obiła Ci się o uszy mroczna historia Wioski Pijawek, tej niedaleko stąd. Raczej nikt normalny się tam nie zapuszcza. Możesz siedzieć godzinami na wzgórzu, obserwować stamtąd chatki i nic, żywej duszy, nawet jednego pieprzonego szczura, tylko te komety zasuwają między domami. I co? Stwierdzisz wtedy, że wszystkie te legendy to na pewno bujdy na resorach i jeszcze, niech cię Czarny Stalker, pójdziesz sprawdzić z bliska. Zdajesz sobie w ogóle sprawę, ilu było takich, co sobie pomyśleli dokładnie w ten sposób?\n \nNo właśnie. Było... Chociaż w sumie to i tak lepsze, niż pomysły, na które od czasu do czasu wpadają chłopaki... Nawet nie chcę już myśleć o tym, ile razy zawracałem idiotów myślących, że uda im się wykurzyć stamtąd mutanty. Nic nie dociera! A teraz najlepsze! Kiedyś ktoś rzucił hasło, że ten kto zrobi zdjęcie swojego kutasa w żywej pijawce stanie się legendą pokroju Striełoka, ale to był tylko żart, ludzie! Jebany żart!\n \nJa naprawdę wierzę, że oni wszyscy pchają się tam z dobrych pobudek, ale nie wiem, jak im wtłuc do głów, że próba pozbycia się z wioski mutantów nie ma żadnego sensu. Żad-ne-go. Co chwila słyszę, że przyszedł jakiś stary wyga i podpuścił świeżaków, albo że ktoś uznał, że obleci sobie okolicę na skróty. Zamiast asfaltem poszedł przez wioskę... i tyle go widzieli.\n \nNawet nie zdajesz sobie sprawy, ile to już razy musiałem wysłuchiwać opowieści o tym, że stalker należący do Wolności zginął w tej cholernej wiosce... nie masz pojęcia. Kurwa mać, stary. I co ja mogę?</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_4">
+		<text>Wiesz co, nie mam dziś nastroju na pierdololo o paleniu zioła. Powiem ci krótko i dosadnie, jedną zajebiście ważną rzecz.\n \nW tej chwili jesteśmy na tyle silni, że możemy utrzymać się na powierzchni bez jakiegoś większego wysiłku. Sam widzisz, jaki tu panuje luz i sielanka. Spoko, nie ma żadnych poważnych zagrożeń, niech się chłopaki relaksują.\n \nNie toleruję tylko jednego - kapusiów i donosicieli. Teraz nie ma tragedii, bo stalkerzy wiedzą, że nie ma co z nami pogrywać, ale nie zawsze było tak pięknie. Przez te parę lat zdarzały się różne krzywe sytuacje, z których trzeba było się wygrzebywać.\n \nNiby każda historia zaczęła się inaczej, ale w tym przypadku wszystkie kończą się tak samo - dławiącym się własną krwią sukinsynem, wijącym się z bólu i głęboko żałującym złych decyzji, które w życiu podjął. Ktokolwiek zdradzi zaufanie Wolności, zbyt długo nie pożyje. Koniec bajki.</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_5">
+		<text>Hmm... Dziś mam taki trochę filozoficzny nastrój, więc jeśli chcesz posłuchać moich wywodów, to śmiało.\n \nZdumiewa mnie skłonność ludzi do wierzenia w to, co im się akurat podoba, a nie w twarde, rzeczowe dowody. Obecność Zony to niekwestionowany cud naukowy, który ma według mnie niesamowity potencjał, jeśli chodzi o możliwości rozwoju całej ludzkości.\n \nStrefa potrafi być okrutna, fakt, ale żeby od razu nazywać ją diabelskim miejscem, w którym człowieka czeka tylko nędza i śmierć? Nawet Ekolodzy twierdzą, że Zona nadal jest w stanie pozytywnie wpłynąć na jakość życia i rozwój cywilizacyjny w taki sposób, że gdy skończą ją poznawać i nauczą się w pełni korzystać z jej dobrodziejstw, ten świat będzie nie do poznania. Dążenie do zniszczenia Strefy, "bo może wyrządzić nam krzywdę" jest według mnie tak samo głupie, jak odcięcie rąk chirurgowi tylko dlatego, że może ich użyć jako pięści.\n \nWolność nie traktuje Zony jak wroga, ale przyjmuje jej tajemnice jako podarunki, z których należy się cieszyć, a także jako wyzwanie, któremu należy stawić czoła. Kto stworzył Zonę, jak myślisz? Ona tak naprawdę odzwierciedla to, kim jesteśmy jako gatunek, co reprezentujemy jako ludzkość. Jeśli założysz, że ona dąży do zagłady ludzkości, to tak samo, jakbyś założył, że ludzkość dąży do zniszczenia samej siebie. Wolność nie postrzega rzeczywistości w ten sposób.\n \nPowinność z kolei reprezentuje typowego jaskiniowca, który prędzej zgasiłby ogień niż spróbował go wykorzystać dla dobra swojego plemienia. Właśnie dlatego między naszymi frakcjami nigdy nie będzie stałego rozejmu. Dopóki Powinność nie zrozumie, jakim darem jest Zona i będzie uważać ją za ucieleśnienie najgorszego zła, jej członkowie będą mieć nas za najgorszych wrogów. Powiedz mi, jak możemy w takich warunkach osiągnąć pokój?</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_6">
+		<text>Tak. Pozwól, że wyjaśnię ci, jakie relacje są między nami a najemnikami Duszmana. W dużym uproszczeniu oni nas nie szpiegują, ani nie podkupują nam ludzi, a my przymykamy oko na to, że kręcą się po de facto naszym terenie. Póki co ten system działa bardzo dobrze.\n \nMimo, że to banda morderców gotowych poderżnąć ci gardło tylko dlatego, że ktoś wskazał cię palcem i skąpych skurwysynów, których zaufanie i szacunek można kupić, machając im przed nosem plikiem banknotów, trzeba oddać sprawiedliwości, że coraz częściej ich kontrakty nie ograniczają się tylko do szmuglowania towaru z i do Zony. Ostatnimi czasy są jakby... bardziej otwarci na innych. Niewiele, ale zawsze.\n \nNie wiem - i w zasadzie nawet nie chcę wiedzieć - co, czy kto i w jaki sposób nimi kieruje, ale fakt faktem, że od jakiegoś czasu całkiem chętnie pomagają naszym ludziom w wykonaniu roboty. Pewnie Duszman, albo ktoś, kto stoi jeszcze wyżej uznał, że skoro wojsko brata się z Powinnością, to i oni powinni poszukać sobie sojusznika po tej stronie Kordonu. Nam to pasuje - taka symbioza jest jak wisienka na torcie. Więc tak, potrafimy ze sobą współpracować.\n \nWiadomo, czasem zdarzają się jakieś zgrzyty, ale zawsze łagodzimy konflikt i rozwiązujemy sporne sytuacje na naszą korzyść. Poza tym ci ludzie doskonale wiedzą, że tutaj nie są u siebie. Ten skrawek ziemi to nasz dom i nie pozwolimy sobie na wparowanie do niego w buciorach i bez zaproszenia. Dobrze o tym wiedzą.</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_7">
+		<text>Jasne! Pewnie zdarzyło ci się już sczepić z wojskowymi dupolizami? Co za banda klaunów... Na stówę doskonale wiesz, jak bardzo są skorumpowani i jak brakuje im kompetencji. Ech, gdyby tylko nie było ich tak wielu i mieli - jak my - ograniczone fundusze... Wtedy jeszcze może byłbym skłonny ich tolerować, ale w tej sytuacji stanowią jedno z największych zagrożeń przeciwko pozytywnemu użyciu Zony dla dobra ludzkości.\n \nW sumie jestem ciekaw, nawet - hipotetycznie zakładając - gdyby przejęli Zonę, co wtedy zrobią, jak myślisz? Dla mnie to oczywiste! Przekażą nieopisane bogactwo naukowe państwu! Cuda i tajemnice Zony staną się tylko kolejnym elementem gierki międzynarodowych politykierów! Nie możemy pozwolić siłom rządowym na przejęcie Zony, musimy przeciwstawiać się im przy każdej możliwej okazji!\n \nZona istnieje po to, by każdy mężczyzna, kobieta i dziecko mogło doświadczyć jej niezwykłych darów. Niech mnie piekło pochłonie, jeśli to bogactwo wpadnie w oślizgłe ręce przekupnych oligarchów! Ech, na rzygi mnie bierze, jak sobie o nich pomyślę - tłuści, obleśni, siedzą w tych pełnych przepychu salach konferencyjnych i szczerzą do siebie białe i równiuśkie kły, a w oczach tylko obłuda, fałsz i forsa. I jeszcze więcej forsy...</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_8">
+		<text>Man, nie ma o czym gadać! O Wolności się nie mówi, Wolność się kocha, czuje i szanuje! My tutaj z uśmiechem na ustach akceptujemy każdego, kto postrzega Zonę jako miejsce, którego nie można ograniczyć rozporządzeniem, czy ustawą. Zapraszamy każdego, kto chce żyć jako wolny człowiek bez kierowania się kodeksem moralnym. Jakby nie patrzeć... na tym polega wolność, nie?</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_9">
+		<text>Można powiedzieć, że jesteśmy najbardziej wesołą gromadką w Zonie. I wiesz co? Nawet trzeba tak mówić! Zona to najprawdziwszy cud. Dar. A dary są po to, żeby się nimi cieszyć, co nie? Anomalie, artefakty, nawet mutanty. To wszystko to jej dary, jej cuda. No... w każdym razie większość z tego, co wymieniłem.\n \nTak czy owak, ludzie powinni móc tu przybywać i doświadczać tych niezwykłości. Proklamujemy wolny dostęp dla każdego, dwa cztery na siedem, cały rok! Dzielenie się jest oznaką troski, zgadza się? Póki tu jesteśmy, dlaczego by się trochę nie zabawić? Żadnego kodu, żadnej dyscypliny, tylko lojalni, otwarci na innych ludzie, na których możesz liczyć, kiedy coś pójdzie nie tak.\n \nPiwko ze znajomymi? Śmiało, zapraszamy. Napierdalanka ze świrami z Monolitu? Nie ma sprawy. Na deser obicie ryjów ludziom Woronina? A proszę bardzo, jeszcze pomożemy! Tyle możliwości, tyle ścieżek do wybrania, tyle ryjów do skopania, haha!</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_end">
+		<text>A możemy pogadać innym razem? Mam parę ważnych spraw na głowie.</text>
+	</string>
+	
+<!-- (Freedom guide) -->
+	<string id="mil_freedom_guid_meet_0">
+		<text>Cześć, co słychać?</text>
+	</string>
+	<string id="mil_freedom_guid_meet_1">
+		<text>Wszystko po staremu. Jestem Leszy, miło mi cię poznać. Działam tu jako przewodnik i organizuję zwiad.</text>
+	</string>
+	<string id="mil_freedom_guid_meet_2">
+		<text>O! I jak się miewa tutejszy wywiad? W Zonie pewnie znasz już każdy kamień, co?</text>
+	</string>
+	<string id="mil_freedom_guid_meet_3">
+		<text>Cóż, trudno zaprzeczyć. Kiedyś utknąłem w sercu anomalii! Dziwne to były czasy... służyłem wtedy jako najemnik, żołnierz fortuny. Razem z oddziałem wpadliśmy w bąbel przestrzenny. Ech, to długa i w zasadzie dość nudna historia.\n \nW każdym razie oferuję się jako przewodnik na Kordon, Jantar i stację Janów w Jupiterze. Kolejno za cztery tysiące pięćset, pięć tysięcy i sześć tysięcy rubli.</text>
+	</string>
+	<string id="mil_freedom_guid_meet_4">
+		<text>Będę o tym pamiętać.</text>
+	</string>
+
+	<string id="mil_freedom_guid_go_0">
+		<text>Leszy, możesz mnie gdzieś zaprowadzić?</text>
+	</string>
+	<string id="mil_freedom_guid_go_1">
+		<text>Jasne, stary. Dokąd?</text>
+	</string>
+		<string id="mil_freedom_guid_go_2">
+			<text>Do Janowa. %c[d_orange][6.000 RU]</text>
+		</string>
+		<string id="mil_freedom_guid_go_5">
+			<text>Najpierw kasa, kolego.</text>
+		</string>
+		<string id="mil_freedom_guid_go_8">
+			<text>Trzymaj.</text>
+		</string>
+		<string id="mil_freedom_guid_go_3">
+			<text>Na Kordon. %c[d_orange][4.500 RU]</text>
+		</string>
+		<string id="mil_freedom_guid_go_6">
+			<text>Masz kasę?</text>
+		</string>
+		<string id="mil_freedom_guid_go_9">
+			<text>Tak, trzymaj.</text>
+		</string>
+		<string id="mil_freedom_guid_go_4">
+			<text>Na Jantar. %c[d_orange][5.000 RU]</text>
+		</string>
+		<string id="mil_freedom_guid_go_7">
+			<text>Masz przy sobie kasę?</text>
+		</string>
+		<string id="mil_freedom_guid_go_10">
+			<text>Oczywiście. Trzymaj.</text>
+		</string>
+	<string id="mil_freedom_guid_go_11">
+		<text>Nieważne.</text>
+	</string>
+	<string id="mil_freedom_guid_go_12">
+		<text>Zmieniłem zdanie.</text>
+	</string>
+
+</string_table>

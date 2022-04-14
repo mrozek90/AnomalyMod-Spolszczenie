@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+
+	<!-- PDA -->
+	<string id="pda_btn_encyclopedia">
+		<text>Przewodnik</text>
+	</string>
+	
+	<string id="pda_btn_encyclopedia_hint">
+		<text>Pokaż Przewodnik</text>
+	</string>
+	
+	<!-- Interface components -->
+	<string id="pda_encyclopedia_title">
+		<text>Przewodnik pod Zonie</text>
+	</string>
+	
+	<string id="st_pda_encyclopedia_image_checkbox">
+		<text>Ilustracje u góry</text>
+	</string>
+	
+	<string id="st_pda_encyclopedia_message_checkbox">
+		<text>Pokaż wiadomości</text>
+	</string>
+	
+	<!-- Messages -->
+	<string id="pda_encyclopedia_notify">
+		<text>Odblokowano artykuł: %s, %s</text>
+	</string>
+	<string id="pda_encyclopedia_notify_note">
+		<text>Nowa notatka: %s</text>
+	</string>
+	
+	<!-- Misc -->
+	<string id="pda_encyclopedia_info">
+		<text>Informacja</text>
+	</string>
+	<string id="pda_encyclopedia_properties">
+		<text>Właściwości</text>
+	</string>
+	<string id="pda_encyclopedia_subject">
+		<text>Charakterystyka</text>
+	</string>
+	<string id="pda_encyclopedia_content">
+		<text>Zawartość</text>
+	</string>
+	
+	<string id="pda_encyclopedia_ironman_lifes">
+		<text>Przyznane życia</text>
+	</string>
+	<string id="pda_encyclopedia_ironman_life">
+		<text>Pozostałe życia</text>
+	</string>
+	<string id="pda_encyclopedia_ironman_deaths">
+		<text>Licznik śmierci</text>
+	</string>
+	<string id="pda_encyclopedia_ironman_cycle">
+		<text>Cykl przyznawania życia (w godz.)</text>
+	</string>
+	<string id="pda_encyclopedia_ironman_1">
+		<text>Jeden błąd i po wszystkim.</text>
+	</string>
+	<string id="pda_encyclopedia_ironman_2">
+		<text>Muszę bardziej uważać!</text>
+	</string>
+	<string id="pda_encyclopedia_ironman_3">
+		<text>Teraz jestem bezpieczny.</text>
+	</string>
+	
+	
+	<!-- Locked articles -->
+	<string id="pda_encyclopedia_locked">
+		<text>??????????</text>
+	</string>
+	
+	<string id="pda_encyclopedia_locked_text">
+		<text>
+			Nie odblokowałeś jeszcze tego artykułu.\n 
+			\nArtykuły można odblokować w następujący sposób:\n
+			\n• Odkrywając nowe lokacje.
+			\n• Pobierając dane z nośników pamięci.
+			\n• Patrosząc mutanty dla części ciał i mięsa.
+			\n• Wchodząc w interakcje ze stalkerami.
+			\n• Używając przedmiotów i korzystając z pancerzy.
+		</text>
+	</string>
+	
+</string_table>

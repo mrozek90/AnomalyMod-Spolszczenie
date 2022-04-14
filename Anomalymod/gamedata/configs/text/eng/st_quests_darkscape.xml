@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+<!-- Mechanic -->
+	<string id="dasc_tech_mlr_task_1_name">
+		<text>Znajdź %s</text>
+	</string>
+	<string id="dasc_tech_mlr_task_1_text">
+		<text>Zlecenie technika z tartaku - przynieś %s.</text>
+	</string>
+	<string id="dasc_tech_mlr_task_1_about">
+		<text>Jak już pewnie zdążyłeś zauważyć, ta okolica to totalne pustkowie. Choćby tutaj - niby był tu tartak, a nie zostało nic oprócz suchych pni i belek. \n \nPrzydałby mi się jakiś zestaw do pracy... Jeśli znalazłbyś jakieś narzędzia, nawet najprostsze - proszę, dostarcz mi je.</text>
+	</string>
+	<string id="dasc_tech_mlr_task_1_fetch_about">
+		<text>Jak już pewnie zdążyłeś zauważyć, ta okolica to totalne pustkowie. Choćby tutaj - niby był tu tartak, a nie zostało nic oprócz suchych pni i belek. \n \nPrzydałby mi się jakiś zestaw do pracy... Jeśli znalazłbyś jakieś narzędzia, nawet najprostsze - proszę, dostarcz mi je.</text>
+	</string>
+	<string id="dasc_tech_mlr_task_1_fetch_finish">
+		<text>Dzięki... Wszystko powinno teraz pójść trochę łatwiej. Weź ten artefakt w nagrodę - to Błona, rzadka rzecz.</text>
+	</string>
+
+	<string id="dasc_tech_mlr_task_2_name">
+		<text>Znajdź %s</text>
+	</string>
+	<string id="dasc_tech_mlr_task_2_text">
+		<text>Zlecenie technika z tartaku - przynieś %s.</text>
+	</string>
+	<string id="dasc_tech_mlr_task_2_about">
+		<text>Skoro znalazłeś jeden zestaw narzędzi, to może wiesz, gdzie szukać takiego bardziej zaawansowanego? Ułatwiłby mi życie.</text>
+	</string>
+	<string id="dasc_tech_mlr_task_2_fetch_about">
+		<text>Skoro znalazłeś jeden zestaw narzędzi, to może wiesz, gdzie szukać takiego bardziej zaawansowanego? Ułatwiłby mi życie.</text>
+	</string>
+	<string id="dasc_tech_mlr_task_2_fetch_finish">
+		<text>Och! Bardzo dziękuję. Trzymaj, to za fatygę.</text>
+	</string>
+
+	<string id="dasc_tech_mlr_task_3_name">
+		<text>Znajdź %s</text>
+	</string>
+	<string id="dasc_tech_mlr_task_3_text">
+		<text>Zlecenie technika z tartaku - przynieś %s.</text>
+	</string>
+	<string id="dasc_tech_mlr_task_3_about">
+		<text>Zdaję sobie sprawę, że trochę przesadzam, prosząc o coś jeszcze w tym zapomnianym przez Boga i ludzi miejscu... Ale może mógłbyś mi zdobyć trzeci, najbardziej złożony zestaw? Zestaw eksperta byłby idealny.</text>
+	</string>
+	<string id="dasc_tech_mlr_task_3_fetch_about">
+		<text>Zdaję sobie sprawę, że trochę przesadzam prosząc o coś jeszcze w tym zapomnianym przez Boga i ludzi miejscu... Ale może mógłbyś mi zdobyć trzeci, najbardziej złożony zestaw? Zestaw eksperta byłby idealny.</text>
+	</string>
+	<string id="dasc_tech_mlr_task_3_fetch_finish">
+		<text>Dziękuję za wszystko. Być może uda się zmienić kiedyś to pustkowie w nieco bardziej przyjazne miejsce.</text>
+	</string>
+
+
+</string_table>

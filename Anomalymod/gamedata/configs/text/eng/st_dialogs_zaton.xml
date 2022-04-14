@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+<!-- (Mercenary Guide) at the merc base -->
+<!-- (Mercenary Trader) at the merc base -->
+	<string id="meet_zaton_killer_guide_station_0">
+		<text>Kim jesteś?</text>
+	</string>
+	<string id="meet_zaton_killer_guide_station_1">
+		<text>A co cię to interesuje? Dbam o zaopatrzenie i przeprowadzam oddziały stąd do głównej bazy w Martwym Mieście. Tyle powinno ci wystarczyć.</text>
+	</string>
+
+	<string id="meet_zaton_killer_guide_station_list_0">
+		<text>Przypomnij, dokąd możesz mnie zaprowadzić?</text>
+	</string>
+	<string id="meet_zaton_killer_guide_station_list_1">
+		<text>Szedłeś tu przez Mózgozwęglacz? To jedyny szlak do Martwego Miasta. Przewodnik kosztuje osiem tysięcy.</text>
+	</string>
+
+	<string id="travel_zaton_killer_guide_station_base_0">
+		<text>Chciałbym się dostać do Martwego Miasta.</text>
+	</string>
+	<string id="travel_zaton_killer_guide_station_base_1">
+		<text>Świetnie. Przygotuj się na brodzenie w ścieku. Może kiedyś dorobię się porządnego aparatu tlenowego... Gotowy?</text>
+	</string>
+	<string id="travel_zaton_killer_guide_station_base_2">
+		<text>Gotowy. %c[d_orange][8.000 RU]</text>
+	</string>
+	<string id="travel_zaton_killer_guide_station_base_3">
+		<text>Zmieniłem zdanie.</text>
+	</string>
+
+	
+<!-- Pilot (Loner Guide) -->
+	<string id="meet_guid_zat_0">
+		<text>Czym się tu zajmujesz?</text>
+	</string>
+	<string id="meet_guid_zat_1">
+		<text>Odkrywca przejść i badacz bezpiecznych dróg Pilot do twoich usług. Nie ma co prawda zbyt wielu miejsc, do których mogę cię zaprowadzić, ale na pewno ze mną dotrzesz tam szybko i bezpiecznie. Znam przejścia do Prypeci i Jupitera. Dodatkowo z pomocą Garriego mogę przeprowadzić cię do wschodniej części Prypeci.</text>
+	</string>
+
+	<string id="meet_guid_zat_list_0">
+		<text>Powtórz, dokąd możesz mnie zaprowadzić.</text>
+	</string>
+	<string id="meet_guid_zat_list_1">
+		<text>Mogę pogadać z Garrim o poprowadzeniu cię do Prypeci za cztery tysiące, a także na Przedmieścia za pięć tysięcy. Na stację Janów w Jupiterze zaprowadzę cię sam za dwa tysiące.</text>
+	</string>
+
+	<string id="travel_guid_zat_0">
+		<text>Chciałbym skorzystać z twoich usług.</text>
+	</string>
+	<string id="travel_guid_zat_1">
+		<text>A więc dokąd idziemy?</text>
+	</string>
+	<string id="travel_guid_zat_2">
+		<text>Do Prypeci. %c[d_orange][4.000 RU]</text>
+	</string>
+	<string id="travel_guid_zat_3">
+		<text>Na Przedmieścia Prypeci. %c[d_orange][5.000 RU]</text>
+	</string>
+	<string id="travel_guid_zat_4">
+		<text>Do Jupitera. %c[d_orange][2.000 RU]</text>
+	</string>
+	<string id="travel_guid_zat_5">
+		<text>Zmieniłem zdanie.</text>
+	</string>
+
+	<string id="stalker_guide_about_himself_0">
+		<text>Opowiedz mi o sobie.</text>
+	</string>
+	<string id="stalker_guide_about_himself_1">
+		<text>Mówią mi Pilot - wcale nie bez powodu, chociaż samolotem nigdy nie latałem. Używam tylko całkowicie bezpiecznych ścieżek. Nie mam w sobie drygu do szukania artefaktów i walki z bandytami, za to posiadam dość dużą wiedzę w zakresie występujących tu anomalii.\n \nCóż, uważam, że każdy powinien wykorzystywać swój talent i umożliwiać innym z niego korzystać. Oczywiście, wykorzystanie czyjejś fachowej wiedzy zawsze ma swoją cenę.</text>
+	</string>
+	
+	<string id="stalker_guide_about_anomalies_1116">
+		<text>Okej.</text>
+	</string>
+	<string id="stalker_guide_about_anomalies_1111">
+		<text>Opowiedz mi o anomaliach termicznych.</text>
+	</string>
+	<string id="stalker_guide_about_anomalies_11111">
+		<text>Jeśli zauważysz drżący, migający słup powietrza, podobny do takiego unoszącego się nad chodnikiem w gorący dzień, prawie na pewno masz do czynienia ze Spalaczem. Po aktywacji wybucha niezwykle gorącą kolumną ognia. Kiedyś uważano, że to wyciekające strumienie gazu, ale ta teoria upadła już jakiś czas temu.</text>
+	</string>
+	<string id="stalker_guide_about_anomalies_1112">
+		<text>Opowiedz mi o anomaliach gazowych.</text>
+	</string>
+	<string id="stalker_guide_about_anomalies_11121">
+		<text>Ten typ anomalii zawdzięcza swą nazwę dziwnym, nieustannym procesom chemicznych, które w nim zachodzą. Takie anomalie wytwarzają kwas, który w kilka sekund rozpuszcza skórę, albo toksyczne gazy, które w parę chwil wyżerają dziury w płucach. Na szczęście na otwartym terenie łatwo je zauważyć. Problem zaczyna się wtedy, gdy trafi się na jedną z nich w ciemnym tunelu.</text>
+	</string>
+	<string id="stalker_guide_about_anomalies_1113">
+		<text>Opowiedz mi o anomaliach elektrycznych.</text>
+	</string>
+	<string id="stalker_guide_about_anomalies_11131">
+		<text>To bardzo interesujący typ anomalii. Potrafi akumulować ogromne ilości elektryczności statycznej. Stalkerzy zwykle wykorzystują fakt, że elektry można rozładować za pomocą dowolnego metalowego przedmiotu. Wrzucają śrubę i przebiegają na drugą stronę, zanim naładuje się ponownie. Ja wolę obchodzić je dookoła, tak jest znacznie bezpieczniej. Czasem ułamek sekundy może zaważyć o życiu lub śmierci.</text>
+	</string>
+	<string id="stalker_guide_about_anomalies_1114">
+		<text>Opowiedz mi o anomaliach grawitacyjnych.</text>
+	</string>
+	<string id="stalker_guide_about_anomalies_11141">
+		<text>Zwykle pozostają nieruchome. Przesuwają się w trakcie emisji i burz psionicznych, ale między tymi zjawiskami pozostają zazwyczaj w jednym miejscu. Najłatwiej wypatrzyć je, obserwując tło - jeśli obiekty wyglądają na zniekształcone, najpewniej patrzysz na nie przez anomalię.\n \nDo tej pory poznaliśmy trzy rodzaje takich tworów - każdy z nich reaguje w momencie, gdy tylko coś go dotknie. Trampolina wyrzuca wszystko spod siebie - często na ogromną wysokość i odległość. Wir działa odwrotnie: wsysa obiekt do środka, miażdży go z olbrzymią siłą, a po chwili wyrzuca strzępy, które z niego pozostały. Karuzela z kolei unosi ofiarę w powietrze i zaczyna obracać, aż siła odśrodkowa zrobi swoje. Śmierć w tych anomaliach raczej nie jest zbyt przyjemna. Lepiej omijać je szerokim łukiem.</text>
+	</string>
+	<string id="stalker_guide_about_anomalies_1">
+		<text>Zbliżając się do anomalii pamiętaj o tym, że będzie tam albo horrendalnie gorąco, albo w powietrzu będzie się unosić toksyczny gaz, albo będzie emitować zabójcze  promieniowanie. W niektórych przypadkach mogą pojawić się także fale psioniczne, ale to zupełnie osobny temat.\n \nAnomalie dzielą się na termiczne, gazowe, elektryczne i grawitacyjne. Życzę ci, żebyś nigdy nie spotkał się zwłaszcza z tymi ostatnimi. Oprócz tego istnieją też anomalie ruchome, ale to zupełnie inna para kaloszy.</text>
+	</string>
+	<string id="stalker_guide_about_anomalies_0">
+		<text>Opowiedz mi o anomaliach.</text>
+	</string>
+	<string id="stalker_guide_about_anomalies_1115">
+		<text>Opowiedz mi o anomaliach ruchomych.</text>
+	</string>
+	<string id="stalker_guide_about_anomalies_11151">
+		<text>Osobiście zetknąłem się tylko z Kometą i Teslą. Pierwsza to ognista kula o średnicy zwykle nieprzekraczającej metra. Co nie zmienia faktu, że wytwarzany przez nią żar czuć dużo dalej. Druga jest, można powiedzieć, czymś w rodzaju pioruna kulistego. Cóż, na pewno przyjmuje kształt kuli i bez cienia wątpliwości posiada właściwości elektryczne.\n \nObie te anomalie nieustannie się poruszają, ale zwykle po stałych, zamkniętych trajektoriach. Uważny stalker nie powinien mieć trudności z ich ominięciem... Po prostu musisz być czujny.</text>
+	</string>
+	
+<!-- Gonta -->
+	<string id="gonta_about_himself_0">
+		<text>Opowiedz mi o sobie.</text>
+	</string>
+	<string id="gonta_about_himself_1">
+		<text>Jestem Gonta, przywódca tutejszych myśliwych. Zajmujemy się eksterminacją mutantów, ale jak trzeba, to możemy spróbować złapać coś żywcem. Wiesz, do eksperymentów naukowych, albo jak ktoś chce... egzotyczne zwierzątko. Jak mawiał Traper: "Każdej bestii kula wedle potrzeb..."</text>
+	</string>
+	
+	<string id="gonta_about_mutants_0">
+		<text>Opowiedz mi o polowaniach na mutanty.</text>
+	</string>
+	<string id="gonta_about_mutants_1">
+		<text>Nie jestem może najbardziej doświadczonym myśliwym w Zonie, ale mogę ci opowiedzieć o zwierzętach stadnych. Mięsacze, dziki, ślepe psy, nibypsy, snorki, tuszkany... Wiem też to i owo o zwyczajach pijawek.</text>
+	</string>
+	<string id="gonta_about_mutants_1111">
+		<text>Opowiedz mi o dzikach i mięsaczach.</text>
+	</string>
+	<string id="gonta_about_mutants_11111">
+		<text>Mięsacze to takie popierdółki, jeśli chodzi o mutanty. Stalkerów zwykle się boją i zwiewają, ale jak wpadniesz w środek stada, zwłaszcza takiego, w którym będą młode, to na pewno będą starały się obronić. W pojedynkę, w każdym razie, dla doświadczonego stalkera to raczej żaden problem ubić taką kulę tłuszczu. Gorzej, jak ze stadem mięsaków szwenda się kaban, wtedy są jakieś takie bardziej harde.\n \nDziki w pojedynkę też raczej nie stanowią większego zagrożenia, choć szarżujące na ciebie trzysta kilo wkurwienia to już nie przelewki. Jeśli zobaczysz, że leci na ciebie taki knur, po prostu zejdź mu z drogi. Taka masa ani nie stanie w miejscu, ani nie zawróci w ciągu sekundy. Zanim się połapie, że cię nie trafił, spokojnie zdążysz wypruć mu w bebechy cały magazynek.</text>
+	</string>
+	<string id="gonta_about_mutants_1112">
+		<text>Opowiedz mi o ślepych psach i nibypsach.</text>
+	</string>
+	<string id="gonta_about_mutants_11121">
+		<text>Samotne sobaki to żadne wyzwanie, ale w stadzie potrafią napsuć krwi. Atakują w zasadzie tylko, kiedy są głodne. Problem w tym, że rzadko kiedy nie są. Jeśli napadnie cię taka sfora, postaraj się stanąć gdzieś wyżej tak, żebyś do ziemi miał przynajmniej ze dwa-trzy metry. Tam na bank nie doskoczą i będziesz mógł je na spokojnie wystrzelać z góry. Inaczej wystarczy jeden, który skoczy ci na plecy, a leżysz i kwiczysz, zwłaszcza jeśli jest z nimi dorosły nibypies.\n \nNie są niby dużo silniejsze, ale są zdecydowanie bardziej kumate. Zazwyczaj zajmują w stadach ślepaków rolę samca alfa i koordynują cały atak. Jeszcze jeden ważny temat, to nibypsy psioniki. Jeśli nagle znikąd pojawi się całe stado, prawie na bank atakują cię widma. Prawdziwy nibypies zawsze będzie trzymał się z tyłu i tylko od czasu do czasu wyskoczy, żeby popodgryzać cię po kostkach. Spróbuj ogarnąć, który to - jeśli go zdejmiesz, widma znikną.</text>
+	</string>
+	<string id="gonta_about_mutants_1113">
+		<text>Opowiedz mi o snorkach.</text>
+	</string>
+	<string id="gonta_about_mutants_11131">
+		<text>Biedne dranie... to bestie powstałe z ludzi takich, jak my. Coś strasznego. W każdym razie, dla doświadczonego myśliwego jeden snork to żaden przeciwnik. Po prostu czekasz, aż na ciebie skoczy i faszerujesz mu brzuch ołowiem. Najwyżej spadnie ci na łeb, ale skoro będzie już trupem, raczej dużej krzywdy ci nie zrobi.\n \nGorzej, jeśli jest ich kilka. Trzeba strzelać najszybciej, jak się da i pilnować ich skoków. One doskonale zdają sobie z tego sprawę, dlatego najczęściej skaczą wszystkie naraz.</text>
+	</string>
+	<string id="gonta_about_mutants_1114">
+		<text>Opowiedz mi o tuszkanach.</text>
+	</string>
+	<string id="gonta_about_mutants_11141">
+		<text>To koszmar każdego myśliwego... Najgorsze, co można zrobić, to je olać myśląc, że są takie małe. Te myszoskoczki są niesamowicie szybkie, zwinne i zawsze przemieszczają się całymi chmarami. Jak poczujesz na nogawce kilkadziesiąt kłów i pazurów, wtedy zrozumiesz, dlaczego nie można ich lekceważyć. Niejeden głąb zginął, bo zlał temat, a jak go juz oblazły, w panice przestrzelił sobie kolana.\n \nCholernie trudno je trafić, dlatego zawsze każdemu powtarzam - miej pod ręką naładowaną strzelbę. Bez paczki śrutu praktycznie nie ma szans, żeby się od nich opędzić.</text>
+	</string>
+	<string id="gonta_about_mutants_1115">
+		<text>Opowiedz mi o pijawkach.</text>
+	</string>
+	<string id="gonta_about_mutants_11151">
+		<text>To doświadczeni łowcy i prawdziwe maszyny do zabijania. Potrafią się kamuflować tak, że prawie nie ma szansy ich dojrzeć. Najlepszy sposób na pijawkę, to próba wystraszenia jej. Często w nerwach zapomina o niewidzialności, a poza tym, powietrze za nią ulega zniekształceniu, więc jak zaczyna biegać, to łatwiej ją dojrzeć.\n \nPamiętaj, że te potwory zakradają się od tyłu, żeby opleść ci szyję i głowę mackami. To musi być paskudne uczucie... Pamiętaj, żeby zawsze pilnować pleców, nieważne, czy pijawka będzie jedna, czy będzie ich cała rodzinka. Najlepiej stanąć przy ścianie i czekać, aż podbiegną od frontu.</text>
+	</string>
+	<string id="gonta_about_mutants_1116">
+		<text>Okej, wystarczy.</text>
+	</string>
+
+	
+<!-- Owl (Loner Trader) -->
+	<string id="owl_story_0">
+		<text>Opowiedz mi coś o tej przystani.</text>
+	</string>
+	<string id="owl_story_1">
+		<text>A kim ty do cholery jesteś, żeby domagać się ode mnie informacji, co? No? Coś za jeden?! Był tu już kiedyś taki, co pytał wszystkich o wszystko. Dziwny jakiś, pomagał sam z siebie, rozwiązał nam nawet parę problemów, fakt... A potem wypłynęło, że to tajniak z SBU. Dlatego powiem ci tylko to, co i tak wszyscy już dawno wiedzą.\n \nDo niedawna garowało się tu całkiem nieźle, dopiero jakiś czas temu znowu wszystko zaczęło się jebać. Ktoś odpalił emiter w Jantarze i Mózgozwęglacz, a zaraz potem zaczęły do nas docierać informacje, że w Elektrowni znowu dzieje się coś podejrzanego. Kurwa, toż to rzut beretem stąd!\n \nNiedawno okazało się, że bez śladu zaginął oddział weteranów, a monolskie ścierwa prują do stalkerów koło Tartaku. Miejsce zrobiło się nie do życia i kupa ludu z tego wszystkiego wyjebała z powrotem na południe. A jak zabrakło stalkerów, to zaroiło się tu od pierdolonych mutantów. To nie jest miejsce dla świeżaków, tyle ci powiem.</text>
+	</string>
+	<string id="owl_story_2">
+		<text>Chyba jeszcze nie wszystko stracone. Jest coś jeszcze, o czym powinienem wiedzieć?</text>
+	</string>
+	<string id="owl_story_3">
+		<text>Tak. Ja tu handluję informacjami. Ja i nikt inny, zakonotuj sobie. To po raz. A po dwa, to zauważ, że przychodzą tu głównie pseudokozacy - myślą, że wyprzedzili całą stawkę w tym pieprzonym wyścigu szczurów i właśnie złapali Pana Boga za jajca...\n \nA tu nie jest wcale tak kolorowo - fanatycy, mutanty, zombiaki, co tylko, kurwa, chcesz. Niejeden stary wyga odwalił kitę na tych pieprzonych bagnach. I właśnie tu mam dla ciebie propozycję - jak dorwiesz PDA jakiegoś nieszczęśnika, to przynoś od razu mi. Ja nie pytam i nie dociekam, co i skąd masz, jasne? Krótka piłka - znalazłeś, przynosisz, dostajesz kasę, obaj jesteśmy zadowoleni.</text>
+	</string>
+	<string id="owl_story_4">
+		<text>Okej, chcesz PDA martwych stalkerów i wiesz, że można tu zginąć na milion sposobów. Wydaje mi się, że rozumiem, o czym mówisz.</text>
+	</string>
+
+	<string id="information_about_stash_owl_zat_0">
+		<text>Masz jakieś informacje na temat ukrytych schowków?</text>
+	</string>
+	<string id="information_about_stash_owl_zat_1">
+		<text>Ło, panie, ja mam takie informacje, że głowa mała. Mam, co tylko, kurwa, sobie zażyczysz, o ile masz tyle kasy. Chcesz cynk o schowku? Osiem koła na stół, to coś ci podpowiem.</text>
+	</string>
+
+	<string id="information_about_stash_owl_zat1_0">
+		<text>Trzymaj. %c[d_orange][8.000 RU]</text>
+	</string>
+	<string id="information_about_stash_owl_zat1_1">
+		<text>Dobra. To współrzędne. Jakby co - sam znalazłeś, ja ci nic nie mówiłem, kapiszi?</text>
+	</string>
+
+	<string id="find_blackbox_mlr_reward_owl_0">
+		<text>Interesują cię dane z rejestratora lotu?</text>
+	</string>
+	<string id="find_blackbox_mlr_reward_owl_1">
+		<text>Co?! Pewnie, że tak. Dawaj to ustrojstwo tutaj.</text>
+	</string>
+
+	
+<!-- Beard (Loner Barman) -->
+	<string id="boroda_story_0">
+		<text>Ty pewnie jesteś Brodacz?</text>
+	</string>
+	<string id="boroda_story_1">
+		<text>Haha, zgadza się! Nie widziałem cię tu wcześniej, stalkerze. Witaj na Skadowsku!</text>
+	</string>
+	<string id="boroda_story_2">
+		<text>Co tu jest do roboty?</text>
+	</string>
+	<string id="boroda_story_3">
+		<text>Co tylko zechcesz! Odkąd Sułtan i jego zakapiory się stąd zwinęły, chłopakom dużo łatwiej polować na artefakty w tutejszych polach anomalii. W zasadzie uważać musisz tylko w okolicy Magazynów Podstacji i Zakładu Utylizacji Odpadów na południe stąd. To tereny Syndykatu - najemnicy raczej nie lubią, kiedy ktoś kręci się w pobliżu ich baz.\n \nJeśli złowisz coś konkretnego, śmiało przynoś chabar do mnie, daję uczciwe ceny za towar, spytaj, kogo tylko chcesz. Dobrej Zony i niech fortuna ci sprzyja, stalkerze!</text>
+	</string>
+	<string id="boroda_story_4">
+		<text>Dziękuję.</text>
+	</string>
+
+	<string id="devushka_boroda_help_0">
+		<text>Hej, Brodacz! Zdążyliśmy, co? Mamy prezent dla ciebie.</text>
+	</string>
+	<string id="devushka_boroda_help_1">
+		<text>W ostatniej chwili. Macie, to dla was, nagroda za wasz wysiłek.</text>
+	</string>
+
+	
+<!-- Noah (Loner Honcho) Character Description -->
+	<string id="noah_start_dialog_0">
+		<text>Gościu, prawie mnie zabiłeś! O co ci chodzi?!</text>
+	</string>
+	<string id="noah_start_dialog_1">
+		<text>A po coś tu przylazł, a?! Nie kręć, mów prawdę! Szkoda mojego czasu na takich, jak ty!</text>
+	</string>
+	<string id="noah_start_dialog_2">
+		<text>Okej, spokojnie. Po prostu tędy przechodziłem. Potrzebna ci jakaś pomoc? Możesz mi odpowiedzieć na kilka pytań?</text>
+	</string>
+	<string id="noah_start_dialog_3">
+		<text>Odpowiem, ale nie chcę cię tu więcej widzieć.</text>
+	</string>
+
+	<string id="noah_start_dialog1_0">
+		<text>Mam kilka pytań.</text>
+	</string>
+	<string id="noah_start_dialog1_1">
+		<text>...</text>
+	</string>
+		<string id="noah_start_dialog1_2">
+			<text>Skąd masz tego psa?</text>
+		</string>
+		<string id="noah_start_dialog1_7">
+			<text>To Lassie. Kochana sunia... Ona jedna jest mi wierna... Bez niej potwory już dawno pożarłyby mnie we śnie. Przeklęte mutanty, nienawidzę ich!\n \nJak tylko człowiek zamknie oczy, od razu pchają się do niego z tymi paskudnymi szponami, kłami, mackami...</text>
+		</string>
+		<string id="noah_start_dialog1_8">
+			<text>Rozumiem.</text>
+		</string>
+		<string id="noah_start_dialog1_9">
+			<text>A te szczeniaki? Skąd one się wzięły, skoro Lassie nie odstępuje cię na krok?</text>
+		</string>
+		<string id="noah_start_dialog1_3">
+			<text>Dlaczego mieszkasz na tym śmietniku?</text>
+		</string>
+		<string id="noah_start_dialog1_10">
+			<text>To nie jest żaden śmietnik! To jest arka! Zapamiętajcie to wreszcie! Nie oddalaj się stąd, jeśli chcesz żyć. Kiedy nadejdzie fala, tylko tu będziesz miał szansę przeżyć! Nie wedrze się tu żaden potwór.</text>
+		</string>
+		<string id="noah_start_dialog1_11">
+			<text>Jaka znowu fala? O czym ty mówisz?</text>
+		</string>
+		<string id="noah_start_dialog1_12">
+			<text>Te kreatury obserwują mnie dniem i nocą. Nic nie rozumiesz... Snorki z południowego płaskowyżu. To one! Ostatnio śledziły mnie aż tutaj, do arki! Jestem doświadczonym łowcą, znam ich zwyczaje! Nie goniłyby ofiary aż tak daleko!\n \nTo mi się ani trochę nie podoba.Muszą być jednomyślne, albo myśleć zbiorowo w inny sposób! Więcej! Ostatnio te stwory atakowały arkę, próbując wedrzeć się do środka!</text>
+		</string>
+		<string id="noah_start_dialog1_13">
+			<text>W Zonie wszystko może się zdarzyć, ale jeśli masz rację, mamy duży problem.</text>
+		</string>
+		<string id="noah_start_dialog1_4">
+			<text>Dlaczego nie ufasz ludziom?</text>
+		</string>
+		<string id="noah_start_dialog1_14">
+			<text>Zbyt dużo w życiu przeszedłem.</text>
+		</string>
+	<string id="noah_start_dialog1_5">
+		<text>Chyba już pójdę.</text>
+	</string>
+
+	<string id="tasks_noah_dialog_0">
+		<text>Potrzebna ci jakaś pomoc?</text>
+	</string>
+	<string id="tasks_noah_dialog_1">
+		<text>Cóż... jest parę rzeczy, które mógłbyś dla mnie zrobić. Potrzebuję nowej strzelby i kogoś, kto zajmie się snorkami na płaskowyżu, bym mógł choć chwilę odpocząć.</text>
+	</string>
+	<string id="tasks_noah_dialog_2">
+		<text>Nowa strzelba.</text>
+	</string>
+		<string id="tasks_noah_dialog_5">
+			<text>Widzisz ten szrot, który posiadam? Niedługo łatwiej mi będzie palnąć bestię kolbą w łeb, niż zastrzelić! Potrzebuję nowej broni. Marzy mi się Sajga, to piękny oręż, ale nie wiem, czy w Zonie w ogóle można taką dostać... Za to na pewno widziałem bandytów obnoszących się z Armsel Protectą. Przynieś mi taką strzelbę.</text>
+		</string>
+	<string id="tasks_noah_dialog_3">
+		<text>Snorki z południowego płaskowyżu.</text>
+	</string>
+		<string id="tasks_noah_dialog_6">
+			<text>Czas pozbyć się tych potworów! Każdej nocy słyszę, jak kręcą się wokół arki. Węszą, drapią burty, tylko czekają, aż wyściubię stąd nos! Musisz się ich pozbyć!\n \nZnam sposób, który pozwoli ci dostać się na południowy płaskowyż, gdzie te kreatury mają swoje gniazdo. Idź do Spalonego Gospodarstwa, znajdziesz tam bąbel przestrzenny, który przeniesie cię, gdzie trzeba. Nigdy mnie nie zawiódł. Zaznaczę ci go na mapie.</text>
+		</string>
+	<string id="tasks_noah_dialog_4">
+		<text>Zmieniłem zdanie.</text>
+	</string>
+	
+	<string id="task_1_noah_done_0">
+		<text>Oto Armsel Protecta.</text>
+	</string>
+	<string id="task_1_noah_done_1">
+		<text>Niezwykłe, imponujące... Dziękuję. Teraz bestie będą się mnie bały!</text>
+	</string>
+
+	<string id="task_2_noah_done_0">
+		<text>Pozbyłem się snorków. Dlaczego na ciebie polowały?</text>
+	</string>
+	<string id="task_2_noah_done_1">
+		<text>A skąd mam to wiedzieć?! Może czują, że ja wiem o ich zbiorowej świadomości?! Dawniej chadzałem tam, by się ich pozbyć, ale one ciągle wracają! Teraz nie mam na to czasu, muszę mieć oko na Lassie i szczeniaki. Dziękuję ci za pomoc.</text>
+	</string>
+
+	
+
+	<string id="zat_a2_stalker_barmen_actor_info_0">
+		<text>Opowiedz mi, jak tu żyjecie.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1">
+		<text>Wiesz co, trudno tak z czapy o wszystkim opowiedzieć. Zadaj jakieś bardziej konkretne pytanie, a łatwiej będzie mi się do niego odnieść.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1111">
+		<text>Czym zajmują się tu stalkerzy?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11111">
+		<text>Co to za pytanie? Tym samym, czym wszędzie. Ze Skadowska schodzą na ląd, badają teren, eksplorują, szukają artefaktów, przy okazji strzelając do wszystkiego, co się rusza, hahaha. Jak Indiana Jones! A potem wracają tu, żeby odpocząć, napić się, przegadać smutki... Ot, stalkerskie życie w pełnej krasie.\n \nChyba, że uderza emisja, wtedy nikomu nie jest do śmiechu... Wiatr hula, blachy gną się i wyją, wszystko się trzęsie i buzuje. Wtedy siedzimy tu, jak trusie i zastanawiamy się, kto dziś już nie wróci do obozu.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1112">
+		<text>Co przywiodło stalkerów do centrum Zony?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11121">
+		<text>Zabawne pytanie. Najlepiej będzie ci spytać każdego z nich osobno. Myślę, że pierwsi śmiałkowie przyszli tu w poszukiwaniu obiecanego el dorado, żył artefaktów i innych cudów niewidów.\n \nPotem, jak już się tu trochę rozgościliśmy, zaczęły pojawiać się plotki i legendy dotyczące północy. I cyk, kolejna fala ruszyła w te okolice, bo ktoś gdzieś usłyszał o Oazie. Inni z kolei zaglądali pod każdy kamień z nadzieją, że odnajdą Spełniacz Życzeń. A poza tym uważam, że spora część z naszych stałych bywalców dotarła w te rejony, bo zadziałały zwykłe, ludzkie instynkty - chciwość, ciekawość, potrzeba rozwoju, chęć poznania nieznanego...\n \nWszyscy mamy swoje powody, dla których tu jesteśmy. Ty z pewnością też.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1113">
+		<text>Jak tu trafiłeś?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11131">
+		<text>Po wyłączeniu Mózgozwęglacza ruszyłem w te strony z Głuszcem, choć pewnie nie o to ci chodzi... Obracam artefaktami i załatwiam chłopakom ciepłą michę i coś do picia. Tego im trzeba po długich wyprawach.\n \nZa Kordon trafiła już chyba cała drobnica i mało kto się tym jeszcze interesuje. Najbardziej wartościowi z mojego punktu widzenia klienci poszukują czegoś naprawdę wyjątkowego. A gdzie szukać najbardziej unikatowych artefaktów? No nie na Wysypisku przecież! Dlatego uznałem, że Skadowsk świetnie nada się na bazę stalkerów - lokalizacja blisko centrum Zony, sporo rzeczy do odkrycia, obiecujące pola anomalii, a przy tym dobre trasy przerzutowe na południe.\n \nI powiedz mi, stalker, czego trzeba takim, jak ty, kiedy wracacie z chabarem po kilku dniach gdzieś w Zonie, co? Prysznica, zimnego piwka i kogoś do pogadania, nie mów, że nie. I właśnie po to jest Skadowsk!</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1114">
+		<text>Co sądzisz o bandytach?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11141">
+		<text>Cóż, to nie jest do końca tak, że świat jest czarno-biały, że jesteśmy my i oni. Przynajmniej ja go tak nie postrzegam. O ile zachowują się, jak należy, ich obecność na Skadowsku mi nie przeszkadza. To w końcu też ludzie.\n \nMusisz przyznać, że mimo wszystko to w większości po prostu cwaniaczki i krętacze, takie dresiki, którym ktoś dał pistolet i powiedział, że w Zonie nie ma policji. Zatwardziałych kryminalistów bez kręgosłupa moralnego jest stosunkowo niewielu i trafiają się absolutnie wszędzie, nawet wśród tych "dobrych". Zresztą, wszyscy zaczynaliśmy tak samo, to Zona uaktywniła u nich takie, a nie inne instynkty. Wierzę, że przynajmniej kilku z nich w końcu rzuci zabawę w takie szemrane interesy jeszcze zanim zarobi kulkę... Życie w końcu jest pełne niespodzianek.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1115">
+		<text>Pogadajmy o czym innym.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11151">
+		<text>Skoro tak mówisz.</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_dialog_11">
+		<text>Cześć, stalkerze. Teraz jestem zajęty. Pogadamy później, okej?</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_start_1">
+		<text>Co cię tutaj sprowadza?</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_21">
+		<text>Słucham.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_22">
+		<text>Hej, potrzebujesz pomocy?</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_23">
+		<text>Witam.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_0">
+		<text>Potrzebuję pomocy medycznej.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_1">
+		<text>Zobaczę, co da się zrobić.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_2">
+		<text>Niech spojrzę... Hmm... na moje oko wyglądasz w porządku. Nie masz żadnych widocznych obrażeń, ani objawów choroby popromiennej. Możesz iść.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_111">
+		<text>Będę z tobą szczery. Na to, co ci dolega wystarczy, jeśli skorzystasz z jednej, góra dwóch apteczek. Moja stawka za przywrócenie ci zdrowia to 1.850 rubli. Posiadam pewien specyfik, który błyskawicznie stawia na nogi, ale nie załatwia problemu radionuklidów szalejących w twoim organizmie. Na to mam co innego, 1.480 rubli na kozetkę, a wyciągnę z ciebie cały ten syf. To jak?</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_11">
+		<text>Co? Jest, aż tak źle?</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_need_health_care_1111">
+		<text>Cóż, trzymaj kasę i bierz się do roboty, doktorku. Zdrowie jest ważniejsze niż pieniądze.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_1112">
+		<text>Okej, wyciągnij ze mnie promieniowanie, rany jakoś sam połatam.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_1113">
+		<text>Wiesz co, doktorku Sam się lecz!</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_need_health_care_11111">
+		<text>Sekundka, proszę... Tak, teraz wszystko powinno być w porządku. Możesz odejść.</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_need_health_care_11112">
+		<text>Cóż, od paru mikrosiwertów jeszcze nikt nie umarł. A jeśli wykrwawisz się na śmierć, to nie będzie moja odpowiedzialność. Powodzenia, kolego!</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_need_health_care_11113">
+		<text>Jak sobie życzysz. Twoje życie, twoja sprawa. Tylko nie obwiniaj mnie, jeśli nagle po prostu kipniesz.</text>
+	</string>
+
+	<string id="zat_b18_noah_start_11">
+		<text>Kim jesteś?</text>
+	</string>
+	<string id="zat_b18_noah_start_111">
+		<text>Stalkerem. Już się kiedyś spotkaliśmy.</text>
+	</string>
+	<string id="zat_b18_noah_start_1111">
+		<text>Nie kojarzę... W każdym razie, czego potrzebujesz?</text>
+	</string>
+	<string id="zat_b18_noah_start_112">
+		<text>Stalkerem. Zwykłym stalkerem.</text>
+	</string>
+	<string id="zat_b18_noah_start_1121">
+		<text>Rozumiem. Szukasz schronienia w arce? Czuj się, jak u siebie.</text>
+	</string>
+	<string id="zat_b18_noah_start_113">
+		<text>Nie twoja sprawa.</text>
+	</string>
+	<string id="zat_b18_noah_start_21">
+		<text>A, to ty. Czego chcesz?</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_15">
+		<text>Dobrze trafiłeś, przyjacielu. Broń trzeba utrzymywać w jak najlepszym stanie. Słuchaj, nie masz może jakiejś flaszki, albo dwóch? Jak sobie łyknę, od razu umysł mi się rozjaśnia.\n \nStrzelba z funkcją spadochronu? Nie ma problemu, haha!</text>
+	</string>
+	<string id="zat_b3_stalker_tech_drink_1_0">
+		<text>Żebyś wiedział, że mam. Chcesz sobie golnąć?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_drink_1_2">
+		<text>Nie, nie piję już, stary. Kiedy zobaczyłem Obiekt 62, pomyślałem sobie, że to zaszło za daleko - stwierdziłem, że to nie może być prawda i że mam omamy. Widzisz... alkohol tylko cię wyniszcza i na pewno nie jest elementem zdrowej diety...\n \nPoza tym, jeśli mnie zabraknie, kto będzie produkował amunicję do karabinu Gaussa?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_drink_2_0">
+		<text>Trzymaj kolejną butelkę..</text>
+	</string>
+	<string id="zat_b3_stalker_tech_drink_3_0">
+		<text>Mam tu trzecią, jeśli potrzebujesz więcej.</text>
+	</string>
+</string_table>

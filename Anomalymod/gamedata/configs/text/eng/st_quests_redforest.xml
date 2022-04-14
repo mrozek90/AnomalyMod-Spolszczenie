@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+
+	<!-- Stribog (Sin Trader) Default Storyline Task -->
+
+	<string id="drx_sl_red_greh_trader_default_task_name">
+		<text>Weź kolejne zadanie</text>
+	</string>
+	<string id="drx_sl_red_greh_trader_default_task_text">
+		<text>Otrzymaj kolejne zadanie.</text>
+	</string>
+	<string id="drx_sl_red_greh_trader_default_task_about">
+		<text>Musisz spotkać się z jednym z liderów Grzechu. Ruszaj do niego jak najszybciej.</text>
+	</string>
+	<string id="drx_sl_red_greh_trader_default_task_finish">
+		<text>Powodzenia.</text>
+	</string>
+	
+
+	<!-- Stribog (Sin Trader) Retrieve the Secrets of Lab X-16 Storyline Task -->
+
+	<string id="drx_sl_red_greh_trader_task_1_name">
+		<text>Wielki umysł</text>
+	</string>
+	<string id="drx_sl_red_greh_trader_task_1_text">
+		<text>Odkryj wszystkie sekrety laboratorium X-16. Znajdź dokumenty i zanieś je Strzybogowi. Świat nie może się o nich dowiedzieć.</text>
+	</string>
+	<string id="drx_sl_red_greh_trader_task_1_about">
+		<text>Jako prawdziwi strażnicy Zony musimy działać szybko i nieustępliwie pilnować, by jej sekrety pozostały ukryte przed wzrokiem tego grzesznego świata. Jeden z takich sekretów może znajdować się w podziemnym laboratorium X-16. Zdobądź je i dostarcz mi, bracie. Dopilnujemy, by były bezpieczne.</text>
+	</string>
+	<string id="drx_sl_red_greh_trader_task_1_finish">
+		<text>Dobrze się spisałeś.</text>
+	</string>
+	
+
+	<!-- Stribog (Sin Trader) Escort The Believer Storyline Task -->
+
+	<string id="drx_sl_red_greh_trader_task_2_name">
+		<text>Ręka oświecenia</text>
+	</string>
+	<string id="drx_sl_red_greh_trader_task_2_text">
+		<text>Człowiek szuka oświecenia. Chce uciec od swojego oddziału. Zabij pozostałych członków grupy i odeskortuj go do Strzyboga. Poszukujący prawdy korzysta z karabinu SWD.</text>
+	</string>
+	<string id="drx_sl_red_greh_trader_task_2_about">
+		<text>Skontaktował się z nami człowiek, który wierzy w moc naszego przedsięwzięcia. Chce by uwolnić go od grzesznego świata, ale boi się o swoje życie. Musisz mu pomóc, torując jego drogę do oświecenia. Pozbądź się oddziału, z którym przebywa.\n \nPoznasz go po karabinie SWD, który nosi przy sobie. Uważaj, ów człowiek ciągle się waha, więc spodziewaj się, że otworzy do ciebie ogień. Wkrótce zostanie on oświecony.</text>
+	</string>
+	<string id="drx_sl_red_greh_trader_task_2_finish">
+		<text>Twoje wysiłki wzmacniają nasze bractwo. Dobra robota!</text>
+	</string>
+	<string id="drx_sl_red_greh_trader_task_2_msg_join">
+		<text>Dziękuję ci, bracie. Jestem naprawdę wdzięczny... Prowadź, czas już zostawić ten stary świat za sobą.</text>
+	</string>
+	<string id="drx_sl_red_greh_trader_task_2_msg_leave">
+		<text>Dotarliśmy. Pójdę poznać się z naszymi braćmi. Żegnaj.</text>
+	</string>
+	
+
+	<!-- Stribog (Sin Trader) Avange the Sinners Storyline Task -->
+
+	<string id="drx_sl_red_greh_trader_task_3_name">
+		<text>Grzech ciężki</text>
+	</string>
+	<string id="drx_sl_red_greh_trader_task_3_text">
+		<text>Odszukaj niewiernego, który zabił członków Grzechu i pomścij ich śmierć.</text>
+	</string>
+	<string id="drx_sl_red_greh_trader_task_3_about">
+		<text>Nasi dzielni wojownicy zostali zamordowani z zimną krwią. Nie możemy pozwolić uciec niewiernemu, który przyniósł im śmierć. Pomścij naszych braci.</text>
+	</string>
+	<string id="drx_sl_red_greh_trader_task_3_finish">
+		<text>Dobrze przysłużyłeś się naszej sprawie.</text>
+	</string>
+	
+
+	<!-- Stribog (Sin Trader) Limansk Purge Storyline Task -->
+
+	<string id="drx_sl_red_greh_trader_task_4_name">
+		<text>Oczyszczenie Limańska</text>
+	</string>
+	<string id="drx_sl_red_greh_trader_task_4_text">
+		<text>Pokonaj wrogów okupujących Limańsk. Wszyscy muszą umrzeć.</text>
+	</string>
+	<string id="drx_sl_red_greh_trader_task_4_about">
+		<text>Nadszedł czas, bracie. Starszyzna Monolitu prosi nas o pomoc w oczyszczeniu Limańska i pokonaniu wrogów czających się w mieście. Spraw, byśmy byli dumni.</text>
+	</string>
+	<string id="drx_sl_red_greh_trader_task_4_finish">
+		<text>Doskonały z ciebie wojownik.</text>
+	</string>
+	
+	<!-- Stribog (Sin Trader) Payoff Change Factions Task -->
+
+	<string id="drx_sl_pri_monolith_monolith_trader_stalker_cf_task_1_name">
+		<text>Grzech drogą zbawienia</text>
+	</string>
+	<string id="drx_sl_pri_monolith_monolith_trader_stalker_cf_task_1_text">
+		<text>Gdy staniesz się członkiem Grzechu pieniądze nie będą ci już potrzebne. Daj Strzybogowi 1.000 RU, by pozwolił ci dołączyć do bractwa.</text>
+	</string>
+	<string id="drx_sl_pri_monolith_monolith_trader_stalker_cf_task_1_about">
+		<text>Bardzo dobrze, że przejrzałeś na oczy, moje dziecko. Powitamy cię w naszym Zakonie Zony, ale najpierw musisz wyzbyć się swoich wszystkich materialnych rzeczy, które posiadasz i złożyć mały podarek w wysokości 1.000 RU.</text>
+	</string>
+	<string id="drx_sl_pri_monolith_monolith_trader_stalker_cf_task_1_finish">
+		<text>Bardzo dobrze. Odtąd będziesz nieść oświecenie dla tego niespokojnego świata.</text>
+	</string>
+	
+
+	<!-- Dazhbog (Sin Mechanic) Default Storyline Task -->
+
+	<string id="drx_sl_red_greh_tech_default_task_name">
+		<text>Weź kolejne zadanie</text>
+	</string>
+	<string id="drx_sl_red_greh_tech_default_task_text">
+		<text>Otrzymaj kolejne zadanie.</text>
+	</string>
+	<string id="drx_sl_red_greh_tech_default_task_about">
+		<text>Mój synu, dobrze służysz Grzechowi i Monolitowi. Porozmawiaj z członkiem starszyzny i zapytaj, co jeszcze możesz zrobić, by pomóc naszej wielkiej sprawie.</text>
+	</string>
+	<string id="drx_sl_red_greh_tech_default_task_finish">
+		<text>Powodzenia.</text>
+	</string>
+	
+	<!-- Dazhbog (Sin Mechanic) Retrieve the Secrets of Lab X-18 Storyline Task -->
+
+	<string id="drx_sl_red_greh_tech_task_1_name">
+		<text>Mroczne sekrety</text>
+	</string>
+	<string id="drx_sl_red_greh_tech_task_1_text">
+		<text>Odkryj wszystkie sekrety laboratorium X-18. Znajdź dokumenty i zanieś je Dażbogowi. Świat nie może się o nich dowiedzieć.</text>
+	</string>
+	<string id="drx_sl_red_greh_tech_task_1_about">
+		<text>Jako prawdziwi strażnicy Zony musimy działać szybko i nieustępliwie pilnować, by jej sekrety pozostały ukryte przed wzrokiem tego grzesznego świata. Jeden z takich sekretów może znajdować się w podziemnym laboratorium X-18. Zdobądź je i dostarcz mi, bracie. Dopilnujemy, by były bezpieczne.</text>
+	</string>
+	<string id="drx_sl_red_greh_tech_task_1_finish">
+		<text>Wspaniała robota!</text>
+	</string>
+	
+
+	<!-- Dazhbog (Sin Mechanic) Hunt the Forest Beast Storyline Task -->
+
+	<string id="drx_sl_red_greh_tech_task_2_name">
+		<text>Straż leśna</text>
+	</string>
+	<string id="drx_sl_red_greh_tech_task_2_text">
+		<text>Dażbóg chce, abyś upolował bestię, która zaatakowała jego ludzi w Czerwonym Lesie.</text>
+	</string>
+	<string id="drx_sl_red_greh_tech_task_2_about">
+		<text>Czasami w tym lesie może być naprawdę ciężko, nawet naszym braciom. Jednego z nich zaatakowała niebezpieczna bestia. Ruszaj i upoluj ją.</text>
+	</string>
+	<string id="drx_sl_red_greh_tech_task_2_finish">
+		<text>Dobra robota. Od teraz las będzie bezpieczniejszy.</text>
+	</string>
+	
+
+	<!-- Dazhbog (Sin Mechanic) Slay the Enemy Informer Storyline Task -->
+
+	<string id="drx_sl_red_greh_tech_task_3_name">
+		<text>W ślad za tropicielem</text>
+	</string>
+	<string id="drx_sl_red_greh_tech_task_3_text">
+		<text>Członków Grzechu prześladuje niewierny. Dażbóg zlecił ci pozbycie się go.</text>
+	</string>
+	<string id="drx_sl_red_greh_tech_task_3_about">
+		<text>Nasi bracia dostrzegli niewiernego próbującego ich śledzić. Tchórz uciekł do swoich przywódców. Musi zostać zgładzony za wszelką cenę.</text>
+	</string>
+	<string id="drx_sl_red_greh_tech_task_3_finish">
+		<text>Dobra robota. Nikt więcej nie odważy się do nas zbliżyć.</text>
+	</string>
+
+
+	<!-- Dazhbog (Sin Mechanic) Find Toolkit Tasks -->
+
+	<string id="red_greh_tech_task_1_name">
+		<text>Znajdź %s</text>
+	</string>
+	<string id="red_greh_tech_task_1_text">
+		<text>%s są potrzebne Dażbogowi do instalacji podstawowych ulepszeń broni i pancerzy. Przynieś mu takie, jeśli uda ci się je znaleźć.</text>
+	</string>
+	<string id="red_greh_tech_task_1_about">
+		<text>Chcę, abyś coś dla mnie zrobił. Potrzebuję konkretnych narzędzi, by móc pracować przy naszej broni.</text>
+	</string>
+	<string id="red_greh_tech_task_1_fetch_about">
+		<text>%s są nam niezbędne. Ruszaj.</text>
+	</string>
+	<string id="red_greh_tech_task_1_fetch_finish">
+		<text>Dobrze się spisałeś.</text>
+	</string>
+
+	<string id="red_greh_tech_task_2_name">
+		<text>Znajdź %s</text>
+	</string>
+	<string id="red_greh_tech_task_2_text">
+		<text>%s są potrzebne Dażbogowi do instalacji zaawansowanych ulepszeń broni i pancerzy. Przynieś mu takie, jeśli uda ci się je znaleźć.</text>
+	</string>
+	<string id="red_greh_tech_task_2_about">
+		<text>Potrzebuję kolejnych narzędzi, lepszych. Możesz ponownie spróbować odnaleźć to, czego potrzebuję?</text>
+	</string>
+	<string id="red_greh_tech_task_2_fetch_about">
+		<text>Potrzebny mi zestaw narzędzi zaawansowanych. Powinien zawierać to, co będzie mi aktualnie potrzebne. Będę ci wdzięczny, jeśli przyniesiesz mi jakieś, a nawet dam ci zniżkę na swoje usługi.</text>
+	</string>
+	<string id="red_greh_tech_task_2_fetch_finish">
+		<text>Dobrze. Przyniosłeś je do mnie.</text>
+	</string>
+
+	<string id="red_greh_tech_task_3_name">
+		<text>Znajdź %s</text>
+	</string>
+	<string id="red_greh_tech_task_3_text">
+		<text>%s są potrzebne Dażbogowi do instalacji precyzyjnych ulepszeń broni i pancerzy. Przynieś mu takie, jeśli uda ci się je znaleźć.</text>
+	</string>
+	<string id="red_greh_tech_task_3_about">
+		<text>Znów potrzebne mi narzędzia, jeszcze lepsze niż ostatnio. Możesz po raz ostatni spróbować odnaleźć to, czego potrzebuję?</text>
+	</string>
+	<string id="red_greh_tech_task_3_fetch_about">
+		<text>Potrzebny mi zestaw narzędzi precyzyjnych. Powinien zawierać już wszystko, co będzie mi potrzebne. Będę ci wdzięczny, jeśli przyniesiesz mi jakieś i dam ci dużą zniżkę na swoje usługi.</text>
+	</string>
+	<string id="red_greh_tech_task_3_fetch_finish">
+		<text>Dobrze. Przyniosłeś je do mnie.</text>
+	</string>
+
+</string_table>

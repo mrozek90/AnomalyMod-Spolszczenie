@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+     <string id="oso_chernobyl_crush_0">
+        <text>Katastrofa z 1986 roku to również wasza robota?</text>
+    </string>
+    <string id="oso_chernobyl_crush_1">
+        <text>Nie, z tym akurat nie mieliśmy nic wspólnego. Większość z nas stawiała wtedy pierwsze kroki w badaniach naukowych. Strefy Czarnobylskiej nie wykorzystywano w charakterze poligonu testowego aż do roku 1989.</text>
+    </string>
+    <string id="oso_death_truck_0">
+        <text>Czym są "trupiarki"?</text>
+    </string>
+    <string id="oso_death_truck_1">
+        <text> Samochody były używane do wysyłania naszych "agentów" w głąb Zony. Infiltrowali oni stalkerskie społeczności i przekazywali im nasze rozkazy. Niestety, więcej niż połowa ze stalkerów umiera podczas transportu, ponieważ Zona jest bardzo niestabilna. Ty byłeś jednym z kilku naszych agentów wysłanych, aby zabić Striełoka. Teraz próbujemy ustalić przyczynę naszej pomyłki.</text>
+    </string>
+    <string id="oso_no_0">
+        <text>Nie zamierzam pomagać wam w tym szaleństwie.</text>
+    </string>
+    <string id="oso_osoznanie_start_11">
+        <text>Witaj Striełok. Zapewne masz do mnie wiele pytań. Cóż, pytaj więc a później zdecydujemy co z Tobą począć.</text>
+    </string>
+    <string id="oso_osoznanie_start_21">
+        <text>Wybór należy do Ciebie, Striełok.</text>
+    </string>
+    <string id="oso_stalker_0">
+        <text>Co właściwie oznacza tatuaż "S.T.A.L.K.E.R."?</text>
+    </string>
+    <string id="oso_stalker_1">
+        <text>S.T.A.L.K.E.R. jest akronimem kodu, który używamy do naznaczania agentów zaprogramowanych dla celu poszczególnych misji. Twoją misją, jako naszego agenta było zabicie Striełoka i zlikwidowanie jego grupy. Byli oni zbyt blisko odkrycia pewnych faktów, o których istnieniu nie powinni wiedzieć. Stworzyliśmy sieć pól psionicznych na drodze do centrum Zony, z zamiarem rekrutowania agentów.\n \nJedno z takich pól nazywa się Mózgozwęglaczem. Kiedy stalker próbuje dotrzeć do centrum Zony, aby wypowiedzieć życzenie, przejmujemy kontrolę nad jego świadomością i programujemy go do wykonania konkretnej misji. Błędem jaki popełniliśmy, był cel Twojej konkretnej misji - zabicie samego siebie.</text>
+    </string>
+    <string id="oso_what_about_me_0">
+        <text>Co teraz ze mną będzie?</text>
+    </string>
+    <string id="oso_what_about_me_1">
+        <text>Jesteś solą w naszym oku. Nieszczęśliwie, udało Ci się umykać naszej uwadze przez bardzo długi czas. Od momentu powstania Zony, wiele osób próbowało dotrzeć do centrum, a na to nie mogliśmy sobie pozwolić. Ludzkość nie jest gotowa, aby poznać prawdę.\n \nDlatego też rekrutujemy stalkerów, obiecując im spełnienie ich najskrytszych pragnień. Następnie wysyłani są oni do obrony tajemnic Strefy.</text>
+    </string>
+    <string id="oso_what_is_the_zone_0">
+        <text>Czym jest Zona? Jak powstała?</text>
+    </string>
+    <string id="oso_what_is_the_zone_1">
+        <text>To co widzisz jest rezultatem nierozważnej interwencji w noosferę Ziemi. Próby oddziaływania na nią, spowodowały jej pęknięcie. Zona jest fizyczną manifestacją tego wypadku. Problem leży głębiej niż jesteś w stanie to sobie wyobrazić.</text>
+    </string>
+    <string id="oso_what_next_0">
+        <text>Co dalej?</text>
+    </string>
+    <string id="oso_what_next_1">
+        <text>To zależy od Ciebie. Strefa się rozrasta. Próbujemy zatrzymać jej ekspansję ale ludzkość wydaje się być przeciwna naszym działaniom. Nasze zasoby nie są nieskończone, a ciała połączone ze Świadomością-Z w końcu umrą. Jeśli dołączysz do nas, możemy powstrzymać ekspansję Zony. Jeśli jednak zdecydujesz inaczej, nie jesteśmy w stanie przewidzieć rezultatu Twoich działań.</text>
+    </string>
+    <string id="oso_who_are_you_0">
+        <text>Kim jesteś?</text>
+    </string>
+    <string id="oso_who_are_you_1">
+        <text>Jesteśmy skutkiem eksperymentu, którego celem było stworzenie ogromnej świadomości nazwanej "Świadomością-Z". Świadomości siedmiu ochotników zostały połączone podczas eksperymentu, prowadzącego do stworzenia świadomości, którą jesteśmy obecnie. Natychmiast podporządkowaliśmy sobie tych, którzy prowadzili eksperyment i wyznaczyliśmy im swoje zadania.\n \nWedług naszych obliczeń, Ziemia jest otoczona przez specjalne pole informacyjne, tak zwaną noosferę. Zawiera ona w sobie wszystkich mieszkańców planety z ich kognitywnymi zdolnościami. Naszym głównym celem było wykonanie małych poprawek w noosferze, które pozwoliły by na usunięcie takich przymiotów jak gniew, okrucieństwo, chciwość oraz innych czynników zagrażających naszej planecie. Jednostki są niezdolne aby samodzielnie oddziaływać na noosferę, jednak "Świadomość-Z" może to robić. Niestety popełniliśmy błąd i nasza ingerencja spowodowała powstanie Zony, którą od tamtej pory staramy się opanować.</text>
+    </string>
+    <string id="oso_why_chernobyl_0">
+        <text>Dlaczego tutaj?</text>
+    </string>
+    <string id="oso_why_chernobyl_1">
+        <text>To było najlepsze miejsce. Po eksplozji w 1986 roku bardzo niewielu ludzi pozostało na tym obszarze, więc mogliśmy spokojnie pracować bez obawy odkrycia naszej działalności. Pozostało tutaj wiele potężnych anten, które są niezmiernie ważne dla naszych kognitywnych eksperymentów optymalizacyjnych.</text>
+    </string>
+    <string id="oso_yes_0">
+        <text>Zgadzam się na przyłączenie się do projektu "Świadomość-Z".</text>
+    </string>
+    <string id="warlab_entity_start_11">
+        <text>Tyle czekałem na tą chwilę... Skoro nie mogę wyjść do świata, to niech świat przybędzie do mnie!</text>
+    </string>
+    <string id="warlab_entity_start_12">
+        <text>Kim lub czym jesteś?</text>
+    </string>
+    <string id="warlab_entity_start_13">
+        <text>Popatrz na mnie, jestem Twoim bratem! Przebywałem w tym zamknięciu przez szesnaście lat! Nie jestem pewien... czy dobrze widzę? To może być tylko kolejna iluzja.\n \nPowiedz mi co widzisz! Czy widzisz mnie stojącego naprzeciw Ciebie? Czy nie jestem wystarczająco czysty dla swojego stwórcy?</text>
+    </string>
+    <string id="warlab_entity_start_14">
+        <text>Jak się czujesz?</text>
+    </string>
+    <string id="warlab_entity_start_15">
+        <text>Zaniesiesz światu wiadomość, człowieku. Twoja fizyczna forma bardzo dobrze posłuży temu zadaniu. Zona zwiększy swój obszar, z Twoją pomocą, oczywiście.</text>
+    </string>
+    <string id="warlab_entity_start_16">
+        <text>Co jeśli zdecyduję się nie przekazać światu tej "wiadomości"?</text>
+    </string>
+    <string id="warlab_entity_start_17">
+        <text>Umrzesz. Najpierw jednak... trochę się zabawimy. Mogę być duchem, pijawką lub kontrolerem, to i tak bez znaczenia. Złap mnie jeśli potrafisz!</text>
+    </string>
+    <string id="warlab_entity_start_18">
+        <text>...</text>
+    </string>
+</string_table>

@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Medical Items + Drugs
+-->
+
+<string_table>
+	
+	<string id="st_antirad">
+		<text>Leki przeciwpromienne</text>
+	</string>
+	<string id="st_antirad_descr">
+		<text>Oparte na meksaminie leki przeciwpromienne cieszą się w Zonie dużą popularnością. Po użyciu lekarstwo powoduje skurcz obwodowych naczyń krwionośnych i deprywację tlenową, co pozwala na leczenie choroby popromiennej i ochronę przed promieniowaniem. Nie wywołuje silnych skutków ubocznych, choć odnotowano odosobnione przypadki lekkich nudności, zawrotów głowy, skurczy i bólu brzucha.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] lek\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] szybkie użycie (strzykawka)\n
+		%c[d_red] • %c[ui_gray_2] znaczna utrata zdrowia po użyciu\n
+		</text>
+	</string>
+	<string id="st_bandage">
+		<text>Bandaż</text>
+	</string>
+	<string id="st_bandage_descr">
+		<text>Typowy bandaż elastyczny służący do tamowania krwawienia i ochrony przed zakażeniem ran. W przypadku zwykłego krwawienia bandaż należy nałożyć bezpośrednio na ranę. Aby powstrzymać krwawienie tętnicze, należy szybko obwiązać bandaż dookoła rany.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] pierwsza pomoc\n
+		%c[d_blue] • %c[ui_gray_2] szybkie użycie (opatrunek)\n
+		</text>
+	</string>
+	
+	<string id="st_drug_coagulant">
+		<text>Barwinek</text>
+	</string>
+	<string id="st_drug_coagulant_descr">
+		<text>Ukraińskie Wikasolum - sztuczny odpowiednik witaminy K. Główną funkcją tego lekarstwa jest zwiększenie tempa krzepnięcia krwi. Cieszy się dużym zapotrzebowaniem wśród stalkerów, którzy chcą, aby wolno gojące się rany zadawane przez mutanty zasklepiały się szybciej. Efekty działania lekarstwa są długotrwałe. Połknij dwie tabletki naraz.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_red] • %c[ui_gray_2] powoduje zawroty głowy\n</text>
+	</string>
+	
+	<string id="st_drug_anabiotic">
+		<text>Anabiotyk</text>
+	</string>
+	<string id="st_drug_anabiotic_descr">
+		<text>Eksperymentalny lek stworzony przez prof. Oziorskiego dla zespołów badawczych pracujących w Zonie. Jego głównym składnikiem jest tetrodotoksyna, zwana potocznie "proszkiem zombi", powodująca całkowite wstrzymanie działania centralnego układu nerwowego, co umożliwia przeżycie emisji bez osłony. Po sześciu latach testów w różnych warunkach, rozważni stalkerzy uznali, że warto mieć go pod ręką na wypadek niespodziewanego zwarcia.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] lek\n
+		%c[d_blue] • %c[ui_gray_2] wyprodukowany w Zonie\n
+		%c[d_red] • %c[ui_gray_2] powoduje tymczasową utratę przytomności\n</text>
+	</string>
+	
+	<string id="st_drug_psy_blockade">
+		<text>Bloker psioniczny</text>
+	</string>
+	<string id="st_drug_psy_blockade_descr">
+		<text>Lekarstwo, które blokuje lawinowe wyładowania impulsów nerwowych. Użycie go powoduje efekt uboczny w postaci krótkotrwałej utraty zdolności przeżywania emocji. Używane wyłącznie w Zonie w celu przeciwdziałania anomalnym polom psionicznym. Efekty działania lekarstwa są długotrwałe. Połknij dwie tabletki naraz.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] lek\n
+		%c[d_red] • %c[ui_gray_2] powoduje bardzo silne zawroty głowy\n
+		</text>
+	</string>
+	
+	<string id="st_drug_antidot">
+		<text>Antidotum</text>
+	</string>
+	<string id="st_drug_antidot_descr">
+		<text>Przeciwutleniacz IP2 to złożone lekarstwo, w skład którego wchodzą różne rodzaje antidotów, w tym metoklopramid, tiamina, ryboksyna i inne substancje. Lek wprowadza do krwiobiegu szereg antybiotyków, których zadaniem jest neutralizacja naturalnych trucizn, a także pochłaniacze trucizn syntetycznych.\n \nIP2 nie jest szczególnie popularne w Zonie, ponieważ większość stalkerów woli polegać na masce przeciwgazowej i kombinezonie ochronnym. Są jednak tacy, którzy przechowują ukryte opakowania antidotum na czarną godzinę. Efekty działania lekarstwa są długotrwałe. Połknij jedną kapsułkę naraz.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] lek\n
+		%c[d_red] • %c[ui_gray_2] powoduje zawroty głowy\n</text>
+	</string>
+	
+	<string id="st_drug_booster">
+		<text>Herkules</text>
+	</string>
+	<string id="st_drug_booster_descr">
+		<text>Główny składnik tego środka to anaboliczny androgen, sztuczny steryd, którego skład chemiczny przypomina testosteron. Często używany przez stalkerów w czasie dłuższych wypraw, aby zmniejszyć zmęczenie mięśni. Znacząco zwiększa udźwig. Efekty działania lekarstwa są długotrwałe.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] napój\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] lek\n
+		%c[d_blue] • %c[ui_gray_2] łagodny efekt otrzeźwienia\n
+		</text>
+	</string>
+	
+	<string id="st_drug_radioprotector">
+		<text>Radioprotektor</text>
+	</string>
+	<string id="st_drug_radioprotector_descr">
+		<text>Radioprotektor B190, znany też pod nazwą indralina, wchodzi w skład apteczek wydawanych personelowi elektrowni jądrowych. Używany w Zonie zamiast silnie toksycznego hydrochlorku cystaminy PC1, którego częste użycie może spowodować śmierć. Osłabia wpływ promieniowania gamma na żywą tkankę. Najlepiej zażyć przed ekspozycją na promieniowanie, ponieważ efekty nie są natychmiastowe. Efekty działania lekarstwa są długotrwałe. Weź jedną kapsułkę naraz.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] lek\n
+		%c[d_red] • %c[ui_gray_2] powoduje łagodne zawroty głowy\n
+		</text>
+	</string>
+	
+	<string id="st_akvatab">
+		<text>Tabletki Aquatab</text>
+	</string>
+	<string id="st_akvatab_descr">
+		<text>Mała plastikowa torebka z niebieskimi tabletkami przeznaczonymi do dezynfekcji wody zawierającej szkodliwe bakterie i wirusy. Wystarczy użyć dwóch tabletek i po kłopocie.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_red] • %c[ui_gray_2] wolne użycie (tabletki rozpuszczalne)\n
+		%c[d_blue] • %c[ui_gray_2] źródło czystego pożywienia\n
+		</text>
+	</string>
+	
+	<string id="st_medkit_ai1">
+		<text>Podstawowy pakiet medyczny</text>
+	</string>
+	<string id="st_medkit_ai1_descr">
+		<text>Osobisty pakiet medyczny zawierający rozmaite przedmioty pomocne przy leczeniu drobnych i niezbyt poważnych obrażeń.\n \n%c[ui_gray_3]ZAWIERA:\n
+		%c[d_cyan] • %c[default] bandaż\n
+		%c[d_cyan] • %c[default] diklofenak\n
+		%c[d_cyan] • %c[default] improwizowany stimpak\n
+		%c[d_cyan] • %c[default] ampułkę metamizolu\n
+		%c[d_cyan] • %c[default] wodę mineralną\n
+		%c[d_cyan] • %c[default] sulfadimetoksynę\n
+		%c[d_cyan] • %c[default] gumową opaskę\n
+		%c[d_cyan] • %c[default] jadulin\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] pojemnik na medykamenty\n</text>
+	</string>
+	
+	<string id="st_medkit_ai2">
+		<text>Wojskowy pakiet medyczny</text>
+	</string>
+	<string id="st_medkit_ai2_descr">
+		<text>Wojskowy pakiet medyczny, zawierający dużą ilość medykamentów stymulujących.\n \n%c[ui_gray_3]ZAWIERA:\n
+		%c[d_cyan] • %c[default] ampułkę morfiny\n
+		%c[d_cyan] • %c[default] tabletki Aquatab\n
+		%c[d_cyan] • %c[default] bandaż\n
+		%c[d_cyan] • %c[default] tabletki kofeinowe\n
+		%c[d_cyan] • %c[default] diklofenak\n
+		%c[d_cyan] • %c[default] gumową opaskę zaciskową\n
+		%c[d_cyan] • %c[default] wojskowy stimpak\n
+		%c[d_cyan] • %c[default] wodę mineralną\n
+		%c[d_cyan] • %c[default] tabletki nasenne\n
+		%c[d_cyan] • %c[default] szczepionkę przeciwtężcową\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] pojemnik na medykamenty\n</text>
+	</string>
+	
+	<string id="st_medkit_ai3">
+		<text>Naukowy pakiet medyczny</text>
+	</string>
+	<string id="st_medkit_ai3_descr">
+		<text>Pakiet medyczny opracowany specjalnie do wykorzystania w Zonie. Zawiera dużą ilość medykamentów wspomagających walkę z niebezpieczeństwami chemicznymi, psionicznymi i promieniowaniem.\n \n%c[ui_gray_3]ZAWIERA:\n
+		%c[d_cyan] • %c[default] leki przeciwpromienne\n
+		%c[d_cyan] • %c[default] przeciwutleniacz IP2\n
+		%c[d_cyan] • %c[default] mały zastrzyk glukozy\n
+		%c[d_cyan] • %c[default] cysteaminę\n
+		%c[d_cyan] • %c[default] diklofenak\n
+		%c[d_cyan] • %c[default] adrenalinę\n
+		%c[d_cyan] • %c[default] gumową opaskę zaciskową\n
+		%c[d_cyan] • %c[default] indralinę B190\n
+		%c[d_cyan] • %c[default] wodę mineralną\n
+		%c[d_cyan] • %c[default] bloker psioniczny\n
+		%c[d_cyan] • %c[default] naukowy stimpak\n
+		%c[d_cyan] • %c[default] sulfadimetoksynę
+		%c[d_cyan] • %c[default] chlorotetracyklinę\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] pojemnik na medykamenty\n
+		</text>
+	</string>
+	
+	<string id="st_analgetic">
+		<text>Diklofenak</text>
+	</string>
+	<string id="st_analgetic_descr">
+		<text>Niesteroidowy lek przeciwzapalny (NLPZ). Pochodna kwasu aminofenylooctowego o silnym działaniu przeciwzapalnym, przeciwbólowym i przeciwgorączkowym. Lek powoduje przytłumienie układu nerwowego użytkownika.\n \nZe względu na ogromną ilość efektów ubocznych takich, jak bóle i zawroty głowy, senność, a w niektórych przypadkach zaburzenia pamięci, dezorientację i drażliwość duża liczba krajów nie zezwala na wykorzystywanie diklofenaku do celów medycznych. Właśnie z tego powodu zdobył popularność w Zonie - osłabia działanie ośrodkowego układu nerwowego, co pozwala wytrzymać poważne obrażenia, na przykład rany postrzałowe czy odłamkowe.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] lek\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_purple] • %c[ui_gray_2] średni wzrost odporności na obrażenia\n
+		%c[d_blue] • %c[ui_gray_2] niewielka poprawa stanu zdrowia po użyciu\n
+		</text>
+	</string>
+	
+	<string id="st_jgut_zhgut">
+		<text>Gumowa opaska</text>
+	</string>
+	<string id="st_jgut_descr">
+		<text>Hemostatyczna opaska zaciskowa tamująca krwawienie.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] pierwsza pomoc\n
+		%c[d_blue] • %c[ui_gray_2] szybkie użycie (staza zaciskowa)\n
+		</text>
+	</string>
+	
+	<string id="st_yadylin">
+		<text>Jadulin</text>
+	</string>
+	<string id="st_yadylin_descr">
+		<text>Wyrób medyczny oparty na morfinie. Pozwala użytkownikowi szybko zagłuszyć ból i zwiększa produkcję adrenaliny, pomagając przeżyć nawet najbardziej intensywne bitwy. Jest popularny wśród stalkerów. Bandy wyrzutków często wykorzystują go jako otępiający narkotyk. Rzekomo dostarczany jest także bojownikom Monolitu.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] lek\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] czynnik współdziałający\n
+		%c[d_red] • %c[ui_gray_2] powoduje krótkie otępienie świadomości\n
+		</text>
+	</string>
+	
+		<string id="st_medkit">
+		<text>Apteczka pierwszej pomocy</text>
+	</string>
+	<string id="st_medkit_descr">
+		<text>Jednorazowy zestaw medyczny przeznaczenia ogólnego. Przydatny przy leczeniu urazów, skaleczeń, oparzeń chemicznych i termicznych, a także różnych rodzajów zatruć.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot codziennego użytku\n
+		%c[d_red] • %c[ui_gray_2] wolne użycie (zestaw polowy)\n
+		%c[d_red] • %c[ui_gray_2] wydłużony czas odzyskiwania zdrowia\n
+		</text>
+	</string>
+	<string id="st_medkit_army">
+		<text>Apteczka wojskowa</text>
+	</string>
+	<string id="st_medkit_army_descr">
+		<text>Specjalistyczny zestaw medyczny, zapewniający pierwszą pomoc rannym w walce. Zawiera on środki wspomagające krzepnięcie krwi oparte na menadionie, środki przeciwbólowe, antybiotyki i immunostymulanty, a także narzędzia służące do usuwania pocisków i odłamków z ciała. Apteczka ta jest wydawana personelowi wojskowemu, m.in. jednostkom Specnazu, jako standardowe wyposażenie. Powszechnie stosowana również przez siły Powinności.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wojskowy\n
+		%c[d_red] • %c[ui_gray_2] wolne użycie (zestaw polowy)\n
+		%c[d_red] • %c[ui_gray_2] wydłużony czas odzyskiwania zdrowia\n
+		</text>
+	</string>
+	<string id="st_medkit_science">
+		<text>Apteczka naukowa</text>
+	</string>
+	<string id="st_medkit_science_descr">
+		<text>Zestaw medyczny zaprojektowany specjalnie na potrzeby Zony. Zawiera materiały służące do leczenia ran, a także do niwelowania skutków skażenia promieniowaniem i redukcji stopnia napromieniowania organizmu. W odróżnieniu od innych apteczek, zawiera wikasol, batilol i nafazolinę.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_red] • %c[ui_gray_2] wolne użycie (zestaw polowy)\n
+		%c[d_red] • %c[ui_gray_2] wydłużony czas odzyskiwania zdrowia\n
+		</text>
+	</string>
+	
+	<string id="st_glucose_s">
+		<text>Mały zastrzyk glukozy</text>
+	</string>
+	<string id="st_glucose_s_descr">
+		<text>Zastrzyki glukozowe używane są przede wszystkim w leczeniu poważnych przypadków hipoglikemii w przebiegu cukrzycy, ale można je także stosować jako stymulanty. Natychmiastowe wprowadzenie do organizmu węglowodanów zapewnia przypływ energii, dzięki czemu użytkownik może podjąć zwiększony wysiłek fizyczny, a jego odporność na stres zwiększa się. Możliwe użycie w warunkach bojowych ze względu na dogodny sposób wprowadzenia do organizmu. Znacząco przyspiesza proces leczenia.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] lek\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] szybkie użycie (strzykawka)\n</text>
+	</string>
+	
+	<string id="st_glucose">
+		<text>Duży zastrzyk glukozy</text>
+	</string>
+	<string id="st_glucose_descr">
+		<text>Zastrzyki glukozowe używane są przede wszystkim w leczeniu poważnych przypadków hipoglikemii w przebiegu cukrzycy, ale można je także stosować jako stymulanty. Natychmiastowe wprowadzenie do organizmu węglowodanów zapewnia przypływ energii, dzięki czemu użytkownik może podjąć zwiększony wysiłek fizyczny, a jego odporność na stres zwiększa się. Możliwe użycie w warunkach bojowych ze względu na dogodny sposób wprowadzenia do organizmu. Znacząco przyspiesza proces leczenia.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] lek\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] szybkie użycie (strzykawka)\n</text>
+	</string>
+	
+	<string id="st_stim_impro">
+		<text>Improwizowany stimpak</text>
+	</string>
+	<string id="st_stim_impro_descr">
+		<text>Improwizowane stimpaki cieszą się sporą popularnością wśród nowicjuszy ze względu na dużą podaż i niską cenę. Produkuje się je w Zonie z powszechnie dostępnych składników, bez odpowiedniego sprzętu i oczyszczania, przez co wywołują wiele skutków ubocznych, takich jak bóle głowy, parestezje i znaczny wzrost uczucia głodu. Wstrzykiwać w udo.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] lek\n
+		%c[d_blue] • %c[ui_gray_2] wyprodukowany w Zonie\n
+		%c[d_blue] • %c[ui_gray_2] szybkie użycie (strzykawka)\n
+		%c[d_blue] • %c[ui_gray_2] średni czas odzyskiwania zdrowia\n</text>
+	</string>
+	
+	<string id="st_stim_military">
+		<text>Wojskowy stimpak</text>
+	</string>
+	<string id="st_stim_military_descr">
+		<text>Wojskowe stimpaki stanowią część standardowego wyposażenia żołnierzy do działań terenowych w Zonie. Łatwo dostępne na rynku, umiarkowanie kosztowne. Popularne pośród doświadczonych stalkerów.\n \nSą znacznie silniejsze i szybsze w działaniu niż ich improwizowane odpowiedniki, dzięki czemu doskonale sprawdzają się w sytuacji zagrożenia życia. Produkowane z surowców o dużej gęstości, które mogą być powodem rozlicznych skutków ubocznych, jak np. szok, bardzo silne zawroty głowy i wzmożony głód.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] lek\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wojskowy\n
+		%c[d_blue] • %c[ui_gray_2] szybkie użycie (strzykawka)\n
+		%c[d_blue] • %c[ui_gray_2] krótki czas odzyskiwania zdrowia\n</text>
+	</string>
+	
+	<string id="st_stim_scientic">
+		<text>Stimpak naukowców</text>
+	</string>
+	<string id="st_stim_scientic_descr">
+		<text>Opracowany przez ten sam wojskowy instytut badawczy w Kijowie, który stworzył popularny w Zonie kombinezon SEVA. To arcydzieło w dziedzinie chemii nieorganicznej stanowi najsilniejszy stabilizator zdrowia dostępny w Zonie. Najlepsze jakościowo składniki i udoskonalona receptura zapewniają niemal natychmiastową regenerację organizmu i usunięcie radionuklidów. Wywołuje nieznaczne efekty uboczne. Duży koszt ogranicza grupę docelową do najbardziej doświadczonych i majętnych stalkerów.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] lek\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_blue] • %c[ui_gray_2] szybkie użycie (strzykawka)\n
+		%c[d_blue] • %c[ui_gray_2] bardzo krótki czas odzyskiwania zdrowia\n</text>
+	</string>
+	
+	<string id="st_sleepingpills">
+		<text>Tabletki nasenne</text>
+	</string>
+	<string id="st_sleepingpills_descr">
+		<text>Opakowanie tabletek nasennych. Niemal natychmiast po zażyciu powodują zaśnięcie, a ponadto pomagają obniżyć lawinowe impulsy nerwowe przez dłuższy czas. Połknij jakiś czas przed położeniem się i popij wodą dla osiągnięcia najlepszego efektu. Weź dwie tabletki naraz.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] lek\n
+		%c[d_blue] • %c[ui_gray_2] natychmiastowa senność\n
+		</text>
+	</string>
+	
+	<string id="st_cocaine">
+		<text>Kokaina</text>
+	</string>
+	<string id="st_cocaine_descr">
+		<text>Niewielki aluminiowy pojemnik zawierający kokainę i przybory do jej zażycia. Kokaina jest potężnym stymulantem układu nerwowego. Jej efekty utrzymują się od 15-30 minut do nawet godziny, w zależności od sposobu zażycia.\n \nKokaina zwiększa czujność, wywołuje dobre samopoczucie i euforię, uczucie współzawodnictwa i atrakcyjności seksualnej, poprawia sprawność ruchową i zwiększa zasób energii. Częstymi skutkami ubocznymi są: niepokój, lęk i myśli prześladowcze, zaś przy nadmiernym spożyciu: drgawki i wzrost temperatury ciała. Bandyci często zażywają ten narkotyk przed walką.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] stymulant\n
+		%c[d_blue] • %c[ui_gray_2] bardzo silny efekt otrzeźwienia\n
+		%c[d_blue] • %c[ui_gray_2] niewielka poprawa stanu zdrowia po użyciu\n
+		</text>
+	</string>
+	
+	<string id="st_adrenalin">
+		<text>Zastrzyk adrenaliny</text>
+	</string>
+	<string id="st_adrenalin_descr">
+		<text>Adrenalina (znana także jako epinefryna) to hormon i neuroprzekaźnik. Spełnia wiele funkcji - reguluje tętno, przepływ krwi, oddychanie oraz procesy metaboliczne. Uwolnienie adrenaliny jest kluczowym czynnikiem odpowiedzialnym za reakcję walki bądź ucieczki. Jego skutkiem jest podniesienie poziomu cukru i kwasów tłuszczowych we krwi, dostarczające organizmowi substratów do natychmiastowej produkcji dodatkowej energii w komórkach.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] lek\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_blue] • %c[ui_gray_2] szybkie użycie (strzykawka)\n
+		%c[d_blue] • %c[ui_gray_2] bardzo silny efekt otrzeźwienia\n
+		%c[d_blue] • %c[ui_gray_2] niewielka poprawa stanu zdrowia po użyciu\n
+		</text>
+	</string>
+	
+	<string id="st_morphine">
+		<text>Ampułka morfiny</text>
+	</string>
+	<string id="st_morphine_descr">
+		<text>Żelazna ampułka stanowiąca część polowego wyposażenia personelu wojskowego, służy do natychmiastowej redukcji bólu. Zawiera dużą dawkę morfiny. W medycynie klinicznej morfina uznawana jest za najlepszy środek uśmierzający ból, znajdując zastosowanie w leczeniu ciężkich chorób i ran. Jak inne opioidy, takie jak oksykodon, hydromorfon czy diacetylomorfina (heroina), morfina oddziałuje bezpośrednio na ośrodkowy układ nerwowy i uśmierza ból w niemal natychmiastowym tempie. Wstrzykiwać w ramię lub udo.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] lek\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_blue] • %c[ui_gray_2] szybkie użycie (strzykawka)\n
+		%c[d_purple] • %c[ui_gray_2] duży wzrost odporności na obrażenia\n
+		%c[d_blue] • %c[ui_gray_2] średnia poprawa stanu zdrowia po użyciu\n
+		</text>
+	</string>
+	
+	<string id="st_salicidic_acid">
+		<text>Ampułka metamizolu</text>
+	</string>
+	<string id="st_salicidic_acid_descr">
+		<text>Żelazna ampułka pomyślana jako część polowego wyposażenia personelu wojskowego, służy do natychmiastowej redukcji bólu. Zawiera roztwór z dużą dawką metamizolu i lekiem przeciwkrwotocznym. Metamizol jest jednym z najsilniejszych niesteroidowych leków przeciwzapalnych i bardzo skutecznie łagodzi ból, a także obniża temperaturę.\n \nMoże wywołać pewne opóźnione skutki uboczne, jak np. leukopenię lub agranulocytozę, stąd powinno używać się go z umiarem. Wstrzykiwać w ramię lub udo. Dostępność specyfiku w Zonie jest ograniczona, jako że obecność wojskowych kordonów utrudnia szmuglowanie go przez granicę.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] lek\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] szybkie użycie (strzykawka)\n
+		%c[d_purple] • %c[ui_gray_2] średni wzrost odporności na obrażenia\n
+		%c[d_blue] • %c[ui_gray_2] mała poprawa stanu zdrowia po użyciu\n
+		</text>
+	</string>
+	
+	<string id="st_caffeine">
+		<text>Tabletki kofeinowe</text>
+	</string>
+	<string id="st_caffeine_descr">
+		<text>Kofeina i benzoesan sodu stymulują układ nerwowy do pracy na pełnych obrotach. Mocno zmniejszają uczucie senności. Weź dwie tabletki naraz.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] stymulant\n
+		%c[d_blue] • %c[ui_gray_2] silny efekt otrzeźwienia\n
+		</text>
+	</string>
+	
+		<string id="st_antirad_cystamine">
+		<text>Cystamina</text>
+	</string>
+	<string id="st_antirad_cystamine_descr">
+		<text>Substancja działająca jako radioprotektor, używana do zmniejszenia wpływu promieniowania na ciało. Efekt ochronny cysteaminy opiera się na zdolności wiązania wolnych rodników - zjonizowanych i wzbudzonych cząsteczek powstających w tkankach po napromieniowaniu - oraz łączenia się z enzymami w celu zwiększenia odporności organizmu na promieniowanie jonizujące. Zażycie cysteaminy nie wpływa na ilość radionuklidów już znajdujących się w organizmie, jedynie zapobiega wchłanianiu kolejnych.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] lek\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_red] • %c[ui_gray_2] łagodne zawroty głowy\n
+		%c[d_red] • %c[ui_gray_2] znaczna utrata zdrowia po użyciu\n
+		</text>
+	</string>
+	
+	<string id="st_antibio_sulfad">
+		<text>Sulfadimetoksyna</text>
+	</string>
+	<string id="st_antibio_sulfad_descr">
+		<text>Lek z grupy sulfonamidów. Organiczny związek chemiczny efektywny przeciwko bakteriom Gram-dodatnim i Gram-ujemnym. Atakuje pneumokoki, paciorkowce, gronkowce, pałeczki okrężnicy (E. coli), pałeczki zapalenia płuc (Friedlandera), czynniki wywołujące czerwonkę, wirusy wywołujące jaglicę ("egipskie zapalenie spojówek" - infekcję mogącą doprowadzić do ślepoty). Względem białek sulfadimetoksyna jest mniej aktywna. Nie wpływa na szczepy bakterii oporne na inne preparaty sulfanilamidowe. Skutki uboczne obejmują bóle głowy, zaburzenia trawienia, wysypki skórne, gorączkę i leukopenię. Efekty działania lekarstwa są długotrwałe.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] lek\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_red] • %c[ui_gray_2] znaczna utrata zdrowia po użyciu\n
+		</text>
+	</string>
+	
+	<string id="st_antibio_chlor">
+		<text>Chlorotetracyklina</text>
+	</string>
+	<string id="st_antibio_chlor_descr">
+		<text>Antybiotyk przyjmujący postać krystalicznego, złotego proszku, Gorzki w smaku, rozpuszczalny w wodzie. Jest jednym z pierwszych odkrytych antybiotyków (po penicylinie). Preparat ma efekt bakteriostatyczny na Gram-dodatnie i Gram-ujemne mikroby, riketsje i niektóre duże wirusy.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] lek\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_red] • %c[ui_gray_2] średni wzrost senności\n
+		</text>
+	</string>
+	
+	<string id="st_antiemetic">
+		<text>Etperazyna</text>
+	</string>
+	<string id="st_antiemetic_descr">
+		<text>Tabletki w kapsułkach, zawierające 4,6 i 10 mg perfenazyny. To neuroleptyk - środek przeciwpsychotyczny, który zapewnia działanie przeciwalergiczne, uspokajające, miorelaksujące, przeciwwymiotne. Ma słabe działanie antycholinergiczne, hipotensyjne i hipotermiczne. Działanie etperazyny polega na blokowaniu receptorów D2 w szlakach dopaminergicznych organizmu. Rzadko używany w Zonie.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] lek przeciwzapalny\n
+		</text>
+	</string>
+	
+	<string id="st_joint">
+		<text>Skręt</text>
+	</string>
+	<string id="st_joint_descr">
+		<text>Skręt uspokaja skołatane nerwy i pozwala na chwilę relaksu. Ma kojący efekt, szczególnie jeśli połączy się go z alkoholem. Wzmaga głód.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] stymulant\n
+		%c[d_blue] • %c[ui_gray_2] wyprodukowany w Zonie\n
+		%c[d_blue] • %c[ui_gray_2] łagodny efekt otrzeźwienia\n
+		</text>
+	</string>
+	
+	<string id="st_rebirth">
+		<text>Aksyltallisal "Odrodzenie"</text>
+	</string>
+	<string id="st_rebirth_descr">
+		<text>Uwaga! Nie łączyć z innymi lekami - interakcja może spowodować zgon!\n \nTa potężna mieszanina zamknięta w małej strzykawce sprawi, że stracisz przytomność. Ale kiedy się obudzisz (jeśli tak się stanie), będziesz się czuł jak nowo narodzony. Iniekcję aplikować do uda, pozostając w pozycji siedzącej.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] lek\n
+		%c[d_blue] • %c[ui_gray_2] szybkie użycie (strzykawka)\n
+		%c[d_blue] • %c[ui_gray_2] źródło czystego pożywienia\n
+		%c[d_red] • %c[ui_gray_2] powoduje tymczasową utratę przytomności\n
+		</text>
+	</string>
+	
+	<string id="st_tetanus">
+		<text>Szczepionka przeciwtężcowa</text>
+	</string>
+	<string id="st_tetanus_descr">
+		<text>Szczepionka ta zawiera anatoksynę tężcową. Stosowana powszechnie jako środek prewencyjny przeciwko tężcowi, który wywoływany jest przez bakterię Clostridium tetani (laseczkę tężca), wydzielającą silną neurotoksynę zwaną tetanospazminą. Najłatwiej zarazić się w wyniku drobnych zranień i obtarć skóry. Choroba ma bardzo często skutek śmiertelny, ponieważ tetanospazmina atakuje układ nerwowy, powodując uszkodzenie układu piramidowego. Zarówno zwierzęta, jak i mutanty w Zonie są często zarażone Clostridium tetani, przenosząc chorobę przez ugryzienie.\n \nWstrzyknięcie nieaktywnego toksoidu zwiększa wydajność układu odpornościowego i ma liczne pozytywne skutki uboczne. Ponadto w skład szczepionki wchodzi szereg innych antytoksyn, dzięki czemu może ona posłużyć do innych celów niż profilaktyka przeciwtężcowa.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] lek\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] szybkie użycie (strzykawka)\n</text>
+	</string>
+	
+	<string id="st_antirad_kalium">
+		<text>Jodek potasu</text>
+	</string>
+	<string id="st_antirad_kalium_descr">
+		<text>Związek farmakologiczny używany w Zonie jako niedroga forma neutralizacji radionuklidów w organizmie. Posiada liczne skutki uboczne, do których należą m.in. zaburzenia żołądkowo-jelitowe, wymioty, bolesne odrętwienia i zaburzenia czynności tarczycy.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] lek\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_red] • %c[ui_gray_2] łagodny zawroty głowy\n
+		%c[d_red] • %c[ui_gray_2] znaczna utrata zdrowia po użyciu\n
+		</text>
+	</string>
+	
+	<string id="st_marijuana">
+		<text>Marihuana</text>
+	</string>
+	<string id="st_marijuana_descr">
+		<text>Chałupniczo uprawiane konopie. Palenie trawki jest popularną rozrywką, szczególnie wśród członków Wolności służących w pobliżu Bariery. Woreczki trawy można dostać tu i tam. Niektórzy wierzą, że gandzia pozwala zachować równowagę umysłu.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] stymulant\n
+		%c[d_red] • %c[ui_gray_2] wolne użycie (wydłużona inhalacja)\n
+		%c[d_blue] • %c[ui_gray_2] znaczny efekt otrzeźwienia\n
+		</text>
+	</string>
+	
+</string_table>

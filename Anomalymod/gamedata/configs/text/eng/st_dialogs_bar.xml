@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+<!-- Barkeep -->
+	<string id="bar_visitors_barman_stalker_trader_start_dialog_11">
+		<text>Och, witaj. Co słychać, stary?</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_start_dialog_12">
+		<text>Czego ci potrzeba, stalkerze?</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_start_dialog_13">
+		<text>Hej, stalkerze. Chcesz się napić? Po setce momentalnie się rozchmurzysz!</text>
+	</string>
+	
+	<string id="barkeep_100rads_0">
+		<text>Opowiedz mi o tym miejscu.</text>
+	</string>
+	<string id="barkeep_100rads_1">
+		<text>Mało kto do tej pory nie słyszał o barze Sto Radów, ale cóż... To taka moja mała oaza w tym pełnym zagrożeń, surrealistycznym świecie. Dzięki Powinności jest to jedno z najbezpieczniejszych miejsc w całej Zonie. Tobie również nic tu nie grozi, pod warunkiem, że nie będziesz szukał sobie na siłę kłopotów, czy to jasne?\n \nŚciągają do nas stalkerzy z całego świata. Wiedzą, że mogą tu w spokoju zjeść, wypić, odsapnąć, usiąść i pogadać, słowem - zapomnieć na chwilę o grozie Zony. Oprócz tego, możesz tu szukać informacji i roboty, no po prostu czym chata bogata!\n \nPowiedz no, co cię do nas sprowadza? Co może dziś dla ciebie zrobić stary Barman?</text>
+	</string>
+	
+	<string id="information_about_stash_barmen_0">
+		<text>Masz na sprzedaż jakieś informacje o schowkach?</text>
+	</string>
+	<string id="information_about_stash_barmen_1">
+		<text>Cóż... Niejednemu po flaszce rozwiązał się jęzor i chlapnął to i owo za dużo... A nigdy nie wiesz, kto słucha!\n \nSprawa ma się tak - ty kładziesz na stół siedem patyków, ja ci wgrywam współrzędne schowka. Nie wiem, co tam znajdziesz i nie chcę tego wiedzieć, jasne? A jak ktoś cię nakryje, to twój problem, ja nie mam z tym nic wspólnego. Rozumiesz?</text>
+	</string>
+
+	<string id="information_about_stash_barmen1_0">
+		<text>Jasne. Trzymaj. %c[d_orange][7.000 RU]</text>
+	</string>
+	<string id="information_about_stash_barmen1_1">
+		<text>Doceniam to.</text>
+	</string>
+	
+	<string id="devushka_4_help_0">
+		<text>Witaj, Barmanie. Przyprowadziłem ci kogoś, z kim chyba chciałbyś się zobaczyć.</text>
+	</string>
+	<string id="devushka_4_help_1">
+		<text>Oczom nie wierzę! Ach, Hip! Trzymaj, przyjacielu, napij się na koszt firmy. Chcę sobie z nią porozmawiać na osobności, a ty tu siedź i ciesz się życiem.</text>
+	</string>
+	
+	<string id="devushka_help_0">
+		<text>Taa... Nigdzie się nie wybieram.</text>
+	</string>
+	<string id="devushka_help_1">
+		<text>Dobra. Hip już wie, co ma zrobić. Chciała, żebym ci to przekazał, póki ona się przygotowuje.\n \nWybiera się daleko za Barierę. Musi dotrzeć na Zaton i dostarczyć Brodaczowi pojemniki z artefaktami, których ten potrzebuje, żeby domknąć jeden bardzo poważny interes. Chodzi o jakieś grube ryby z zachodu, czy coś takiego, nie wnikam. Powiedziała, że bez ciebie nigdzie się nie wybiera. Albo taki dobry z ciebie stalker, albo wpadłeś jej w oko. Jesteś gotowy na taką wyprawę?</text>
+	</string>
+	<string id="devushka_help_2">
+		<text>Tak, jestem gotowy. Zabierzemy te pojemniki.</text>
+	</string>
+	<string id="devushka_help_3">
+		<text>Prawie. Daj mi parę chwil, muszę uzupełnić zapasy.</text>
+	</string>
+	
+	
+<!-- GARIK -->
+	<string id="request_go_to_nimble_0">
+		<text>Muszę przejść.</text>
+	</string>
+	
+	
+<!-- Voronin (Duty Leader) -->
+	<string id="story_dolg_0">
+		<text>Jak obecnie wygląda sytuacja?</text>
+	</string>
+	<string id="story_dolg_1">
+		<text>Jeśli chodzi o Wolność to sprawy nieco ucichły. Oczywiście, ciągle mamy ich na oku - nie możemy opuścić gardy. Poza tym, bandyci zaczynają się organizować, ale dalej bardziej irytują niż stanowią faktyczne zagrożenie. Grupy najemników na zachodzie i północnym zachodzie nie wydają się nami zainteresowane w takim stopniu, jak my nimi, ale nie możemy tego w stu procentach potwierdzić. Konieczne jest zebranie dalszych danych wywiadowczych na temat prowadzonych przez nich operacji.\n \nInne grupy i frakcje nie stanowią żadnego zagrożenia, z wyjątkiem odrodzonego Monolitu. Coś się tam dzieje i na pewno nie jest to nic dobrego. Jedynym pocieszeniem jest fakt, że Wolność będzie pierwszą frakcją, którą ruszą ci cholerni fanatycy.</text>
+	</string>
+	<string id="story_dolg_2">
+		<text>Jak się ma Powinność?</text>
+	</string>
+	<string id="story_dolg_3">
+		<text>Dałbym taką trójkę w skali do pięciu - bardzo dobrze na pewno nie jest, ale tragedii też udaje nam się uniknąć. Co dobrze rokuje, to wysokie morale naszych wojowników, zwłaszcza zrekrutowanych w ostatnim czasie i napływ "świeżej krwi" do naszej frakcji - więc nie wszystko jeszcze stracone.\n \nCo złe, to utrata dużej części naszych weteranów, szczególnie podpułkownika Szulgi i jego ludzi na stacji Janów. Biorąc pod uwagę wszystko, co dzieje się ostatnimi czasy, ich obecność na pewno byłaby przydatna.</text>
+	</string>
+	<string id="story_dolg_4">
+		<text>Jak straciliście swoją pozycję w Janowie?</text>
+	</string>
+	<string id="story_dolg_5">
+		<text>Ech, problemy komunikacyjne i logistyczne. Okazało się, że tamtejszy kwatermistrz, niejaki Morgan, okazał się zdrajcą - sprzedawał nasz najlepszy sprzęt bandytom i najemnikom! Co gorsza, został przyłapany na gorącym uczynku nie przez naszych ludzi, a przez wolnych stalkerów. Zdajesz sobie sprawę, jaki to był cios dla podpułkownika Szulgi, dla mnie, dla naszej formacji?\n \nOczywiście, całą winą obarczono mnie, jako lidera. Między innymi ta i jej podobne sytuacje bardzo osłabiły frakcję akurat w chwili, gdy zagrożenie ze strony Monolitu zaczęło nagle rosnąć. Gdy tylko dane o zwiększonej liczebności fanatyków zaczęły się potwierdzać, wydałem podpułkownikowi rozkaz powrotu do kwatery głównej w Rostoku. Jego oddział do tej pory tu nie dotarł, a nasi żołnierze dywagują między sobą, czy chłopcy zaginęli w akcji, czy po prostu zdezerterowali...</text>
+	</string>
+	<string id="story_dolg_6">
+		<text>Rozumiem.</text>
+	</string>
+	
+	<string id="st_bar_dolg_leader_life_ask">
+		<text>Chciałbym dowiedzieć się czegoś więcej o Powinności. Co możesz mi o was powiedzieć?</text>
+	</string>
+	<string id="st_bar_dolg_leader_life_1">
+		<text>Cóż, żadną tajemnicą nie jest fakt, że Powinność zatrudnia neutralnych stalkerów jako pomoc, aby pozbyć się mniej ważnych, ale kluczowych zagrożeń, do których nie możemy posłać własnych żołnierzy. Pułkownik Pietrenko chętnie poinformuje cię, co należy zrobić, jeśli jesteś zainteresowany takim zajęciem.</text>
+	</string>
+	<string id="st_bar_dolg_leader_life_2">
+		<text>Kiedyś chroniliśmy Ekologów przed atakami najemników, zanim jeszcze wypracowali zawieszenie broni. Chociaż pozwoliło to naszym oddziałom wrócić  do innych zadań, nie możemy sobie pozwolić na całkowite oderwanie wzroku od tych zagranicznych spekulantów.</text>
+	</string>
+	<string id="st_bar_dolg_leader_life_3">
+		<text>Powinność jest dobrze znana z wytrzymałych i wszechstronnych uniformów. Zwróć uwagę na fakt, że nasze pancerze łatwo można wypatrzyć w ciągu dnia. Spełniamy wtedy funkcję służby porządkowej, więc musi nas być widać z daleka. Za to ciemne barwy pozwalają nam w bardzo łatwy sposób ukryć się przed wzrokiem w trakcie bardziej agresywnych operacji prowadzonych nocą. Niby oczywistość, a jednak nie każdy jest tego świadomy.</text>
+	</string>
+	<string id="st_bar_dolg_leader_life_4">
+		<text>Powinność dźwiga na swych barkach wielkie brzemię. Kiedyś, gdy mogliśmy sobie na to pozwolić, wśród naszych żołnierzy bardzo popularne były tak zwane operacje karne. Jeśli ktoś odważył się podnieść rękę na niewinną, często słabiej przygotowaną do konfrontacji osobę, my pojawialiśmy się jako jej mściciele. Wielu bandytów czuło wtedy gniew Powinności na swoich plecach.</text>
+	</string>
+	<string id="st_bar_dolg_leader_life_5">
+		<text>Słyszysz to nigdy niekończące się ujadanie i wycie na zewnątrz? To psy. Ślepe, wygłodniałe, wściekłe. Co jakiś czas przeprowadzamy ich eksterminację, a one i tak kiedyś wracają. Ta fala nie ma końca.\n \nJeszcze gorsze mutanty czają się w mroku, z dala od naszych siedzib. Pijawki, kontrolery, chimery... Ich też ostatnio tylko przybywa. Obowiązkiem Powinności jest przeciwstawić się tym okropnościom, dopóki ludzkość istnieje. Pamiętaj, że te paskudy nigdy nie zaatakują niewinnych podczas, gdy my pełnimy wartę.</text>
+	</string>
+	<string id="st_bar_dolg_leader_life_6">
+		<text>Jedna z najbardziej udanych operacji Powinności polegała na zinfiltrowaniu Magazynów Wojskowych i kradzieży zestawu granatników wprost spod nosa Wolności, bez żadnej ofiary po obu stronach. Zaangażowani żołnierze zostali nagrodzeni Srebrną Tarczą - najwyższym odznaczeniem, jakie mogę przyznać.</text>
+	</string>
+	<string id="st_bar_dolg_leader_life_7">
+		<text>Jesteśmy jedną z największych frakcji w Zonie, ale nie jesteśmy tacy, jak inne ugrupowania. Widzisz, w przeciwieństwie do nich, my mamy misję. Nie szukamy osobistych korzyści, ani nie dajemy się omamić tutejszym dziwactwom.\n \nPowinność chroni niewinnych ludzi i dzielnie odpiera zagrożenia ze strony mutantów. Tylko my stoimy na drodze nieustannego rozrostu Zony, który może pochłonąć całą planetę. Tylko my staramy się trwale usunąć to wielkie niebezpieczeństwo. W międzyczasie aktywnie przeciwstawiamy się wszystkim próbującym zyskać coś na krzywdzie innych - bandytom, okradającym niewinnych ludzi z dobytku i Wolności, głupcom uważającym Zonę za niezwykły dar.</text>
+	</string>
+	<string id="st_bar_dolg_leader_life_end">
+		<text>W tej chwili nic nie przychodzi mi do głowy.</text>
+	</string>
+
+	
+<!-- Mangun (Duty Mechanic) -->
+	<string id="story_dolg_m_0">
+		<text>Opowiedz mi o sobie.</text>
+	</string>
+	<string id="story_dolg_m_1">
+		<text>Zanim dostałem awans, stacjonowałem w Instytucie Badawczym Agroprom. A w ogóle, to przed powstaniem Zony byłem mechanikiem samochodowym. Powinności trochę zajęło dostrzeżenie moich umiejętności. Musiałem się tu chwilę pokręcić, ale w końcu ktoś mnie zauważył, ktoś inny szepnął słówko, komu trzeba i przyjęli mnie do frakcji jako technika.\n \nOsobiście najbardziej lubię cekaemy i broń szturmową. Nienawidzę grzebać się w snajperkach, zwłaszcza tych zabawkach NATO.</text>
+	</string>
+	<string id="story_dolg_m_2">
+		<text>Co to za zapach? Wydawało mi się, że Powinność nie pozwala pić na służbie?</text>
+	</string>
+	<string id="story_dolg_m_3">
+		<text>No, słuchaj... trudno tu wyżyć na trzeźwo, dobrze o tym wiesz. Żałuję, że nie było mnie w Janowie, kiedy nasi potrzebowali pomocy z Monolitem. Chociaż... z drugiej strony... ech, pewnie byłbym już trupem, gdybym dostał tam przydział. Tylu dobrych ludzi zginęło w obronie tej stacji... Taka strata... Ech...\n \nEkhm, chyba trochę odeszliśmy od tematu. Nieważne, sam pewnie wiesz, jak jest. No, już, nie wstydź się - pokaż, co się popsuło. Spróbujemy coś zaradzić, jeśli potrzebujesz coś naprawić.</text>
+	</string>
+	<string id="story_dolg_m_4">
+		<text>Zobaczę, czy coś mam.</text>
+	</string>
+
+	
+<!-- Snitch (Informer) at the Bar -->
+	<string id="talk_to_inf_trader_0">
+		<text>Coś ty za jeden?</text>
+	</string>
+	<string id="talk_to_inf_trader_1">
+		<text>A ty co, książkę piszesz? Stoję sobie tu, chyba mi wolno? Stoję, obserwuję, słucham. Czasem ktoś coś szczeknie, czasem ktoś spróbuje coś puścić pod stołem... a ja wszyściutko widzę i zapamiętuję.\n \nWiem na ten przykład, kto z kim, kogo i gdzie. Orientuję się, kto, gdzie i co. Znam przejścia, o których większość może tylko pomarzyć. Źródła mam pewne, ale tobie, chłopaczku, nic do tego, czego i skąd się dowiaduję. I lepiej, żebyś nie węszył za mocno, bo ktoś poczuje, że niuchasz i upierdoli ci nochal, kapujesz? A jak się dowiem, że prujesz się z mojej wiedzy, osobiście nasram ci ołowiem do płuc.\n \nGadaj, co ci nawinąć, a ja ci powiem, za ile mi się przypomni.</text>
+	</string>
+	
+	<string id="talk_to_maps_0">
+		<text>Możesz powiedzieć mi coś o tym miejscu? Coś w stylu pierwsza porada gratis?</text>
+	</string>
+	<string id="talk_to_maps_1">
+		<text>A co to, kurwa, jest, supermarket? Chłopie, ja z informacji żyję, a ty mnie pytasz o gratisy? W sumie, zabawny jesteś gość, a tu i tak chuja się ostatnio dzieje. Niech ci będzie.</text>
+	</string>
+	<string id="talk_to_maps_2">
+		<text>Zamieniam się w słuch.</text>
+	</string>
+	<string id="talk_to_maps_3">
+		<text>Pewnie leziesz, jak każdy świeżak, gdzieś z południa, więc tamte okolice już jarzysz. Ta miejscówka, w której teraz jesteś to Rostok. Cisza, spokój, łodzie podwodne... Żart. Nikt cię tu nie zaczepi, o ile nie masz spiny z Powinnością. Chyba raczej nie masz, skoro ze mną gadasz i nikt cię do tej pory nie odstrzelił.\n \nNa wschód stąd masz Cmentarzysko Pojazdów - takie Wysypisko, tylko bardziej dojebane, bardziej świecące i bardziej zabójcze. Ale za to jaki klimacik... Na zachód, za rozprutą bramą zaczyna się Dzicz - niby jeszcze Rostok, ale nikt normalny się tam za bardzo nie zapuszcza. Domyśl się, czemu. W zasadzie idziesz tam tylko, jeśli potrzebujesz coś od jajogłowych z Jantaru, albo żeby się odjebać z dala od cywilizacji.\n \nJak pójdziesz stąd na północ, trafisz na Magazyny Wojskowe - tam chłopaków z Powinności też za bardzo nie spotkasz, bo to już tereny Wolności. Wszystko, co jest dalej, powiedzmy, że dla ciebie jest nieosiągalne, rządzą tam te świry z Monolitu i roi się tam od anomalii żywcem przerabiających mózg na papę.</text>
+	</string>
+	<string id="talk_to_maps_4">
+		<text>Co możesz mi powiedzieć o Monolicie?</text>
+	</string>
+	<string id="talk_to_maps_5">
+		<text>Ziomek, nie przeginasz? Różne pierdoły ludzie gadają. Ponoć to jacyś fiu-bździu strażnicy starożytnego, kosmicznego kryształu znanego jako "Spełniacz Życzeń". Wiesz, co ci powiem? Kosmicznego kryształu to się nawciągał ten, co wymyślił takie pierdoły i potem na siłę wcisnął to innym.\n \nW każdym razie, świry wierzą, że ten kryształ stworzył Zonę i spełnia życzenia tych, których uzna za godnych. Dobre bajeczki, nie? No i tak bronią do niego dostępu, naród wybrany, jego mać. Tak bronią, że non stop napierdalają się z Wolnością na Barierze. Jak się tu trochę zakręcisz, na pewno ktoś ci nawinie gadkę o gościach, co to ponoć dotarli do superkamyka i wypowiedzieli życzenia, ale to wszystko puste pierdololo.\n \nPowiem ci tak - są łatwiejsze sposoby na zarobienie buły. I czemu, skoro komuś udało się tam niby dotrzeć, nie pomyślał jebaniec o tym, żeby... nie wiem, zdechły wszystkie mutanty, albo żeby promieniowanie zniknęło, ha?\n \nCiach bajera. Koniec porad gratis.</text>
+	</string>
+	<string id="talk_to_maps_6">
+		<text>Dzięki za informacje.</text>
+	</string>
+
+	<string id="buy_information_from_trader_0">
+		<text>Masz jakieś nowe informacje?</text>
+	</string>
+	<string id="buy_information_from_trader_1">
+		<text>Wpadło mi to i owo na temat Bagiennego Doktorka. Wiesz, tego szurniętego dziadzia, co to niby ma moc uzdrawiania. Tak gadają. Chcesz wiedzieć coś więcej? Siedem koła i pamięć mi się rozjaśni.</text>
+	</string>
+		<string id="buy_information_from_trader_6">
+			<text>Słucham.</text>
+		</string>
+		<string id="buy_information_from_trader_11">
+			<text>Dziadzia mieszka na Bagnach, nietrudno się tego domyślić. A wiesz, czemu akurat tam? Czeka na swojego ziomeczka, Striełoka.\n \nJak poszły plotki, że gość wrócił do Zony, nagle wszystkim zamarzyło się odwiedzić Doktorka, ale chuja, bo nikt nie mógł do niego trafić. A to wcale nie jest taka trudna sprawa.\n \nIdziesz na Bagna i ciśniesz wzdłuż płotu przy nasypie kolejowym na północnym zachodzie. W jednym miejscu jest dziura. Przechodzisz na drugą stronę i walisz pod zawalony most. Gdzieś tam dziadek ma swoją norę. Tylko patrz, gdzie leziesz, bo woda stoi tam od osiemdziesiątego szóstego.</text>
+		</string>
+		<string id="buy_information_from_trader_2">
+			<text>Dostałem cynę o gościu, który dobił do samej Elektrowni. Dziesięć koła. Zainteresowany?</text>
+		</string>
+		<string id="buy_information_from_trader_7">
+			<text>Zamieniam się w słuch.</text>
+		</string>
+		<string id="buy_information_from_trader_12">
+			<text>Ponoć jakiś czas przed odrodzeniem popaprańców z Monolitu jeden gość wbił do Sarkofagu w poszukiwaniu szczęścia i, wyobraź sobie, znalazł jakiś dojebany artefakt. Według tego, co gadają, to kawałek samego Spełniacza. Pamiętasz, co ci o nim mówiłem? Patrząc na to, jak resztce Monolców wtedy odjebało, chyba zmieniam zdanie co do tego superkamyka. Koniec końców typ rzucił go w pizdu i dopiero wtedy tamci go zostawili.</text>
+		</string>
+		<string id="buy_information_from_trader_3">
+			<text>Dwa słowa: grupa Striełoka. Piętnaście ka.</text>
+		</string>
+		<string id="buy_information_from_trader_8">
+			<text>Dawaj.</text>
+		</string>
+		<string id="buy_information_from_trader_13">
+			<text>Wszyscy wiedzą, że Striełok znalazł sobie nowych przydupasów, ale nikt nie wie, co to za jedni. A ja akurat mam swoje dojścia, no i tego i owego się dowiedziałem. Nazywają się tak: Igła, Pionier, Łotrzyk i Luneta i powiem ci, że to naprawdę wysoka liga. Zawodowy medyk, przewodnik, dezerter - podobno zerwał się z jakichś specjalsów i snajper z doświadczeniem. Tego, po co im taka wesoła gromadka i gdzie teraz melinują jeszcze nie ustaliłem.</text>
+		</string>
+		<string id="buy_information_from_trader_4">
+			<text>Mam prawdziwą bombę. To i tamto o gościu, który był na Generatorach. Dwadzieścia cztery klocki i info jest twoje.</text>
+		</string>
+		<string id="buy_information_from_trader_9">
+			<text>Dajesz.</text>
+		</string>
+		<string id="buy_information_from_trader_14">
+			<text>Słyszałeś w ogóle o Generatorach? Jeszcze niedawno wszyscy myśleli, że to opowieść z kategorii bajeczek dla niegrzecznych dzieci, ale odkąd Striełokowi drugi raz udało się dociągnąć do centrum Zony nie ma wątpliwości, że istnieją.\n \nLudzie zaczęli kminić, co to w ogóle jest - na starych fotach z satelity ewidentnie coś tam stoi, ale co i po co, tego nie wie nikt. Według moich dojść właśnie stamtąd Monoliciarze dostają rozkazy i właśnie tam zaczyna się wszystko, co dzieje się w Zonie.\n \nTeraz wszyscy się obsrali, bo skoro ktoś tam był i o ile gadał serio - a ja wiem, że on tam był i że gadał serio - to Zona pewnie zaraz się wkurwi i zacznie rzygać jadem na wszystkie strony. Przywódcy frakcji już kminią, którędy w razie W spierdalać za Kordon.</text>
+		</string>
+	<string id="buy_information_from_trader_5">
+		<text>Chuja się ostatnio działo, tyle ci powiem.</text>
+	</string>
+	<string id="buy_information_from_trader_10">
+		<text>Nie jestem zainteresowany.</text>
+	</string>
+
+	<string id="st_top_10_task_about_dialog_0">
+		<text>Co tu robicie, żeby się trochę rozerwać?</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_1">
+		<text>Rozerwać? To miejsce jest nudne i smutne, jak pizda. Mało kto szuka tu czegoś bardziej interesującego. Tylko świeżaki i świeżaki, dziesiątki kocurów zaglądających tu w poszukiwaniu artefaktów.</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_2">
+		<text>Takie czasy, co?</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_3">
+		<text>Ta, ale czy żaden z nich nigdy nie kminił, żeby odjebać coś epickiego, żeby stać się legendą? Na przykład ty - wydajesz się doświadczony. Nie chcesz w życiu osiągnąć czegoś, czego ludzie nigdy nie zapomną?</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_4">
+		<text>Mów dalej...</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_5">
+		<text>Mam bardzo szczególnego klienta, który oferuje sztos nagrodę za wyeliminowanie dziesięciu stalkerów. Pięćdziesiąt kawałków plus jakiś bonusik. Brzmi jak świetny hajs za prostą listę poszukiwanych, prawda?\n \nTo słuchaj teraz: twoje cele to dziesięciu najlepszych stalkerów w całej Zonie. Oznacza to, że możesz polować na zwykłych samotników, powinnościowców, najemników, a nawet na pieprzony Monolit! Możesz zobaczyć listę na swoim PDA, jeśli chcesz. Klientowi zależy po prostu na tym, żeby tamci gryźli glebę. Nie interesuje go kompletnie, jak zginą.</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_61">
+		<text>Co?! Czy wy jesteście pojebani? Dlaczego ktoś miałby chcieć się tego podjąć?</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_62">
+		<text>Biorę tą robotę.</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_63">
+		<text>Nie, dzięki, nie skorzystam.</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_7">
+		<text>Uwierz mi, że zapytałem klienta o coś podobnego. Zasadniczo ma już dość wpadania na ludzi-czołgi, którzy dorabiają się towaru za pomocą armat i wszystkoodpornych pancerzy. Chce, by zwykły człowiek miał w Zonie większą szansę na dorobienie się czegokolwiek. W każdym razie płaci niewiarygodnie ogromny hajs, więc kto by się martwił jakimiś wysranymi ideałami i moralnością?</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_8">
+		<text>No i to rozumiem! Wrzucę ci na PDA lokalizację pierwszego celu. Po wyeliminowaniu aktualnego celu, lokalizacja kolejnego zaktualizuje się automatycznie. Miłego.</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_9">
+		<text>Dostosuję się. Oferta ciągle jest aktualna, jeśli zmienisz kiedyś zdanie.</text>
+	</string>
+	
+	<string id="st_top_10_task_finish_dialog_0">
+		<text>Dobra, Szpicel. Robota skończona. Ja - dziesięć, tamci - zero.</text>
+	</string>
+	<string id="st_top_10_task_finish_dialog_1">
+		<text>No i elegancja. Nasz klient jest bardzo zadowolony. Zgodnie z umową, oto twoja nagroda. Teraz każdy będzie nawijał o stalkerze-legendzie, który osobiście odjebał dziesięciu najlepszych. Zabójca legend, to dopiero wyróżnienie!</text>
+	</string>
+	
+<!-- modified by Tronex -->
+	<string id="inf_trader_buy_transitions_0">
+		<text>Chciałbym kupić informację na temat przejść między lokacjami.</text>
+	</string>
+	<string id="inf_trader_buy_transitions_1">
+		<text>Jasne. Oto, co mogę ci zaoferować.</text>
+	</string>
+	<string id="inf_trader_buy_transitions_2">
+		<text>Z Magazynów Wojskowych na Radar. %c[d_orange][7.000 RU]</text>
+	</string>
+		<string id="inf_trader_buy_transitions_9">
+			<text>A masz w ogóle na to pieniądze?</text>
+		</string>
+		<string id="inf_trader_buy_transitions_11">
+			<text>Tak, trzymaj.</text>
+		</string>
+	<string id="inf_trader_buy_transitions_3">
+		<text>Z Radaru do podziemnego bunkra. %c[d_orange][11.000 RU]</text>
+	</string>
+		<string id="inf_trader_buy_transitions_12">
+			<text>Masz hajs?</text>
+		</string>
+		<string id="inf_trader_buy_transitions_13">
+			<text>Oczywiście. Trzymaj.</text>
+		</string>
+	<string id="inf_trader_buy_transitions_4">
+		<text>Z Radaru do Prypeci. %c[d_orange][9.000 RU]</text>
+	</string>
+		<string id="inf_trader_buy_transitions_14">
+			<text>Masz kasę?</text>
+		</string>
+		<string id="inf_trader_buy_transitions_15">
+			<text>Oto ona.</text>
+		</string>
+	<string id="inf_trader_buy_transitions_5">
+		<text>Z Prypeci na Przedmieścia. %c[d_orange][9.000 RU]</text>
+	</string>
+		<string id="inf_trader_buy_transitions_16">
+			<text>Najpierw kasa, kolego.</text>
+		</string>
+		<string id="inf_trader_buy_transitions_17">
+			<text>Taa, oto gotówka.</text>
+		</string>
+	<string id="inf_trader_buy_transitions_6">
+		<text>Z Prypeci do Elektrowni. %c[d_orange][30.000 RU]</text>
+	</string>
+		<string id="inf_trader_buy_transitions_18">
+			<text>Masz przy sobie gotówkę?</text>
+		</string>
+		<string id="inf_trader_buy_transitions_19">
+			<text>Tak, trzymaj.</text>
+		</string>
+	<string id="inf_trader_buy_transitions_7">
+		<text>Z południowej do północnej części Elektrowni. %c[d_orange][35.000 RU]</text>
+	</string>
+		<string id="inf_trader_buy_transitions_20">
+			<text>Najpierw pieniądze.</text>
+		</string>
+		<string id="inf_trader_buy_transitions_21">
+			<text>Proszę.</text>
+		</string>
+	<string id="inf_trader_buy_transitions_10">
+		<text>Nie mam tyle pieniędzy.</text>
+	</string>
+	<string id="inf_trader_buy_transitions_8">
+		<text>Zmieniłem zdanie.</text>
+	</string>
+
+
+<!-- Guide -->
+	<string id="meet_guid_bar_0">
+		<text>To ty jesteś przewodnikiem?</text>
+	</string>
+	<string id="meet_guid_bar_1">
+		<text>Ta, mówią na mnie Nawigator. Mogę zabrać cię do kilku miejsc za niewielką opłatą. Przez większość czasu pomagam nowicjuszom przemierzać bezpiecznie Zonę, ale mogę też poprowadzić doświadczonego stalkera - dla mnie to nie wstyd, że pomagam nowym.\n \nSprawa wygląda następująco: płacisz, zabieram cię gdziekolwiek chcesz i wracam tutaj. Mogę zaprowadzić cię na Jantar, na Bagna, na Magazyny Wojskowe, na Wysypisko, na Kordon i do Jupitera.</text>
+	</string>
+
+	<string id="meet_guid_bar_list_0">
+		<text>Wybacz, zapomniałem. Dokąd możesz mnie zaprowadzić?</text>
+	</string>
+	<string id="meet_guid_bar_list_1">
+		<text>Na Wysypisko za siedemset rubli, na Magazyny Wojskowe za tysiąc, do Wioski Nowicjuszy w Kordonie za trzy tysiące, na Jantar za trzy tysiące pięćset, na stację Janów w Jupiterze za sześć tysięcy i na Bagna, również za sześć tysięcy.</text>
+	</string>
+
+	<string id="travel_guid_bar_0">
+		<text>Muszę się dostać w pewne miejsce.</text>
+	</string>
+	<string id="travel_guid_bar_1">
+		<text>Tak, gdzie?</text>
+	</string>
+	<string id="travel_guid_bar_2">
+		<text>Na Kordon. %c[d_orange][3.000 RU]</text>
+	</string>
+	<string id="travel_guid_bar_3">
+		<text>Na Wysypisko. %c[d_orange][700 RU]</text>
+	</string>
+	<string id="travel_guid_bar_4">
+		<text>Na Magazyny Wojskowe. %c[d_orange][1.000 RU]</text>
+	</string>
+	<string id="travel_guid_bar_5">
+		<text>Na Jantar. %c[d_orange][3.500 RU]</text>
+	</string>
+	<string id="travel_guid_bar_6">
+		<text>Do Jupitera. %c[d_orange][6.000 RU]</text>
+	</string>
+	<string id="travel_guid_bar_7">
+		<text>Na Bagna. %c[d_orange][6.000 RU]</text>
+	</string>
+	<string id="travel_guid_bar_8">
+		<text>Zmieniłem zdanie.</text>
+	</string>
+
+<!-- Medic -->
+	<string id="bar_dolg_medic_talking_0">
+		<text>Kim jesteś?</text>
+	</string>
+	<string id="bar_dolg_medic_talking_1">
+		<text>Jestem ratownikiem medycznym. Cóż, kiedyś nim byłem. Mówią na mnie Apap. Tak, serio. Tak się przyjęło i już.\n \nMogę połatać wszelkie drobne rany jakich się dorobisz, ale jeśli chodzi o poważne obrażenia i urazy, zostaje śmigło do kliniki, albo sama Zona będzie musiała cię uratować. Ze swojej strony powiem, że lotnicze pogotowie ratunkowe raczej tu nie lata.</text>
+	</string>
+	<string id="bar_dolg_medic_talking_2">
+		<text>Sprzedajesz, no wiesz... "leki"?</text>
+	</string>
+	<string id="bar_dolg_medic_talking_3">
+		<text>Hej! Ciszej! Gdzieś pod nami mieści się sztab. Tak, mamy ludzi, którzy sprzedają takie rzeczy, ale ja nie jestem jednym z nich. Składam ludzi do kupy w pełni legalnie i przy wykorzystaniu legalnych medykamentów.</text>
+	</string>
+	<string id="bar_dolg_medic_talking_4">
+		<text>Dzięki.</text>
+	</string>
+	
+<!-- ARENA -->
+	<string id="bar_arena_man_job_0">
+		<text>Z kim mam teraz walczyć?</text>
+	</string>
+	<string id="bar_arena_man_job_11">
+		<text>Więc to twoja pierwsza walka, tak? Twój przeciwnik to ochłap, dokładnie taki, jak ty. Jest tutaj z powodu swoich długów i ma w sumie tylko dwie opcje: wyjść i walczyć lub nie wyjść i wylądować w najbliższej anomalii. Będzie walczył jak osaczone zwierzę.\n \nSprzęt na dziś... Pomyślmy... Co wy na podstawowe pistolety plus dwie paczki z amunicją dla każdego - powinno wystarczyć. Albo skopiesz mu tyłek, albo nakarmimy tobą psy - nie masz wielkiego wyboru. Ruszaj.</text>
+	</string>
+	<string id="bar_arena_man_job_111">
+		<text>Jestem gotowy.</text>
+	</string>
+	<string id="bar_arena_man_job_112">
+		<text>Nie jestem gotowy.</text>
+	</string>
+	<string id="bar_arena_man_job_12">
+		<text>Twoja ostatnia walka gówno znaczyła, wciąż jesteś tym samym ochłapem, którym byłeś wcześniej i żadna szanująca się persona nie postawiłaby na ciebie ani jednego magazynka. Jeśli chcesz zarobić bardziej przyzwoite pieniądze, będziesz musiał pojawić się na naszej arenie jeszcze kilka razy.\n \nTwój następny przeciwnik również przeszedł przez pierwszą rundę, ale jego walka była o wiele trudniejsza. Szczerze mówiąc, nie lubię go - zabija ludzi zbyt szybko, widownia za tym nie przepada. Idź i pokaż, na co cię stać! Po tej walce stawki wzrosną - wszystko, co musisz zrobić, to przeżyć. Ruchy!</text>
+	</string>
+	<string id="bar_arena_man_job_121">
+		<text>Jestem gotowy.</text>
+	</string>
+	<string id="bar_arena_man_job_122">
+		<text>Nie jestem gotowy.</text>
+	</string>
+	<string id="bar_arena_man_job_13">
+		<text>No, no... Jednak nie jesteś taką miękką rurą, na jaką wyglądałeś. Czas przetestować cię w prawdziwej walce. Tym razem masz przeciwko sobie dwóch kolesi. Pierwszy nazywa się Szwed, a drugi... nie pamiętam. Zresztą, czy to ważne?\n \nDobraliśmy ich w parę celowo, bo gnojki nienawidzą się nawzajem, więc nie przejmuj się, nie będą współpracować, hahaha! Raczej strzelą sobie nawzajem w łby i będzie po zawodach.\n \nBędziecie mieli strzelby, więc nie pozwól im podejść zbyt blisko, bo będzie trzeba cię zbierać z gleby przez parę dni. Szanse wynoszą dziesięć do jednego, więc jeśli wygrasz, zarobisz sporo kasy. Do dzieła!</text>
+	</string>
+	<string id="bar_arena_man_job_131">
+		<text>Jestem gotowy.</text>
+	</string>
+	<string id="bar_arena_man_job_132">
+		<text>Nie jestem gotowy.</text>
+	</string>
+	<string id="bar_arena_man_job_14">
+		<text>Cóż, teraz mogę spokojnie powiedzieć, że jesteś wojownikiem - prawdziwym wojownikiem. Nadszedł czas na walkę drużynową. Dostaniesz dwóch świeżaków - to bracia. Będą z tobą, ale nie walczyli jeszcze na arenie, więc nie liczyłbym na zbyt wiele z ich strony.\n \nPrzeciwko wam stanie doświadczona ekipa. Nie chcę nic mówić, ale jeśli fortuna nie będzie wam sprzyjać, tamci finał sezonu będą mieć w kieszeni. To cholernie niebezpieczne typy - mają swój sprzęt, w tym jedną strzelbę automatyczną. Na tego uważaj najbardziej. Powodzenia!</text>
+	</string>
+	<string id="bar_arena_man_job_141">
+		<text>Jestem gotowy.</text>
+	</string>
+	<string id="bar_arena_man_job_142">
+		<text>Nie jestem gotowy.</text>
+	</string>
+	<string id="bar_arena_man_job_15">
+		<text>Dziś czas na walkę specjalną. Nawet wojsko o tobie usłyszało! Nie rób takiej miny, oni też się tu piorą - czasem na widowisko przyjeżdża nawet jeden z ich generałów. Nieważne. Goście, których musisz sklepać są ze Specnazu, albo OMONu, nie pamiętam dokładnie.\n \nTo wyszkoleni, uzbrojeni, zabezpieczeni i cholernie niebezpieczni żołnierze. Nie bój żaby - żeby wyrównać szanse dostaniesz szpej Wolności. Jest lekki, więc nie ogranicza ruchów, ale przy tym nieziemsko wytrzymały. Dajesz, koleś. Pokaż im, co potrafi stalkerska brać! Powodzenia!</text>
+	</string>
+	<string id="bar_arena_man_job_151">
+		<text>Jestem gotowy.</text>
+	</string>
+	<string id="bar_arena_man_job_152">
+		<text>Nie jestem gotowy.</text>
+	</string>
+	<string id="bar_arena_man_job_16">
+		<text>Robi się coraz bardziej ostro. Ty sam, a ich sześciu. Brzmi poważnie, co? To zluzuj pory.\n \nPowinność złapała w nocy kilku szmaciarzy zaczepiających stalkerów gdzieś przy wylocie z Rostoku. Mieli ich dziś rozstrzelać, ale stwierdziłem, że lepiej dać im szansę na Arenie i wszyscy się ze mną zgodzili.\n \nUmowa jest taka - jeśli któryś z nich przeżyje, dostaje kwity, eskortę na Kordon pod sam posterunek kontyngentu, wyrok i celę na Dużej Ziemi. To wciąż lepsza perspektywa, niż kula w łeb na miejscu albo bliskie spotkanie z Trampoliną, musisz to przyznać.\n \nPamiętaj, że jeśli któryś z tych mętów trafi w ręce wojska, chłopaki z Powinności nie będą zachwyceni. Nie odbieraj im przyjemności oglądania show i poślij wszystkich skurwoli do piachu, tu i teraz!</text>
+	</string>
+	<string id="bar_arena_man_job_161">
+		<text>Jestem gotowy.</text>
+	</string>
+	<string id="bar_arena_man_job_162">
+		<text>Nie jestem gotowy.</text>
+	</string>
+	<string id="bar_arena_man_job_17">
+		<text>Prawie dotarłeś do finału, stary! Teraz będziesz walczył z prawdziwym weteranem. Obaj startujecie solo, ale tamten ma karabin szturmowy i nie w kij dmuchał wdzianko. Złapiesz jedną serię z jego kopyta i piździec, kaput, po tobie.\n \nSzykujemy dla was małą niespodziankę, ale co to będzie, dowiecie się w trakcie walki. Weź głęboki wdech i panuj nad emocjami. Nie będzie lekko. Zwycięzca przechodzi do finału. Walcz na śmierć, ruszaj!</text>
+	</string>
+	<string id="bar_arena_man_job_171">
+		<text>Jestem gotowy.</text>
+	</string>
+	<string id="bar_arena_man_job_172">
+		<text>Nie jestem gotowy.</text>
+	</string>
+	<string id="bar_arena_man_job_18">
+		<text>Gratuluję, dotarłeś do finału! To już ostatnia runda i w niej nie ma przebacz. Zwycięzca może być tylko jeden.\n \nNa Arenie będzie z tobą jeszcze czterech innych stalkerów. Wszyscy to profesjonaliści w egzoszkieletach, ale tym razem to uczciwa walka - jako nagrodę dostajesz dokładnie to, co mają przy sobie. Jedyny warunek jest taki, że nie używacie apteczek i bandaży, bo to walka na śmierć i życie. Gotowy? Idź udowodnić im wszystkim, że jesteś najlepszy! Ruszaj!</text>
+	</string>
+	<string id="bar_arena_man_job_181">
+		<text>Jestem gotowy.</text>
+	</string>
+	<string id="bar_arena_man_job_182">
+		<text>Nie jestem gotowy.</text>
+	</string>
+	<string id="bar_arena_man_start_111112">
+		<text>Ej! Zapłaciłeś mi za walkę i po prostu odszedłeś!</text>
+	</string>
+	<string id="bar_arena_man_start_11">
+		<text>Mam dla ciebie nowego przeciwnika.</text>
+	</string>
+	<string id="bar_arena_man_start_21">
+		<text>Idź, klapnij sobie w barze, czy coś. Arena jeszcze nie jest przygotowana.</text>
+	</string>
+	<string id="bar_arena_man_start_31">
+		<text>Już stałeś się profesjonalistą!</text>
+	</string>
+	<string id="bar_arena_man_start_41">
+		<text>Wygrałeś! Oto twoja nagroda.</text>
+	</string>
+	<string id="bar_arena_man_start_51">
+		<text>Sorki, nie masz dość doświadczenia, by wziąć udział w tej walce.</text>
+	</string>
+	<string id="bar_arena_manager_game_0">
+		<text>Jakie masz dla mnie wyzwania?</text>
+	</string>
+	<string id="bar_arena_manager_game_1">
+		<text>Teraz nie ma żadnych walk. Zajrzyj później, jak dostaniemy jakieś mutanty.</text>
+	</string>
+	<string id="bar_arena_manager_game_100">
+		<text>Za udział musisz uiścić małą opłatę. 1.000 RU.</text>
+	</string>
+	<string id="bar_arena_manager_game_101">
+		<text>Zgoda, oto gotówka.</text>
+	</string>
+	<string id="bar_arena_manager_game_105">
+		<text>Nie mam tyle pieniędzy.</text>
+	</string>
+	<string id="bar_arena_manager_game_1051">
+		<text>To już nie mój problem.</text>
+	</string>
+	<string id="bar_arena_manager_game_110">
+		<text>Wisisz mi 2.000 RU za udział.</text>
+	</string>
+	<string id="bar_arena_manager_game_111">
+		<text>Zgoda, trzymaj kasę.</text>
+	</string>
+	<string id="bar_arena_manager_game_11111112">
+		<text>Przecież już ci zapłaciłem!</text>
+	</string>
+	<string id="bar_arena_manager_game_115">
+		<text>Nie mam tyle pieniędzy.</text>
+	</string>
+	<string id="bar_arena_manager_game_1151">
+		<text>Więc przestań zadawać tyle pytań.</text>
+	</string>
+	<string id="bar_arena_manager_game_120">
+		<text>Rzucasz 3.000 RU za udział na stół i pijawka jest do twojej dyspozycji.</text>
+	</string>
+	<string id="bar_arena_manager_game_121">
+		<text>Zgoda. Bierz kasę.</text>
+	</string>
+	<string id="bar_arena_manager_game_125">
+		<text>Aktualnie nie mam takich pieniędzy przy sobie.</text>
+	</string>
+	<string id="bar_arena_manager_game_1251">
+		<text>To nie marnuj mojego czasu, stalker.</text>
+	</string>
+	<string id="bar_arena_manager_game_130">
+		<text>Nie tak szybko. Wkupne za udział wynosi 5.000 RU.</text>
+	</string>
+	<string id="bar_arena_manager_game_131">
+		<text>Dobra. Bierz kasę.</text>
+	</string>
+	<string id="bar_arena_manager_game_135">
+		<text>Nie mam takiej kasy.</text>
+	</string>
+	<string id="bar_arena_manager_game_1351">
+		<text>To nie rób mi tu z siebie żebraka.</text>
+	</string>
+	<string id="bar_arena_manager_game_140">
+		<text>Cena za udział w turnieju to 5.000 RU.</text>
+	</string>
+	<string id="bar_arena_manager_game_141">
+		<text>Okej. Oto pieniądze.</text>
+	</string>
+	<string id="bar_arena_manager_game_145">
+		<text>Nie mam przy sobie takiej gotówki.</text>
+	</string>
+	<string id="bar_arena_manager_game_1451">
+		<text>Niech zgadnę. Ktoś ukradł ci hajs, kiedy spałeś, tak?</text>
+	</string>
+	<string id="bar_arena_manager_game_2">
+		<text>Jest nibypies. Spora pokraka, ale trochę go poobijali. Z drugiej strony skubaniec wygląda na ostro wkurwionego... przypomina moją teściową.</text>
+	</string>
+	<string id="bar_arena_manager_game_200">
+		<text>Zgoda. Przed walką powinieneś postawić jakąś kwotę na czas potrzebny ci na zabicie mutanta. Jeśli uda ci się to zrobić przed czasem, dostaniesz bonus.</text>
+	</string>
+	<string id="bar_arena_manager_game_201">
+		<text>30 sekund, potrójna wygrana.</text>
+	</string>
+	<string id="bar_arena_manager_game_202">
+		<text>Półtorej minuty, podwójna wygrana.</text>
+	</string>
+	<string id="bar_arena_manager_game_203">
+		<text>Bez limitu czasowego. Wygrana wynosi pół stawki.</text>
+	</string>
+	<string id="bar_arena_manager_game_204">
+		<text>Zmieniłem zdanie.</text>
+	</string>
+	<string id="bar_arena_manager_game_2041">
+		<text>Wytrzymałe gówno, co? Już zapłaciłeś.</text>
+	</string>
+	<string id="bar_arena_manager_game_21">
+		<text>Mogę to zrobić. Powalczę z tym kundlem.</text>
+	</string>
+	<string id="bar_arena_manager_game_22">
+		<text>Serio? Oklepany sobaka? To wszystko co macie?</text>
+	</string>
+	<string id="bar_arena_manager_game_221">
+		<text>A co, strach cię obleciał? Już się tak nie denerwuj.</text>
+	</string>
+	<string id="bar_arena_manager_game_3">
+		<text>Mamy takiego świra w masce przeciwgazowej, mówi, że nazywa się snork. Trochę chudy i taki... no dziwny jest, ale zwinny jak pieprzony Spider-Man.</text>
+	</string>
+	<string id="bar_arena_manager_game_300">
+		<text>Świetnie, wszystko przygotujemy. Wejdź na Arenę.</text>
+	</string>
+	<string id="bar_arena_manager_game_31">
+		<text>Dawaj go. Powalczę z tym waszym Snorkiem.</text>
+	</string>
+	<string id="bar_arena_manager_game_32">
+		<text>Ni chuja, przez nie dostaje skrętu kiszek. W dupie mam taki interes.</text>
+	</string>
+	<string id="bar_arena_manager_game_321">
+		<text>Co, cykora masz, że ci nachucha w paszczę?</text>
+	</string>
+	<string id="bar_arena_manager_game_4">
+		<text>Tym razem naprawdę masz szczęście. Złapaliśmy młodą pjawkę. Durna jak but, ale siły odmówić jej nie można.</text>
+	</string>
+	<string id="bar_arena_manager_game_41">
+		<text>Dawaj, przygotujcie tą pijawkę.</text>
+	</string>
+	<string id="bar_arena_manager_game_42">
+		<text>Pijawkę? Jebać to!</text>
+	</string>
+	<string id="bar_arena_manager_game_421">
+		<text>Co? Od kiedy stałeś się obrońcą praw pijawek? Dołączyłeś do Wolności, czy co?</text>
+	</string>
+	<string id="bar_arena_manager_game_5">
+		<text>Tym razem mamy małego, grubego kurdupla w czarnym płaszczu - burera.</text>
+	</string>
+	<string id="bar_arena_manager_game_51">
+		<text>Gruby i kurdupel? Prościzna. Zrobię to.</text>
+	</string>
+	<string id="bar_arena_manager_game_52">
+		<text>Słyszałem o tych kreaturach. Spasuję.</text>
+	</string>
+	<string id="bar_arena_manager_game_521">
+		<text>On ledwo sięga ci do pasa, stary! A ty się go boisz?</text>
+	</string>
+	<string id="bar_arena_manager_game_6">
+		<text>Dzisiaj mamy specjalną dostawę. Nie wiem gdzie znaleźli... Go... Ale to prawdziwa bestia.</text>
+	</string>
+	<string id="bar_arena_manager_game_61">
+		<text>Zgoda. Zakończę jego cierpienie.</text>
+	</string>
+	<string id="bar_arena_manager_game_62">
+		<text>Wolałbym jeszcze trochę pożyć, znajdź sobie kogoś innego.</text>
+	</string>
+	<string id="bar_arena_manager_game_621">
+		<text>No cóż, szczerze mówiąc to nawet mnie przeraża ta bestia. Ale to nie ja walczę na Arenie, więc czym ja się w ogóle przejmuję?</text>
+	</string>
+	<string id="bar_arena_manager_info_0">
+		<text>Mam kilka pytań.</text>
+	</string>
+	<string id="bar_arena_manager_info_1">
+		<text>Wal.</text>
+	</string>
+	<string id="bar_arena_manager_info_10">
+		<text>Nie ważne.</text>
+	</string>
+	<string id="bar_arena_manager_info_11">
+		<text>Co to za miejscówka?</text>
+	</string>
+	<string id="bar_arena_manager_info_111">
+		<text>To jest Arena, taki mój mały sposób na biznes w Zonie. Miejsce, w którym stalkerzy mogą sprawdzić swoją odwagę i zdobyć sławę oraz szacunek innych, walcząc na arenie z okropnościami Zony.</text>
+	</string>
+	<string id="bar_arena_manager_info_12">
+		<text>Skąd bierzesz mutanty do walk?</text>
+	</string>
+	<string id="bar_arena_manager_info_121">
+		<text>Mam dogadany interes z Powinnością. Zamiast je zabijać, chłopaki przynoszą mi słabsze okazy w zamian za hajs. Powinność dostaje kasę, mutanty tak czy siak zdychają na Arenie, a na końcu ja dostaję swoją dolę - klasyczne win-win, każdy jest zadowolony. No, może oprócz mutantów.</text>
+	</string>
+	<string id="bar_arena_manager_info_13">
+		<text>Skąd pochodzisz?</text>
+	</string>
+	<string id="bar_arena_manager_info_131">
+		<text>Z wielu miejsc. A kiedy usłyszałem o tym małym ścieku zwanym Zoną to zrozumiałem, że mogę tutaj zarobić dobrą kasę. No i jestem.</text>
+	</string>
+	<string id="bar_arena_manager_rules_0">
+		<text>Jakie są zasady walk?</text>
+	</string>
+	<string id="bar_arena_manager_rules_1">
+		<text>Och, zasady są całkiem proste. Sam je wymyśliłem. W przypadku wyzwań walczysz w klatce, do której wpuszczamy mutanta. Mówisz, w jakim czasie i jaką paskudę ubijesz i rzucasz forsę na stół. Jeśli to zrobisz - wygrywasz, jeśli nie - ja wygrywam. To jednak tylko przystawka, coś na rozgrzewkę.\n \nPrawdziwe danie dnia Areny to bandyci i inni degeneraci Zony schwytani przez Powinność za to, że odstawili jakąś manianę. Ci naprawdę walczą u mnie o życie. Dosłownie. Czasem oprócz zwyroli i złodupców pojawiają się i zwykli stalkerzy, którym powinie się noga, ale tylko ten, który opuści arenę w jednym kawałku, otrzymuje nagrodę.\n \nIm więcej walk wygrasz, tym głośniej będą o tobie gadać i tym chętniej będą przychodzić na kolejne walki. Ergo - im większy sukces, tym większa nagroda. Proste, co?</text>
+	</string>
+	<string id="bar_arena_manager_start_11">
+		<text>Dobrze cię widzieć stalkerze, witaj na Arenie.</text>
+	</string>
+	<string id="bar_arena_manager_start_21">
+		<text>A więc, na co czekasz? Właź do klatki.</text>
+	</string>
+	<string id="bar_arena_manager_start_31">
+		<text>Wybacz, na razie nie mamy mutantów do walk. Poczekaj dzień lub dwa, aż złapiemy nowe bestyjki.</text>
+	</string>
+	<string id="bar_arena_manager_start_41">
+		<text>Tutaj jesteś! Dobra robota! Oto twoja wygrana. Jeśli chcesz kolejnej walki za kasę, po prostu wpadnij, kiedy najdzie cię ochota.</text>
+	</string>
+	<string id="bar_arena_manager_start_51">
+		<text>Wybacz, brachu, ale przegrałeś. Przyjdź spróbować kiedy indziej, jeśli chcesz.</text>
+	</string>
+
+	<!-- bar_visitors_stalker_mechanic -->
+	<string id="bar_visitors_stalker_mechanic_start_dialog_1">
+		<text>Hej, jak leci w Zonie? Mam nadzieję, że masz ze sobą coś, co wymaga naprawy... Ech, mogłoby skądś wpaść trochę grosza...</text>
+	</string>
+</string_table>

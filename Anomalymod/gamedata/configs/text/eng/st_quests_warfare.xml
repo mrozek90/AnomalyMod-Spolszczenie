@@ -1,0 +1,1475 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS FOR WARFARE TASKS
+<	CoC 1.4.22
+<
+<
+<===========================================================-->
+
+<string_table>
+
+	<!--/////////////////////////////////// ARMY WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+
+	<!-- ASSAULT AREA FOR MILITARY TASK -->
+	<string id="sim_default_army_trader_task_1_name">
+		<text>Zaatakuj stalkerów dla Wojska</text>
+	</string>
+	<string id="sim_default_army_trader_task_1_text">
+		<text>%s z lokacji %s wydał ci rozkaz oczyszczenia terenu z nielegalnych mieszkańców.</text>
+	</string>
+	<string id="sim_default_army_trader_task_1_about">
+		<text>Dowódcę martwi zwiększająca się liczba wtargnięć do Zony. Chce, żebyście udali się w teren i oczyścili go z przebywających tam nielegalnie ludzi. Zwracajcie uwagę na sojuszników. Do całej reszty macie strzelać bez ostrzeżenia.</text>
+	</string>
+	<string id="sim_default_army_trader_task_1_finish">
+		<text>Dobra robota. Oby tak dalej, żołnierzu. Przedstawię wasze zasługi w raporcie.</text>
+	</string>
+
+
+	<!-- CAPTURE TERRITORY FOR MILITARY TASK -->
+	<string id="sim_default_army_trader_task_2_name">
+		<text>Przejmij terytorium dla Wojska</text>
+	</string>
+	<string id="sim_default_army_trader_task_2_text">
+		<text>%s z lokacji %s wydał ci rozkaz przejęcia kontroli nad terytorium.</text>
+	</string>
+	<string id="sim_default_army_trader_task_2_about">
+		<text>Nasza jednostka dostała rozkaz przejęcia kontroli nad Zoną. Dowódca szuka ochotników, którzy zajmą kolejne terytoria. Mogę poinformować go o waszym zgłoszeniu?</text>
+	</string>
+	<string id="sim_default_army_trader_task_2_finish">
+		<text>Zadanie wykonane? Dobra robota. Poinformuję dowódcę o twoim sukcesie.</text>
+	</string>
+
+
+	<!-- ASSASSINATION FOR MILITARY TASK -->
+	<string id="sim_default_army_trader_task_3_name">
+		<text>Wyeliminuj cel dla Wojska</text>
+	</string>
+	<string id="sim_default_army_trader_task_3_text">
+		<text>%s z lokacji %s wydał ci rozkaz pojmania lub zabicia wroga.</text>
+	</string>
+	<string id="sim_default_army_trader_task_3_about">
+		<text>Sztab posiada listę najbardziej poszukiwanych osobników przebywających w Zonie. Jeśli uda wam się dopaść któregoś z nich, przy następnym żołdzie otrzymacie pokaźną premię. Przyjmujecie zlecenie, żołnierzu?</text>
+	</string>
+	<string id="sim_default_army_trader_task_3_finish">
+		<text>Doskonała robota! Sztab będzie zadowolony z waszych działań.</text>
+	</string>
+	
+	<!-- FIND LEVEL 1 TOOLKIT FOR MILITARY MECHANICS TASK -->
+	<string id="sim_default_army_mechanic_task_1_name">
+		<text>Znajdź %s dla wojskowego technika</text>
+	</string>
+	<string id="sim_default_army_mechanic_task_1_text">
+		<text>%s potrzebne są technikowi, by mógł zastąpić nimi stare i zniszczone. Przynieś zestaw któremukolwiek z techników, jeśli jakiś znajdziesz.</text>
+	</string>
+	<string id="sim_default_army_mechanic_task_1_about">
+		<text>Cześć, mogę mieć do ciebie prośbę? Jeśli chcesz mi pomóc, powiem ci, czego potrzebuję.</text>
+	</string>
+	<string id="sim_default_army_mechanic_task_1_fetch_about">
+		<text>Pilnie potrzebujemy nowych narzędzi. Ministerstwo zmniejszyło budżet, żeby załatwić nam lepsze wyposażenie.\n \nPotrzebuję narzędzi podstawowych. Jeśli uda ci się je znaleźć, wszyscy będziemy ci wdzięczni. Przy okazji, nie musisz przynosić ich akurat mi - każdy z naszych mechaników się ucieszy. Wszyscy damy ci zniżki. Zrobisz to dla nas?</text>
+	</string>
+	<string id="sim_default_army_mechanic_task_1_fetch_finish">
+		<text>Świetnie! Dokładnie tego potrzebowaliśmy. Dzięki.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR MILITARY MECHANICS TASK -->
+	<string id="sim_default_army_mechanic_task_2_name">
+		<text>Znajdź %s dla wojskowego technika</text>
+	</string>
+	<string id="sim_default_army_mechanic_task_2_text">
+		<text>%s potrzebne są technikowi, by mógł zastąpić nimi stare i zniszczone. Przynieś zestaw któremukolwiek z techników, jeśli jakiś znajdziesz.</text>
+	</string>
+	<string id="sim_default_army_mechanic_task_2_about">
+		<text>Dobra, jeśli chcesz... potrzebuję więcej narzędzi. Tych nie będzie tak łatwo znaleźć. Możesz to zrobić?</text>
+	</string>
+	<string id="sim_default_army_mechanic_task_2_fetch_about">
+		<text>Teraz potrzebujemy narzędzi zaawansowanych. Jeśli znajdziesz taki zestaw, przynieś któremuś z nas, a dostaniesz jeszcze większą zniżkę.</text>
+	</string>
+	<string id="sim_default_army_mechanic_task_2_fetch_finish">
+		<text>Dobrze! Zajmiemy się twoim wyposażeniem o każdej porze dnia i nocy.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR MILITARY MECHANICS TASK -->
+	<string id="sim_default_army_mechanic_task_3_name">
+		<text>Znajdź %s dla wojskowego technika</text>
+	</string>
+	<string id="sim_default_army_mechanic_task_3_text">
+		<text>%s potrzebne są technikowi, by mógł zastąpić nimi stare i zniszczone. Przynieś zestaw któremukolwiek z techników, jeśli jakiś znajdziesz.</text>
+	</string>
+	<string id="sim_default_army_mechanic_task_3_about">
+		<text>Dobra, jeśli chcesz... potrzebuję jeszcze więcej narzędzi. Tych nie będzie tak łatwo znaleźć. Możesz to zrobić?</text>
+	</string>
+	<string id="sim_default_army_mechanic_task_3_fetch_about">
+		<text>Teraz potrzebujemy narzędzi precyzyjnych. Jeśli znajdziesz taki zestaw, przynieś któremuś z nas, a dostaniesz jeszcze większą zniżkę.</text>
+	</string>
+	<string id="sim_default_army_mechanic_task_3_fetch_finish">
+		<text>Dobrze! Zajmiemy się twoim wyposażeniem o każdej porze dnia i nocy.</text>
+	</string>
+	
+	<!--/////////////////////////////////// DUTY WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+	
+	<!-- DEFEND TERRITORY FOR DUTY TASK -->
+	<string id="sim_default_dolg_trader_task_1_name">
+		<text>Broń terytorium Powinności</text>
+	</string>
+	<string id="sim_default_dolg_trader_task_1_text">
+		<text>Wrogie siły wkraczają na terytorium frakcji. %s z lokacji %s zlecił ci eliminację tego zagrożenia.</text>
+	</string>
+	<string id="sim_default_dolg_trader_task_1_about">
+		<text>Zostałem poinformowany, że siły wroga próbują przejąć jeden z naszych obozów. Musisz ich powstrzymać, zanim osiągną swój cel.</text>
+	</string>
+	<string id="sim_default_dolg_trader_task_1_finish">
+		<text>Świetna robota. Jesteś dobrym wojownikiem.</text>
+	</string>
+
+
+	<!-- CAPTURE TERRITORY FOR DUTY TASK -->
+	<string id="sim_default_dolg_trader_task_2_name">
+		<text>Przejmij terytorium Powinności</text>
+	</string>
+	<string id="sim_default_dolg_trader_task_2_text">
+		<text>Zlecono ci przejęcie terytorium dla Powinności. Po wykonaniu zadania zgłoś się do: %s w lokacji %s.</text>
+	</string>
+	<string id="sim_default_dolg_trader_task_2_about">
+		<text>Mam bardzo ważne zadanie. Wolność przejęła jeden z naszych obozów. Poszukuję specjalisty do odbicia terytorium.</text>
+	</string>
+	<string id="sim_default_dolg_trader_task_2_finish">
+		<text>Wykonałeś zadanie? Dobrze.</text>
+	</string>
+
+
+	<!-- ASSASSINATION FOR DUTY TASK -->
+	<string id="sim_default_dolg_trader_task_3_name">
+		<text>Zabójstwo VIPa dla Powinności</text>
+	</string>
+	<string id="sim_default_dolg_trader_task_3_text">
+		<text>%s z lokacji %s zlecił ci znaleźć i wyeliminować wskazany cel.</text>
+	</string>
+	<string id="sim_default_dolg_trader_task_3_about">
+		<text>Mam listę VIPów, którymi... no, trzeba się zająć. Są wśród nich informatorzy, ważni członkowie Wolności, dowódcy oddziałów, taktycy, ale i po prostu śmiecie, które trzeba wynieść. Postaraj się wydobyć od nich jakiekolwiek przydatne informacje. Jeśli nie będzie to możliwe, po prostu eliminuj cele.</text>
+	</string>
+	<string id="sim_default_dolg_trader_task_3_finish">
+		<text>Brawo! Jesteśmy dumni. Weź to, należy Ci się.</text>
+	</string>
+	
+		<!-- FIND LEVEL 1 TOOLKIT FOR DUTY TASK -->
+	<string id="sim_default_dolg_mechanic_task_1_name">
+		<text>Znajdź %s dla dla mechanika Powinności</text>
+	</string>
+	<string id="sim_default_dolg_mechanic_task_1_text">
+		<text>%s potrzebne są technikowi, by mógł zastąpić nimi stare i zniszczone. Przynieś zestaw któremukolwiek z techników, jeśli jakiś znajdziesz.</text>
+	</string>
+	<string id="sim_default_dolg_mechanic_task_1_about">
+		<text>Przydałby mi się zestaw narzędzi, taki z prawdziwego zdarzenia. Jeśli chcesz pomóc, powiem ci dokładnie, czego poszukuję.</text>
+	</string>
+	<string id="sim_default_dolg_mechanic_task_1_fetch_about">
+		<text>Większość sprzętu, którym się posługujemy pochodzi sprzed 2006, sprzed Pierwszej Emisji, długo przed powstaniem Powinności. Zgarnęliśmy po prostu to, co zostawiło wojsko.\n \nTo wszystko ma już swoje lata, potrzebujemy nowego zestawu narzędzi podstawowych. Przynieś je któremukolwiek z naszych techników, a dostaniesz zniżkę. Bierzesz na siebie to zadanie?</text>
+	</string>
+	<string id="sim_default_dolg_mechanic_task_1_fetch_finish">
+		<text>Nieźle. Pogadam z innymi, żeby załatwić ci jakąś zniżkę.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR DUTY TASK -->
+	<string id="sim_default_dolg_mechanic_task_2_name">
+		<text>Znajdź %s dla dla mechanika Powinności</text>
+	</string>
+	<string id="sim_default_dolg_mechanic_task_2_text">
+		<text>%s potrzebne są technikowi, by mógł zastąpić nimi stare i zniszczone. Przynieś zestaw któremukolwiek z techników, jeśli jakiś znajdziesz.</text>
+	</string>
+	<string id="sim_default_dolg_mechanic_task_2_about">
+		<text>Jeśli uda ci się znaleźć bardziej zaawansowane narzędzia, załatwię ci pokaźną zniżkę. Rozejrzysz się za nimi dla mnie?</text>
+	</string>
+	<string id="sim_default_dolg_mechanic_task_2_fetch_about">
+		<text>Teraz potrzebujemy narzędzi zaawansowanych. Zdobądź jeden taki zestaw, a załatwię ci zniżkę.</text>
+	</string>
+	<string id="sim_default_dolg_mechanic_task_2_fetch_finish">
+		<text>Świetnie! Za to masz u nas kolejną zniżkę.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR DUTY TASK -->
+	<string id="sim_default_dolg_mechanic_task_3_name">
+		<text>Znajdź %s dla dla mechanika Powinności</text>
+	</string>
+	<string id="sim_default_dolg_mechanic_task_3_text">
+		<text>%s potrzebne są technikowi, by mógł zastąpić nimi stare i zniszczone. Przynieś zestaw któremukolwiek z techników, jeśli jakiś znajdziesz.</text>
+	</string>
+	<string id="sim_default_dolg_mechanic_task_3_about">
+		<text>Jeśli uda ci się znaleźć bardziej zaawansowane narzędzia, załatwię ci pokaźną zniżkę. Rozejrzysz się za nimi dla mnie?</text>
+	</string>
+	<string id="sim_default_dolg_mechanic_task_3_fetch_about">
+		<text>Teraz potrzebujemy narzędzi precyzyjnych. Powinny zawierać wszystko, czego nam trzeba. Jeśli zdobędziesz taki zestaw, gwarantuję ci duży rabat na nasze usługi.</text>
+	</string>
+	<string id="sim_default_dolg_mechanic_task_3_fetch_finish">
+		<text>Doskonale! Teraz mamy wszystko, czego nam potrzeba. Dzięki, stalker! Korzystaj z rabatów do woli.</text>
+	</string>
+	
+
+	<!--/////////////////////////////////// BANDIT WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+	
+	<!-- ASSASSIATION FOR BANDITS TASK -->
+	<string id="sim_default_bandit_trader_task_1_name">
+		<text>Wyeliminuj cel dla Bandytów</text>
+	</string>
+	<string id="sim_default_bandit_trader_task_1_text">
+		<text>Znajdź i wyeliminuj cel. Wróć do: %s z lokacji %s po zapłatę.</text>
+	</string>
+	<string id="sim_default_bandit_trader_task_1_about">
+		<text>W Zonie jest całe mnóstwo ludzi, którzy wtykają nochale w nie swoje sprawy. Sporo też takich, którzy nie okazują należytego szacunku - zaciągają długi, potem nie chcą ich spłacać, więc nasyłają swoich zakapiorów na naszych chłopaków... rozumisz. Takich to trzeba jak najszybciej ustawiać do pionu.\n \nJak szukasz zajęcia, mogę podrzucić ci nazwiska tych, którzy za bardzo sobie pozwalają. Znajdziesz ich po GPSie i załatwisz problem. Stoi?</text>
+	</string>
+	<string id="sim_default_bandit_trader_task_1_finish">
+		<text>Dobra robota! Trzymaj, należy ci się.</text>
+	</string>
+	
+	<!-- ELIMINATE MUTANTS FOR BANDITS TASK -->
+	<string id="sim_default_bandit_trader_task_2_name">
+		<text>Pozbądź się mutantów dla Bandytów</text>
+	</string>
+	<string id="sim_default_bandit_trader_task_2_text">
+		<text>W tej okolicy grasują niebezpieczne mutanty. Pozbądź się zagrożenia. Po wykonaniu zadania wróć do: %s w lokacji %s.</text>
+	</string>
+	<string id="sim_default_bandit_trader_task_2_about">
+		<text>Masz dość jajec, żeby zapolować na kilka bestii? Nikt się tu nie kręci, bo się, kurwa, boją paru mutasków.\n \nTrzeba coś z tym zrobić, bo nie będzie kogo obrabiać z chabaru. A bez tego długo tu nie pogarujemy.</text>
+	</string>
+	<string id="sim_default_bandit_trader_task_2_finish">
+		<text>Maładiec! Trzymaj, za robotę. Szepnę o tobie szefowi.</text>
+	</string>
+
+
+	<!-- DEFEND TERRITORY FOR BANDITS TASK -->
+	<string id="sim_default_bandit_trader_task_3_name">
+		<text>Pozbądź się wrogów dla Bandytów</text>
+	</string>
+	<string id="sim_default_bandit_trader_task_3_text">
+		<text>Zlecono ci pozbycie się wrogów z tej okolicy. Po wykonaniu zadania wróć do: %s w lokacji %s.</text>
+	</string>
+	<string id="sim_default_bandit_trader_task_3_about">
+		<text>Szmaciarze wbijają nam na rewir. Szef kazał mi zebrać największych badassów, żeby wypierdolić stąd tych kutasiarzy na zbity ryj. Co ty na to? Masz dość jajec?</text>
+	</string>
+	<string id="sim_default_bandit_trader_task_3_finish">
+		<text>Maładiec! Trzymaj, za robotę. Szepnę o tobie szefowi.</text>
+	</string>
+
+
+	<!-- ESCORT RAIDERS FOR BANDITS TASK -->
+	<string id="sim_default_bandit_trader_task_4_name">
+		<text>Cziki-briki!</text>
+	</string>
+	<string id="sim_default_bandit_trader_task_4_text">
+		<text>%s z lokacji %s zlecił ci ograbianie tutejszych stalkerów z towaru do czasu, aż bandyci będą zadowoleni.</text>
+	</string>
+	<string id="sim_default_bandit_trader_task_4_about">
+		<text>Wyczailiśmy paru frajerów, którzy się tu kręcą. Czekają chyba na kumpli. Weź chłopaków i ogarnijcie razem temat.</text>
+	</string>
+	<string id="sim_default_bandit_trader_task_4_finish">
+		<text>Nieźle, co? Twoja działka.</text>
+	</string>
+
+
+	<!-- ASSASSINATION FOR BANDITS TASK -->
+	<string id="sim_default_bandit_trader_task_5_name">
+		<text>Ty się nazywasz Kiler</text>
+	</string>
+	<string id="sim_default_bandit_trader_task_5_text">
+		<text>%s z lokacji %s zlecił ci zabójstwo. Znajdź i wyeliminuj cel, następnie wróć do niego po zapłatę.</text>
+	</string>
+	<string id="sim_default_bandit_trader_task_5_about">
+		<text>Ty się nazywasz Kiler, tak? I masz ksywę Kiler? I jesteś Kiler? No i dobrze.\n \nParu gnoi ostro ze mną pogrywa, a ja nie jestem z takich, co będą sobie pozwalać chuj wie, jak długo. Zajmij się tymi szmaciarzami.</text>
+	</string>
+	<string id="sim_default_bandit_trader_task_5_finish">
+		<text>No i dobrze, paru śmieci mniej. Twoja kasa, bierz.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR BANDIT MECHANICS -->
+	<string id="sim_default_bandit_mechanic_task_1_name">
+		<text>Znajdź %s dla technika Bandytów</text>
+	</string>
+	<string id="sim_default_bandit_mechanic_task_1_text">
+		<text>%s potrzebne są technikowi, by mógł zastąpić nimi stare i zniszczone. Przynieś zestaw któremukolwiek z techników, jeśli jakiś znajdziesz.</text>
+	</string>
+	<string id="sim_default_bandit_mechanic_task_1_about">
+		<text>Kurewsko potrzebuję nowych narzędzi, mordo. W chuj. Bez paru śrubokrętów i imbusów kminienie czegokolwiek z tą zardzewiałą kupą żelastwa to wiesz - pierdolenie kotka za pomocą młotka. Którego też, kurwa, nie mam.\n \nChcesz pomóc naszym ziomalom? Powiem ci, czego szukam.</text>
+	</string>
+	<string id="sim_default_bandit_mechanic_task_1_fetch_about">
+		<text>Szukam lepszych narzędzi, to chyba proste do zaczajenia. A weź, kurwa, szukaj, jak wszystko w jebanej Zonie chce ci odstrzelić dupsko.\n \nŻebym miał chociaż takie najprostsze, najbardziej podstawowe, to już by było coś. Jak jakieś obczaisz, wal od razu do któregoś z naszych majstrów. Załatwimy rabacik i będzie bum cyk cyk. To jak, wchodzisz w to?</text>
+	</string>
+	<string id="sim_default_bandit_mechanic_task_1_fetch_finish">
+		<text>No i to się nazywa profeska, ryju! Tego mi brakowało. Dam cynę innym szpecom, żeby opuścili ci ceny.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR BANDIT MECHANICS -->
+	<string id="sim_default_bandit_mechanic_task_2_name">
+		<text>Znajdź %s dla technika Bandytów</text>
+	</string>
+	<string id="sim_default_bandit_mechanic_task_2_text">
+		<text>%s potrzebne są technikowi, by mógł zastąpić nimi stare i zniszczone. Przynieś zestaw któremukolwiek z techników, jeśli jakiś znajdziesz.</text>
+	</string>
+	<string id="sim_default_bandit_mechanic_task_2_about">
+		<text>Mordo, te graty, które mi przyniosłeś to złoto, ale nie ma tam kurwa... no, tych... takich, no... tegesów, które by siadły. Jak obstawiasz - dasz radę wyczaić lepszy zestaw?</text>
+	</string>
+	<string id="sim_default_bandit_mechanic_task_2_fetch_about">
+		<text>Mordzia. %s - tego mi teraz trzeba. Nie pytaj mnie, gdzie ich szukać, bo gdybym wiedział, to już dawno ruszyłbym po nie dupę, nie? Ale jak wpadną ci w łapy, dawaj do któregoś majstra.</text>
+	</string>
+	<string id="sim_default_bandit_mechanic_task_2_fetch_finish">
+		<text>Ej no, gościu, złoto. Trzymaj bułę, należy ci się, jak nic! Dam znaka innym, żeby spuścili ci z ceny.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR BANDIT MECHANICS -->
+	<string id="sim_default_bandit_mechanic_task_3_name">
+		<text>Znajdź %s dla technika Bandytów</text>
+	</string>
+	<string id="sim_default_bandit_mechanic_task_3_text">
+		<text>%s potrzebne są technikowi, by mógł zastąpić nimi stare i zniszczone. Przynieś zestaw któremukolwiek z techników, jeśli jakiś znajdziesz.</text>
+	</string>
+	<string id="sim_default_bandit_mechanic_task_3_about">
+		<text>Mordo, te graty, które mi przyniosłeś to złoto, ale nie ma tam kurwa... no, tych... takich, no... tegesów, które by siadły. Jak obstawiasz - dasz radę wyczaić lepszy zestaw?</text>
+	</string>
+	<string id="sim_default_bandit_mechanic_task_3_fetch_about">
+		<text>Mordzia. %s - tego mi teraz trzeba. Nie pytaj mnie, gdzie ich szukać, bo gdybym wiedział, to już dawno ruszyłbym po nie dupę, nie? Ale jak wpadną ci w łapy, dawaj do któregoś majstra.</text>
+	</string>
+	<string id="sim_default_bandit_mechanic_task_3_fetch_finish">
+		<text>Ej no, gościu, złoto. Trzymaj bułę, należy ci się, jak nic! Dam znaka innym, żeby spuścili ci z ceny.</text>
+	</string>
+	
+	
+	<!--/////////////////////////////////// KILLER WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->	
+	
+	<!-- ASSASSINATION FOR MERCS TASK -->
+	<string id="sim_default_killer_trader_task_1_name">
+		<text>Zabójca na zlecenie</text>
+	</string>
+	<string id="sim_default_killer_trader_task_1_text">
+		<text>Otrzymałeś kontrakt, według którego musisz odnaleźć i wyeliminować wskazany cel. Gdy wykonasz zadanie, wróć do: %s w lokacji %s po wynagrodzenie.</text>
+	</string>
+	<string id="sim_default_killer_trader_task_1_about">
+		<text>Nasz klient wymaga pozbycia się konkretnych osób. Szukam kogoś, kto zna się na tej robocie i jest wystarczająco dyskretny, żeby bez żadnych zarzutów wypełnić wszystkie warunki kontraktu. Zainteresowany?</text>
+	</string>
+	<string id="sim_default_killer_trader_task_1_finish">
+		<text>Zrobione? Świetnie, to twoja działka.</text>
+	</string>
+
+
+	<!-- ASSAULT TERRITORY FOR MERCS TASK -->
+	<string id="sim_default_killer_trader_task_2_name">
+		<text>Zaatakuj wrogów dla Najemników</text>
+	</string>
+	<string id="sim_default_killer_trader_task_2_text">
+		<text>Oczyść teren ze wszystkich wrogów. Po wykonaniu zadaniu wróć do: %s w lokacji %s po wynagrodzenie.</text>
+	</string>
+	<string id="sim_default_killer_trader_task_2_about">
+		<text>Chciałbym, żebyś poprowadził oddział szturmowy, który ma za zadanie oczyścić teren z sił nieprzyjaciela.</text>
+	</string>
+	<string id="sim_default_killer_trader_task_2_finish">
+		<text>Świetna robota. Dobrze walczysz.</text>
+	</string>
+
+	<!-- FIND LEVEL 1 TOOLS FOR MERC MECHANICS TASK -->
+	<string id="sim_default_killer_mechanic_task_1_name">
+		<text>Znajdź %s dla technika Najemników</text>
+	</string>
+	<string id="sim_default_killer_mechanic_task_1_text">
+		<text>%s potrzebne są technikowi, by mógł zastąpić nimi stare i zniszczone. Przynieś zestaw któremukolwiek z techników, jeśli jakiś znajdziesz.</text>
+	</string>
+	<string id="sim_default_killer_mechanic_task_1_about">
+		<text>Mam dla ciebie propozycję - przyniesiesz mi narzędzia, a ja ci za nie zapłacę. Co ty na to?</text>
+	</string>
+	<string id="sim_default_killer_mechanic_task_1_fetch_about">
+		<text>Dobra. %s, nigdzie nie możemy ich znaleźć. Powinny być tam jakieś smary i narzędzia, bez których nie ma jak zająć się sprzętem. Jeśli coś znajdziesz, na pewno zapłacimy.\n \nMożesz przynieść taki zestaw któremukolwiek z naszych techników. Na pewno damy radę załatwić ci jakąś zniżkę. Co na to powiesz?</text>
+	</string>
+	<string id="sim_default_killer_mechanic_task_1_fetch_finish">
+		<text>Dokładnie tego było mi trzeba!</text>
+	</string>
+
+	<!-- FIND LEVEL 2 TOOLS FOR MERC MECHANICS TASK -->
+	<string id="sim_default_killer_mechanic_task_2_name">
+		<text>Znajdź %s dla technika Najemników</text>
+	</string>
+	<string id="sim_default_killer_mechanic_task_2_text">
+		<text>%s potrzebne są technikowi, by mógł zastąpić nimi stare i zniszczone. Przynieś zestaw któremukolwiek z techników, jeśli jakiś znajdziesz.</text>
+	</string>
+	<string id="sim_default_killer_mechanic_task_2_about">
+		<text>Mam kolejną propozycję. Ten zestaw, który przyniosłeś jest okej, ale nie ma tam wszystkiego, czego potrzebuję. Myślisz, że uda ci się znaleźć coś lepszego?</text>
+	</string>
+	<string id="sim_default_killer_mechanic_task_2_fetch_about">
+		<text>%s teraz są nam potrzebne. Zdobądź jeden taki zestaw, a załatwię ci zniżkę.</text>
+	</string>
+	<string id="sim_default_killer_mechanic_task_2_fetch_finish">
+		<text>Tak, jest tu wszystko, czego mi trzeba. Dzięki.</text>
+	</string>
+
+	<!-- FIND LEVEL 3 TOOLS FOR MERC MECHANICS TASK -->
+	<string id="sim_default_killer_mechanic_task_3_name">
+		<text>Znajdź %s dla technika Najemników</text>
+	</string>
+	<string id="sim_default_killer_mechanic_task_3_text">
+		<text>%s potrzebne są technikowi, by mógł zastąpić nimi stare i zniszczone. Przynieś zestaw któremukolwiek z techników, jeśli jakiś znajdziesz.</text>
+	</string>
+	<string id="sim_default_killer_mechanic_task_3_about">
+		<text>Mam kolejną propozycję. Ten zestaw, który przyniosłeś jest okej, ale nie ma tam wszystkiego, czego potrzebuję. Myślisz, że uda ci się znaleźć coś lepszego?</text>
+	</string>
+	<string id="sim_default_killer_mechanic_task_3_fetch_about">
+		<text>%s teraz są nam potrzebne. Zdobądź jeden taki zestaw, a załatwię ci zniżkę.</text>
+	</string>
+	<string id="sim_default_killer_mechanic_task_3_fetch_finish">
+		<text>Tak, jest tu wszystko, czego mi trzeba. Dzięki.</text>
+	</string>
+
+	<!--/////////////////////////////////// LONER WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+	
+	<!-- ELIMINATE MUTANTS 1 FOR LONERS TASK -->
+	<string id="sim_default_stalker_trader_task_1_name">
+		<text>Pozbądź się mutantów dla Samotników</text>
+	</string>
+	<string id="sim_default_stalker_trader_task_1_text">
+		<text>Mutanty zagrażają w tej okolicy stalkerom. Zapoluj na nie i oczyść teren. Po wszystkim wróć do: %s w lokacji %s po nagrodę.</text>
+	</string>
+	<string id="sim_default_stalker_trader_task_1_about">
+		<text>Słuchaj! Słyszysz to? Mutanty wyją... Nawet tutaj mam od tego ciarki. Może pójdziesz zająć się tym problemem? Opłaci ci się, gwarantuję.</text>
+	</string>
+	<string id="sim_default_stalker_trader_task_1_finish">
+		<text>Zona tym razem przepuściła? Dobra robota, stalker!</text>
+	</string>
+
+	<!-- FIND ARTEFACT FOR LONERS TASK -->
+	<string id="sim_default_stalker_trader_task_2_name">
+		<text>Znajdź artefakt %s dla handlarza Samotników</text>
+	</string>
+	<string id="sim_default_stalker_trader_task_2_text">
+		<text>%s z lokacji %s chce, żebyś znalazł dla niego artefakt %s.</text>
+	</string>
+	<string id="sim_default_stalker_trader_task_2_about">
+		<text>Handluje artefaktami. Raczej nie skupuję ich od stalkerów, ale teraz sprawa jest dość wyjątkowa. Szukam jednego, konkretnego okazu. Nie chcesz się za nim rozejrzeć w moim imieniu?</text>
+	</string>
+	<string id="sim_default_stalker_trader_task_2_fetch_about">
+		<text>Szukam artefaktu %s. Widziałeś kiedyś to cudo? Raczej nie skupuję ich od stalkerów, ale teraz sprawa jest dość wyjątkowa. Szukam jednego, konkretnego okazu. Nie chcesz się za nim rozejrzeć w moim imieniu?</text>
+	</string>
+	<string id="sim_default_stalker_trader_task_2_fetch_finish">
+		<text>Dobrze, stalker!</text>
+	</string>
+
+	<!-- ASSASSINATION 1 FOR LONERS TASK -->
+	<string id="sim_default_stalker_trader_task_3_name">
+		<text>Byliśmy jak bracia</text>
+	</string>
+	<string id="sim_default_stalker_trader_task_3_text">
+		<text>%s z lokacji %s zlecił ci zabójstwo wojskowego stalkera.</text>
+	</string>
+	<string id="sim_default_stalker_trader_task_3_about">
+		<text>Jest taki gość... kiedyś był zwykłym stalkerem, jak każdy z nas. Któregoś dnia zgarnął go jakiś wojskowy oficer i zaproponował mu układ. Facet się zgodził. Z tego co wiem, szlaja się teraz z chujkami z woja i strzela do naszych, jakby nigdy nie miał z nimi do czynienia. Rozumiesz? Był brat-stalker, a teraz wali do swoich z zimną krwią!\n \nZnajdź tego zdradzieckiego kutasiarza i wbij mu nóż w plecy, tak jak on robił to dobrym chłopakom. Trzeba ich pomścić.</text>
+	</string>
+	<string id="sim_default_stalker_trader_task_3_finish">
+		<text>Załatwione, tak? Ech, mimo wszystko, muszę to przepić... Tobie też pewnie się przyda.</text>
+	</string>
+	
+	<!-- ELIMINATE MUTANTS 2 FOR LONERS TASK -->
+	<string id="sim_default_stalker_trader_task_4_name">
+		<text>Pozbądź się mutantów dla Samotników</text>
+	</string>
+	<string id="sim_default_stalker_trader_task_4_text">
+		<text>W tej okolicy dostrzeżono niebezpieczne mutanty. Zlecono ci wyeliminowanie tego zagrożenia. Po wykonaniu zadania wróć do: %s w lokacji %s.</text>
+	</string>
+	<string id="sim_default_stalker_trader_task_4_about">
+		<text>Szukam kogoś, kto zajmie się skurwiałymi mutasami. Ciągle polują na naszych chłopaków. Pasuje ci taka robota?</text>
+	</string>
+	<string id="sim_default_stalker_trader_task_4_finish">
+		<text>Dzięki, stalker. W końcu będzie można przejść tamtędy w miarę bezpiecznie. Trzymaj, należy ci się.</text>
+	</string>
+
+	<!-- ASSASSINATION 2 FOR LONERS TASK -->
+	<string id="sim_default_stalker_trader_task_5_name">
+		<text>Zabójstwo na zlecenie</text>
+	</string>
+	<string id="sim_default_stalker_trader_task_5_text">
+		<text>%s z lokacji %s wyznaczył ci ważny cel, który musisz wyeliminować.</text>
+	</string>
+	<string id="sim_default_stalker_trader_task_5_about">
+		<text>Jest taki jeden, strasznie bruździ. Niełatwo będzie się do niego dobrać, ale jeśli ci się uda, płacę jak... jak za prezydenta. Wchodzisz w to?</text>
+	</string>
+	<string id="sim_default_stalker_trader_task_5_finish">
+		<text>A kto umarł, ten nie żyje. Dobra robota.</text>
+	</string>
+
+	<!-- FIND WEAPON FOR LONERS TASK -->
+	<string id="sim_default_stalker_trader_task_6_name">
+		<text>Znajdź %s dla handlarza Samotników</text>
+	</string>
+	<string id="sim_default_stalker_trader_task_6_text">
+		<text>%s z lokacji %s szuka konkretnej broni w dobrym stanie. Wróć do niego, jeśli uda ci się ją znaleźć.</text>
+	</string>
+	<string id="sim_default_stalker_trader_task_6_about">
+		<text>Jeden z moich łowców szuka konkretnej lufy, a ja nie mam takich dojść, żeby mu ją tu ściągnąć. Jesteś w stanie rozejrzeć się za sprzętem?</text>
+	</string>
+	<string id="sim_default_stalker_trader_task_6_fetch_about">
+		<text>Potrzebuję %s. Łowca wymaga, żeby broń była w dobrym stanie. Dostaniesz sporą działkę, jeśli ci się uda.</text>
+	</string>
+	<string id="sim_default_stalker_trader_task_6_fetch_finish">
+		<text>Świetnie. Myślę, że się nada. Twoja dola - tak, jak się umawialiśmy.</text>
+	</string>
+
+	<!-- FIND MUTANT PARTS FOR LONERS TASK -->
+	<string id="sim_default_stalker_trader_task_7_name">
+		<text>Zdobądź: %s dla handlarza Samotników</text>
+	</string>
+	<string id="sim_default_stalker_trader_task_7_text">
+		<text>%s z lokacji %s dobrze płaci za: %s.</text>
+	</string>
+	<string id="sim_default_stalker_trader_task_7_about">
+		<text>Mam na tapecie kolekcjonera-taksydermistę, szuka części ciał konkretnych mutantów. Zainteresowany?</text>
+	</string>
+	<string id="sim_default_stalker_trader_task_7_fetch_about">
+		<text>Znajdź mutanta, ubij skurwola i wytnij mu bebechy. %s - na tym szczególnie mi zależy.</text>
+	</string>
+	<string id="sim_default_stalker_trader_task_7_fetch_finish">
+		<text>No i fajno. Nie dość, że parę paskud w Zonie mniej, to mamy kolejną dekorację.</text>
+	</string>
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR LONER MECHANICS TASK -->
+	<string id="sim_default_stalker_mechanic_task_1_name">
+		<text>Znajdź %s dla technika Samotników</text>
+	</string>
+	<string id="sim_default_stalker_mechanic_task_1_text">
+		<text>%s potrzebne są technikowi, by mógł zastąpić nimi stare i zniszczone. Przynieś zestaw któremukolwiek z techników, jeśli jakiś znajdziesz.</text>
+	</string>
+	<string id="sim_default_stalker_mechanic_task_1_about">
+		<text>Szukam narzędzi, stalker. Chujowo z nimi w Zonie. Jeśli chcesz nam pomóc, powiem ci, czego potrzebujemy.</text>
+	</string>
+	<string id="sim_default_stalker_mechanic_task_1_fetch_about">
+		<text>Dobrze, że pytasz. Naprawdę przydałyby się nam nowe narzędzia. Na sam początek chociaż te podstawowe. Jeśli coś znajdziesz, dostarcz któremukolwiek z naszych techników, a załatwimy ci jakiś rabat. Stoi?</text>
+	</string>
+	<string id="sim_default_stalker_mechanic_task_1_fetch_finish">
+		<text>Złoto! Właśnie tego potrzebowałem. Jeśli potrzebujesz podreperować szpej, wal do mnie, jak w dym. Dam cynk pozostałym chłopakom, żeby od kopa dawali ci zniżki.</text>
+	</string>
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR LONER MECHANICS TASK -->
+	<string id="sim_default_stalker_mechanic_task_2_name">
+		<text>Znajdź %s dla technika Samotników</text>
+	</string>
+	<string id="sim_default_stalker_mechanic_task_2_text">
+		<text>%s potrzebne są technikowi, by mógł zastąpić nimi stare i zniszczone. Przynieś zestaw któremukolwiek z techników, jeśli jakiś znajdziesz.</text>
+	</string>
+	<string id="sim_default_stalker_mechanic_task_2_about">
+		<text>Mam kolejną propozycję. Ten zestaw, który przyniosłeś jest okej, ale nie ma tam wszystkiego, czego potrzebuję. Myślisz, że uda ci się znaleźć coś lepszego?</text>
+	</string>
+	<string id="sim_default_stalker_mechanic_task_2_fetch_about">
+		<text>%s teraz są nam potrzebne. Zdobądź jeden taki zestaw, a załatwię ci zniżkę.</text>
+	</string>
+	<string id="sim_default_stalker_mechanic_task_2_fetch_finish">
+		<text>Wow! Całkiem niezłe. Nadadzą się, na bank. Weź to, za fatygę. Pogadam z chłopakami, żeby dali ci jeszcze większy rabat.</text>
+	</string>
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR LONER MECHANICS TASK -->
+	<string id="sim_default_stalker_mechanic_task_3_name">
+		<text>Znajdź %s dla technika Samotników</text>
+	</string>
+	<string id="sim_default_stalker_mechanic_task_3_text">
+		<text>%s potrzebne są technikowi, by mógł zastąpić nimi stare i zniszczone. Przynieś zestaw któremukolwiek z techników, jeśli jakiś znajdziesz.</text>
+	</string>
+	<string id="sim_default_stalker_mechanic_task_3_about">
+		<text>Mam kolejną propozycję. Ten zestaw, który przyniosłeś jest okej, ale nie ma tam wszystkiego, czego potrzebuję. Myślisz, że uda ci się znaleźć coś lepszego?</text>
+	</string>
+	<string id="sim_default_stalker_mechanic_task_3_fetch_about">
+		<text>%s teraz są nam potrzebne. Zdobądź jeden taki zestaw, a załatwię ci zniżkę.</text>
+	</string>
+	<string id="sim_default_stalker_mechanic_task_3_fetch_finish">
+		<text>Nieźle, to naprawdę sztos zestaw. Weź to, za fatygę. Pogadam z chłopakami, żeby dali ci jeszcze większy rabat.</text>
+	</string>
+
+	<!--/////////////////////////////////// CLEAR SKY WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+
+	<!-- DELIVER PDA FOR CSKY TASK -->
+	<string id="sim_default_csky_trader_task_1_name">
+		<text>Dostarcz PDA Żwawemu</text>
+	</string>
+	<string id="sim_default_csky_trader_task_1_text">
+		<text>%s z lokacji %s poprosił cię o dostarczenie zakodowanego PDA Żwawemu w Zatonie.</text>
+	</string>
+	<string id="sim_default_csky_trader_task_1_about">
+		<text>Chcę, żebyś dostarczył to PDA Żwawemu. Pilnuj go, jak oka w głowie!</text>
+	</string>
+
+	<!-- DESTROY HELICOPTER FOR CSKY TASK -->
+	<string id="sim_default_csky_trader_task_2_name">
+		<text>Zniszcz wojskowy śmigłowiec dla Czystego Nieba</text>
+	</string>
+	<string id="sim_default_csky_trader_task_2_text">
+		<text>%s z lokacji %s chce, żebyś zestrzelił wojskowy śmigłowiec.</text>
+	</string>
+	<string id="sim_default_csky_trader_task_2_about">
+		<text>Cholerne wojsko zawsze było dla nas problemem - non stop wysyłają oddziały szturmowe na nasze posterunki. Ale ostatnio przeszli już samych siebie - zaczęli korzystać z pierdolonych śmigieł, tego już za wiele!\n \nZrób co się da, żeby ten pieprzony helikopter spadł wreszcie na ziemię. Myślisz, że ci się uda? Dobrze zapłacę.</text>
+	</string>
+
+	<!-- ESCORT SCIENTISTS FOR CLEAR SKY TASK -->
+	<string id="sim_default_csky_trader_task_3_name">
+		<text>Eskortuj naukowców dla Czystego Nieba %s</text>
+	</string>
+	<string id="sim_default_csky_trader_task_3_text">
+		<text>%s z lokacji %s najął cię, byś poprowadził naukowców do miejsca badań terenowych. Po zakończeniu pomiarów odprowadź ich z powrotem do obozu - tam otrzymasz wynagrodzenie.</text>
+	</string>
+	<string id="sim_default_csky_trader_task_3_about">
+		<text>W naszym obozie siedzi paru naukowców. Szukają doświadczonego stalkera, który poprowadzi ich w teren, żeby mogli wykonać pomiary. Zgadzasz się na taką robotę?\n \nWszystko, co masz zrobić, to poprowadzić ich tam i z powrotem, i dopilnować, żeby żadnemu włos z głowy nie spadł. Jeśli coś im się stanie, lepiej więcej się tu nie pokazuj.</text>
+	</string>
+	<string id="sim_default_csky_trader_task_3_finish">
+		<text>Dziękuję, stalkerze. Weź to jako wynagrodzenie za twój wysiłek.</text>
+	</string>
+
+	<!-- HUNT MUTANTS FOR CLEAR SKY TASK -->
+	<string id="sim_default_csky_trader_task_4_name">
+		<text>Pozbądź się mutantów dla Czystego Nieba</text>
+	</string>
+	<string id="sim_default_csky_trader_task_4_text">
+		<text>W tej okolicy dostrzeżono niebezpieczne mutanty. Zlecono ci wyeliminowanie tego zagrożenia. Po wykonaniu zadania wróć do: %s w lokacji %s.</text>
+	</string>
+	<string id="sim_default_csky_trader_task_4_about">
+		<text>Dobrze się czujesz w roli myśliwego? Szukamy kogoś, kto zadba o nasze bezpieczeństwo i odstrzeli parę mutantów panoszących się po okolicy. Pasuje ci takie zajęcie?</text>
+	</string>
+	<string id="sim_default_csky_trader_task_4_finish">
+		<text>Świetnie! To twoje wynagrodzenie. Powiem naszym, że teraz trochę bezpieczniej tędy chodzić. Dzięki.</text>
+	</string>
+
+	<!-- ASSAULT BANDIT CAMP FOR CLEAR SKY TASK -->
+	<string id="sim_default_csky_trader_task_5_name">
+		<text>Zniszcz obóz bandytów dla Czystego Nieba</text>
+	</string>
+	<string id="sim_default_csky_trader_task_5_text">
+		<text>Zlecono ci rozprawienie się z bandytami przebywającymi w okolicy. Po wykonaniu zadania wróć do: %s w lokacji %s.</text>
+	</string>
+	<string id="sim_default_csky_trader_task_5_about">
+		<text>Mamy spory problem z bandziorami. Cwaniaczki zasadzają się na naszych, próbując przejąć terytorium. Przez to nie możemy poruszać się tędy zbyt bezpiecznie.\n \nSzukam doświadczonego stalkera, który nie boi się... trochę pobrudzić rąk. Pomożesz?</text>
+	</string>
+	<string id="sim_default_csky_trader_task_5_finish">
+		<text>Fantastycznie! Tu twoja zapłata. Dam znać ludziom, że znowu jest bezpiecznie. Dzięki!</text>
+	</string>
+
+	<!-- FIND MUTANT MEAT FOR CLEAR SKY TASK -->
+	<string id="sim_default_csky_trader_task_6_name">
+		<text>Dziczyzna</text>
+	</string>
+	<string id="sim_default_csky_trader_task_6_text">
+		<text>%s z lokacji %s poprosił cię o dostarczenie mu: %s.</text>
+	</string>
+	<string id="sim_default_csky_trader_task_6_about">
+		<text>Jeśli radzisz sobie ze strzelbą i nie robisz w gacie na widok mutantów, to będę miał coś dla ciebie. Zainteresowany?</text>
+	</string>
+	<string id="sim_default_csky_trader_task_6_fetch_about">
+		<text>Słabo ostatnio z zapasami, a muszę dbać o to, żeby nasi mieli co żreć, nie? Dasz radę załatwić mi %s? Mam ludzi, którzy znają się na obróbce tego.\n \nPamiętaj, że mięso robi się twarde, kiedy mutanty dostają kopa adrenaliny przed śmiercią. No i im mniejsza utrata krwi, tym robi się lepsze, więc nie strasz ich za bardzo i strzelaj celnie.</text>
+	</string>
+	<string id="sim_default_csky_trader_task_6_fetch_finish">
+		<text>Dobry z ciebie łowca. To dla ciebie.</text>
+	</string>
+	
+	<!-- ASSAULT MILITARY CAMP FOR CLEAR SKY TASK -->
+	<string id="sim_default_csky_trader_task_7_name">
+		<text>Zniszcz obóz Wojska dla Czystego Nieba</text>
+	</string>
+	<string id="sim_default_csky_trader_task_7_text">
+		<text>Zlecono ci rozprawienie się z żołnierzami przebywającymi w okolicy. Po wykonaniu zadania wróć do: %s w lokacji %s.</text>
+	</string>
+	<string id="sim_default_csky_trader_task_7_about">
+		<text>Mamy spory problem z wojskiem. Trepy zasadzają się na naszych, próbując przejąć terytorium. Przez to nie możemy poruszać się tędy zbyt bezpiecznie.\n \nSzukam doświadczonego stalkera, który nie boi się... trochę pobrudzić rąk. Pomożesz?</text>
+	</string>
+	<string id="sim_default_csky_trader_task_7_finish">
+		<text>Fantastycznie! Tu twoja zapłata. Dam znać ludziom, że znowu jest bezpiecznie. Dzięki!</text>
+	</string>
+
+	<!-- FIND LEVEL 1 TOOLS FOR CSKY MECHANICS TASK -->
+	<string id="sim_default_csky_mechanic_task_1_name">
+		<text>Znajdź %s dla technika Czystego Nieba</text>
+	</string>
+	<string id="sim_default_csky_mechanic_task_1_text">
+		<text>%s potrzebne są technikowi, by mógł zastąpić nimi stare i zniszczone. Przynieś zestaw któremukolwiek z techników, jeśli jakiś znajdziesz.</text>
+	</string>
+	<string id="sim_default_csky_mechanic_task_1_about">
+		<text>Trudno tu ogarnąć jakiekolwiek sensowne narzędzia. Byłoby dużo łatwiej zająć się sprzętem, mając parę śrubokrętów i kluczy, które nie rozsypują się w rękach. Chcę, żebyś przyniósł jakikolwiek zestaw któremuś z naszych mechaników. Jeśli jesteś zainteresowany powiem ci, czego dokładnie potrzebujemy. Wchodzisz w to?</text>
+	</string>
+	<string id="sim_default_csky_mechanic_task_1_fetch_about">
+		<text>Trudno tu ogarnąć jakiekolwiek sensowne narzędzia. Byłoby dużo łatwiej zająć się sprzętem, mając parę śrubokrętów i kluczy, które nie rozsypują się w rękach. Chcę, żebyś przyniósł jakikolwiek zestaw któremuś z naszych mechaników.\n \nPotrzebujemy narzędzi podstawowych. Wchodzisz w to?</text>
+	</string>
+	<string id="sim_default_csky_mechanic_task_1_fetch_finish">
+		<text>Świetnie, stary! Trzymaj, za twoją fatygę. Przekażę naszym technikom, żeby oferowali ci jakieś zniżki.</text>
+	</string>
+
+	<!-- FIND LEVEL 2 TOOLS FOR CSKY MECHANICS TASK -->
+	<string id="sim_default_csky_mechanic_task_2_name">
+		<text>Znajdź %s dla technika Czystego Nieba</text>
+	</string>
+	<string id="sim_default_csky_mechanic_task_2_text">
+		<text>%s potrzebne są technikowi, by mógł zastąpić nimi stare i zniszczone. Przynieś zestaw któremukolwiek z techników, jeśli jakiś znajdziesz.</text>
+	</string>
+	<string id="sim_default_csky_mechanic_task_2_about">
+		<text>Przydałoby się więcej narzędzi. Te, które dostarczyłeś są spoko, ale nie ma w nich wszystkiego, czego potrzebujemy. Jeśli jesteś zainteresowany powiem ci, czego szukać.</text>
+	</string>
+	<string id="sim_default_csky_mechanic_task_2_fetch_about">
+		<text>Teraz potrzebujemy narzędzi zaawansowanych. Jeśli je znajdziesz i przyniesiesz któremuś z techników, będziesz miał większe zniżki.</text>
+	</string>
+	<string id="sim_default_csky_mechanic_task_2_fetch_finish">
+		<text>Kurczę, znowu ci się udało! Weź to za fatygę. Nasi technicy dadzą ci jeszcze większą zniżkę.</text>
+	</string>
+
+	<!-- FIND LEVEL 3 TOOLS FOR CSKY MECHANICS TASK -->
+	<string id="sim_default_csky_mechanic_task_3_name">
+		<text>Znajdź %s dla technika Czystego Nieba</text>
+	</string>
+	<string id="sim_default_csky_mechanic_task_3_text">
+		<text>%s potrzebne są technikowi, by mógł zastąpić nimi stare i zniszczone. Przynieś zestaw któremukolwiek z techników, jeśli jakiś znajdziesz.</text>
+	</string>
+	<string id="sim_default_csky_mechanic_task_3_about">
+		<text>Przydałoby się więcej narzędzi. Te, które dostarczyłeś są spoko, ale nie ma w nich wszystkiego, czego potrzebujemy. Jeśli jesteś zainteresowany powiem ci, czego szukać.</text>
+	</string>
+	<string id="sim_default_csky_mechanic_task_3_fetch_about">
+		<text>Teraz potrzebujemy narzędzi precyzyjnych. Jeśli je znajdziesz i przyniesiesz któremuś z techników, będziesz miał większe zniżki.</text>
+	</string>
+	<string id="sim_default_csky_mechanic_task_3_fetch_finish">
+		<text>Kurczę, znowu ci się udało! Weź to za fatygę. Nasi technicy dadzą ci jeszcze większą zniżkę.</text>
+	</string>
+	
+	<!--------------------------- esc_2_12_stalker_nimble ----------->
+	<!-- sim_default_csky_trader_nimble_pda_task_1 -->
+	<string id="sim_default_csky_trader_nimble_pda_warfare_task_1">
+		<text>Czekałem na tą przesyłkę. Dzięki. To twoje wynagrodzenie:</text>
+	</string>
+
+	<!--/////////////////////////////////// FREEDOM WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+
+	<!-- STOP ENEMY ASSAULT FOR FREEDOM TASK -->
+	<string id="sim_default_freedom_trader_task_1_name">
+		<text>Odeprzyj atak dla Wolności</text>
+	</string>
+	<string id="sim_default_freedom_trader_task_1_text">
+		<text>Zaatakuj oddział szturmowy zbliżający się do obozu Wolności. Po wykonaniu zadania wróć do: %s w lokacji %s.</text>
+	</string>
+	<string id="sim_default_freedom_trader_task_1_about">
+		<text>Te skurwysyny próbują wjechać na jeden z naszych obozów, man. Szukam kogoś, kto ogarnie ten temat nie robiąc zbyt wielkiego zamieszania. Wchodzisz w to, ziomal?</text>
+	</string>
+	<string id="sim_default_freedom_trader_task_1_finish">
+		<text>Załatwione? No to pięknie.</text>
+	</string>
+
+	<!-- REASSAULT TERRITORY FOR FREEDOM TASK -->
+	<string id="sim_default_freedom_trader_task_2_name">
+		<text>Przejmij terytorium dla Wolności</text>
+	</string>
+	<string id="sim_default_freedom_trader_task_2_text">
+		<text>Zlecono ci ochronę terytorium frakcji. Po wykonaniu zadania wróć do: %s w lokacji %s.</text>
+	</string>
+	<string id="sim_default_freedom_trader_task_2_about">
+		<text>Mam dla ciebie bardzo ważną misję. Szczury z Powinności znowu przejęły nasz obóz. Szukam kogoś, kto ich wyjaśni.</text>
+	</string>
+	<string id="sim_default_freedom_trader_task_2_finish">
+		<text>Dobrze, jebać Powinność!</text>
+	</string>
+
+	<!-- ASSASSINATE MONOLITH FOR FREEDOM TASK -->
+	<string id="sim_default_freedom_trader_task_3_name">
+		<text>Zabij członka Monolitu dla Wolności</text>
+	</string>
+	<string id="sim_default_freedom_trader_task_3_text">
+		<text>%s z lokacji %s zlecił ci odszukanie i eliminację członka Monolitu.</text>
+	</string>
+	<string id="sim_default_freedom_trader_task_3_about">
+		<text>Mam bardzo niebezpieczne zadanie. Już jakiś czas szukam fajtera, który ogarnie temat, ale jakoś nikt nie wymula się przed szereg. Te kurwy monolskie cały czas przełażą przez nasze blokady. Trzeba raz na zawsze skończyć z tymi opętanymi kutasiarzami.\n \nSzukam kogoś, kto będzie miał jaja wbić na ich teren i posłać do piachu ich prowodyra, żeby dać im do zrozumienia, że żarty się skończyły. To jak? Jesteś gitem, czy frajerem?</text>
+	</string>
+	<string id="sim_default_freedom_trader_task_3_finish">
+		<text>O kurwa, man, żyjesz! Stary, jesteś przekozak.</text>
+	</string>
+
+	<!-- ASSASSINATE DUTY FOR FREEDOM TASK -->
+	<string id="sim_default_freedom_trader_task_4_name">
+		<text>Wyeliminuj cel dla Wolności</text>
+	</string>
+	<string id="sim_default_freedom_trader_task_4_text">
+		<text>%s z lokacji %s  zlecił ci odszukanie i eliminację celu.</text>
+	</string>
+	<string id="sim_default_freedom_trader_task_4_about">
+		<text>Żyje sobie taki typek, który baaardzo głośno mówi, jaka to Wolność jest zła i trzeba ją zniszczyć. Czaisz temat? Trzeba go uciszyć. Tak, wiesz, raz a dobrze. Dasz radę zamknąć mu ryja?</text>
+	</string>
+	<string id="sim_default_freedom_trader_task_4_finish">
+		<text>Dobrze, kolejnego śmiecia mniej. Trzymaj, należy ci się.</text>
+	</string>
+
+	<!-- FIND WEAPON FOR FREEDOM TASK -->
+	<string id="sim_default_freedom_trader_task_5_name">
+		<text>Znajdź %s dla Wolności</text>
+	</string>
+	<string id="sim_default_freedom_trader_task_5_text">
+		<text>%s z lokacji %s zlecił ci odszukanie konkretnej broni. Wróć do niego kiedy znajdziesz to, czego szuka.</text>
+	</string>
+	<string id="sim_default_freedom_trader_task_5_about">
+		<text>Mając Powinność na południu i Monolit na północy jesteśmy całkowicie odcięci, man. Nasze uzbrojenie jest w coraz bardziej opłakanym stanie i przydało by się je wymienić. Przemycałeś kiedyś broń?</text>
+	</string>
+	<string id="sim_default_freedom_trader_task_5_fetch_about">
+		<text>Naprawdę przydałby nam się %s. Jeśli znajdziesz i przyniesiesz mi egzemplarz w przyzwoitym stanie, to dobrze ci za niego zapłacę.</text>
+	</string>
+	<string id="sim_default_freedom_trader_task_5_fetch_finish">
+		<text>Świetnie. To na pewno w znacznej mierze pomoże nam w obronie Zony. Tak jak obiecałem, oto twoja nagroda.</text>
+	</string>
+
+	<!-- FIND MUTANT MEAT FOR FREEDOM TASK -->
+	<string id="sim_default_freedom_trader_task_6_name">
+		<text>Dziczyzna</text>
+	</string>
+	<string id="sim_default_freedom_trader_task_6_text">
+		<text>%s z lokacji %s chce, abyś oskórował świeżo upolowane mutanty i pozyskał %s.</text>
+	</string>
+	<string id="sim_default_freedom_trader_task_6_about">
+		<text>Mam dla ciebie idealną robotę, stary. O ile nie obsrasz się na widok paru mutantów. Zainteresowany?</text>
+	</string>
+	<string id="sim_default_freedom_trader_task_6_fetch_about">
+		<text>Od czasu do czasu chłopaki przynoszą do mnie to, co uda im się upolować. Ostatnio chyba się tym znudzili, bo dostaję coraz mniej mięsa - więc jeśli nie masz nic innego do roboty to potrzebowałbym %s. Mamy tu takiego jednego, dość szczwanego parzygnata, może być surowizna.</text>
+	</string>
+	<string id="sim_default_freedom_trader_task_6_fetch_finish">
+		<text>Super, świetny z ciebie łowca! A tu mam twoją nagrodę.</text>
+	</string>
+	
+	<!-- ELIMINATE MUTANTS FOR FREEDOM TASK -->
+	<string id="sim_default_freedom_trader_task_7_name">
+		<text>Pozbądź się mutantów dla Wolności</text>
+	</string>
+	<string id="sim_default_freedom_trader_task_7_text">
+		<text>Oczyść ten obszar poprzez eliminację mutantów.</text>
+	</string>
+	<string id="sim_default_freedom_trader_task_7_about">
+		<text>Chciałbym, aby ktoś pozbył się mutantów w tej okolicy. Nawet nie zdajesz sobie sprawy, ile problemów sprawiają naszym ludziom. Jestem gotów dobrze zapłacić za pozbycie się ich. Zajmiesz się tym?</text>
+	</string>
+	<string id="sim_default_freedom_trader_task_7_finish">
+		<text>Dobra robota, stary! Oto nagroda, którą ci obiecałem.</text>
+	</string>
+	
+	<!-- FIND LEVEL 1 TOOLS FOR FREEDOM MECHANICS TASK -->
+	<string id="sim_default_freedom_mechanic_task_1_name">
+		<text>Znajdź %s dla mechaników Wolności</text>
+	</string>
+	<string id="sim_default_freedom_mechanic_task_1_text">
+		<text>%s są potrzebne mechanikom Wolności, by zastąpić nimi swoje stare narzędzia. Jeśli uda ci się jakieś znaleźć, powinieneś dostarczyć je do któregokolwiek z techników frakcji.</text>
+	</string>
+	<string id="sim_default_freedom_mechanic_task_1_about">
+		<text>Joł, stary. Interesowała by cię mała robótka dla mnie? Potrzebuję konkretnych narzędzi, by móc dokonywać napraw broni.</text>
+	</string>
+	<string id="sim_default_freedom_mechanic_task_1_fetch_about">
+		<text>Słuchaj, ziom, potrzebne nam nowe narzędzia do pracy, ale ci debile wolą się upalić, niż pomóc nam znaleźć zamienniki. Znajdź dla nas nowy zestaw narzędzi podstawowych, a jak już taki zdobędziesz, to dostarcz go do któregoś z mechaników Wolności. Możemy na ciebie liczyć?</text>
+	</string>
+	<string id="sim_default_freedom_mechanic_task_1_fetch_finish">
+		<text>Dzięki, stary! Widzę, że poproszenie cię o pomoc nie było błędem. Wyglądasz mi na takiego, co to wszystko potrafi znaleźć. W ramach nagrody możesz liczyć na zniżkę u każdego z naszych mechaników.</text>
+	</string>
+
+	<!-- FIND LEVEL 2 TOOLS FOR FREEDOM MECHANICS TASK -->
+	<string id="sim_default_freedom_mechanic_task_2_name">
+		<text>Znajdź %s dla mechaników Wolności</text>
+	</string>
+	<string id="sim_default_freedom_mechanic_task_2_text">
+		<text>%s są potrzebne mechanikom Wolności, by zastąpić nimi swoje stare narzędzia. Jeśli uda ci się jakieś znaleźć, powinieneś dostarczyć je do któregokolwiek z techników frakcji.</text>
+	</string>
+	<string id="sim_default_freedom_mechanic_task_2_about">
+		<text>Haha, wstyd pytać, ale przydałyby nam się nowe narzędzia. Ostatnio przyniosłeś świetny zestaw, ale przydałby się lepszy. Jesteś w stanie pomóc raz jeszcze?</text>
+	</string>
+	<string id="sim_default_freedom_mechanic_task_2_fetch_about">
+		<text>Aktualnie potrzebny nam zestaw narzędzi zaawansowanych. Będziemy wdzięczni, jeśli znajdziesz nam jakiś.</text>
+	</string>
+	<string id="sim_default_freedom_mechanic_task_2_fetch_finish">
+		<text>Stary, jak tak dalej pójdzie to wszyscy cię tu pokochają. Dzięki. W ramach nagrody możesz liczyć na większe zniżki u każdego z naszych mechaników.</text>
+	</string>
+
+	<!-- FIND LEVEL 3 TOOLS FOR FREEDOM MECHANICS TASK -->
+	<string id="sim_default_freedom_mechanic_task_3_name">
+		<text>Znajdź %s dla mechaników Wolności</text>
+	</string>
+	<string id="sim_default_freedom_mechanic_task_3_text">
+		<text>%s są potrzebne mechanikom Wolności, by zastąpić nimi swoje stare narzędzia. Jeśli uda ci się jakieś znaleźć, powinieneś dostarczyć je do któregokolwiek z techników frakcji.</text>
+	</string>
+	<string id="sim_default_freedom_mechanic_task_3_about">
+		<text>Haha, nie chcę zawracać ci głowy, ale przydałyby nam się nowe narzędzia. Ostatnio przyniosłeś świetny zestaw, ale przydałby się jeszcze lepszy. Jesteś w stanie pomóc nam ostatni raz?</text>
+	</string>
+	<string id="sim_default_freedom_mechanic_task_3_fetch_about">
+		<text>Potrzebujemy zestawu narzędzi precyzyjnych. To ostatni zestaw, który będzie nam potrzebny, obiecuję. Będziemy wdzięczni, jeśli znajdziesz jakiś dla nas.</text>
+	</string>
+	<string id="sim_default_freedom_mechanic_task_3_fetch_finish">
+		<text>Dzięki, stary. W ramach nagrody masz u nasz kolejną zniżkę.</text>
+	</string>
+
+	<!--/////////////////////////////////// MONOLITH WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+	
+	<!-- ASSAULT TERRITORY FOR MONOLITH TASK -->
+	<string id="sim_default_monolith_trader_task_1_name">
+		<text>Podbij wroga</text>
+	</string>
+	<string id="sim_default_monolith_trader_task_1_text">
+		<text>Zlecono ci oczyszczenie wyznaczonego obszaru dla chwały Wielkiego Monolitu. Zamelduj Królikowi o wykonaniu zadania.</text>
+	</string>
+	<string id="sim_default_monolith_trader_task_1_about">
+		<text>Mam dla ciebie ważne zadanie. Musisz udać się do Zony i oczyścić wskazany obszar, by mogły go zająć nasze oddziały. Jesteś gotów?</text>
+	</string>
+	<string id="sim_default_monolith_trader_task_1_finish">
+		<text>Wykonałeś zadanie? Dobrze. Chwała Monolitowi.</text>
+	</string>
+
+	<!-- ASSASSINATION FOR MONOLITH TASK -->
+	<string id="sim_default_monolith_trader_task_2_name">
+		<text>Zabij niewiernego</text>
+	</string>
+	<string id="sim_default_monolith_trader_task_2_text">
+		<text>Pewien stalker próbuje wyłączyć Mózgozwęglacz. %s z lokacji %s zlecił ci zabicie go.</text>
+	</string>
+	<string id="sim_default_monolith_trader_task_2_about">
+		<text>Pewnie zdajesz sobie sprawę, jak wielkie zagrożenie dla darów Zony niesie obecność niewiernych. Jeden z nich planuje wyłączyć Mózgozwęglacz. Musisz go powstrzymać. Znajdź i zniszcz go.</text>
+	</string>
+	<string id="sim_default_monolith_trader_task_2_finish">
+		<text>Dobrze się spisałeś. Nasze bractwo jest zadowolone.</text>
+	</string>
+
+	<!-- FIND WEAPON FOR MONOLITH TASK -->
+	<string id="sim_default_monolith_trader_task_3_name">
+		<text>Znajdź %s dla Monolitu</text>
+	</string>
+	<string id="sim_default_monolith_trader_task_3_text">
+		<text>%s z lokacji %s poprosił o uzupełnienie arsenału Monolitu o nową broń.</text>
+	</string>
+	<string id="sim_default_monolith_trader_task_3_about">
+		<text>Z każdym dniem rośniemy w siłę, ale by osiągnąć nasze cele potrzebny nam nowy oręż. Musisz znaleźć dla nas nową broń, byśmy mogli sukcesywnie powiększać nasz arsenał.</text>
+	</string>
+	<string id="sim_default_monolith_trader_task_3_fetch_about">
+		<text>Znajdź nowy %s i przynieś do mnie.</text>
+	</string>
+	<string id="sim_default_monolith_trader_task_3_fetch_finish">
+		<text>Zdecydowanie się nada.</text>
+	</string>
+
+	<!-- FIND MUTANT MEAT FOR MONOLITH TASK -->
+	<string id="sim_default_monolith_trader_task_4_name">
+		<text>Dziczyzna</text>
+	</string>
+	<string id="sim_default_monolith_trader_task_4_text">
+		<text>%s z lokacji %s kazał ci zdobyć %s.</text>
+	</string>
+	<string id="sim_default_monolith_trader_task_4_about">
+		<text>Kończą nam się zapasy. Musisz wyruszyć do Zony na polowanie, by twoi bracia z Monolitu mogli ucztować.</text>
+	</string>
+	<string id="sim_default_monolith_trader_task_4_fetch_about">
+		<text>Zapoluj i przynieś nam %s. Pamiętaj jednak, że te stworzenia to dar od Zony. Zabij je szybko, a następnie podziękuj Wielkiemu Monolitowi za ten dar. Jak tylko tego dokonasz wróć do mnie z mięsem.</text>
+	</string>
+	<string id="sim_default_monolith_trader_task_4_fetch_finish">
+		<text>Udało ci się wykonać zadanie. Dobra robota.</text>
+	</string>
+
+	<!-- FIND SUPPLIES FOR MONOLITH TASK -->
+	<string id="sim_default_monolith_trader_task_5_name">
+		<text>Zdobądź %s dla Monolitu</text>
+	</string>
+	<string id="sim_default_monolith_trader_task_5_text">
+		<text>%s z lokacji %s chce, abyś zdobył %s.</text>
+	</string>
+	<string id="sim_default_monolith_trader_task_5_about">
+		<text>Musisz zdobyć dla nas więcej zapasów, abyśmy mogli kontynuować nasze wielkie przedsięwzięcie.</text>
+	</string>
+	<string id="sim_default_monolith_trader_task_5_fetch_about">
+		<text>Zdobądź %s i przynieś do mnie.</text>
+	</string>
+	<string id="sim_default_monolith_trader_task_5_fetch_finish">
+		<text>Dobrze się spisałeś, sługo Monolitu.</text>
+	</string>
+
+	<!-- FIND ARTEFACT FOR MONOLITH TASK -->
+	<string id="sim_default_monolith_trader_task_6_name">
+		<text>Znajdź artefakt %s dla Monolitu</text>
+	</string>
+	<string id="sim_default_monolith_trader_task_6_text">
+		<text>%s z lokacji %s chce, abyś odnalazł artefakt %s.</text>
+	</string>
+	<string id="sim_default_monolith_trader_task_6_about">
+		<text>Musimy znaleźć kolejny artefakt, by złożyć go w ofierze. Pomożesz służyć dobru Wielkiego Monolitu?</text>
+	</string>
+	<string id="sim_default_monolith_trader_task_6_fetch_about">
+		<text>Znajdź artefakt %s. Jak tylko go znajdziesz, dostarcz go mnie, byśmy mogli przeprowadzić obrzędy.</text>
+	</string>
+	<string id="sim_default_monolith_trader_task_6_fetch_finish">
+		<text>Dobrze służysz Monolitowi. Dołącz do nas dzisiejszej nocy podczas obrzędu składania ofiary. Będziemy świętować.</text>
+	</string>
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR MONOLITH MECHANICS TASK -->
+	<string id="sim_default_monolith_mechanic_task_1_name">
+		<text>Znajdź %s dla mechaników Monolitu</text>
+	</string>
+	<string id="sim_default_monolith_mechanic_task_1_text">
+		<text>%s są potrzebne mechanikom Monolitu do zastąpienia wysłużonych. Jeśli uda ci się jakieś odnaleźć, to powinieneś dostarczyć je mechanikom Monolitu.</text>
+	</string>
+	<string id="sim_default_monolith_mechanic_task_1_about">
+		<text>Chciałbym, żebyś coś dla mnie zrobił. Potrzebne mi specyficzne narzędzia, bym mógł modyfikować naszą broń.</text>
+	</string>
+	<string id="sim_default_monolith_mechanic_task_1_fetch_about">
+		<text>Okej, potrzebne nam nowe narzędzia, byśmy mogli dokonywać bardziej złożonych udoskonaleń naszej broni. Znajdź nowy zestaw narzędzi podstawowych. Ruszaj.</text>
+	</string>
+	<string id="sim_default_monolith_mechanic_task_1_fetch_finish">
+		<text>Dobrze się spisałeś. Dostaniesz od nas zniżkę w ramach wynagrodzenia.</text>
+	</string>
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR MONOLITH MECHANICS TASK -->
+	<string id="sim_default_monolith_mechanic_task_2_name">
+		<text>Znajdź %s dla mechaników Monolitu</text>
+	</string>
+	<string id="sim_default_monolith_mechanic_task_2_text">
+		<text>%s są potrzebne mechanikom Monolitu do zastąpienia wysłużonych. Jeśli uda ci się jakieś odnaleźć, to powinieneś dostarczyć je mechanikom Monolitu.</text>
+	</string>
+	<string id="sim_default_monolith_mechanic_task_2_about">
+		<text>Potrzebuję nowych narzędzi. Lepszych, gwoli ścisłości. Czy jesteś w stanie ponownie znaleźć to czego potrzebuję?</text>
+	</string>
+	<string id="sim_default_monolith_mechanic_task_2_fetch_about">
+		<text>Potrzebujemy kolejnych narzędzi. Znajdź zestaw narzędzi zaawansowanych. Ruszaj.</text>
+	</string>
+	<string id="sim_default_monolith_mechanic_task_2_fetch_finish">
+		<text>Dobrze. Przyniosłeś to, czego potrzebowaliśmy. Jako wynagrodzenie możesz liczyć na większą zniżkę.</text>
+	</string>
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR MONOLITH MECHANICS TASK -->
+	<string id="sim_default_monolith_mechanic_task_3_name">
+		<text>Znajdź %s dla mechaników Monolitu</text>
+	</string>
+	<string id="sim_default_monolith_mechanic_task_3_text">
+		<text>%s są potrzebne mechanikom Monolitu do zastąpienia wysłużonych. Jeśli uda ci się jakieś odnaleźć, to powinieneś dostarczyć je mechanikom Monolitu.</text>
+	</string>
+	<string id="sim_default_monolith_mechanic_task_3_about">
+		<text>Potrzebuję nowych narzędzi, mam na myśli jeszcze lepsze niż ostatnio. Czy jesteś w stanie po raz ostatni znaleźć to, czego potrzebuję?</text>
+	</string>
+	<string id="sim_default_monolith_mechanic_task_3_fetch_about">
+		<text>Potrzebujemy kolejnych narzędzi. Znajdź zestaw narzędzi precyzyjnych. Powinien zawierać to czego aktualnie potrzebujemy. Ruszaj.</text>
+	</string>
+	<string id="sim_default_monolith_mechanic_task_3_fetch_finish">
+		<text>Chwała Monolitowi! Przyniosłeś to czego szukaliśmy. Jako wynagrodzenie możesz liczyć na jeszcze większą zniżkę.</text>
+	</string>
+	
+	<!--/////////////////////////////////// ECOLOGISTS WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+	
+	<!-- ESCORT ECOGS TASK -->
+	<string id="sim_default_ecolog_trader_task_1_name">
+		<text>Eskortuj Naukowców</text>
+	</string>
+	<string id="sim_default_ecolog_trader_task_1_text">
+		<text>%s z lokacji %s wynajął cię, abyś zaprowadził badaczy na stanowisko badawcze. Gdy wykonają pomiary, eskortuj ich z powrotem do obozu.</text>
+	</string>
+	<string id="sim_default_ecolog_trader_task_1_about">
+		<text>Potrzebny nam doświadczony stalker, który poprowadzi naszych kolegów na miejsce badań terenowych. Czy jesteś gotów podjąć się tego zadania?</text>
+	</string>
+	<string id="sim_default_ecolog_trader_task_1_fetch_finish">
+		<text>Dziękuję za twoją ochronę, stalkerze. Proszę, weź to na znak naszej wdzięczności.</text>
+	</string>
+	
+	<!-- FIND ARTEFACT FOR ECOGS TASK -->
+	<string id="sim_default_ecolog_trader_task_2_name">
+		<text>Znajdź artefakt %s dla Ekologów</text>
+	</string>
+	<string id="sim_default_ecolog_trader_task_2_text">
+		<text>%s z lokacji %s poprosił cię o zdobycie artefaktu %s.</text>
+	</string>
+	<string id="sim_default_ecolog_trader_task_2_about">
+		<text>Poszukujemy aktualnie konkretnych okazów artefaktów. Jeżeli jesteś zainteresowany, to powiem ci czego nam trzeba.</text>
+	</string>
+	<string id="sim_default_ecolog_trader_task_2_fetch_about">
+		<text>Chciałbym, abyś przyniósł nam artefakt %s. Słyszałeś kiedyś o nim? Dobrze za niego zapłacimy.</text>
+	</string>
+	<string id="sim_default_ecolog_trader_task_2_fetch_finish">
+		<text>Świetnie! Znalazłeś dokładnie to czego szukaliśmy.</text>
+	</string>
+	
+	<!-- FIND MUTANT PARTS FOR ECOGS TASK -->
+	<string id="sim_default_ecolog_trader_task_3_name">
+		<text>Znajdź %s dla Ekologów</text>
+	</string>
+	<string id="sim_default_ecolog_trader_task_3_text">
+		<text>%s z lokacji %s poprosił cię o zdobycie próbki tkanki: %s.</text>
+	</string>
+	<string id="sim_default_ecolog_trader_task_3_about">
+		<text>Potrzebuję doświadczonego stalkera lub łowcy mutantów. Czy jesteś jednym z nich?</text>
+	</string>
+	<string id="sim_default_ecolog_trader_task_3_fetch_about">
+		<text>Naukowcy potrzebują do pracy próbek. Teraz chcą przebadać %s. Nie interesuje mnie, w jaki sposób je zdobędziesz. Postaraj się tylko, aby były świeże. Po zdobyciu próbek wróć do mnie jak najszybciej.</text>
+	</string>
+	<string id="sim_default_ecolog_trader_task_3_fetch_finish">
+		<text>Dziękuję. To zdecydowanie pomoże w naszych badaniach.</text>
+	</string>
+	
+	<!-- ESCORT ECOGS FOR SAKHAROV TASK 
+	<string id="yan_stalker_sakharov_task_2_name">
+		<text>Eskortuj naukowców Sacharowa do %s</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_2_text">
+		<text>Sacharow wynajął cię jako przewodnika byś zaprowadził jego badaczy do wyznaczonego obszaru w ramach przeprowadzenia badań %s. Po sukcesywnym ukończeniu przez nich badań, odprowadź ich z powrotem do obozu.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_2_about">
+		<text>Potrzebuję doświadczonego stalkera, który mógł by zabrać moich kolegów w teren, aby mogli bezpiecznie przeprowadzić badania. Podejmiesz się tego zadania?</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_2_fetch_finish">
+		<text>Dziękuję za twoją ochronę, stalkerze. Proszę weź to w ramach mojej wdzięczności.</text>
+	</string> -->
+	
+	<!-- FIND LEVEL 1 TOOLS FOR ECOLOG MECHANICS TASK -->
+	<string id="sim_default_ecolog_mechanic_task_1_name">
+		<text>Znajdź %s dla mechaników Ekologów</text>
+	</string>
+	<string id="sim_default_ecolog_mechanic_task_1_text">
+		<text>%s są potrzebne mechanikom Ekologów. Jeśli uda ci się jakieś odnaleźć, dostarcz je któremukolwiek z techników frakcji.</text>
+	</string>
+	<string id="sim_default_ecolog_mechanic_task_1_about">
+		<text>Mam dla ciebie propozycję. Jeśli dostarczysz mi nowe narzędzia, to otrzymasz zapłatę. Podejmiesz się tego?</text>
+	</string>
+	<string id="sim_default_ecolog_mechanic_task_1_fetch_about">
+		<text>W porządku. Wiesz do kogo personel naukowy przychodzi, jak zepsuje im się sprzęt, co nie? Zgadza się, do nas. Problem w tym, że nasze narzędzia są już przestarzałe i przydałyby się nowe.\n \nNa początek znajdź nam %s. Jak tylko znajdziesz jakiś zestaw, to dostarcz go do któregokolwiek z naszych mechaników. Za każdy dostarczony zestaw otrzymasz zniżkę. To co, spróbujesz?</text>
+	</string>
+	<string id="sim_default_ecolog_mechanic_task_1_fetch_finish">
+		<text>Tak jest. Dokładnie tego potrzebowaliśmy, dzięki!</text>
+	</string>
+
+	<!-- FIND LEVEL 2 TOOLS FOR ECOLOG MECHANICS TASK -->
+	<string id="sim_default_ecolog_mechanic_task_2_name">
+		<text>Znajdź %s dla mechaników Ekologów</text>
+	</string>
+	<string id="sim_default_ecolog_mechanic_task_2_text">
+		<text>%s są potrzebne mechanikom Ekologów. Jeśli uda ci się jakieś odnaleźć, dostarcz je któremukolwiek z techników frakcji.</text>
+	</string>
+	<string id="sim_default_ecolog_mechanic_task_2_about">
+		<text>Mam kolejną propozycję. Ten zestaw, który przyniosłeś jest okej, ale nie ma tam wszystkiego, czego potrzebuję. Myślisz, że uda ci się znaleźć coś lepszego?</text>
+	</string>
+	<string id="sim_default_ecolog_mechanic_task_2_fetch_about">
+		<text>%s teraz są nam potrzebne. Zdobądź jeden taki zestaw, a załatwię ci zniżkę.</text>
+	</string>
+	<string id="sim_default_ecolog_mechanic_task_2_fetch_finish">
+		<text>Tak, jest tu wszystko, czego mi trzeba. Dzięki.</text>
+	</string>
+
+	<!-- FIND LEVEL 3 TOOLS FOR ECOLOG MECHANICS TASK -->
+	<string id="sim_default_ecolog_mechanic_task_3_name">
+		<text>Znajdź %s dla mechaników Ekologów</text>
+	</string>
+	<string id="sim_default_ecolog_mechanic_task_3_text">
+		<text>%s są potrzebne mechanikom Ekologów. Jeśli uda ci się jakieś odnaleźć, dostarcz je któremukolwiek z techników frakcji.</text>
+	</string>
+	<string id="sim_default_ecolog_mechanic_task_3_about">
+		<text>Mam kolejną propozycję. Ten zestaw, który przyniosłeś ostatnio jest okej, ale nie ma w nim wszystkiego, czego aktualnie potrzebujemy. Myślisz, że uda ci się znaleźć jeszcze lepszy?</text>
+	</string>
+	<string id="sim_default_ecolog_mechanic_task_3_fetch_about">
+		<text>%s teraz są nam potrzebne. Zdobądź jeden taki zestaw, a dostaniesz kolejną zniżkę.</text>
+	</string>
+	<string id="sim_default_ecolog_mechanic_task_3_fetch_finish">
+		<text>Tak, jest tu wszystko, czego kiedykolwiek będę potrzebował. Dzięki.</text>
+	</string>
+
+	<!--/////////////////////////////////// RENEGADE WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+	
+	<!-- ASSASSIATION FOR RENEGADES TASK -->
+	<string id="sim_default_renegade_trader_task_1_name">
+		<text>Wyeliminuj cel dla Renegatów</text>
+	</string>
+	<string id="sim_default_renegade_trader_task_1_text">
+		<text>Znajdź i wyeliminuj cel, a następnie wróć do %s z lokacji %s po nagrodę.</text>
+	</string>
+	<string id="sim_default_renegade_trader_task_1_about">
+		<text>W Zonie jest wielu ludzi, którzy okazali mi brak szacunku lub potraktowali w paskudny sposób. Niektórzy z tych chujków wiszą mi kasę, inni olali moje zlecenia. Są jak szczury, które trzeba rozdeptać. Jeśli chcesz tą robotę, to podam ci informacje na ich temat, dzięki czemu wyśledzisz ich przez GPS.</text>
+	</string>
+	<string id="sim_default_renegade_trader_task_1_finish">
+		<text>Świetna robota! A oto małe co nieco za twój wysiłek.</text>
+	</string>
+	
+	<!-- ELIMINATE MUTANTS FOR RENEGADES TASK -->
+	<string id="sim_default_renegade_trader_task_2_name">
+		<text>Pozbądź się mutantów dla Renegatów</text>
+	</string>
+	<string id="sim_default_renegade_trader_task_2_text">
+		<text>Niedaleko tego obszaru zaobserwowano mutanty. Zlecono ci pozbycie się zagrożenia. Po wykonaniu zadania wróć do: %s w lokacji %s.</text>
+	</string>
+	<string id="sim_default_renegade_trader_task_2_about">
+		<text>Szukamy kogoś, kto ma na tyle duże jaja, by pozbyć się mutantów z paru miejsc. Stalkerzyny na ich widok spierdalają, aż się kurzy. Jeśli nic z tym nie zrobimy, skończy się tak, że nie będzie klienteli do obrabiania i będzie trzeba rozejrzeć się za nową miejscówką.</text>
+	</string>
+	<string id="sim_default_renegade_trader_task_2_finish">
+		<text>Fantastycznie! Trzymaj swoją nagrodę. Szepnę szefowi dobre słówko na twój temat.</text>
+	</string>
+
+
+	<!-- DEFEND TERRITORY FOR RENEGADES TASK -->
+	<string id="sim_default_renegade_trader_task_3_name">
+		<text>Pozbądź się wrogów dla Renegatów</text>
+	</string>
+	<string id="sim_default_renegade_trader_task_3_text">
+		<text>Zlecono ci pozbycie się lokalnego zagrożenia. Po wykonaniu zadania wróć do: %s w lokacji %s.</text>
+	</string>
+	<string id="sim_default_renegade_trader_task_3_about">
+		<text>Te kurwy zajmują nasz teren. Szef kazał mi zrekrutować kogoś nowego, kto ma na tyle duże jaja, że odzyska niektóre z tych obozów. To co powiesz? Masz wystarczająco włosów na klacie, aby sobie z tym poradzić?</text>
+	</string>
+	<string id="sim_default_renegade_trader_task_3_finish">
+		<text>Fantastycznie! Oto nagroda. Szepnę szefowi kolejne dobre słówko na twój temat.</text>
+	</string>
+
+	<!-- ASSASSINATION FOR RENEGADES TASK -->
+	<string id="sim_default_renegade_trader_task_4_name">
+		<text>Morderca na zlecenie</text>
+	</string>
+	<string id="sim_default_renegade_trader_task_4_text">
+		<text>%s z lokacji %s wynajął cię do zabójstwa. Znajdź i wyeliminuj cel, a następnie wróć do niego po nagrodę.</text>
+	</string>
+	<string id="sim_default_renegade_trader_task_4_about">
+		<text>Mam tu listę ludzi, którzy źle mnie potraktowali. Chcę, żebyś się ich pozbył. Co ty na to?</text>
+	</string>
+	<string id="sim_default_renegade_trader_task_4_finish">
+		<text>Dobrze, pozbyłeś się skurwiela! Trzymaj kasę, dotrzymuję złożonych obietnic.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR RENEGADE MECHANICS -->
+	<string id="sim_default_renegade_mechanic_task_1_name">
+		<text>Znajdź %s dla mechaników Renegatów</text>
+	</string>
+	<string id="sim_default_renegade_mechanic_task_1_text">
+		<text>%s są potrzebne mechanikom Renegatów do zastąpienia szajsu, z którego aktualnie korzystają. Jeśli uda ci się jakieś odnaleźć, to powinieneś dostarczyć je do któregokolwiek technika frakcji.</text>
+	</string>
+	<string id="sim_default_renegade_mechanic_task_1_about">
+		<text>Stary, desperacko poszukuję nowych narzędzi. Nie mogę pracować tym zardzewiałym gównem, a do tego kończy mi się olej do konserwacji broni. Jeśli jesteś zainteresowany pomocą, to powiem ci czego potrzebuję.</text>
+	</string>
+	<string id="sim_default_renegade_mechanic_task_1_fetch_about">
+		<text>Ziomuś, potrzebujemy lepszych narzędzi. Kurewsko ciężko jakieś znaleźć, gdy strzela do ciebie każdy napotkany w Zonie sukinsyn. Póki co potrzebny nam tylko zestaw narzędzi podstawowych. Jak znajdziesz nam jeden i przyniesiesz któremuś z naszych mechaników, to dostaniesz zniżkę. Piszesz się na to, ziom?</text>
+	</string>
+	<string id="sim_default_renegade_mechanic_task_1_fetch_finish">
+		<text>Super! Dokładnie tego potrzebowałem, stary. Dam znać reszcie naszych mechaników, żeby dali ci zniżkę.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR RENEGADE MECHANICS -->
+	<string id="sim_default_renegade_mechanic_task_2_name">
+		<text>Znajdź %s dla mechaników Renegatów</text>
+	</string>
+	<string id="sim_default_renegade_mechanic_task_2_text">
+		<text>%s są potrzebne mechanikom Renegatów do zastąpienia szajsu, z którego aktualnie korzystają. Jeśli uda ci się jakieś odnaleźć, to powinieneś dostarczyć je do któregokolwiek technika frakcji.</text>
+	</string>
+	<string id="sim_default_renegade_mechanic_task_2_about">
+		<text>Mam kolejną propozycję. Ten zestaw, który przyniosłeś jest okej, ale nie ma tam wszystkiego, czego potrzebuję. Myślisz, że uda ci się znaleźć coś lepszego?</text>
+	</string>
+	<string id="sim_default_renegade_mechanic_task_2_fetch_about">
+		<text>%s teraz są nam potrzebne. Zdobądź jeden taki zestaw, a załatwię ci kolejną zniżkę.</text>
+	</string>
+	<string id="sim_default_renegade_mechanic_task_2_fetch_finish">
+		<text>Znów ci się udało! Dobra robota, stary, trzymaj trochę kasy. Pogadałem z resztą naszych mechaników, więc masz teraz u każdego większą zniżkę.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR RENEGADE MECHANICS -->
+	<string id="sim_default_renegade_mechanic_task_3_name">
+		<text>Znajdź %s dla mechaników Renegatów</text>
+	</string>
+	<string id="sim_default_renegade_mechanic_task_3_text">
+		<text>%s są potrzebne mechanikom Renegatów do zastąpienia szajsu, z którego aktualnie korzystają. Jeśli uda ci się jakieś odnaleźć, to powinieneś dostarczyć je do któregokolwiek technika frakcji.</text>
+	</string>
+	<string id="sim_default_renegade_mechanic_task_3_about">
+		<text>Mam kolejną propozycję. Ten zestaw, który przyniosłeś jest okej, ale nie ma tam wszystkiego, czego potrzebuję. Myślisz, że uda ci się znaleźć coś lepszego?</text>
+	</string>
+	<string id="sim_default_renegade_mechanic_task_3_fetch_about">
+		<text>Aktualnie potrzebne nam %s. Powinny zawierać wszystko, co będzie nam potrzebne. Nie mam pojęcia, gdzie można takie zdobyć, ale jeśli uda ci się takie znaleźć, pamiętaj o nas.</text>
+	</string>
+	<string id="sim_default_renegade_mechanic_task_3_fetch_finish">
+		<text>Po raz kolejny ci się udało! Super robota, stary, teraz mamy wszystko czego nam potrzeba. Za wykonaną robotę masz od teraz u każdego naszego mechanika jeszcze większą zniżkę.</text>
+	</string>
+	
+	
+	<!--/////////////////////////////////// SIN WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+	
+	<!-- ASSAULT TERRITORY FOR SIN TASK -->
+	<string id="sim_default_greh_trader_task_1_name">
+		<text>Pokonaj wroga</text>
+	</string>
+	<string id="sim_default_greh_trader_task_1_text">
+		<text>Zlecono ci oczyszczenie wyznaczonego obszaru dla dobra sprawy, za którą walczy Grzech. Zamelduj o wykonaniu zadania po wyeliminowaniu wszystkich wrogo nastawionych jednostek.</text>
+	</string>
+	<string id="sim_default_greh_trader_task_1_about">
+		<text>Mam dla ciebie bardzo ważne zadanie, bracie. Musisz wyruszyć w Zonę i oczyścić ten obszar, by mogły zająć go nasze oddziały. Gotowy?</text>
+	</string>
+	<string id="sim_default_greh_trader_task_1_finish">
+		<text>Wykonałeś zadanie? Dobrze. Chwała Grzechowi.</text>
+	</string>
+
+	<!-- ASSASSINATION FOR SIN TASK -->
+	<string id="sim_default_greh_trader_task_2_name">
+		<text>Zabij niewiernego</text>
+	</string>
+	<string id="sim_default_greh_trader_task_2_text">
+		<text>Jakiś stalker próbuje dezaktywować Mózgozwęglacz. %s z lokacji %s rozkazał ci zabicie go.</text>
+	</string>
+	<string id="sim_default_greh_trader_task_2_about">
+		<text>Pewnie zdajesz sobie sprawę, jak wielkie zagrożenie dla darów Zony niesie obecność niewiernych. Jeden z nich planuje wyłączyć Mózgozwęglacz. Musisz go powstrzymać. Znajdź i zniszcz go.</text>
+	</string>
+	<string id="sim_default_greh_trader_task_2_finish">
+		<text>Spisałeś się. Na pewno ucieszy to twoich współbraci.</text>
+	</string>
+
+	<!-- FIND WEAPON FOR SIN TASK -->
+	<string id="sim_default_greh_trader_task_3_name">
+		<text>Znajdź %s dla Grzechu</text>
+	</string>
+	<string id="sim_default_greh_trader_task_3_text">
+		<text>%s z lokacji %s poprosił o zdobycie nowej broni w celu powiększenia arsenału Grzechu.</text>
+	</string>
+	<string id="sim_default_greh_trader_task_3_about">
+		<text>Codziennie rośniemy w siłę, bracie. By osiągnąć założone przez nas cele potrzebujemy więcej broni. Musisz znaleźć dla nas nowy oręż, byśmy mogli sukcesywnie powiększać nasz arsenał.</text>
+	</string>
+	<string id="sim_default_greh_trader_task_3_fetch_about">
+		<text>Znajdź nowy %s i przynieś do mnie.</text>
+	</string>
+	<string id="sim_default_greh_trader_task_3_fetch_finish">
+		<text>Zdecydowanie się nada.</text>
+	</string>
+
+	<!-- FIND MUTANT MEAT FOR SIN TASK -->
+	<string id="sim_default_greh_trader_task_4_name">
+		<text>Dziczyzna</text>
+	</string>
+	<string id="sim_default_greh_trader_task_4_text">
+		<text>%s z lokacji %s rozkazał ci zdobyć %s.</text>
+	</string>
+	<string id="sim_default_greh_trader_task_4_about">
+		<text>Bracie, powoli kończą nam się zapasy. Musisz wyruszyć w Zonę i zdobyć mięso, by twoi bracia z Grzechu mogli ucztować.</text>
+	</string>
+	<string id="sim_default_greh_trader_task_4_fetch_about">
+		<text>Upoluj mutanty i przynieś nam %s. Pamiętaj jednak o tym, że to Zona obdarzyła nas tymi stworzeniami. Podziękuj jej za to, a potem szybko zabij zwierzę tak, by nie cierpiało. Jeśli ci się powiedzie, przynieś do mnie ich dary.</text>
+	</string>
+	<string id="sim_default_greh_trader_task_4_fetch_finish">
+		<text>Udało ci się ukończyć zadanie. Dobra robota.</text>
+	</string>
+
+	<!-- FIND SUPPLIES FOR SIN TASK -->
+	<string id="sim_default_greh_trader_task_5_name">
+		<text>Pozyskaj %s dla Grzechu</text>
+	</string>
+	<string id="sim_default_greh_trader_task_5_text">
+		<text>%s z lokacji %s chce, abyś pozyskał %s.</text>
+	</string>
+	<string id="sim_default_greh_trader_task_5_about">
+		<text>Bracie! Musisz pozyskać dla nas więcej zapasów, byśmy mogli kontynuować nasze wielkie dzieło.</text>
+	</string>
+	<string id="sim_default_greh_trader_task_5_fetch_about">
+		<text>Pozyskaj %s i przynieś do mnie.</text>
+	</string>
+	<string id="sim_default_greh_trader_task_5_fetch_finish">
+		<text>Przysłużyłeś się naszej sprawie, dziękuję.</text>
+	</string>
+
+	<!-- FIND ARTEFACT FOR SIN TASK -->
+	<string id="sim_default_greh_trader_task_6_name">
+		<text>Znajdź artefakt %s dla Grzechu</text>
+	</string>
+	<string id="sim_default_greh_trader_task_6_text">
+		<text>%s z lokacji %s chce, abyś znalazł artefakt %s.</text>
+	</string>
+	<string id="sim_default_greh_trader_task_6_about">
+		<text>Bracie, potrzebny nam kolejny artefakt, byśmy mogli złożyć go w ofierze. Pomożesz naszemu bractwu?</text>
+	</string>
+	<string id="sim_default_greh_trader_task_6_fetch_about">
+		<text>Znajdź artefakt %s. Przynieś mi go, abyśmy mogli rozpocząć ceremonię.</text>
+	</string>
+	<string id="sim_default_greh_trader_task_6_fetch_finish">
+		<text>Przysłużyłeś się naszej sprawie. Przyłącz się dzisiejszej nocy do swych braci podczas ceremonii, a następnie świętuj razem z nimi.</text>
+	</string>
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR SIN MECHANICS TASK -->
+	<string id="sim_default_greh_mechanic_task_1_name">
+		<text>Znajdź %s dla mechaników Grzechu</text>
+	</string>
+	<string id="sim_default_greh_mechanic_task_1_text">
+		<text>%s są potrzebne mechanikom Grzechu do zastąpienia starych. Jeśli uda ci się jakieś odnaleźć, dostarcz je do któregokolwiek technika frakcji.</text>
+	</string>
+	<string id="sim_default_greh_mechanic_task_1_about">
+		<text>Jest coś co możesz dla mnie zrobić. Potrzebuję konkretnych narzędzi do pracy z bronią.</text>
+	</string>
+	<string id="sim_default_greh_mechanic_task_1_fetch_about">
+		<text>Okej, potrzebne nam nowe narzędzia byśmy mogli bardziej wydajnie pracować nad bronią. Znajdź nam zestaw narzędzi podstawowych. Możesz ruszać.</text>
+	</string>
+	<string id="sim_default_greh_mechanic_task_1_fetch_finish">
+		<text>Dobrze się spisałeś. Możesz liczyć na zniżkę w ramach podziękowania za pomoc.</text>
+	</string>
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR SIN MECHANICS TASK -->
+	<string id="sim_default_greh_mechanic_task_2_name">
+		<text>Znajdź %s dla mechaników Grzechu</text>
+	</string>
+	<string id="sim_default_greh_mechanic_task_2_text">
+		<text>%s są potrzebne mechanikom Grzechu do zastąpienia starych. Jeśli uda ci się jakieś odnaleźć, dostarcz je do któregokolwiek technika frakcji.</text>
+	</string>
+	<string id="sim_default_greh_mechanic_task_2_about">
+		<text>Potrzebne nam nowe narzędzia, mam na myśli lepsze od tych, które przyniosłeś ostatnio. Jesteś w stanie ponownie nam pomóc?</text>
+	</string>
+	<string id="sim_default_greh_mechanic_task_2_fetch_about">
+		<text>Potrzebujemy więcej narzędzi. Znajdź dla nas zestaw narzędzi zaawansowanych. Możesz ruszać.</text>
+	</string>
+	<string id="sim_default_greh_mechanic_task_2_fetch_finish">
+		<text>Dobrze. Przyniosłeś to, o co prosiliśmy. W podzięce możesz liczyć na większą zniżkę.</text>
+	</string>
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR SIN MECHANICS TASK -->
+	<string id="sim_default_greh_mechanic_task_3_name">
+		<text>Znajdź %s dla mechaników Grzechu</text>
+	</string>
+	<string id="sim_default_greh_mechanic_task_3_text">
+		<text>%s są potrzebne mechanikom Grzechu do zastąpienia starych. Jeśli uda ci się jakieś odnaleźć, dostarcz je do któregokolwiek technika frakcji.</text>
+	</string>
+	<string id="sim_default_greh_mechanic_task_3_about">
+		<text>Po raz kolejny potrzebne nam są narzędzia, lepsze od poprzednich. Jesteś w stanie pomóc nam po raz ostatni?</text>
+	</string>
+	<string id="sim_default_greh_mechanic_task_3_fetch_about">
+		<text>Znajdź nam zestaw narzędzi precyzyjnych. Powinny zawierać wszystko ,co będzie nam potrzebne do napraw. Ruszaj, bracie.</text>
+	</string>
+	<string id="sim_default_greh_mechanic_task_3_fetch_finish">
+		<text>Dobrze. Po raz kolejny przyniosłeś nam to czego potrzebowaliśmy. W nagrodę możesz liczyć na jeszcze większą zniżkę na nasze usługi.</text>
+	</string>
+	
+	<!--/////////////////////////////////// ISG WARFARE TASKS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+	
+	<!-- FIND LEVEL 1 TOOLS FOR ISG MECHANICS TASK -->
+	<string id="sim_default_isg_mechanic_task_1_name">
+		<text>Znajdź %s dla mechaników UNISG</text>
+	</string>
+	<string id="sim_default_isg_mechanic_task_1_text">
+		<text>%s są potrzebne mechanikom UNISG jako zamiennik tych, których aktualnie używają. Jeśli uda ci się jakieś odnaleźć, dostarcz je któremukolwiek z techników frakcji.</text>
+	</string>
+	<string id="sim_default_isg_mechanic_task_1_about">
+		<text>Mam dla ciebie propozycję. Jeśli przyniesiesz mi nowe narzędzia, to zarobisz parę groszy. Poradzisz sobie z tym?</text>
+	</string>
+	<string id="sim_default_isg_mechanic_task_1_fetch_about">
+		<text>%s - wszędzie ich szukamy. Zestaw powinien zawierać narzędzia i oleje, które będą nam potrzebne przy pracy nad bronią. Zapłacimy ci za jeden z tych zestawów, jeśli dostarczysz go któremuś z naszych chłopaków, wliczając w to mnie. W ramach wdzięczności będziesz miał zniżkę na nasze usługi za każdy przyniesiony zestaw. To jak będzie? Pomożesz nam?</text>
+	</string>
+	<string id="sim_default_isg_mechanic_task_1_fetch_finish">
+		<text>To jest dokładnie to, czego szukaliśmy, dzięki!</text>
+	</string>
+
+	<!-- FIND LEVEL 2 TOOLS FOR ISG MECHANICS TASK -->
+	<string id="sim_default_isg_mechanic_task_2_name">
+		<text>Znajdź %s dla mechaników UNISG</text>
+	</string>
+	<string id="sim_default_isg_mechanic_task_2_text">
+		<text>%s są potrzebne mechanikom UNISG jako zamiennik tych, których aktualnie używają. Jeśli uda ci się jakieś odnaleźć, dostarcz je któremukolwiek z techników frakcji.</text>
+	</string>
+	<string id="sim_default_isg_mechanic_task_2_about">
+		<text>Mam kolejną propozycję. Ten zestaw, który przyniosłeś jest okej, ale nie ma tam wszystkiego, czego potrzebuję. Myślisz, że uda ci się znaleźć coś lepszego?</text>
+	</string>
+	<string id="sim_default_isg_mechanic_task_2_fetch_about">
+		<text>%s są nam teraz potrzebne. Zdobądź jeden taki zestaw, a załatwię ci większą zniżkę.</text>
+	</string>
+	<string id="sim_default_isg_mechanic_task_2_fetch_finish">
+		<text>Tak, jest tu wszystko, czego na razie potrzebujemy. Dzięki.</text>
+	</string>
+
+	<!-- FIND LEVEL 3 TOOLS FOR ISG MECHANICS TASK -->
+	<string id="sim_default_isg_mechanic_task_3_name">
+		<text>Znajdź %s dla mechaników UNISG</text>
+	</string>
+	<string id="sim_default_isg_mechanic_task_3_text">
+		<text>%s są potrzebne mechanikom UNISG jako zamiennik tych, których aktualnie używają. Jeśli uda ci się jakieś odnaleźć, dostarcz je któremukolwiek z techników frakcji.</text>
+	</string>
+	<string id="sim_default_isg_mechanic_task_3_about">
+		<text>Mam kolejną propozycję. Ten zestaw, który przyniosłeś ostatnio jest okej, ale nie zawiera wszystkiego, czego potrzebuję. Myślisz, że uda ci się znaleźć coś lepszego?</text>
+	</string>
+	<string id="sim_default_isg_mechanic_task_3_fetch_about">
+		<text>%s są nam teraz potrzebne. Zdobądź taki zestaw, a załatwię ci jeszcze większą zniżkę u chłopaków.</text>
+	</string>
+	<string id="sim_default_isg_mechanic_task_3_fetch_finish">
+		<text>Tak, jest tu wszystko, co będzie nam potrzebne. Dzięki.</text>
+	</string>
+
+</string_table>

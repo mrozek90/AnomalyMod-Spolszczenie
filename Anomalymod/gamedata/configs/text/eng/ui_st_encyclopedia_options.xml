@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	
+	<string id="encyclopedia_options">
+		<text>Opcje</text>
+	</string>
+	
+	<string id="encyclopedia_options_ai_die_to_anomalies">
+		<text>AI giną w anomaliach</text>
+	</string>
+	<string id="encyclopedia_options_ai_die_to_anomalies_text">
+		<text>%c[pda_white]AI giną w anomaliach%c[ui_gray_1] usuwa anomalie jako wskaźnik wyszukiwania ścieżek dla AI.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nWłączenie tej funkcji sprawi, że mutanty i inni stalkerzy stracą możliwość całkowitego unikania anomalii.\n \nOd teraz będą zdani na łaskę Zony i swoje umiejętności w takim samym stopniu, co ty.\n \nTę funkcję można przełączyć w menu opcji. Domyślnie jest wyłączona.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_options_aoe_pickup_mode">
+		<text>Zasięg podnoszenia przedmiotów</text>
+	</string>
+	<string id="encyclopedia_options_aoe_pickup_mode_text">
+		<text>%c[pda_white]Zasięg podnoszenia przedmiotów%c[ui_gray_1] pozwala podnosić wiele przedmiotów jednocześnie.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nWłączenie tej funkcji sprawi, że będziesz mógł podnieść i umieścić w ekwipunku wiele przedmiotów pojedynczym wciśnięciem klawisza, tak jak działało to w podstawowych (niemodyfikowanych) wersjach gier S.T.A.L.K.E.R..\n \nTę funkcję można przełączyć w menu opcji. Domyślnie jest wyłączona.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_options_artefact_degradation">
+		<text>Degradacja artefaktów</text>
+	</string>
+	<string id="encyclopedia_options_artefact_degradation_text">
+		<text>%c[pda_white]Degradacja artefaktów%c[ui_gray_1] powoduje zmniejszanie się możliwości i bonusów od artefaktów, gdy są aktywne (na pasie).\n \n%c[pda_green]Informacje%c[ui_gray_1] \nWłączenie tej funkcji sprawi, że zdobycie najpotężniejszych artefaktów (dla własnych celów) nie oznacza końca gry dla ich poszukiwacza.\n \nArtefakty będą słabły w miarę używania, pchając gracza do dalszego poszukiwania i zbierania ich, zamiast traktowania tylko jak szybkie źródło przychodu.\n \nTę funkcję można przełączyć w menu opcji. Domyślnie jest włączona.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_options_delayed_repairs">
+		<text>Opóźnienie napraw</text>
+	</string>
+	<string id="encyclopedia_options_delayed_repairs_text">
+		<text>%c[pda_white]Opóźnienie napraw%c[ui_gray_1] pozwala technikom przetrzymywać twoje wyposażenie.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nWłączenie tej funkcji sprawi, że wszystkie uszkodzone przedmioty (broń, strój itd.) przyniesione technikom w celu naprawy zostaną u nich do czasu zakończenia całego procesu naprawy.\n \nPo przekazaniu przedmiotów możesz pytać techników, czy są już gotowe do odbioru lub jak dużo czasu potrzebują oni do ukończenia naprawy.\n \nFunkcja poprawia realizm względem typowego systemu napraw. Jest wskazana, jeśli szukasz utrudnień rozgrywki - oddanie technikowi przedmiotu łączy się z jego całkowitą utratą na określony czas, co kładzie dodatkowy nacisk na samowystarczalność w zakresie używania narzędzi rusznikarskich i zestawów do szycia.\n \nTę funkcję można przełączyć w menu opcji. Domyślnie jest wyłączona.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_options_enhanced_recoil">
+		<text>Zwiększone efekty odrzutu</text>
+	</string>
+	<string id="encyclopedia_options_enhanced_recoil_text">
+		<text>%c[pda_white]Zwiększone efekty odrzutu%c[ui_gray_1] urozmaicają i dodają realizmu obsłudze broni.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nNormalnie w czasie strzelania na broń działa tylko wbudowany system odrzutu polegający na stopniowym podrzucaniu celownika, odpowiedniej animacji i lekkim zwiększeniu rozrzutu pocisków.\n \nZ tego powodu standardowy system jest nieco wadliwy. Odruch kompensacji odrzutu można wyćwiczyć, strzelając seriami i kierując w tym samym czasie myszkę w dół w czasie strzelania.\n \nWłączenie tej funkcji sprawi, że odrzut będzie dużo bardziej nieprzewidywalny i wielokierunkowy. To z kolei kładzie nacisk na szlifowanie umiejętności w posługiwaniu się jednym typem broni, a także bardziej przemyślane dobieranie ulepszeń i amunicji, jako że będą ich wpływ będzie dużo bardziej zauważalny.\n \nKorzystanie z tej funkcji zaleca się tylko w przypadku, gdy gra działa płynnie w co najmniej 30 FPS (klatkach na sekundę), chociaż preferowana liczba FPS to 50 i więcej.\n \nTę funkcję można przełączyć w menu opcji. Domyślnie jest wyłączona.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_options_hardcore_ai_aim">
+		<text>Zwiększona celność AI</text>
+	</string>
+	<string id="encyclopedia_options_hardcore_ai_aim_text">
+		<text>%c[pda_white]Zwiększona celność AI%c[ui_gray_1] skraca czas reakcji AI i sprawia, że będą lepiej przewidywać ruchy innych stalkerów.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nWłączenie tej funkcji sprawi, że trudniej ci będzie uniknąć ostrzału po prostu biegnąc. Wykorzystywanie osłon w trakcie wymiany ognia stanie się kluczowe .\n \nTę funkcję można przełączyć w menu opcji. Domyślnie jest wyłączona.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_options_helicopter_patrols">
+		<text>Patrole helikopterów</text>
+	</string>
+	<string id="encyclopedia_options_helicopter_patrols_text">
+		<text>%c[pda_white]Patrole helikopterów%c[ui_gray_1] pozwalają frakcjom na korzystanie z wsparcia powietrznego w celu obrony strategicznych obszarów.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nFrakcje posiadające sprzymierzony śmigłowiec patrolujący okolicę będą mogły wezwać go w celu wsparcia ataku lub obrony przed wrogiem (włączając ciebie) i mutantami.\n \nPomimo przerażającego wyglądu, mogą zostać łatwo strącone na skutek uszkodzenia tylnego wirnika.\n \nJeśli odgłosy wirnika zaczną być denerwujące, a nie chcesz całkowicie pozbywać się funkcji śmigłowców, ich odgłosy mogą zostać wyłączone niezależnie.\n \nTę funkcję można przełączyć w menu opcji. Domyślnie są włączone.\n \n%c[pda_green]Lokacje%c[ui_gray_1] \n• Agroprom\n• Kordon\n• Mroczny wąwóz\n• Bagna\n• Limańsk
+		</text>
+	</string>
+	
+	<string id="encyclopedia_options_localisation">
+		<text>Język</text>
+	</string>
+	<string id="encyclopedia_options_localisation_text">
+		<text>%c[pda_white]Język%c[ui_gray_1] pozwala na zmianę tłumaczenia gry.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nPo wybraniu języka znaczna większość tekstów zostanie zmieniona automatycznie, jednak niektóre z nich wciąż będą wymagać restartu gry.\n \nTę funkcję można przełączyć w menu opcji. Domyślnie ustawiona jest na "eng".\n \n%c[pda_green]Wspierane języki%c[ui_gray_1]
+			\n• angielski: eng\n• rosyjski: rus\n• polski: pol\n \nModyfikację S.T.A.L.K.E.R. Anomaly na język polski przetłumaczyli: %c[pda_white]Voldi, Gizbarus, Hunter0, Pietia_Chudy, Szczepan9205. %c[ui_gray_1]Konsultacje techniczne i językowe: %c[pda_white]Trikster, Niedźwiedź/Czipi%c[ui_gray_1].\n \nWszelkie błędy i uwagi prosimy zgłaszać na adres %c[pda_white]anomaly.polonizacja@gmail.com%c[ui_gray_1].\n \nModyfikowanie, a następnie przetwarzanie, rozpowszechnianie spolszczenia w całości, w częściach bez zgody autorów lub przywłaszczenie sobie ich pracy jako własnej jest %c[pda_white]ZABRONIONE%c[ui_gray_1].
+		</text>
+	</string>
+	
+	<string id="encyclopedia_options_lootmoney">
+		<text>Pieniądze przy ciałach</text>
+	</string>
+	<string id="encyclopedia_options_lootmoney_text">
+		<text>%c[d_cyan]Pieniądze przy ciałach%c[ui_gray_1] pozwalają ci znajdować pieniądze w kieszeniach (ekwipunku) poległych stalkerów.\n \n%c[d_green]Informacje%c[ui_gray_1]\n \nIlość pieniędzy zależy od rangi poległego stalkera. Im wyższa ranga, tym więcej pieniędzy przy zwłokach.\n \nTę funkcję można przełączyć w menu opcji. Domyślnie jest wyłączona.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_options_online_exclusion">
+		<text>Wykluczenie online</text>
+	</string>
+	<string id="encyclopedia_options_online_exclusion_text">
+		<text>%c[pda_white]Wykluczenie online%c[ui_gray_1] tworzy strefę bez spawnu wokół twojej postaci.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nPrzebywając przy krawędziach lokacji, lub w pobliżu punktów wejścia/wyjścia możesz zostać zaatakowany przez wrogów nadchodzących z innych lokacji. Z włączoną opcją wykluczenia online ich pojawienie się zostanie opóźnione do momentu, gdy znajdziesz się w bezpiecznej odległości.\n \nWarto zauważyć, że ten system skupia się wyłącznie na tobie; jeśli jacykolwiek przeciwnicy znajdują się w pobliżu twojego punktu spawnu w momencie, gdy pojawiasz się w lokacji, nie zostaną oni usunięci.\n \nTę funkcję można dopasować w menu opcji, domyślna wartość wynosi 25.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_options_population_factors">
+		<text>Współczynniki ilości</text>
+	</string>
+	<string id="encyclopedia_options_population_factors_text">
+		<text>%c[pda_white]Współczynniki ilości%c[ui_gray_1] zmieniają liczbę stalkerów i mutantów przebywających w Zonie.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nWspółczynniki ilości stalkerów i mutantów można dostosowywać niezależnie od siebie. Funkcja ułatwia ustawienie tego, jak zdziczała czy zasiedlona będzie Zona bez konieczności modyfikacji plików gry.\n \nWarto zauważyć, że efekt jest największy w momencie rozpoczęcia gry nową postacią. Zmiana współczynników w trakcie rozgrywki zostanie zrealizowana dopiero po śmierci części stalkerów/mutantów i wpłynie na to, ile kolejnych pojawi się na ich miejscach.\n \nTę funkcję można dopasować w menu opcji, domyślna wartość wynosi 0.5.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_options_quicksave_count">
+		<text>Licznik szybkich zapisów</text>
+	</string>
+	<string id="encyclopedia_options_quicksave_count_text">
+		<text>%c[pda_white]Licznik szybkich zapisów%c[ui_gray_1] reguluje, kiedy gra zacznie nadpisywać starsze szybkie zapisy.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nWykonując szybki zapis, na końcu nazwy pliku dołączona zostanie liczba - używane są one przez procesy gry do śledzenie ilości zapisów.\n \nZezwalając na większą liczbę szybkich zapisów zanim zaczną się nadpisywać, będziesz mógł łatwiej cofnąć grę do momentu sprzed tego, kiedy zapisałeś ją w nieodpowiedniej sytuacji.\n \nW skrócie: im wyższą wartość tego ustawienia ustalisz, tym więcej zapisów obejmie cykl.\n \nTę funkcję można dopasować w menu opcji, domyślna wartość wynosi 5.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_options_radio_music">
+		<text>Muzyka z radia</text>
+	</string>
+	<string id="encyclopedia_options_radio_music_text">
+		<text>%c[pda_white]Muzyka z radia%c[ui_gray_1] pozwala na odtwarzanie niestandardowej muzyki w niektórych lokacjach.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nPewne bezpieczne obszary w Zonie mają na swoim terenie rozgłośnie grające wybrane utwory muzyczne, aby zapewnić stalkerom rozrywkę.\n \nTę funkcję można przełączyć w menu opcji. Domyślnie jest włączona.\n \n%c[pda_green]Lokacje%c[ui_gray_1] \n• Agroprom: Baza wojskowa\n• Kordon: Bunkier Sidorowicza\n• Bagna: baza Czystego Nieba\n• Dolina Mroku: baza Bandytów\n• Rostok: Sto Radów\n• Czerwony Las: wieża Leśnika
+		</text>
+	</string>
+	
+	<string id="encyclopedia_options_sleep_deprivation">
+		<text>Potrzeba snu</text>
+	</string>
+	<string id="encyclopedia_options_sleep_deprivation_text">
+		<text>%c[pda_white]Potrzeba snu%c[ui_gray_1] powoduje, że upływ czasu i spożywanie przedmiotów stopniowo męczą twoją postać.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nPodróżując przez Zonę znajdziesz sporo łóżek, materacy i śpiworów. Do tej pory używało się do pomijania czasu pod pretekstem snu. Włączenie tej funkcji sprawi, że stają się one zasadniczym elementem rozgrywki.\n \nWraz z upływem czasu twoja postać powoli zacznie odczuwać zmęczenie. Towarzyszyć mu będą rozmycia i wstrząsy ekranu. Efekty będą się nasilać, dopóki nie znajdziesz odpowiedniego miejsca na odpoczynek lub do momentu, w którym stracisz przytomność z powodu przemęczenia.\n \nZmęczenie można zacząć odczuwać szybciej, niż zwykle, spożywając przedmioty takie jak leki czy alkohol. Efekty te można zneutralizować za pomocą na przykład napojów energetycznych - jednak wypicie zbyt wielu spowoduje niemożliwość zaśnięcia do momentu osłabienia ich wpływu na organizm.\n \nTę funkcję można przełączyć w menu opcji. Domyślnie jest wyłączona.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_options_thirst">
+		<text>Symulacja pragnienia</text>
+	</string>
+	<string id="encyclopedia_options_thirst_text">
+		<text>\n%c[d_green]Informacje%c[ui_gray_1]\nDokładnie tak, jak w nazwie: opcja ta zwiększa poziom trudności gry. Popycha gracza do nieustannego rozglądania się za źródłami wody i dodaje kolejną warstwę trudności do już rozbudowanego systemu potrzeb.\n \nWskaźnik pragnienia pokaże się w HUD, wskazując poziom pragnienia. Jeśli nie uzupełnisz płynów, twoje zdrowie i wytrzymałość zaczną się pogarszać, doprowadzając nawet do śmierci.\n \nTę funkcję można przełączyć w menu opcji. Domyślnie jest włączona.
+		</text>
+	</string>`
+	
+	<string id="encyclopedia_options_dynamic_news">
+		<text>Wieści</text>
+	</string>
+	<string id="encyclopedia_options_dynamic_news_text">
+		<text>%c[pda_white]Wieści%c[ui_gray_1] pozwalają stalkerom dzielić się swoimi przeżyciami.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nStalkerzy będą korzystać z sieci komunikacyjnej PDA do dzielenia się swoją aktywnością. Będą komentować wydarzenia, których byli świadkami, lub które miały miejsce w ich okolicy.\n \nWysyłane komunikaty mogą być bardzo różnorodne - od typowego, całkowicie przyziemnego narzekania na ceny u handlarzy po nerwowe, nieraz wręcz histeryczne prośby o wsparcie stalkerów będących pod ostrzałem, czy zaatakowanych przez mutanta.\n \nZ tym systemem powiązane jest wiele innych funkcji: stalkerzy będą komentować twoje podejrzane zachowanie, kiedy tropisz kogoś poszukiwanego; niektórzy dadzą ci wskazówki odnośnie celu albo wspomną, że ktoś ma zadanie do zlecenia.\n \nTę funkcję można przełączyć w menu opcji interfejsu. Domyślnie jest włączona.\n \nW angielskiej wersji językowej funkcja oznaczona była jako "Dynamic news", ale po dosłownym przetłumaczeniu nie mieściła się w ramach pola w opcjach.\n \n%c[pda_green]Opcje%c[ui_gray_1] \nWieści posiadają wiele własnych opcji, które można całkowicie włączyć/wyłączyć (otrzymując/blokując dostęp do niektórych wiadomości), a także suwaki regulujące odstęp między wiadomościami.\n \nOpcje Wieści są dostępne także przez dodatkowe menu opcji dostępne pod klawiszem F1, gdy jesteś na ekranie menu głównego.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_options_extended_hud">
+		<text>Rozszerzony HUD</text>
+	</string>
+	<string id="encyclopedia_options_extended_hud_text">
+		<text>%c[pda_white]Rozszerzony HUD%c[ui_gray_1] pozwala wyświetlać dodatkowe informacje na ekranie.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nWłączenie tej funkcji sprawi, że skrót informacji o towarzyszach i miniaturowa wersja pasa artefaktów stanie się widoczna na ekranie.\n \nTę funkcję można przełączyć w menu opcji interfejsu. Domyślnie jest wyłączona.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_options_portrait_by_outfit">
+		<text>Portret gracza według stroju</text>
+	</string>
+	<string id="encyclopedia_options_portrait_by_outfit_text">
+		<text>%c[pda_white]Portret gracza według stroju%c[ui_gray_1] zmienia portret twojej postaci zależnie od noszonego stroju.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nWłączenie tej funkcji sprawi, że za każdym razem kiedy założysz lub zdejmiesz strój (nie dotyczy nakryć głowy), portret twojej postaci zostanie zmieniony w sposób naśladujący dopasowanie portretów AI do ich rzeczywistego wyglądu.\n \nTę funkcję można przełączyć w menu opcji interfejsu. Domyślnie jest wyłączona.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_options_use_battery">
+		<text>Użycie baterii</text>
+	</string>
+	<string id="encyclopedia_options_use_battery_text">
+		<text>Opcja %c[d_cyan]użycia baterii%c[ui_gray_1] wymaga od ciebie używania naładowanych baterii, jeśli chcesz, by twoje gadżety i urządzenia funkcjonowały poprawnie.\n \n%c[d_green]Informacje%c[ui_gray_1]\nUrządzenia elektryczne i elektroniczne, takie jak detektory czy latarki wymagają napięcia i mocy z UPD do właściwego działania. Z tego powodu UPD nieustannie pobiera prąd.\n \nAby utrzymać sprawność UPD, powinieneś ładować je za pomocą baterii zanim jego moc spadnie do zera.\n \nTo ważne, by mieć kilka baterii w kieszeni na wszelki wypadek. Możesz je kupić lub znaleźć.\n \nTę funkcję można przełączyć w menu opcji. Domyślnie jest włączona.
+		</text>
+	</string>
+</string_table>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	
+	<string id="encyclopedia_anomalies">
+		<text>Anomalie</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_emission">
+		<text>Emisje</text>
+	</string>
+	<string id="encyclopedia_anomalies_emission_text">
+		<text>
+			%c[pda_white]Emisje%c[ui_gray_1] to zjawisko polegające na gwałtownym uwolnieniu ogromnej ilości promieniowania.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nSilny wiatr, burzowe chmury i szkarłatne niebo - to symptomy rozpoczynającej się właśnie emisji. Po nich pojawiają się dziesiątki wyładowań atmosferycznych i dudnienie, pochodzące jakby z trzewi Zony.\n \nEmisje zaczynają się nagłym wzrostem promieniowania i aktywności anomalnych, a kończą niszczycielską falą, zabójczą dla wszystkich istot żywych, które staną na jej drodze, a którym nie udało się dotrzeć na czas do zapewniającego bezpieczeństwo schronu.\n \nChociaż są śmiertelnie niebezpieczne, nie jest trudno się przed nimi zabezpieczyć. Schronienie w niezniszczonym budynku, czy wykopanym pod ziemią tunelu niezwłocznie po pierwszych oznakach zbliżającej się emisji znacząco zwiększa szansę przeżycia.\n \nPodobnie, jak to ma miejsce przy burzach psionicznych, ogromna ilość uwalnianej przez emisję energii zdaje się "ładować" wiele anomalii. Dzięki temu stalkerzy wyruszający w Zonę wkrótce po jej ustaniu mają większe szanse na znalezienie rzadkich artefaktów.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_phantom">
+		<text>Widma</text>
+	</string>
+	<string id="encyclopedia_anomalies_phantom_text">
+		<text>
+			%c[pda_white]Widma%c[ui_gray_1] to iluzje pojawiające się w umyśle, wyglądające jak prawdziwe zagrożenia.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nTrudno je sklasyfikować. Nie są ani anomaliami, ani mutantami. Widma to mimowolna projekcja mentalna mutantów znajdujących się w Zonie.\n \nIluzjom zawsze towarzyszy przerażający odgłos, podobny do wycia. Pojawiają się jako półprzezroczyste, błyszczące istoty, które stopniowo "płyną" prosto w kierunku ofiary, przenikając przez przeszkody znajdujące się na ich drodze.\n \nNie wiadomo, dlaczego przyjmują tylko formy mutantów, wliczając te, których zaatakowany projekcją stalker jeszcze nie spotkał na swojej drodze, ani dlaczego nikt do tej pory nie zaobserwował widm stworzeń, które wyginęły, na przykład tarków.\n \nWiodąca teoria wyjaśnia ten fenomen tak, że żyjące w Zonie mutanty są silnie powiązane z noosferą, a przez pola psioniczne mimowolnie pojawiają się - zachowując wygląd i nastawienie - w głowach swoich ofiar.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_psistorm">
+		<text>Burze psionczne</text>
+	</string>
+	<string id="encyclopedia_anomalies_psistorm_text">
+		<text>
+			%c[pda_white]Burze psioniczne%c[ui_gray_1] składają się z dziesiątek wirów psionicznych uwalniających w krótkim czasie zabójcze ilości promieniowania psionicznego.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nTe niecodzienne anomalie pogodowe pojawiły się w Zonie stosunkowo niedawno. Istnieje mnóstwo spekulacji na temat tego, co mogłoby je powodować i skąd w ogóle się wzięły.\n \nZjawisko najczęściej rozpoczyna się purpurową, czasem różowawą mgłą, której towarzyszy bardzo szybkie pojawienie się chmur burzowych. Burze psioniczne rozwijają się w przeciągu kilku minut i potrzebują naprawdę niewiele czasu, by zacząć siać w Zonie spustoszenie.\n \nJeśli stalker posiada wyposażenie zabezpieczające go przed obrażeniami psionicznym, lub skorzysta z zapewniających taką ochronę używek, istnieje szansa, że uda mu się przetrwać rozładowanie pojedynczych wirów uderzających w niego w trakcie burzy, mimo braku fizycznego schronienia.\n \nOczywiście, w przypadku wystawienia się na działanie wirów psionicznych, poszkodowany będzie musiał natychmiast zażyć odpowiednie lekarstwa. Nawet najbardziej doświadczeni i najlepiej przygotowani stalkerzy po takiej ekspozycji będą znajdować się w bardzo wymagającej i delikatnej sytuacji.\n \nPodobnie, jak to ma miejsce przy emisjach, ogromna ilość uwalnianej przez emisję energii zdaje się "ładować" wiele anomalii. Dzięki temu stalkerzy wyruszający w Zonę wkrótce po jej ustaniu mają większe szanse na znalezienie rzadkich artefaktów.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_radiation">
+		<text>Promieniowanie</text>
+	</string>
+	<string id="encyclopedia_anomalies_radiation_text">
+		<text>
+			%c[ui_gray_1]Strefy podwyższonego promieniowania jonizującego - w skrócie %c[pda_green]radiacja%c[ui_gray_1] - to strefy, w których poziom promieniowania tła przekracza 50 mR/h (milirentgenów na godzinę).\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nMożna się na nie natknąć właściwie w całej Zonie. W strefach zewnętrznych najczęściej pojawiają się na otwartych przestrzeniach i w zalegających przedmiotach (hałdach usypanej ziemi, złomie, pojazdach itd.).\n
+			\n%c[pda_green]Porady%c[ui_gray_1]
+			\n• %c[pda_white]Licznik Geigera%c[ui_gray_1] to niezbędny przyrząd do wykrywania i pomiaru poziomów promieniowania. Im szybciej i głośniej klika, tym wyższe odczyty.
+			\n• Wielu stalkerów umiera na skutek choroby popromiennej. Warto mieć przy sobie paczkę %c[pda_white]leków przeciwradiacyjnych%c[ui_gray_1].
+			\n• Upewniaj się, że twoja maska przeciwgazowa jest w dobrym stanie technicznym.
+			\n• %c[pda_white]Wódka%c[ui_gray_1] i %c[pda_white]papierosy%c[ui_gray_1] to częsty zamiennik antyradów. Choć używki te nie są tak wydajne, jak medykamenty, są od nich sporo tańsze.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_psi">
+		<text>Pola psioniczne</text>
+	</string>
+	<string id="encyclopedia_anomalies_psi_text">
+		<text>
+			\n%c[pda_green]Informacje%c[ui_gray_1]\n
+			\nTo rozległe obszary o wysokiej aktywności psionicznej najczęściej w formie kolumn rozciągających się wzwyż aż do chmur. Często da się je zauważyć tylko przez zaburzenia przechodzącego przez nie światła.\n \nPola psioniczne mają szkodliwy wpływ na tkanki mózgu. Czasem mogą być widoczną oznaką emisji psionicznej i powodować rozliczne obrażenia. Jednakże zazwyczaj oddziaływania w formie kolumn występują w otoczeniu pól anomalii, a jeśli takowych nie ma, tworzą wokół siebie obszary niebezpiecznie podwyższonego promieniowania. \nPola psioniczne nie tworzą artefaktów.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_brain_scorcher">
+		<text>Mózgozwęglacz</text>
+	</string>
+	<string id="encyclopedia_anomalies_brain_scorcher_text">
+		<text>
+			%c[pda_green]Mózgozwęglacz%c[ui_gray_1] to dawna wojskowa instalacja przejęta przez Grupę, dzięki której stała się pierwszym w Zonie wielkoskalowym urządzeniem wykorzystującym technologię kontroli umysłu.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nPo rozpadzie Związku Radzieckiego Grupa kontynuowała swoje badania rozpoczęte w X-8. Zaadaptowała urządzenia Zwęglacza, razem ze znajdującym się tam laboratorium X-19, umieszczonym w bunkrze pod kompleksem.\n \nPo utworzeniu się Zony, Świadomość Zbiorowa aktywowała Mózgozwęglacz w celu zablokowania drogi do jej centrum. Fale psioniczne emitowane przez urządzenie efektywnie lasowały mózgi śmiałków, którzy mimo wszystko próbowali się tamtędy przedrzeć, zmieniając większość z nich w pozbawionych ludzkich odruchów zzombifikowanych stalkerów, a z niektórych czyniąc rekrutów frakcji Monolit.\n \nChociaż znaczna część stalkerów dostających się w okolice Mózgozwęglacza zmieniła się w zombie, jednej z grup udało się (prawdopodobnie z pomocą Przewodnika) prześlizgnąć obok i dotrzeć do centrum Zony. Tymi śmiałkami byli oczywiście członkowie grupy Striełoka. Dostępu do drogi prowadzącej do placówki, jak i samego kompleksu Mózgozwęglacza strzegą liczne oddziały fanatyków Monolitu.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_burner">
+		<text>Spalacz</text>
+	</string>
+	<string id="encyclopedia_anomalies_burner_text"> 	
+		<text>
+			\n• Nazwa: %c[d_cyan]Spalacz%c[ui_gray_1]
+			\n• Typ: %c[d_orange]Ogniowa%c[ui_gray_1]\n
+			\n \n%c[d_green]Informacje%c[ui_gray_1]
+			\nSpalacz trudno dostrzec, nawet w świetle dnia. O jego istnieniu świadczy tylko słup gorącego powietrza.\n \nJeśli anomalia się aktywuje, czy to na skutek żywej istoty, czy wpadającego do niej przedmiotu (takiego, jak choćby metalowa śruba), wystrzeliwuje w powietrze słup ognia, spalający wszystko, co znajdzie się w jego zasięgu.\n \nChoć Spalacze nie są tak powszechne, jak mogłoby się wydawać, często pojawiają się w grupach, jako pola anomalii. Niektóre grupy Spalaczy wytwarzają wokół siebie strefę wysokiej temperatury, która - mimo, że anomalie pozostają nieaktywne - jest w stanie ugotować to, co znajduje się w jej pobliżu. Temperatury panujące wewnątrz Spalaczy wahają się od około 100 do kilku tysięcy stopni Celsjusza - są wystarczające by stopić większość metali i solidnie nadwyrężyć beton. Takie warunki tłumaczą, dlaczego niektóre pola tych anomalii znajdują się w strefach pełnych pęknięć i spalonej na popiół gleby, choć obszary sąsiadujące wydają się nietknięte.\n \nSpalacze są bardzo niebezpieczne przy wyższych poziomach trudności i mogą być zabójcze nawet dla stalkerów zabezpieczonych najlepszej klasy pancerzem ochronnym. Nie mają one ustalonych punktów spawnu, jak inne anomalie, ani nawet przypisanych wyzwalaczy. Samo pojawienie się w okolicy Spalacza może aktywować kolumnę ognia.\n \nDobrą taktyką jest wrzucenie w anomalię śruby i aktywowanie jej, a potem szybki przeskok nad strumieniem ognia. To, czy uda ci się wyjść z tego piekła bez szwanku, czy spalisz się na popiół zależy od właściwego podejścia i powtarzania czynności bez opóźnień.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_comet">
+		<text>Kometa</text>
+	</string>
+	<string id="encyclopedia_anomalies_comet_text"> 	
+		<text>
+			\n• Nazwa: %c[d_cyan]Kometa%c[ui_gray_1]
+			\n• Typ: %c[d_orange]ogniowa%c[ui_gray_1]\n
+			\n \n%c[d_green]Informacje%c[ui_gray_1]
+			\nAnomalia Kometa zachowuje się podobnie do Spalacza - atakuje ogniem po zbliżeniu się. Kluczową różnicą jest to, że Kometa - jak sugeruje nazwa - jest mobilna. Zazwyczaj unosi się w powietrzu i porusza w szybkim tempie po pewnym obszarze.\n \nKometa, inaczej niż Spalacze, jest niezwykle potężna - przy bezpośrednim kontakcie potrafi zabić nawet dobrze zabezpieczonego przed ogniem stalkera.\n \nTa anomalia nie tworzy żadnych artefaktów.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_vortex">
+		<text>Wir</text>
+	</string>
+	<string id="encyclopedia_anomalies_vortex_text"> 	
+		<text>
+			\n• Nazwa: %c[d_cyan]Wir%c[ui_gray_1]
+			\n• Typ: %c[d_orange]Grawitacyjna%c[ui_gray_1]\n
+			\n \n%c[d_green]Informacje%c[ui_gray_1]
+			\nAnomalia o przypuszczalnie grawitacyjnej naturze. Po aktywacji potężna moc Wiru wsysa wszystko w promieniu 10-15 metrów. Ofiary wciągnięte do środka nie mają szans na przeżycie – ich ciała w ciągu ułamków sekund ściskane są do niewyobrażalnie małych rozmiarów, by chwilę później eksplodować krwawą fontanną, gdy anomalia się rozładowuje. W niektórych przypadkach zdarza się, że przez krótki moment lewitują, wijąc się w agonii, by chwilę potem zostać rozerwanym na miazgę złożoną z mięsa i kości.\n \nAnomalia w ciągu swojego istnienia (średni czas "życia" Wiru wynosi tydzień) pozostaje nieruchoma. Dzięki wywoływanym przez nią fluktuacjom powietrza, unoszącym się fragmentom darni, rozrzuconym dookoła szczątkom i ciemnej plamie w centrum łatwo rozpoznać ją za dnia. W nocy staje się niemal niewidoczna – wykrywają ją jedynie detektory, ewentualnie wrzucane do środka przedmioty, zbyt słabe jednak, by mogła się w pełni aktywować.\n \nRóżnica między Wirem a Trampoliną jest bardzo prosta. To rozmiar i moc. Wir ma dużo większy zasięg od Trampoliny i o wiele trudniej się z niego wydostać. Powoduje także większe zniszczenia. Ucieczka z Wiru po wessaniu do środka może być zarówno łatwa, jak i całkiem niemożliwa, zależnie od siły anomalii i poziomu trudności gry. Duże znaczenie ma także rodzaj założonego kombinezonu, ponieważ tak czy inaczej, Wir zadaje uwięzionemu co najmniej jedno obrażenie.\n \nJedynym sposobem na wyrwanie się z anomalii po wessaniu to wyczekanie momentu, w którym się rozładuje. Przez około sekundę nie będzie miała wystarczającej mocy, by cię zatrzymać, pozwalając wyskoczyć lub wybiec. Metoda ta zadziała jednak tylko w przypadku, gdy posiadasz kombinezon dający dużą ochronę przed anomaliami. Stalker w egzoszkielecie praktycznie nie ma szans na wydostanie się, ze względu na brak możliwości biegania.\n \nTa prosta taktyka ucieczki z Wiru wymaga odpowiedniego wyczucia czasu, skakania i dużej kondycji. Zanim anomalia uderzy z pełną siłą, postać będzie się w niej bezładnie miotać. Doświadczony gracz wychwyci moment, w którym powinien skoczyć. Ważne jest wyczekanie chwili, kiedy w trakcie wirowania znajdzie się najdalej od epicentrum. Przy krawędzi anomalii sprint i odpowiednio długi skok pozwolą się wydostać.\n \nOczywiście, najprostszym sposobem uciekania z Wirów jest po prostu unikanie ich. Anomalię można łatwo zaobserwować dzięki odgłosom jakie wydaje. Dźwięk podobny jest do wypaczania się, bądź – jak uważają niektórzy – skoku w nadprzestrzeń z niektórych filmów science fiction. O dziwo, na anomalię nie działają pociski, granaty, czy pociski wystrzelone z RPG. Najzwyklejsze śruby także po prostu odbijają się od jej krawędzi.\n \nZmierzenie się z pojedynczym Wirem zwykle nie jest problemem dla kogoś wystarczająco szybkiego. Jednak pole tych anomalii jest już bardzo niebezpieczne. W większości przypadków tworzone w nich artefakty znajdują się dokładnie w środku gromady.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_springboard">
+		<text>Trampolina</text>
+	</string>
+	<string id="encyclopedia_anomalies_springboard_text"> 	
+		<text>
+			• Nazwa: %c[d_cyan]Trampolina%c[ui_gray_1]
+			\n• Typ: %c[d_orange]Grawitacyjna%c[ui_gray_1]\n
+			\n \n%c[d_green]Informacje%c[ui_gray_1]
+			\nJest jedną z pierwszych odkrytych anomalii. Trampolina to zaburzenie pola grawitacyjnego, ograniczone do niewielkiego wgłębienia na poziomie ziemi, zwykle średnicy 1-2 metrów. Jej reakcją na obecność żywych stworzeń i przedmiotów jest emisja potężnej fali uderzeniowej, niszczącej wszystko w zasięgu. Zadawane obrażenia zależą głównie od wieku anomalii i obejmują zakres od siniaków i stłuczeń, przez otwarte złamania i poważne obrażenia wewnętrzne po natychmiastową śmierć.\n \nTrampoliny występują w Zonie bardzo często i można się na nie natknąć dosłownie wszędzie, tak na zewnątrz, jak i w budynkach. Dla nieuzbrojonego w żadne przyrządy oka anomalia jawi się jako słup rozgrzanego powietrza, otoczony wirującymi wokół liśćmi i czasem czerwonawymi plamami na ziemi. Wrzucenie do środka śruby poskutkuje wywołaniem charakterystycznej, niezbyt silnej fali uderzeniowej.\n \nJest jedną z nielicznych anomalii, które można bezpiecznie przekroczyć przez ułamek sekundy po ich aktywacji – ta właściwość sprawia, że korzystanie ze śrub okazuje się bardzo przydatne w trakcie przemierzania pól złożonych z Trampolin. W trakcie zbliżania się do anomalii obraz zaczyna się rozjaśniać.\n \nTrampoliny są łatwe do odkrycia i niezbyt trudne do ominięcia, choć to zależy od ich lokalizacji. Mogą sprawiać kłopoty podczas strzelanin. Wielu stalkerów zginęło w czasie walki, skupiając się na przeciwnikach, a zapominając, bądź nie zauważając anomalii i wchodząc prosto na nie. Tak, jak w przypadku wszystkich innych tworów Zony – najlepiej sprawdzić miejsca występowania anomalii, a potem w miarę możliwości znaleźć inną drogę.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_whirligig">
+		<text>Karuzela</text>
+	</string>
+	<string id="encyclopedia_anomalies_whirligig_text"> 	
+		<text>
+			\n• Nazwa: %c[d_cyan]Karuzela%c[ui_gray_1]
+			\n• Typ: %c[d_orange]Grawitacyjna%c[ui_gray_1]\n
+			\n \n%c[d_green]Informacje%c[ui_gray_1]
+			\nDość typowa, ale niebezpieczna anomalia. Podrywa swoją ofiarę w powietrze i obraca nią z zawrotną szybkością. Pełna specyfikacja Karuzeli pozostaje nieznana.\n \nAnomalię można rozpoznać dzięki niewielkim wirom pyłowym tworzącym się wokół i rozrzuconym w pobliżu fragmentom ciał. Stalkerzy pochwyceni przez anomalię na jej obrzeżach, z dala od rdzenia, są w stanie wydostać się z Karuzeli tylko z lekkimi obrażeniami.\n \nGdy ktoś zbliży się za bardzo i aktywuje anomalię, Karuzela gwałtownie pociągnie go do góry i utrzyma ją tam aż do chwili rozładowania. Kumulująca się w anomalii siła jest wystarczająca, by rozedrzeć ofiarę na strzępy. Nie da się jej ominąć tak łatwo, jak Wiru, a ze względu na działanie polegające na wyrzuceniu ofiary do góry, ucieczka jest niemal niemożliwa.\n \nNawet pomimo tego, że obrażenia zadawane przez Karuzelę bywają mniejsze, niż w przypadku Wiru, można ją uznać za groźniejszą ze względu na niemożność wyrwania się.\n \nPodstawowa zasada działania jest bardzo prosta – po aktywacji Karuzela rozładowuje się, przyjmując formę silnego wiru powietrznego.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_fruit">
+		<text>Galareta</text>
+	</string>
+	<string id="encyclopedia_anomalies_fruit_text"> 	
+		<text>
+			\n• Nazwa: %c[d_cyan]Galareta%c[ui_gray_1]
+			\n• Typ: %c[d_orange]Chemiczna%c[ui_gray_1]\n
+			\n \n%c[d_green]Informacje%c[ui_gray_1]
+			\nGalarety, zwane czasem Wiedźmim Kisielem, to kałuże jaskrawozielonego płynu, dobrze widoczne w niemal każdym środowisku ze względu na lekką poświatę i charakterystyczne bulgotanie. Przy kontakcie z innymi substancjami Galareta rozświetla się i wydaje syk. Anomalie często spotykane są w lokacjach podziemnych.\n \nZawartość anomalii stanowi niezwykle żrąca substancja, potrafiąca w kilka sekund wypalić dziurę w dowolnej tkaninie i metalu. Rozpuszcza absolutnie wszystko, co się w niej znajdzie. Dla gracza kontakt z Galaretą ogranicza się do obrażeń zadawanych równolegle do emitowanych błysków, za to dotyczących i jego zdrowia, i wyposażenia.\n \nZe względu na specyfikę, przyjmuje się, że Galarety tworzą się z resztek wysoko radioaktywnych odczynników chemicznych, nabierając pod wpływem Zony cech anomalnych. Ich właściwości żrące powodują gwałtowne rozpuszczanie się tak tkanek żywych, jak i materii nieorganicznej (metalu, plastiku itd.).\n \nPatrząc na to, że w Cieniu Czarnobyla tworzyła artefakty, a w Czystym Niebie nie, można uznać, że ostatnia emisja widziana w zakończeniu Czystego Nieba zdestabilizowała Zonę na tyle, że rozproszyła Chmury Gazu, kondensując je do postaci Galarety. Anomalia występuje dosyć często. Zwykle pojawia się w budynkach i podziemnych kompleksach, zazwyczaj w pojedynczych miejscach. Samodzielnie raczej nie tworzy pól anomalii.\n  \nZdarzają się przypadki, gdy Galarety i Chmury Gazu łączą się w jeden twór. Tworzą wtedy zabójczą, wysoko radioaktywną anomalię łączącą zarówno kałuże niezwykle agresywnego kwasu oblepiającego wszystko, co go dotknie, jak i toksyczne opary wpływające na zdrowie i kondycję.\n	\nW Zewie Prypeci Galareta bez otaczających ją oparów pojawia się bardzo rzadko, choć zgodnie z regułą – w całkowicie zamkniętych lub mocno ograniczonych przestrzeniach.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_fuzz">
+		<text>Spalony Puch</text>
+	</string>
+	<string id="encyclopedia_anomalies_fuzz_text"> 	
+		<text>
+			\n• Nazwa: %c[d_cyan]Spalony Puch%c[ui_gray_1]
+			\n• Typ: %c[d_orange]Chemiczna%c[ui_gray_1]\n
+			\n \n%c[d_green]Informacje%c[ui_gray_1]
+			\nAnomalię tę najczęściej spotyka się na zewnątrz, rzadko występuje w budynkach. Swoją formą przypomina mech lub winorośl, zwisając ku ziemi z miejsca, z którego wyrasta. Spalony Puch reaguje tylko na szybko poruszające się obiekty. Atakuje wtedy chmarą igłopodobnych pocisków, zadając poważne obrażenia nieosłoniętej i lekko chronionej skórze. Powolne przesuwanie się zdaje się nie wyzwalać reakcji obronnej.\n \nSpalony Puch ogólnie uważany jest za najmniej groźną ze wszystkich anomalii, jako że łatwo ją zauważyć i ominąć. Graczom rzadko zdarza się zginąć od tej anomalii. Spalony Puch, jako jedyny, w ogóle nie reagującą na śruby.\n \nStanowi pierwszy przykład anomalnej, bądź zmutowanej rośliny. Jej organiczne pochodzenie może być kluczem do zrozumienia, dlaczego bodźce zewnętrzne, na które zwykle reagują inne anomalie, nie wpływają na Spalony Puch w żaden sposób.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_gas">
+		<text>Gaz</text>
+	</string>
+	<string id="encyclopedia_anomalies_gas_text"> 	
+		<text>
+			\n• Nazwa: %c[d_cyan]Gaz%c[ui_gray_1]
+			\n• Typ: %c[d_orange]Chemiczna%c[ui_gray_1]\n
+			\n \n%c[d_green]Informacje%c[ui_gray_1]
+			\nAnomalię można poznać dzięki zielonym oparom i unoszącej się w okolicy mgiełce – co nie jest zbyt łatwe, zwłaszcza w miejscach podmokłych i gęsto zarośniętych. Po wkroczeniu w strefę oddziaływania Gazu ekran gracza stanie się zielony, a on usłyszy charakterystyczny syk. Anomalia aktywuje się po kontakcie z metalami i materią organiczną, rozbryzgując wokół żrącą mieszaninę gazów.\n \nNie należy mylić jej z Galaretą. Po pierwsze, Gaz, jak wskazuje nazwa, przyjmuje postać toksycznych oparów, gdy Galareta formuje się w kałuże. Wydaje się, że stanowi jej kolejną wersję. Gaz, ze względu na to, że składa się z frakcji lotnych, jest bardziej żrący i, co gorsza, duszący dla osoby wdychającej trującą mieszaninę.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_gascloud">
+		<text>Chmura Gazu</text>
+	</string>
+	<string id="encyclopedia_anomalies_gascloud_text"> 	
+		<text>
+			\n• Nazwa: %c[d_cyan]Chmura Gazu%c[ui_gray_1]
+			\n• Typ: %c[d_orange]Chemiczna%c[ui_gray_1]\n
+			\n \n%c[d_green]Informacje%c[ui_gray_1]
+			\Chmury Gazu przypominają anomalie Gaz - również powodują oparzenia chemiczne. Chmury Gazu odróżnia to, że mogą się poruszać i zadawać dużo groźniejsze obrażenia. Stanowią de facto chemiczny odpowiednik Komety i Tesli.\n \nNawet mimo korzystania z najwyższej klasy kombinezonów zapewniających ochronę i wspomagając się artefaktami rozkładającymi kwasy, bezpośredni kontakt z Chmurą Gazu może okazać się śmiertelny. Najlepszym, co można zrobić w przypadku natrafienia na nią, to wstrzymać oddech i przebiec obok. Niektóre używki mogą zredukować obrażenia zadawane przez Chmurę Gazu.\n \nTa anomalia nie tworzy żadnych artefaktów.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_electro">
+		<text>Elektro</text>
+	</string>
+	<string id="encyclopedia_anomalies_electro_text"> 	
+		<text>
+			\n• Nazwa: %c[d_cyan]Elektro%c[ui_gray_1]
+			\n• Typ: %c[d_orange]Elektryczna%c[ui_gray_1]\n
+			\n \n%c[d_green]Informacje%c[ui_gray_1]
+			\nAnomalia kumuluje w sobie ogromne ilości elektryczności statycznej, jej średnica dochodzi zwykle do dziesięciu metrów. Aktywacja skutkuje uwolnieniem tej energii w postaci rozchodzących się we wszystkich kierunkach łuków elektrycznych, zdolnych uśmiercić każdą żywą istotę w zasięgu. Anomalię bardzo łatwo rozpoznać, z uwagi na otaczającą ja niebieskawą łunę, pełgające po ziemi drobne wyładowania elektryczne i odgłosy charakterystyczne dla spięć elektrycznych. Anomalia może zostać uaktywniona przez dowolną rzecz, która się z nią zetknie.\n \nElektro zwykle nie występuje pojedynczo, najczęściej łącząc się w grupy anomalii. Zazwyczaj występuje w ciasnych, ograniczonych przestrzeniach, choć zdarzają się przypadki, gdy pola elektro tworzą się także na otwartej przestrzeni. Są stosunkowo łatwe do ominięcia w terenie, choć natknięcie się na nie w pomieszczeniach i ciasnych przejściach może sprawiać problemy.\n \nMoc i szybkość ponownego naładowania skłaniają ku wnioskom, że anomalia stanowi naturalny generator elektryczny, działający podobnie do chmur burzowych i błyskawic. Elektro są w stanie skumulować ładunek elektryczny o napięciu od pięciu tysięcy, do kilkuset tysięcy woltów i natężeniu sięgającym setek, a nawet tysięcy amperów. Prąd o takiej charakterystyce jest zabójczy dla niemal wszystkich żywych istot, nie tylko tych żyjących w Zonie.\n \nElektry nieco różniły się od siebie w kolejnych grach z serii. Najbardziej zabójcze był w Zewie Prypeci. Wykrywane są przez detektor Swaróg, choć znacznie prościej sprawdzać ich obecność i zasięg za pomocą metalowych śrub. W Zewie Prypeci jedna aktywowana elektra rozpoczynała reakcję łańcuchową powodującą rozładowanie energii wszystkich okolicznych anomalii.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_tesla">
+		<text>Tesla</text>
+	</string>
+	<string id="encyclopedia_anomalies_tesla_text"> 	
+		<text>
+			\n• Nazwa: %c[d_cyan]Tesla%c[ui_gray_1]
+			\n \n• Typ: %c[d_orange]Elektryczna%c[ui_gray_1]\n
+			\n%c[d_green]Informacje%c[ui_gray_1]
+			\nTesla funkcjonuje podobnie do Elektro - również wywołuje zabójcze porażenie prądem, z tą różnicą, że Tesla jest anomalią ruchomą. W tym znaczeniu, to elektryczny odpowiednik Komety. Przyjmuje postać poruszającego się z dużą szybkością pioruna kulistego.\n \nMożna uznać, że Tesla jest ewolucją lub zmienioną formą Elektro. Najprawdopodobniej powstaje na skutek długotrwałego gromadzenia przez anomalię energii, którego efektem jest skumulowanie ładunku elektrostatycznego tak wielkiego, że Elektro nabiera zdolności poruszania się. Niektórzy twierdzą, że Tesle mogą ścigać swoje ofiary.\n \nNawet dobra ochrona przed elektrycznością dzięki odpowiedniemu strojowi i artefaktom nie jest wystarczająca przy bezpośrednim kontakcie z tym typem anomalii. Spotkanie z Teslą, nawet jeśli nie okaże się śmiertelne, może wywołać bardzo poważne porażenie układu nerwowego.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_space">
+		<text>Anomalia Przestrzenna</text>
+	</string>
+	<string id="encyclopedia_anomalies_space_text"> 	
+		<text>
+			\n• Nazwa: %c[d_cyan]Anomalia Przestrzenna%c[ui_gray_1]
+			\n \n• Typ: %c[d_orange]Zmieniająca rzeczywistość%c[ui_gray_1]\n
+			\n%c[d_green]Informacje%c[ui_gray_1]
+			\nStanowi dowód na ogromną niestabilność Zony. Anomalia, zwana także Bąblem Przestrzennym wpływa na rzeczywistość, zakłócając upływ czasu i otaczającą przestrzeń. Jej działanie polega najprawdopodobniej na tworzeniu niewielkich tuneli czasoprzestrzennych przenoszących to, co trafi do Bąbla w zupełnie inne miejsce.\n \nTeoria teleportacji zdaje się mieć potwierdzenie w relacjach stalkerów przebywających w okolicy mostu kolejowego w Kordonie. Po spytaniu o czarną dziurę opowiedzą o szczegółach i wskażą drogę do Anomalii Przestrzennej znajdującej się w pobliżu. Jeden ze stalkerów wspomina, że czasem wrzucają do niej śmieci, które potem znajdują w starym tunelu, co oznacza, że anomalia teleportuje wszystko, nie tylko istoty żywe.\n \nFakt, że czasem stalkerzy zostają uwięzieni wewnątrz anomalii świadczy o niestabilności Zony i wskazuje, że być może posiada ona pewnego rodzaju własną wolę, decydując, co po prostu wyrzuci gdzie indziej, a co zatrzyma przy sobie.\n \nMimo, że nie tworzy artefaktów jak inne anomalie, Leśnik twierdzi, że gdy utknął w jednym z Bąbli Przestrzennych, odnalazł w nim Kompas. Jest to jakaś poszlaka dla poszukiwaczy tego niezwykle rzadkiego artefaktu - być może powstaje on tylko w pętli czasu wewnątrz anomalii. Tezę tą zdaje się potwierdzać fakt, że Noe – korzystający z Anomalii Przestrzennych do poruszania się między spalonym gospodarstwem a południowym płaskowyżem w Zatonie – posiada dwa Kompasy mimo ich unikatowości.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_teleport">
+		<text>Teleport</text>
+	</string>
+	<string id="encyclopedia_anomalies_teleport_text"> 	
+		<text>
+			\n• Nazwa: %c[d_cyan]Teleport%c[ui_gray_1]
+			\n• Typ: %c[d_orange]Zmieniająca rzeczywistość%c[ui_gray_1]\n
+			\n \n%c[d_green]Informacje%c[ui_gray_1]
+			\nBardzo rzadka anomalia, występująca tylko w kilku miejscach w całej Zonie. Co raczej oczywiste, jej działanie polega na przenoszeniu przedmiotów w inne miejsca. Potencjalnie nie stanowi żadnego zagrożenia.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_pulse">
+		<text>Spięcie</text>
+	</string>
+	<string id="encyclopedia_anomalies_pulse_text"> 	
+		<text>
+			\n• Nazwa: %c[d_cyan]Spięcie%c[ui_gray_1]
+			\n• Typ: %c[d_orange]Elektryczna%c[ui_gray_1]\n
+			\n \n%c[d_green]Informacje%c[ui_gray_1]
+			\nNaukowcy sądzą, że Spięcie to niezwykła forma wyładowań atmosferycznych pojawiających się pod wpływem fal psionicznych.\n \nRozpoczyna się niebieską poświatą wykwitającą na niebie. Ułamek sekundy później Spięcie oddaje swój skumulowany ładunek w kierunku ziemi, powodując natychmiastową śmierć istot żywych przebywających zbyt blisko miejsca, w które uderzy.\n \nMimo, że nie ma takiego zasięgu jak burza psioniczna, Spięcie jest dużym zagrożeniem. Gdy tylko zorientujesz się, że zaczyna się formować, uciekaj jak najdalej. Nadchodzące wyładowanie można poznać dzięki charakterystycznym odgłosom, jakie mu towarzyszą.\n \nJeśli wyposażenie zapewnia dużą ochronę psioniczną i przed porażeniem elektrycznym, istnieje szansa przeżycia nawet bezpośredniego uderzenia Spięcia.\n \nTa anomalia nie tworzy żadnych artefaktów.
+		</text>
+	</string>
+	
+</string_table>

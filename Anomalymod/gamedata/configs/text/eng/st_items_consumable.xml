@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Consumable Items (Alcohol + jedzenie + Smoke)
+-->
+
+<string_table>
+
+<!--< ALCOHOL >-->
+	<string id="st_vodka">
+		<text>Wódka Nemiroff</text>
+	</string>
+	<string id="st_vodka_descr">
+		<text>Nemiroff to ukraińska firma gorzelnicza produkująca napoje alkoholowe, głównie wódki i inne alkohole wysokoprocentowe, mająca swoją siedzibę w Niemirowie w obwodzie winnickim. Jedna z najlepszych wódek na rynku i, co za tym idzie, w Zonie.\n \n%c[ui_gray_3]UWAGA:\n%c[ui_gray_1]Powszechnie wiadomo, że amatorem tego trunku jest kucharz w bazie Ekologów w Jantarze. Krążą plotki, że za parę łyków wódki gotów jest wykraść wojskowe zaopatrzenie i przekazać je w ręce stalkerów, ale do tej pory niczego mu nie udowodniono.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] napój\n
+		%c[d_blue] • %c[ui_gray_2] stymulant\n
+		%c[d_red] • %c[ui_gray_2] mocny alkohol\n
+		</text>
+	</string>
+	
+	<string id="st_vodka2">
+		<text>Wódka Putinka</text>
+	</string>
+	<string id="st_vodka2_descr">
+		<text>Kontynuując rosyjską tradycję, zgodnie z którą nowe wódki nazywane są nazwiskami rosyjskich przywódców, Putinkę zaczęto sprzedawać po tym, jak Władimir Putin pierwszy raz został prezydentem. Produkowana w Rosji z najlepszych ziaren i krystalicznie czystej wody pochodzącej z syberyjskich źródeł. Trzykrotne filtrowanie, gładka tekstura i unikalny smak to nie jedyne cechy tego napoju. Pij z umiarem.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] napój\n
+		%c[d_blue] • %c[ui_gray_2] stymulant\n
+		%c[d_red] • %c[ui_gray_2] mocny alkohol\n
+		</text>
+	</string>
+	
+	<string id="st_vodka_quality">
+		<text>Wódka Stolicznaja</text>
+	</string>
+	<string id="st_vodka_quality_descr">
+		<text>Ulubieniec Rosjan i ludzi na całym świecie - rosyjska wódka najwyższej jakości. Bardzo popularna w Zonie i łatwo dostępna ze względu na koneksje jednego z handlarzy. Żeby uniknąć przechwycenia dostaw przez wojsko, zazwyczaj transportuje się ją w wojskowych pojemnikach lub manierkach, a następnie sprzedaje w mocnych, metalowych butelkach.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] stymulant\n
+		%c[d_red] • %c[ui_gray_2] mocny alkohol\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		</text>
+	</string>
+	
+		<string id="st_beer">
+		<text>Ukraińskie piwo</text>
+	</string>
+	<string id="st_beer_descr">
+		<text>Ukraińskie piwo. Drugi po wódce ulubiony napitek w Zonie.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] napój\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] stymulant\n
+		%c[d_red] • %c[ui_gray_2] lekki alkohol\n
+		%c[d_blue] • %c[ui_gray_2] źródło czystego pożywienia\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		</text>
+	</string>
+	
+	<string id="st_bottle_metal">
+		<text>Metalowa butelka</text>
+	</string>
+	<string id="st_bottle_metal_descr">
+		<text>Metalowa butelka zawierająca porcję czegoś, co wygląda na pędzony w Zonie bimber. Wali drożdżami na kilometr.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] stymulant\n
+		%c[d_red] • %c[ui_gray_2] mocny alkohol niskiej jakości\n
+		</text>
+	</string>
+	
+<!--< food >-->
+	<string id="st_energy_drink">
+		<text>Mocny energetyk</text>
+	</string>
+	<string id="st_energy_drink_descr">
+		<text>Często używany przez stalkerów wyruszających na dłuższe wyprawy, w trakcie których nie można pozwolić sobie na odpoczynek. Orzeźwi cię, a także pomoże walczyć z kacem po nadmiernym spożyciu alkoholu. Zawiera substancje powodujące wydzielanie adrenaliny do krwiobiegu. Przedawkowanie wysoce niewskazane.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] napój\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] stymulant\n
+		%c[d_blue] • %c[ui_gray_2] silny efekt otrzeźwienia\n
+		%c[d_blue] • %c[ui_gray_2] źródło czystego pożywienia\n
+		</text>
+	</string>
+	
+	<string id="st_flask">
+		<text>Oczyszczona woda</text>
+	</string>
+	<string id="st_flask_descr">
+		<text>Wojskowe manierki służą do przenoszenia niewielkiej ilości płynów. Te, które są dostępne z Zonie, zawierają szczególny rodzaj wody, przygotowanej przez lekarzy i naukowców według specjalnej procedury\n \n Na początku wodę łączy się z alkoholem, żeby zabić zarazki i inne drobnoustroje. Następnie chłodzi się ją w lodówkach, czemu zawdzięcza swój orzeźwiający efekt. Rezultatem tego procesu jest nieskazitelnie czysta woda. Jeśli jednak nadal masz wątpliwości, zawsze możesz skorzystać z tabletek oczyszczających.\n \nZe względu na wysoki koszt produkcji takie manierki bardzo rzadko sprowadzane są do Zony, przez co są dosyć drogie. Możesz je kupić u także u medyków, ale sprzedają je po wyższej cenie, żeby pokryć również koszty transportu.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] napój\n
+		%c[d_blue] • %c[ui_gray_2] źródło czystego pożywienia\n
+		</text>
+	</string>
+		
+	<string id="st_kolbasa">
+		<text>Paczka starego mięsa</text>
+	</string>
+	<string id="st_kolbasa_descr">
+		<text>Opakowanie, w którym znajdziemy kawałek starego chleba i śmierdzące mięso nieznanego pochodzenia zawinięte w brązowy papier. Wygląd i zapach sugeruje, że część już spleśniała.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_red] • %c[ui_gray_2] niska jakość\n</text>
+	</string>
+	
+	<string id="st_tea">
+		<text>Herbatka Brodacza</text>
+	</string>
+	<string id="st_tea_descr">
+		<text>Popularna ciepła herbatka Brodacza zrobiona z mieszanki cukru, jadalnych suszonych grzybów i rzekomo czystej, przegotowanej wody. Stalkerzy, których stać na zakup napitku, często zabierają go ze sobą na dłuższe wyprawy w głąb Zony.\n \nHerbatka Brodacza sprawi, że będziesz pracować na pełnych obrotach, gdy zaczyna łapać zmęczenie, a także rozgrzeje cię w czasie zimnych nocy.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] napój\n
+		%c[d_blue] • %c[ui_gray_2] silny efekt otrzeźwienia\n
+		%c[d_blue] • %c[ui_gray_2] źródło czystego pożywienia \n
+		</text>
+	</string>
+	
+	<string id="st_tomato">
+		<text>Pomidory w puszce</text>
+	</string>
+	<string id="st_tomato_descr">
+		<text>Pokrojone pomidory bez skórki w puszce są jednym z najczęściej sprowadzanych do Zony produktów. Data przydatności do spożycia na spodzie puszki wskazuje, że są świeże.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] jedzenie\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] źródło czystego pożywienia\n
+		</text>
+	</string>
+	
+	<string id="st_sausage">
+		<text>Wędzona kiełbasa</text>
+	</string>
+	<string id="st_sausage_descr">
+		<text>Mięso wołowo-wieprzowe, wędzone i pakowane próżniowo, dzięki czemu zachowuje świeżość przez długi czas. Tę kiełbasę importowano z Federacji Rosyjskiej. Ceniona przez niektórych przywódców rosyjskiej mafii za wyjątkowy aromat i smak.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] jedzenie\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] źródło czystego pożywienia\n
+		</text>
+	</string>
+	
+	<string id="st_corn">
+		<text>Kukurydza w puszce</text>
+	</string>
+	<string id="st_corn_descr">
+		<text>Kukurydza w puszce. Produkt importowany. Można jeść ją samą, ale wielu używa jej jako składnik zup.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] jedzenie\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] źródło czystego pożywienia\n
+		</text>
+	</string>
+	
+	<string id="st_beans">
+		<text>Fasolka po bretońsku</text>
+	</string>
+	<string id="st_beans_descr">
+		<text>Fasola w sosie pomidorowym w puszce, przywieziona z Zachodu. U niektórych ludzi przywołuje miłe wspomnienia z dzieciństwa.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] jedzenie\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] źródło czystego pożywienia\n
+		</text>
+	</string>
+	
+	<string id="st_chili">
+		<text>Fasolka chili</text>
+	</string>
+	<string id="st_chili_descr">
+		<text>Fasolka chili w puszce. Produkt importowany. Popularny składnik niektórych dań podawanych w Zonie.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] jedzenie\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] źródło czystego pożywienia\n
+		</text>
+	</string>
+	
+	<string id="st_conserva">
+		<text>Puszka z tuńczykiem</text>
+	</string>
+	<string id="st_conserva_descr">
+		<text>Umieszczona na denku puszki data przydatności do spożycia wskazuje, że nie powinieneś spodziewać się frykasów.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] jedzenie\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] źródło czystego pożywienia\n
+		</text>
+	</string>
+	
+	<string id="st_tushonka">
+		<text>Tuszonka wołowa "Abakan"</text>
+	</string>
+	<string id="st_tushonka_descr">
+		<text>Tuszonka to potoczna nazwa stosowana w odniesieniu do mięsa konserwowanego produkowanego w Związku Radzieckim i innych państwach Układu Warszawskiego. Na ironię zakrawa fakt, że idea tuszonki przywędrowała do Rosji ze Stanów Zjednoczonych, które w czasie II wojny światowej przesyłały swoim sojusznikom racje żywieniowe w ramach wsparcia. Od tamtej pory tuszonka stanowi podstawową formę konserwowania mięsa w Rosji.\n \nUżywana zarówno przez ludność cywilną, jak i Armię Czerwoną. Pomimo długiej przydatności do spożycia, tuszonki są znane z wysokiej wartości odżywczej (głównie dzięki wysokiej zawartości tłuszczu) i całkiem dobrego smaku. Przez Czarnobylską Strefę Wykluczenia przewinęło się już wiele rodzajów tuszonek, ale wiosną 2020 niekwestionowanym królem jest "Abakan".\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] jedzenie\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] źródło czystego pożywienia\n
+		</text>
+	</string>
+	
+	<string id="st_salmon">
+		<text>Wędzony łosoś</text>
+	</string>
+	<string id="st_salmon_descr">
+		<text>Ukraiński wędzony łosoś. Zawsze trafia to tego, kto jest skłonny zapłacić za niego najwięcej. Bardzo wartościowy.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] jedzenie\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_blue] • %c[ui_gray_2] źródło czystego pożywienia\n
+		</text>
+	</string>
+	
+	<string id="st_raisins">
+		<text>Rodzynki</text>
+	</string>
+	<string id="st_raisins_descr">
+		<text>Paczka rodzynek. Zawierają dużo składników odżywczych i regulują poziom cukru we krwi.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] jedzenie\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] źródło czystego pożywienia\n
+		</text>
+	</string>
+	
+	<string id="st_chocolate">
+		<text>Rosyjska czekolada</text>
+	</string>
+	<string id="st_chocolate_descr">
+		<text>Rosyjska czekolada. Bardzo rzadko spotykana i dosyć wartościowa pomimo przeciętnego smaku. Budzi miłe wspomnienia z dzieciństwa i pomoże ci się odprężyć w surowych warunkach panujących w Zonie.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] jedzenie\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		%c[d_blue] • %c[ui_gray_2] źródło czystego pożywienia\n
+		</text>
+	</string>
+	
+    <string id="st_chocolate_p">
+		<text>Rosyjska czekolada (nadgryziona)</text>
+	</string>
+    <string id="st_chocolate_p_descr">
+		<text>Rosyjska czekolada. Bardzo rzadko spotykana i dosyć wartościowa pomimo przeciętnego smaku. Budzi miłe wspomnienia z dzieciństwa i pomoże ci się odprężyć w surowych warunkach panujących w Zonie.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] jedzenie\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		%c[d_blue] • %c[ui_gray_2] źródło czystego pożywienia\n
+		</text>
+	</string>
+	
+	<string id="st_mint">
+		<text>Drażetki miętowe</text>
+	</string>
+	<string id="st_mint_descr">
+		<text>Drażetki miętowe sprowadzone z Zachodu. Odświeżają oddech i usuwają promieniowanie z okolic ust. Zdają się zmniejszać ochotę na sen. Bierzesz aż dziesięć drażetek naraz, ale to tylko dlatego, że więcej nie zmieścisz w ustach.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		</text>
+	</string>
+	
+	<string id="st_nuts">
+		<text>Mieszanka orzechowa</text>
+	</string>
+	<string id="st_nuts_descr">
+		<text>Fistaszki, orzechy laskowe, nerkowce i migdały w popularnej mieszance. Duża zawartość składników odżywczych. Wyprodukowano w RPA.\n \n	%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] jedzenie\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_blue] • %c[ui_gray_2] źródło czystego pożywienia\n
+		</text>
+	</string>
+	
+	<string id="st_mineral_water">
+		<text>Woda mineralna</text>
+	</string>
+	<string id="st_mineral_water_descr">
+		<text>Woda mineralna z ukraińskich źródeł. Gazowana, zawierająca dodatkowy wapń.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] napój\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_blue] • %c[ui_gray_2] łagodny efekt otrzeźwienia\n
+		%c[d_blue] • %c[ui_gray_2] źródło czystego pożywienia\n
+		</text>
+	</string>
+	
+	<string id="st_mre">
+		<text>MRE</text>
+	</string>
+	<string id="st_mre_descr">
+		<text>MRE (The Meal, Ready-to-Eat - posiłek gotowy do spożycia) to pełnowartościowa racja żywnościowa opracowana przez armię Stanów Zjednoczonych. Opakowanie obmyślono tak, żeby zajmowało jak najmniej miejsca i przetrwało najcięższe warunki.\n \nPrzeznaczona do użycia w warunkach polowych, gdy nie ma dostępu do zaplecza gastronomicznego. Jedna paczka MRE może być wykorzystana jako jeden posiłek. Zawiera jedno danie (główne) wraz z szeregiem innych produktów żywieniowych i napojów.\n \nMożna jeść na zimno, ale zwykle smakuje dużo lepiej, gdy podgrzeje się je za pomocą dołączonego bezpłomieniowego podgrzewacza chemicznego, tzw. Flameless Ration Heater (FRH, urządzenie, które wytwarza ciepło na skutek reakcji elektrochemicznej między magnezem, żelazem i wodą).\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] racja wojskowa\n\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_blue] • %c[ui_gray_2] źródło czystego pożywienia\n
+		%c[d_blue] • %c[ui_gray_2] opakowanie zawiera 3 porcje, łącznie 1398 kcal\n
+		</text>
+	</string>
+	
+	<string id="st_ration_ru">
+		<text>Rosyjska racja polowa IRP-B</text>
+	</string>
+	<string id="st_ration_ru_descr">
+		<text>Śniadanie, obiad i kolacja w jednym, zamknięte w polimerowym opakowaniu. W jego skład wchodzi wiele różnych produktów żywnościowych, które zapewniają organizmowi wszystkie potrzebne minerały i składniki odżywcze, przyrządy kuchenne (mała metalowa rama, brykiety, zapałki, zapalacz), a także inne przedmioty ułatwiające użycie w warunkach polowych (np. serwetki). Opakowanie składa się z trzech części, odpowiednio na śniadanie, obiad i kolację. Zabezpiecza jedzenie przed niebezpiecznym wpływem środowiska.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] racja wojskowa\n
+		%c[d_blue] • %c[ui_gray_2] źródło czystego pożywienia\n
+		%c[d_blue] • %c[ui_gray_2] opakowanie zawiera 7 porcji, łącznie 3661 kcal\n
+		</text>
+	</string>
+	
+	<string id="st_ration_ukr">
+		<text>Ukraińska racja wojskowa</text>
+	</string>
+	<string id="st_ration_ukr_descr">
+		<text>Wojskowa racja żywnościowa, produkowana na Ukrainie. Wzorowana na rosyjskim odpowiedniku, zawiera łatwo dostępne artykuły spakowane razem w ramach jednego cienkiego opakowania. Zawiera wszystko, co może być potrzebne, żeby dać zdrowemu dorosłemu człowiekowi potrzebne kalorie i minerały.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] racja wojskowa\n
+		%c[d_blue] • %c[ui_gray_2] źródło czystego pożywienia\n
+		%c[d_blue] • %c[ui_gray_2] opakowanie zawiera 6 porcji, łącznie 3186 kcal\n
+		</text>
+	</string>
+	
+	<string id="st_bread">
+		<text>Świeży chleb</text>
+	</string>
+	<string id="st_bread_descr">
+		<text>Bochenek świeżego chleba. Wypieczony przez żonę Żwawego i sprowadzony do Zony. Na początku swojej działalności Żwawy sprzedawał głównie wysokiej jakości pieczywo, ale obecnie dostarcza je barmanom zamiast handlować nim samodzielnie. Ma w końcu na głowie własną firmę.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] jedzenie\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] źródło czystego pożywienia\n
+		</text>
+	</string>
+	
+	<string id="st_breadold">
+		<text>Okruchy chleba</text>
+	</string>
+	<string id="st_breadold_descr">
+		<text>Okruchy chleba upieczonego na Dużej Ziemi.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] jedzenie\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] źródło czystego pożywienia\n
+		</text>
+	</string>
+	
+	<string id="st_protein">
+		<text>Czekoladowy baton proteinowy</text>
+	</string>
+	<string id="st_protein_descr">
+		<text>Batonik zawiera białko i cukry, które pobudzają ciało do działania. Szczególnie użyteczny w czasie dłuższych podróży, gdy nie masz czasu na relaks, a żołądek zaczyna o sobie przypominać.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] jedzenie\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] źródło czystego pożywienia\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		</text>
+	</string>
+	
+	<string id="st_water_drink">
+		<text>Woda gazowana</text>
+	</string>
+	<string id="st_water_drink_descr">
+		<text>Woda gazowana dla spragnionych stalkerów. Działa odświeżająco, jeśli jesteś zmęczony.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] napój\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] łagodny efekt otrzeźwienia\n
+		%c[d_blue] • %c[ui_gray_2] źródło czystego pożywienia\n
+		</text>
+	</string>
+	
+	<string id="st_drink_crow">
+		<text>"Dziób"</text>
+	</string>
+	<string id="st_drink_crow_descr">
+		<text>"Dziób" jest potężną mieszanką produkowanej w Zonie wódki i sproszkowanych dziobów czarnych wron. Nie każdy dziób może być wykorzystany jako składnik, ponieważ tylko samce, które przeżyły w Zonie dłużej niż 15 lat, przeszły dostatecznie głęboką mutację.\n \nPlotka głosi, że takie dzioby zawierają pewien rodzaj wzbogaconego białka, które usuwa z organizmu umiarkowane ilości promieniowania. Według niektórych wypicie "Dziobu" sprawia, że poczujesz, jakby dosłownie wyrosły ci skrzydła. Z drugiej strony smak jest wyjątkowo paskudny.\n
+		</text>
+	</string>
+	
+<!--< SMOKE >-->
+	<string id="st_cuban_cigar">
+		<text>Kubańskie cygaro</text>
+	</string>
+	<string id="st_cuban_cigar_descr">
+		<text>To drogie kubańskie cygaro zapewni ci niezapomniane wrażenia zwłaszcza, gdy podziwiasz piękny zachód słońca. Część stalkerów zauważyła, że palenie mocnego tytoniu odstrasza komary. Kubańskie cygara są uważane za najlepsze na świecie. Rarytas.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] stymulant\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		%c[d_blue] • %c[ui_gray_2] silny efekt otrzeźwienia\n
+		</text>
+	</string>
+	
+	<string id="st_cigarettes_lucky">
+		<text>Papierosy Lucky Strike</text>
+	</string>
+	<string id="st_cigarettes_lucky_descr">
+		<text>Papierosy importowane z Zachodu. Czasem wymieniane na amunicję.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] stymulant\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_blue] • %c[ui_gray_2] łagodny efekt otrzeźwienia\n
+		</text>
+	</string>
+	
+	<string id="st_cigarettes_russian">
+		<text>Rosyjskie papierosy</text>
+	</string>
+	<string id="st_cigarettes_russian_descr">
+		<text>Najtańsze fajki w Zonie. Rosyjskiej produkcji.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] stymulant\n
+		%c[d_red] • %c[ui_gray_2] niska jakość\n
+		%c[d_blue] • %c[ui_gray_2] łagodny efekt otrzeźwienia\n
+		</text>
+	</string>
+	
+	<string id="st_cigar1">
+		<text>Ruskie fajki</text>
+	</string>
+	<string id="st_cigar1_descr">
+		<text>Paczka tanich, mocnych i lichych papierosów. Ktoś musiał się do nich dobrać, bo zostało tylko kilka sztuk. Czuć prawdziwy smak ZSRR.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] stymulant\n
+		%c[d_blue] • %c[ui_gray_2] łagodny efekt otrzeźwienia\n
+		</text>
+	</string>
+	
+	<string id="st_cigar2">
+		<text>Ruskie fajki</text>
+	</string>
+	<string id="st_cigar2_descr">
+		<text>Paczka tanich, mocnych i lichych papierosów. Ktoś musiał się do nich dobrać, bo zostało tylko kilka sztuk. Czuć prawdziwy smak ZSRR.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] stymulant\n
+		%c[d_blue] • %c[ui_gray_2] łagodny efekt otrzeźwienia\n
+		</text>
+	</string>
+	
+	<string id="st_cigar3">
+		<text>Ruskie fajki</text>
+	</string>
+	<string id="st_cigar3_descr">
+		<text>Paczka tanich, mocnych i lichych papierosów. Ktoś musiał się do nich dobrać, bo zostało tylko kilka sztuk. Czuć prawdziwy smak ZSRR.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] stymulant\n
+		%c[d_blue] • %c[ui_gray_2] łagodny efekt otrzeźwienia\n
+		</text>
+	</string>
+	
+	<string id="st_hand_rolling_tobacco">
+		<text>Tytoń do skręcania</text>
+	</string>
+	<string id="st_hand_rolling_tobacco_descr">
+		<text>Drogi tytoń do ręcznego skręcania, importowany z Zachodu. Nie zawiera żadnych dodatków, więc jest szansa, że uda ci się poczuć smak czystych, suszonych liści tytoniu.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] stymulant\n
+		%c[d_red] • %c[ui_gray_2] wolne użycie (zwijanie)\n
+		%c[d_blue] • %c[ui_gray_2] silny efekt otrzeźwienia\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		</text>
+	</string>
+	
+	<string id="st_cigarettes">
+		<text>Papierosy Marlboro</text>
+	</string>
+	<string id="st_cigarettes_descr">
+		<text>Papierosy importowane z Zachodu. Ktoś musiał się do nich dobrać, bo zostało tylko kilka sztuk. Już jeden papieros wystarczy, żeby opanować zszargane nerwy i przytłumić nieco uczucie głodu. Dosyć rzadkie w Zonie i przez to całkiem wartościowe.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] stymulant\n
+		%c[d_blue] • %c[ui_gray_2] łagodny efekt otrzeźwienia\n
+		</text>
+	</string>
+	
+	<string id="st_tobacco">
+		<text>Rosyjski tytoń</text>
+	</string>
+	<string id="st_tobacco_descr">
+		<text>Papierosy są w Zonie rarytasem, a z surowego tytoniu możesz je skręcić sobie sam, oszczędzając trochę grosza. Puszka jest zamknięta, zapewniając, że tytoń pozostanie świeży przez parę dni lub nawet tygodni w zależności od warunków przechowywania.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] stymulant\n
+		%c[d_red] • %c[ui_gray_2] wolne użycie (zwijanie)\n
+		%c[d_blue] • %c[ui_gray_2] silny efekt otrzeźwienia\n
+		%c[d_red] • %c[ui_gray_2] niska jakość\n
+		</text>
+	</string>
+	
+	<!-- unused -->
+	<!--
+	<string id="st_vodka_1_radiated">
+		<text>Putinka vodka (irradiated)</text>
+	</string>
+	<string id="st_beer_large_1_radiated">
+		<text>Zhigulevskoye beer (irradiated)</text>
+	</string>
+	<string id="st_beer_large_2_radiated">
+		<text>Ochakovo beer (irradiated)</text>
+	</string>
+	<string id="st_beer_1_radiated">
+		<text>Baltika ą3 beer (irradiated)</text>
+	</string>
+	<string id="st_beer_2_radiated">
+		<text>Slavutich Premium beer (irradiated)</text>
+	</string>
+	<string id="st_beer_can_1_radiated">
+		<text>Pripyat beer (irradiated)</text>
+	</string>
+	<string id="st_beer_can_2_radiated">
+		<text>Heineken beer (irradiated)</text>
+	</string>
+	<string id="st_water_large_1_radiated">
+		<text>Naroch mineral water (irradiated)</text>
+	</string>
+	<string id="st_water_large_2_radiated">
+		<text>Leninad mineral water (irradiated)</text>
+	</string>
+	<string id="st_water_can_1_radiated">
+		<text>Purified water (irradiated)</text>
+	</string>
+	<string id="st_water_can_2_radiated">
+		<text>Mineral water (irradiated)</text>
+	</string>
+	<string id="st_cocacola_radiated">
+		<text>Coca-Cola (irradiated)</text>
+	</string>
+	<string id="st_redbull_radiated">
+		<text>Redbull energy napój</text>
+	</string>
+	<string id="st_guru_radiated">
+		<text>GURU energy napój (irradiated)</text>
+	</string>
+	<string id="st_marlboro_radiated">
+		<text>Marlboro cigarettes (irradiated)</text>
+	</string>
+	<string id="st_lucky_radiated">
+		<text>Lucky Strike cigarettes (irradiated)</text>
+	</string>
+	<string id="st_cuban_radiated">
+		<text>Cuban cigars (irradiated)</text>
+	</string>
+	<string id="st_cigarettes_1_radiated">
+		<text>Cuban cigars (irradiated)</text>
+	</string>
+	<string id="st_wild_drink_radiated">
+		<text>Zone-produced liquor (irradiated)</text>
+	</string>
+	<string id="st_kolbasa_smoked_radiated">
+		<text>Smoked sausage (irradiated)</text>
+	</string>
+	<string id="st_beanz_radiated">
+		<text>Baked beans (irradiated)</text>
+	</string>
+	<string id="st_tomatoes_radiated">
+		<text>Tomatoes (irradiated)</text>
+	</string>
+	<string id="st_chocolatebar_radiated">
+		<text>Chocolate protein bar (irradiated)</text>
+	</string>
+	<string id="st_snickers_radiated">
+		<text>Snickers (irradiated)</text>
+	</string>
+	<string id="st_mars_radiated">
+		<text>Mars (irradiated)</text>
+	</string>
+	<string id="st_nuts_2_radiated">
+		<text>Trail mix (irradiated)</text>
+	</string>
+	<string id="st_beef_radiated">
+		<text>Tushenka (irradiated)</text>
+	</string>
+	<string id="st_bullheads_radiated">
+		<text>Pasta and meatballs (irradiated)</text>
+	</string>
+	<string id="st_sardina_radiated">
+		<text>"Pirate" Sardines (irradiated)</text>
+	</string>
+	<string id="st_olivki_radiated">
+		<text>Olives (irradiated)</text>
+	</string>
+	<string id="st_cheese_radiated">
+		<text>"Yantar" processed cheese (irradiated)</text>
+	</string>
+	<string id="st_galet_radiated">
+		<text>Biscuits (irradiated)</text>
+	</string>
+	<string id="st_shokolad_radiated">
+		<text>"Aljinushka" chocolate (irradiated)</text>
+	</string>
+	<string id="st_batonchik_radiated">
+		<text>Chocolate bar (irradiated)</text>
+	</string>
+	<string id="st_jerky_radiated">
+		<text>Beef jerky (irradiated)</text>
+	</string>
+	<string id="st_chips_radiated">
+		<text>Potato chips (irradiated)</text>
+	</string>
+	<string id="st_hash_radiated">
+		<text>Biscuits and hash (irradiated)</text>
+	</string>
+	<string id="st_cpcb_radiated">
+		<text>Salted crackers (irradiated)</text>
+	</string>
+	<string id="st_juice_radiated">
+		<text>Orange juice (irradiated)</text>
+	</string>
+	<string id="st_mre_1_3_radiated">
+		<text>Army MRE (irradiated)</text>
+	</string>
+	<string id="st_mre_1_2_radiated">
+		<text>Army MRE (irradiated)</text>
+	</string>
+	<string id="st_mre_1_1_radiated">
+		<text>Army MRE (irradiated)</text>
+	</string>
+	<string id="st_bandage_israeli_radiated">
+		<text>Bandage (irradiated)</text>
+	</string>
+	<string id="st_amphetamines_4_radiated">
+		<text>Amphetamine (irradiated)</text>
+	</string>
+	<string id="st_amphetamines_3_radiated">
+		<text>Amphetamine (irradiated)</text>
+	</string>
+	<string id="st_amphetamines_2_radiated">
+		<text>Amphetamine (irradiated)</text>
+	</string>
+	<string id="st_amphetamines_1_radiated">
+		<text>Amphetamine (irradiated)</text>
+	</string>
+	<string id="st_diazepam_radiated">
+		<text>Diazepam (irradiated)</text>
+	</string>
+	<string id="st_psy_complex_radiated">
+		<text>Psychodelin (irradiated)</text>
+	</string>
+	<string id="st_bio_bandage_radiated">
+		<text>Special bandage (irradiated)</text>
+	</string>
+	<string id="st_drug_engine_radiated">
+		<text>Anti-hallucinogen (irradiated)</text>
+	</string>
+	<string id="st_drug_cat_eye_radiated">
+		<text>Cat's eye (irradiated)</text>
+	</string>
+	<string id="st_medo_radiated">
+		<text>Moonshine (irradiated)</text>
+	</string>
+	<string id="st_mbk_radiated">
+		<text>Caffeine pills (irradiated)</text>
+	</string>
+	<string id="st_medkit_elite_radiated">
+		<text>Elite medkit (irradiated)</text>
+	</string>
+	<string id="st_bag_medkit_1_radiated">
+		<text>Basic medkit (irradiated)</text>
+	</string>
+	<string id="st_bag_medkit_2_radiated">
+		<text>Army medkit (irradiated)</text>
+	</string>
+	<string id="st_bag_medkit_3_radiated">
+		<text>Scientific medkit (irradiated)</text>
+	</string>
+	<string id="st_bag_medkit_4_radiated">
+		<text>Special medkit (irradiated)</text>
+	</string>
+	-->
+</string_table>

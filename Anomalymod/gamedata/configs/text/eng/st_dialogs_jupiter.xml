@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+<!-- (Monolith Mechanic - Jupiter factory) -->
+	<string id="mechanic_monolith_jup_depo_start_0">
+		<text>Witaj, bracie. Moim obowiązkiem jest zapewnienie wsparcia technicznego naszym braciom przebywającym w okolicy.</text>
+	</string>
+
+	
+<!-- (Monolith Trader - Jupiter factory) -->
+	<string id="meet_guid_jupdepo_mon_0">
+		<text>Dokąd możesz mnie zaprowadzić, bracie?</text>
+	</string>
+	<string id="meet_guid_jupdepo_mon_1">
+		<text>Miejsc jest kilka - znam ścieżki prowadzące do Czerwonego Lasu, na Przedmieścia Prypeci i do samej Prypeci. Nie mogę przeprowadzić cię tam osobiście, ale po złożeniu ofiary pieniężnej możesz ruszyć tam ze swymi braćmi. Sądzę, że nie będzie to dla ciebie zbyt duży kłopot.</text>
+	</string>
+	
+	<string id="meet_guid_jupdepo_mon_list_0">
+		<text>Dokąd przewodnicy mogą mnie zaprowadzić?</text>
+	</string>
+	<string id="meet_guid_jupdepo_mon_list_1">
+		<text>Do Czerwonego Lasu za sześć tysięcy rubli, na Przedmieścia Prypeci za dwa tysiące i do Prypeci za tysiąc.</text>
+	</string>
+
+	<string id="travel_guid_jupdepo_mon_mon_0">
+		<text>Chciałbym dostać się w pewne miejsce, bracie.</text>
+	</string>
+	<string id="travel_guid_jupdepo_mon_mon_1">
+		<text>Oczywiście. Dokąd chciałbyś się udać?</text>
+	</string>
+	<string id="travel_guid_jupdepo_mon_mon_2">
+		<text>Do Czerwonego Lasu. %c[d_orange][6.000 RU]</text>
+	</string>
+	<string id="travel_guid_jupdepo_mon_mon_3">
+		<text>Na Przedmieścia Prypeci. %c[d_orange][2.000 RU]</text>
+	</string>
+	<string id="travel_guid_jupdepo_mon_mon_4">
+		<text>Do Prypeci. %c[d_orange][1.000 RU]</text>
+	</string>
+	<string id="travel_guid_jupdepo_mon_mon_5">
+		<text>Zmieniłem zdanie.</text>
+	</string>
+
+	
+<!-- Garry (Guide) -->
+	<string id="meet_guid_jup_0">
+		<text>Kim jesteś?</text>
+	</string>
+	<string id="meet_guid_jup_1">
+		<text>Nazywam się Garri, brachu i jestem tu przewodnikiem - najczęściej pokazuje ludziom centrum Zony. Mogę cię zaprowadzić do Baru, Prypeci, Czerwonego Lasu, Zatonu i do podziemi Jupitera.</text>
+	</string>
+
+	<string id="meet_guid_jup_list_0">
+		<text>Przypomnij, dokąd możesz mnie zaprowadzić?</text>
+	</string>
+	<string id="meet_guid_jup_list_1">
+		<text>Mogę cię zaprowadzić do Baru za sześć tysięcy rubli, do Prypeci za trzy tysiące, do Czerwonego Lasu za dwa tysiące pięćset, na Skadowsk w Zatonie za dwa tysiące i do podziemi Jupitera za tysiąc pięćset.</text>
+	</string>
+
+	<string id="travel_guid_jup_0">
+		<text>Chciałbym dostać się w pewne miejsce.</text>
+	</string>
+	<string id="travel_guid_jup_1">
+		<text>Jasne, dokąd?</text>
+	</string>
+	<string id="travel_guid_jup_2">
+		<text>Do Baru. %c[d_orange][6.000 RU]</text>
+	</string>
+	<string id="travel_guid_jup_3">
+		<text>Do Prypeci. %c[d_orange][3.000 RU]</text>
+	</string>
+	<string id="travel_guid_jup_4">
+		<text>Do Czerwonego Lasu. %c[d_orange][2.500 RU]</text>
+	</string>
+	<string id="travel_guid_jup_5">
+		<text>Do podziemi Prypeci. %c[d_orange][1.500 RU]</text>
+	</string>
+	<string id="travel_guid_jup_6">
+		<text>Na Zaton. %c[d_orange][2.000 RU]</text>
+	</string>
+	<string id="travel_guid_jup_7">
+		<text>Zmieniłem zdanie.</text>
+	</string>
+
+<!-- Loki (Freedom Leader) in Yanov -->
+	<string id="loki_st_0">
+		<text>Więc to ty tutaj rządzisz?</text>
+	</string>
+	<string id="loki_st_1">
+		<text>Tak, zgadza się. Nazywam się Loki, jestem na tej stacji prawą ręką Łukasza.</text>
+	</string>
+	<string id="loki_st_2">
+		<text>Loki? Interesujące imię - jak skandynawskie bóstwo.</text>
+	</string>
+	<string id="loki_st_3">
+		<text>Dokładnie. Tak mnie wołali na samym początku mojej przygody w Zonie, jeszcze przed tym, jak po raz pierwszy wyłączono Mózgozwęglacz. To były szalone czasy.</text>
+	</string>
+	<string id="loki_st_4">
+		<text>Opowiedz mi o tym.</text>
+	</string>
+	<string id="loki_st_5">
+		<text>O tym, co się działo, jak wyłączyli Zwęglacz? To był... jakoś dwa tysiące dwunasty rok, jak dobrze pamiętam, kupa czasu temu. Stwierdziliśmy, że zbadamy tereny za antenami, na północy. Zebrałem ekipę i wymaszerowaliśmy. Szliśmy cholernie długo, napotykając po drodze coraz dziwniejsze miejsca. Doszliśmy tak daleko, że Elektrownię było widać jak na dłoni. Stwierdziliśmy, że dalej na razie nie ma co i że rozbijamy gdzieś w okolicy obóz.\n \nNatknęliśmy się na ten budynek. Opuszczony dworzec kolejowy, rzut muterką od Prypeci. Uznaliśmy, że to będzie świetna miejscówka na dużą bazę blisko centrum Zony i zaczęliśmy ją okopywać. Dosłownie parę godzin po nas przechodziła tędy Powinność. Już mieliśmy zacząć do siebie strzelać, gdy niebo zaciągnęło się szkarłatem. Usłyszeliśmy ogłuszające dudnienie, jakby spod ziemi. Musisz zrozumieć, nikt nigdy wcześniej nie mierzył się z emisją praktycznie w samym centrum Zony. Perspektywa usmażenia mózgu, gdy się zaszło tak daleko to nic przyjemnego, bez znaczenia, jakie masz poglądy. Zaryzykowałem, przedyskutowałem pomysł z drużyną i stwierdziliśmy, że użyczymy naszego schronienia Powinności.\n \nPo wszystkim stwierdziliśmy, że skoro do tej pory udało nam się nie pozabijać, to możemy się podzielić stacją, oczywiście pod pewnymi warunkami. Wydzieliliśmy obszar, na którym obowiązywało bezwzględne zawieszenie broni, a sam budynek dworca przedzieliliśmy na dwie strefy frakcyjne i część wspólną. Tak głęboko w Zonie zbyt wiele rzeczy mogło nas zabić, walka ze sobą nawzajem nie przyniosłaby wtedy nic dobrego ani dla nas, ani dla nich. Oczywiście, z dala od Janowa dalej tłukliśmy Powinność jak w każdym innym miejscu.</text>
+	</string>
+	<string id="loki_st_6">
+		<text>Gdzie oni teraz są? Na stacji widzę tylko Wolność.</text>
+	</string>
+	<string id="loki_st_7">
+		<text>To trudne pytanie. Parę lat temu kręcił się tu stalker imieniem Aleksander. Nie patrzył na naszywki, pomagał każdemu, kto tego potrzebował i na to zasłużył. Zrobił kupę dobrej roboty tak nam, jak i ludziom Szulgi.\n \nMyślę, że to w dużej mierze jemu zawdzięczamy utrzymanie pokoju i jakiegoś takiego balansu. Napięcie między frakcjami na terenie Janowa naprawdę zaczęło zanikać. Przynajmniej dopóki Monolit znów nie pojawił się w okolicy...</text>
+	</string>
+	<string id="loki_st_8">
+		<text>Co było dalej?</text>
+	</string>
+	<string id="loki_st_9">
+		<text>Cóż, pułkownik Szulga - oddelegowany przez Woronina do dowodzenia Powinnościowcami w Janowie - zdecydował, że nie pozwoli, by ci kultyści znów biegali po całej Zonie. Wziął tylu ludzi, ilu tylko był w stanie zwerbować, rzucił "Jeszcze się razem napijemy!" i wyszedł. Ruszyli prosto do Prypeci.\n \nNiedługo potem dostaliśmy informację, że Mózgozwęglacz znów działa... Od tamtej pory nikt nie wie, co stało się z pułkownikiem i jego oddziałem. Nikt ich nie widział, nikt o nich nie słyszał. Jak kamień w wodę.</text>
+	</string>
+	<string id="loki_st_10">
+		<text>Sądzisz, że jego poświęcenie było warte tego wszystkiego?</text>
+	</string>
+	<string id="loki_st_11">
+		<text>Przykro mi to mówić, ale nie. Jak pomyślę, ile zaryzykowałem, podejmując decyzję o wpuszczeniu ich wtedy na stację, ile mieliśmy do tego czasu ścięć i awantur i jak wszystko ostatnio zaczynało się układać... Ech...\n \nPodejrzewam, że w tej chwili oni wszyscy wznoszą modły do Monolitu, albo szwendają się po Zonie z wypranymi mózgami...</text>
+	</string>
+	<string id="loki_st_12">
+		<text>Cholera... Szkoda.</text>
+	</string>
+
+	<string id="devushka_loki_help_0">
+		<text>Hej, Loki! Dostawa od Łukasza!</text>
+	</string>
+	<string id="devushka_loki_help_1">
+		<text>Doskonale! Czekaliśmy na ten transport. Przysługa za przysługę, jak mówi stare przysłowie. Trzymaj, weź ten kombinezon. Jego poprzedni właściciel nie będzie go już potrzebował.</text>
+	</string>
+	
+	
+
+	<string id="jup_a6_freedom_trader_ashot_start_dialog_0">
+		<text>Co mogę ci dzisiaj sprzedać?</text>
+	</string>
+	<string id="jup_b19_freedom_yar_start_dialog_0">
+		<text>Witaj, stalkerze. Czego ci potrzeba?</text>
+	</string>
+
+	<!-- Trapper (Loner) in Yanov -->
+	<string id="jup_b220_trapper_start_11">
+		<text>Jestem Traper. Nie musisz się przedstawiać.</text>
+	</string>
+	<string id="jup_b220_trapper_start_12">
+		<text>Co cię tu sprowadza?</text>
+	</string>
+	
+		<string id="jup_trapper_about_himself_0">
+		<text>Czym się tu zajmujesz?</text>
+	</string>
+	<string id="jup_trapper_about_himself_1">
+		<text>Cóż, wołają na mnie Traper, więc nietrudno się domyślić, czym się param. Odławiam mutanty stanowiące zagrożenie dla stalkerów. W tej chwili właściwie nie uczestniczę już w polowaniach.\n \nTeraz dbam o to, by inni, młodsi, wiedzieli co z czym się w tym fachu je - przyjmuję zlecenia, zbieram informacje o tutejszej faunie i wysyłam ludzi, żeby zajęli się niebezpieczeństwami. Oprócz tego szkolę nowe pokolenie myśliwych, uczę ich taktyk łowieckich i sztuki przetrwania.</text>
+	</string>
+	
+	<string id="jup_trapper_about_retire_0">
+		<text>Dlaczego już nie polujesz?</text>
+	</string>
+	<string id="jup_trapper_about_retire_1">
+		<text>Ech... latka lecą, człowiek się starzeje, wypada z formy, wpada w rutynę. To dlatego zginął Lis, niech mu Zona lekką będzie... Był moim partnerem i przyjacielem. Całą masę różnorakich bestii razem upolowaliśmy, stojąc ramię w ramię, nieraz ocierając się o śmierć.\n \nWszystko się pochrzaniło, kiedy wpadliśmy na te pieprzone chimery w Zatonie. W całej Zonie nikt ich nie widział co najmniej od roku, może nawet dłużej. W ogóle nie byliśmy na to gotowi, stary. Jedna z nich powaliła Lisa na ziemię zanim zdążyłem się w ogóle zorientować, co się stało. Chwyciłem za strzelbę, ale dla niego było już za późno... O dziwo, jak tylko zacząłem strzelać uciekły. Mam nadzieję, że smażą się teraz w piekle!</text>
+	</string>
+	
+	<string id="st_jup_b220_trapper_life_ask">
+		<text>Co powinienem wiedzieć polując na mutanty?</text>
+	</string>
+	<string id="st_jup_b220_trapper_life_1">
+		<text>Chimery to niezwykle niebezpieczne, nocne drapieżniki. Próbują podkraść się do ciebie pod osłoną nocy i wskoczyć ci na plecy. Jeśli wiesz, że w okolicy żeruje chimera, często oglądaj się za siebie i osłaniaj kumplom tyłki.</text>
+	</string>
+	<string id="st_jup_b220_trapper_life_2">
+		<text>Burery wykorzystują ataki grawitacyjne. Gdy podejdziesz blisko miotają tobą, jak szmacianą lalką. Jeśli atakujesz je z daleka, będą ciskać w ciebie wszystkim, co są w stanie podnieść swoją telekinezą.\n \nWalcząc z nimi najlepiej trzymać je na średni dystans i nigdy, przenigdy się nie zatrzymywać. Chyba, że jesteś z kategorii tych, którzy lubią obrywać po plecach cegłówkami, beczkami i tak dalej... No i staraj się nie zabiegać na śmierć. Burery wykorzystują impulsy grawitacyjne do wyrywania ludziom broni z rąk, a jak będziesz zmęczony, może im się udać.</text>
+	</string>
+	<string id="st_jup_b220_trapper_life_3">
+		<text>Poltergeisty dzielą się na dwa rodzaje. Niektóre, podobnie jak burery, rzucają w ciebie wszystkim, co tylko znajdzie się w zasięgu ich mocy telekinetycznych. Inne swoje ataki opierają na ogniu, strzelając do ciebie wiązką płomieni podobną do Spalacza.\n \nNiedoświadczeni myśliwi krążą wokół nich, by uniknąć bezpośredniego zagrożenia. Rzecz w tym, że poltergeisty nie widzą, ani nie słyszą w normalnym tych słów znaczeniu. Ich orientacja w przestrzeni opiera o się o ruch obiektów w polu grawitacyjnym. Najważniejsze to o tym pamiętać i umieć wykorzystać.\n \nDoświadczeni łowcy wiedzą, że najlepszą taktyką na te kreatury jest cierpliwość. Po prostu zatrzymujesz się i czekasz, aż podleci. Kiedy będzie blisko, strzelasz w "rdzeń" i dajesz nogę, zanim zorientuje się, gdzie jesteś. I tak do skutku.</text>
+	</string>
+	<string id="st_jup_b220_trapper_life_4">
+		<text>Najtrudniejszą rzeczą w polowaniu na nibyolbrzyma jest samo zabicie go. To prawdziwe chodzące czołgi, przyjacielu. Potrafią zebrać potężne cięgi i nic sobie z tego nie robić...\n \nPowiem tak. Dla kogoś z jajami z betonu najlepszą taktyką będzie zasypanie go granatami. Szrapnele poharatają mu skórę i rozdrażnią, przez co stanie się mniej uważny. Wtedy najlepiej podbiec i zacząć do niego walić, seria ze śrutówki prosto w twarz świetnie spełni swoje zadanie. Trzeba przy tym pamiętać, że jego tupnięcia wywołują falę uderzeniową potrafiącą przewrócić wszystko, co nie jest na stałe przytwierdzone do ziemi.\n \nDla bardziej zachowawczych lepiej trzymać się z dala i atakować z góry, tam gdzie ma najcieńszą skórę. Najrozsądniej wejść gdzieś wyżej i liczyć na to, że nie runie od jego kopnięcia.</text>
+	</string>
+	<string id="st_jup_b220_trapper_life_5">
+		<text>Kiedy mierzysz się z kontrolerem, musisz wykorzystywać wszystko, co pozwoli ci ukryć się przed jego wzrokiem. Te niezwykłe stworzenia muszą cię widzieć, by wpłynąć na twój umysł.\n \nTo raczej powolne mutanty. Jeśli masz taką możliwość, odetnij kontrolera granatami i utrzymuj dystans, korzystając z osłon.</text>
+	</string>
+	<string id="st_jup_b220_trapper_life_end">
+		<text>Mam teraz coś do roboty. Możemy porozmawiać o tym później?</text>
+	</string>
+
+
+	<!-- -->
+	<string id="jup_a6_stalker_medik_start_dialog_0">
+		<text>Potrzebujesz pomocy, czy wpadłeś na plotki? </text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_0">
+		<text>Potrzebuję opieki medycznej.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_1">
+		<text>Popatrzmy...</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_2">
+		<text>Niech no spojrzę... Nieznacznie powiększona wątroba, ale to tutaj standard. Oprócz tego, jesteś zdrów, jak burer!</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_111">
+		<text>No, bratku, faktycznie, trzeba cię trochę połatać, ale na tym świecie nie ma nic za darmo. 1.850 rubli, tyle kosztuje poprawa stanu zdrowia. Wyciągnięcie radionuklidów to inny temat, płatny osobno. Koszt takiego zabiegu to 1.480 rubli.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_11">
+		<text>Szykować już coffin dance?</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_1111">
+		<text>Zapłacę. Rób, co trzeba.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_1112">
+		<text>To dla mnie za drogo!</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_1115">
+		<text>Nie zapłacę ci tyle!</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_1114">
+		<text>Nie mam tyle pieniędzy. Zajmij się jedynie radiacją, proszę.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_1113">
+		<text>Zbij mi promieniowanie.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_11111">
+		<text>Sekundę... no, teraz jesteś funkiel nówka nieśmigana! Gwarancja po zabiegu - dwa lata. Pod warunkiem, że nie wyjdziesz z tego budynku, hahaha.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_11112">
+		<text>Nie udzielam pożyczek, poszukaj gdzie indziej.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_11113">
+		<text>W takim razie... Dobrej śmierci, kolego.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_11114">
+		<text>Cóż, podejdź. Nie potrzebuję więcej antyradów.</text>
+	</string>
+
+	<!-- -->
+	<string id="jup_a6_freedom_leader_start_dialog_11">
+		<text>Więc, co masz do powiedzenia?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_start_dialog_12">
+		<text>W jakich sprawach tutaj jesteś?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_0">
+		<text>Opowiedz mi o swojej pozycji w Wolności.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1">
+		<text>To długa historia. Co chciałbyś wiedzieć?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1111">
+		<text>Co tu robicie?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11111">
+		<text>Dbamy o to, żeby urzędasy nie zatajały informacji o Zonie przed światem. Wiesz, jak jest - jak tylko pojawi się info o kolejnym laboratorium, albo wypłyną jakieś dokumenty rzucające trochę światła na tajemnice tutejszych kompleksów, wierchuszka natychmiast organizuje operacje na wielką skalę, byle tylko zagarnąć dla siebie jak najwięcej wiedzy. Jedyną opcją na poznanie największych sekretów jest po prostu odkrycie ich przed nimi.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1112">
+		<text>Jak wylądowaliście w centrum Zony?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11121">
+		<text>A, któregoś razu wyszliśmy rozprostować nogi i jakoś tak wyszło, że znaleźliśmy się tutaj. Żartuję oczywiście, hahaha!\n \nPo wyłączeniu Zwęglacza nie mogliśmy przepuścić okazji, by zostać pierwszymi, którzy zobaczą rzeczy, o których do tej pory nikomu się nawet nie śniło. W tej okolicy ciągle ktoś odkrywa coś nowego.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_111211">
+		<text>I co znaleźliście w trakcie tej wyprawy?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1112111">
+		<text>W większości zamknięte na amen drzwi i kilka nowych typów artefaktów.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1113">
+		<text>Co sprawiło, że dołączyłeś do Wolności?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11131">
+		<text>Oj, kolego... Z Łukaszem i resztą założycieli Wolności przyjaźnimy się od lat. Znamy się jeszcze z czasów sprzed Pierwszej Emisji - chodziliśmy na manifestacje, biliśmy się z narodowcami, słuchaliśmy Boba i Jimi'ego, paliliśmy sporo trawy, fajne czasy...\n \nW końcu nastała dorosłość i nasze drogi się rozeszły. Stwierdziłem, że z braku laku przyjadę szukać bogactwa i wolności w Zonie. I nie uwierzysz, ale któregoś razu po prostu na nich wpadłem! Uznałem, że skoro spotkałem tu znajomych z tamtej strony Kordonu, to dołączę do ich ekipy.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1114">
+		<text>Co myślisz o Powinności?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11141">
+		<text>Myślę, że to idioci. Gdyby Woronin wyjął na chwilę łeb z dupy, wysłałby tu posiłki, tak jak Łukasz, kiedy Monolit znowu zaczął nas nachodzić. Gdyby Szulga był trochę mądrzejszy, nie poleciałby na hura ratować bazy. Głupi dureń. A jego ludzie? Gdyby mieli pod kopułami coś więcej, niż dwie komórki mózgowe do srania i podcierania dupy, zaraz ruszyliby na ich poszukiwania, a nie tracili czas na bezsensowne zaczepki naszych chłopaków, z których i tak nic, kurwa, nie wynika.\n \nGdyby którykolwiek z nich miał jakąkolwiek cząstkę rozumu - bo o godności człowieka nawet nie ma co wspominać - cieszyłby się pełnią życia. A tak? Odrzucają wszystko, co daje im frajdę i starają się wyeliminować najbardziej niezwykły, najbardziej unikatowy cud natury, jaki świat kiedykolwiek widział. I po co? Tylko dlatego, że nie potrafią go zrozumieć!</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1115">
+		<text>Okej. Nieważne.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11151">
+		<text>Jasne. Cokolwiek.</text>
+	</string>
+
+    <!-- Hawaiian (Bartender at Yanov Station) -->
+	<string id="jup_a6_stalker_barmen_start_dialog_11">
+		<text>Aloha! Witaj w moim raju na ziemi! Masz ochotę zasmakować iście rajskich rozkoszy?</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_start_dialog_12">
+		<text>Witaj, przyjacielu! Przyszedłeś się odprężyć? Wodopój u mnie słaby, ale nadrabiamy atmosferą! Rozgość się i czuj się, jak w domu! Aloha!</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_start_dialog_13">
+		<text>Cześć! Mam wszystko, czego dusza zapragnie. Czego ci potrzeba? Jesteś głodny? Napiłbyś się czegoś? Zaraz coś wymyślimy!</text>
+	</string>
+	
+	<string id="hawaiian_yanov_0">
+		<text>Opowiedz mi o tym miejscu.</text>
+	</string>
+	<string id="hawaiian_yanov_1">
+		<text>Stalker! Jesteś na stacji Janów, najbardziej gościnnym miejscu na północy Zony! Haha! Bywają tu najbardziej weseli i otwarci ludzie, jakich znam.\n \nNa pewno znajdziesz tu kogoś, z kim możesz bez żadnych spięć pogadać i popić. Chcesz przepuścić stówkę w karty? Też się ktoś znajdzie! Czym chata bogata!\n \nA może wpadłeś tylko po drodze, uzupełnić zapasy? Mamy wszystko! Broń, amunicję, leki, zioło, coś mocniejszego... wszystko, kolego, wszystko! Lepiej dmuchać na zimne!</text>
+	</string>
+
+	<!-- Hermann (Ecologist)-->
+	<string id="jup_b6_scientist_nuclear_physicist_start_11">
+		<text>Co chciałbyś mi powiedzieć?</text>
+	</string>
+	
+	<string id="hermann_lab_0">
+		<text>Opowiedz mi o tym miejscu.</text>
+	</string>
+	<string id="hermann_lab_1">
+		<text>Cóż... tak po prawdzie, nie bardzo jest o czym opowiadać. Po długich negocjacjach udało mi się w końcu przekonać Ministerstwo Edukacji i Nauki do założenia kolejnego obiektu badawczego w Zonie. Powołałem się na fakt wyłączenia Mózgozwęglacza, dzięki czemu uzyskaliśmy dostęp do wcześniej nieosiągalnych obszarów na północy. Pomimo zgód i finansowania, nie zaoferowano nam ochrony, ponieważ towarzysząca naszej ekspedycji operacja wojska zakończyła się całkowitym niepowodzeniem.\n \nDysponujemy najbardziej nowoczesnym sprzętem i technologią, ale nie mamy żadnej siły przerobowej. Przez większość czasu polegamy na ochotnikach i wynajmowanych stalkerach. Pominę już, że mimo posiadanego wyposażenia nasze możliwości i warunki pracy daleko odbiegają od światowych standardów... Mam czasem wrażenie, że ministerstwo powiedziało nam "chcecie bunkier, to macie" i tyle, żadnego dalszego wsparcia. Jak mamy robić jakiekolwiek postępy bez żadnej pomocy z zewnątrz?</text>
+	</string>
+	
+	<string id="jup_b16_biochemist_oasis_start_11">
+		<text>Co cię tu sprowadza?</text>
+	</string>
+	
+	<string id="ozersky_oasis_0">
+		<text>Wiesz coś na temat Oazy?</text>
+	</string>
+	<string id="ozersky_oasis_1">
+		<text>Oczywiście, że wiem. Kilka lat temu osobiście prowadziłem badania nad artefaktem pochodzącym z tego tajemniczego miejsca. Niestety, obecnie już go tu nie mamy - został wysłany do instytutu badawczego znajdującego się poza Zoną.\n \Stalker, który dostarczył nam ten artefakt - Aleksander Diegtiariow - nigdy nie wyjawił, gdzie znajduje się Oaza. Gdyby udało ci się do niej dotrzeć, jesteśmy gotowi zapłacić naprawdę duże pieniądze za pochodzące stamtąd materiały do badań.</text>
+	</string>
+
+	<string id="jup_b6_scientist_medic_start_11">
+		<text>Co cię tu sprowadza?</text>
+	</string>
+
+	<!-- Ashot and Yar -->
+	<string id="st_jup_yar_reply_1">
+		<text>Hej ty, powiedz %s żeby przywlókł tu swoje dupsko.</text>
+	</string>
+	<string id="st_jup_yar_reply_2">
+		<text>Czy on nie widzi, że jestem zajęty? Powiedz mu, żeby tu zajrzał.</text>
+	</string>
+	<string id="st_jup_yar_reply_3">
+		<text>Nie płacą mi za chodzenie. Niech on do mnie przyjdzie.</text>
+	</string>
+	<string id="st_jup_yar_reply_4">
+		<text>Co? Czy on chce wózek inwalidzki? Idź po %s dla mnie.</text>
+	</string>
+	<string id="st_jup_yar_reply_5">
+		<text>Gdzie jest %s? Nie mogę tego naprawić, dopóki go tu nie przyniesie.</text>
+	</string>
+
+	<string id="st_jup_ashot_reply_1">
+		<text>Jeśli %s tego chce, niech przyjdzie i sobie weźmie.</text>
+	</string>
+	<string id="st_jup_ashot_reply_2">
+		<text>Znów przyszedłeś? Jeśli tego chce, niech przyjdzie tu osobiście i to sobie weźmie. Okej?</text>
+	</string>
+	<string id="st_jup_ashot_reply_3">
+		<text>Powiedz tej łysej pale, żeby ruszył tu dupę, jak coś ode mnie chce. Daleko nie ma.</text>
+	</string>
+	<string id="st_jup_ashot_reply_4">
+		<text>Nie mogę zostawić swojego biznesu bez opieki. To on musi do mnie przyjść.</text>
+	</string>
+	<string id="st_jup_ashot_reply_5">
+		<text>Czy ja wyglądam jak chłopiec na posyłki? Powiedz %s, żeby przyszedł po to osobiście.</text>
+	</string>
+</string_table>

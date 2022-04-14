@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+	<string id="st_arszi_campfire_roast_campfire_off">
+		<text>Nie możesz użyć zgaszonego ogniska</text>
+	</string>
+
+	<string id="st_arszi_campfire_roast_danger">
+		<text>Nie możesz rozpalić ogniska, gdy wrogowie są w pobliżu</text>
+	</string>
+
+	<string id="st_arszi_campfire_roast_surge">
+		<text>Nie możesz rozpalić ogniska podczas emisji</text>
+	</string>
+
+	<string id="st_arszi_campfire_roast_psi_storm">
+		<text>Nie możesz rozpalic ogniska podczas burzy PSI</text>
+	</string>
+</string_table>

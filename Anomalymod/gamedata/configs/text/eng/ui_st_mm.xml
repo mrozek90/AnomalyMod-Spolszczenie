@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	<string id="Clear">
+		<text>Słonecznie</text>
+	</string>
+	<string id="Cloudy">
+		<text>Pochmurno</text>
+	</string>
+	<string id="Night">
+		<text>Noc</text>
+	</string>
+	<string id="Rain">
+		<text>Deszcz</text>
+	</string>
+	<string id="game type">
+		<text>RODZAJ GRY</text>
+	</string>
+	<string id="gd_master">
+		<text>Mistrz</text>
+	</string>
+	<string id="gd_novice">
+		<text>Nowicjusz</text>
+	</string>
+	<string id="gd_veteran">
+		<text>Weteran</text>
+	</string>
+	<string id="icon">
+		<text>IKONY</text>
+	</string>
+	<string id="map">
+		<text>MAPA</text>
+	</string>
+	<string id="st_opt_high">
+		<text>Wysokie</text>
+	</string>
+	<string id="st_opt_low">
+		<text>Niskie</text>
+	</string>
+	<string id="st_opt_medium">
+		<text>Średnie</text>
+	</string>
+	<string id="st_opt_off">
+		<text>Wył.</text>
+	</string>
+	<string id="ui_mm_action">
+		<text>Akcja</text>
+	</string>
+	<string id="ui_mm_advanced">
+		<text>Zaawansowane</text>
+	</string>
+	<string id="ui_mm_alternative">
+		<text>Alternatywne</text>
+	</string>
+	<string id="ui_mm_apply">
+		<text>Użyj</text>
+	</string>
+	<string id="ui_mm_back">
+		<text>Wstecz</text>
+	</string>
+	<string id="ui_mm_blood">
+		<text>Krew</text>
+	</string>
+	<string id="ui_mm_ok">
+		<text>OK</text>
+	</string>
+	<string id="ui_mm_cancel">
+		<text>Anuluj</text>
+	</string>
+	<string id="ui_mm_next">
+		<text>Następne</text>
+	</string>
+	<string id="ui_mm_previous">
+		<text>Poprzednie</text>
+	</string>
+	<string id="ui_mm_craft">
+		<text>Stwórz</text>
+	</string>
+	<string id="ui_mm_upgrade">
+		<text>Ulepsz</text>
+	</string>
+	<string id="ui_mm_repair">
+		<text>Napraw</text>
+	</string>
+	<string id="ui_mm_cook">
+		<text>Gotuj</text>
+	</string>
+	<string id="ui_mm_loot_selected">
+		<text>Zbierz zaznaczone</text>
+	</string>
+	<string id="ui_mm_loot_all">
+		<text>Zbierz wszystko</text>
+	</string>
+	<string id="ui_mm_check_updates">
+		<text>Aktualizacja gry</text>
+	</string>
+	<string id="ui_mm_controls">
+		<text>Sterowanie</text>
+	</string>
+	<string id="ui_mm_credits">
+		<text>Twórcy gry</text>
+	</string>
+	<string id="ui_mm_default">
+		<text>Domyślne</text>
+	</string>
+	<string id="ui_mm_delete">
+		<text>Usuń</text>
+	</string>
+	<string id="ui_mm_delete_existing_file_q">
+		<text>Czy na pewno chcesz usunąć ten plik?</text>
+	</string>
+	<string id="ui_mm_difficulty">
+		<text>Poziom trudności</text>
+	</string>
+	<string id="ui_mm_disconnect">
+		<text>Rozłącz</text>
+	</string>
+	<string id="ui_mm_disconnect_message">
+		<text>Na pewno chcesz się rozłączyć?</text>
+	</string>
+	<string id="ui_mm_key">
+		<text>Klawisz</text>
+	</string>
+	<string id="ui_mm_keyboard_setup">
+		<text>Ustawienia klawiatury</text>
+	</string>
+	<string id="ui_mm_last_save">
+		<text>Ostatni zapis</text>
+	</string>
+	<string id="ui_mm_load">
+		<text>Ładuj</text>
+	</string>
+	<string id="ui_mm_load_game">
+		<text>Wczytaj grę</text>
+	</string>
+	<string id="ui_mm_logout">
+		<text>Wyjście z profilu</text>
+	</string>
+	<string id="ui_mm_master">
+		<text>Mistrz</text>
+	</string>
+	<string id="ui_mm_need_restart">
+		<text>Zmiany zostaną wprowadzone po restarcie gry.</text>
+	</string>
+	<string id="ui_mm_network_game">
+		<text>Gra sieciowa</text>
+	</string>
+	<string id="ui_mm_newgame">
+		<text>Nowa gra</text>
+	</string>
+	<string id="ui_mm_novice">
+		<text>Nowicjusz</text>
+	</string>
+	<string id="ui_mm_options">
+		<text>OPCJE</text>
+	</string>
+	<string id="ui_mm_particles_distance">
+		<text>Odległość cząsteczek</text>
+	</string>
+	<string id="ui_mm_quality_presets">
+		<text>Ustawienia jakości</text>
+	</string>
+	<string id="ui_mm_quit2windows">
+		<text>Opuść Zonę</text>
+	</string>
+	<string id="ui_mm_quit_game">
+		<text>Zakończ grę</text>
+	</string>
+	<string id="ui_mm_quit_game_message">
+		<text>Na pewno chcesz zakończyć grę?</text>
+	</string>
+	<string id="ui_mm_quit_windows_message">
+		<text>Jesteś pewien, że chcesz wyjść z Zony?</text>
+	</string>
+	<string id="ui_mm_return_game">
+		<text>Powrót do gry</text>
+	</string>
+	<string id="ui_mm_save">
+		<text>Zapisz</text>
+	</string>
+	<string id="ui_mm_save_game">
+		<text>Zapisz grę</text>
+	</string>
+	<string id="ui_mm_stalker">
+		<text>Stalker</text>
+	</string>
+	<string id="ui_mm_veteran">
+		<text>Weteran</text>
+	</string>
+	<string id="ui_st_reset">
+		<text>Przywróć domyślne</text>
+	</string>
+	<string id="ui_st_sell_all">
+		<text>Sprzedaj wszystko</text>
+	</string>
+	<string id="version">
+		<text>Wersja</text>
+	</string>
+	<string id="gd_stalker">
+		<text>Stalker</text>
+	</string>
+	<string id="st_opt_extreme">
+		<text>Ekstremalne</text>
+	</string>
+	<string id="st_opt_ultra">
+		<text>Bardzo wysokie</text>
+	</string>
+	<string id="ui_mm_confirm_changes">
+		<text>Czy wprowadzić zmiany? Poprzednie ustawienia zostaną przywrócone za</text>
+	</string>
+	<string id="st_cap_check_story">
+		<text>Tryb Fabularny</text>
+	</string>
+	<string id="st_cap_check_survival">
+		<text>Tryb Przetrwania</text>
+	</string>
+	<string id="st_cap_check_hardcore">
+		<text>Tryb Ironman</text>
+	</string>
+	<string id="ui_mm_hardcore">
+		<text>Tryb Ironman</text>
+	</string>
+	<string id="ui_mm_only_campfire">
+		<text>Hardcore zapis: przy ognisku</text> <!-- edited -->
+	</string>
+	<string id="ui_mm_environment_effect">
+		<text>Dodatkowe efekty atmosferyczne</text>
+	</string>
+	<string id="ui_mm_faction_sel">
+		<text>Frakcja</text>
+	</string>
+	<string id="ui_mm_disanim">
+		<text>Włącz/wyłącz animacje przedmiotów</text>
+	</string>
+	<string id="st_cap_check_azazel_mode">
+		<text>Tryb Azazel</text>
+	</string>
+	
+	
+	<!-- New -->
+	<string id="ui_mm_character_name">
+		<text>Nazwa postaci</text>
+	</string>
+	<string id="ui_mm_transitions_closed_disable">
+		<text>Otwórz przejścia między lokacjami</text>
+	</string>
+	
+	
+</string_table>

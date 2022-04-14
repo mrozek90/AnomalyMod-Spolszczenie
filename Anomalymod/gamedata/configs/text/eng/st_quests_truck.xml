@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR BANDIT MLR TASK -->
+
+	<string id="trucks_cemetery_bandit_mechanic_task_1_name">
+		<text>Znajdź %s</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_1_text">
+		<text>Technik z Cmentarzyska Pojazdów poprosił o znalezienie %s.</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_1_about">
+		<text>Brachu, większość szpeju, który tu mamy to totalna pyta, a ja bez jakichkolwiek narzędzi nie mam jak poskładać tego do kupy... To jak, ruszysz dupsko i poszukasz jakichś?</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_1_fetch_about">
+		<text>Brachu, większość szpeju, który tu mamy to totalna pyta, a ja bez jakichkolwiek narzędzi nie mam jak poskładać tego do kupy... To jak, ruszysz dupsko i poszukasz jakichś?</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_1_fetch_finish">
+		<text>No, no, mordeczko... Właśnie tego mi trzeba. Wiedziałem, że jesteś gitem, nie frajerem. Za to masz u mnie rabacik, pasi?</text>
+	</string>
+
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR BANDIT MLR TASK -->
+
+	<string id="trucks_cemetery_bandit_mechanic_task_2_name">
+		<text>Znajdź %s</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_2_text">
+		<text>Technik z Cmentarzyska Pojazdów poprosił o znalezienie %s.</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_2_about">
+		<text>To wypizdowo to straszne zachujewie jest, ale te baraczki... To nasza twierdza, nasz punkt strategiczny, gościu! Chłopaki chcą mieć lepsze klamki - a my im je dostarczymy dzięki lepszym narzędziorom, kminisz? To jak, mordo, rozejrzysz się?</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_2_fetch_about">
+		<text>To wypizdowo to straszne zachujewie jest, ale te baraczki... To nasza twierdza, nasz punkt strategiczny, gościu! Chłopaki chcą mieć lepsze klamki - a my im je dostarczymy dzięki lepszym narzędziorom, kminisz? To jak, mordo, rozejrzysz się?</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_2_fetch_finish">
+		<text>O cię twoja w pizdu kurwa mać! Ziomeczku, zarobiłeś dziś niewąsko. I cyk, rabacik! Dżast for ju, maj frend!</text>
+	</string>
+
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR BANDIT BANDIT TASK -->
+
+	<string id="trucks_cemetery_bandit_mechanic_task_3_name">
+		<text>Znajdź %s</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_3_text">
+		<text>Technik z Cmentarzyska Pojazdów poprosił o znalezienie %s.</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_3_about">
+		<text>Tak se tu siedziałem i tak se kminiłem ten los bandycki, co chce ze mną grać w pokera... - a, chuj.\n \nNo, w każdym razie wykminiłem, że zdałoby się, kurwasz twarz mać, jeszcze parę wihajstrów do tentegesów, żeby było jak przytegować te, no... No, wiesz o co mi chodzi. Może coś gdzieś wyszperasz?</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_3_fetch_about">
+		<text>Tak se tu siedziałem i tak se kminiłem ten los bandycki, co chce ze mną grać w pokera... - a, chuj.\n \nNo, w każdym razie wykminiłem, że zdałoby się, kurwasz twarz mać, jeszcze parę wihajstrów do tentegesów, żeby było jak przytegować te, no... No, wiesz o co mi chodzi. Może coś gdzieś wyszperasz?</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_3_fetch_finish">
+		<text>Ale żeś kurwa dojebał w samą dychę! Dziękóweczka, ziomal, jesteś przechuj kozak, nie ma co! Rabat rabatów, choćby mnie chuj miał strzelić!</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	<string id="look_for_cs_history_part_4_2_0">
+		<text>Witaj, strażniku.</text>
+	</string>
+	<string id="look_for_cs_history_part_4_2_1">
+		<text>Witaj. Wybierasz się do Limańska, tak? Gdyby tylko nie Leszy... W każdym razie, witaj. Muszę pobrać od Ciebie opłatę... I uważaj, żeby nie złapał Cię którykolwiek z naszych patroli - nie są częścią naszej umowy.</text>
+	</string>
+
+	<string id="look_for_cs_history_part_4_1_0">
+		<text>Oto forsa.</text>
+	</string>
+	<string id="look_for_cs_history_part_4_1_1">
+		<text>Dobrze. Poinformuję strażników przy moście. Kiedy już tam dotrzesz, musisz porozmawiać z tym, którego nazywają Cerberem. Zachowaj spokój i znajdź, proszę, jakieś informacje, które pozwolą nam dowiedzieć się czegoś więcej na temat zniknięcia Szramy.</text>
+	</string>
+
+	<string id="look_for_cs_history_part_3_2_0">
+		<text>Leszy, czy tak?</text>
+	</string>
+	<string id="look_for_cs_history_part_3_2_1">
+		<text>Tajest. Szukasz przewodnika, czy trzeba ci czegoś innego?</text>
+	</string>
+	<string id="look_for_cs_history_part_3_2_2">
+		<text>Widzisz, wiem co nieco o twojej przeszłości. Przydałaby mi się pomoc, najemniku.</text>
+	</string>
+	<string id="look_for_cs_history_part_3_2_3">
+		<text>Uch... Jaka pomoc konkretnie?</text>
+	</string>
+	<string id="look_for_cs_history_part_3_2_4">
+		<text>Czy mógłbyś porozmawiać z najemnikami pilnującymi mostu do Czerwonego Lasu? Muszę dostać się do Limańska. Zdaję sobie sprawę, że to może być kłopotliwe, ale mogę obiecać ci, że będę próbował odnaleźć jakiekolwiek ślady pozostawione przez najemnika Szramę.</text>
+	</string>
+	<string id="look_for_cs_history_part_3_2_5">
+		<text>Hm. Musisz zrozumieć, że nie należę do Syndykatu już długi czas... Nawet nie wiem kto zarządza grupą przy moście. Mam kilka kontaktów, ale będę do tego potrzebować trochę czasu... I forsy. Sto pięćdziesiąt tysięcy, ani rubla mniej.</text>
+	</string>
+
+	<string id="look_for_cs_history_part_1_1_0">
+		<text>Słyszałem coś na temat historii twojej grupy. Chciałbym dowiedzieć się więcej.</text>
+	</string>
+	<string id="look_for_cs_history_part_1_1_1">
+		<text>Szukasz czegoś, czy co? Ha, posłuchaj no. W tamtym miejscu nie masz praktycznie szans na przeżycie - a nawet jeśli jakimś cudem ci się to uda, odnalezienie informacji na temat naszego pobytu na tamtym terenie nie będzie bułką z masłem.</text>
+	</string>
+	<string id="look_for_cs_history_part_1_1_2">
+		<text>Nie ciekawi cię to? Czy może chcesz coś w zamian?</text>
+	</string>
+	<string id="look_for_cs_history_part_1_1_3">
+		<text>Hmm... Pomożesz nam pozbyć się grupy pijawek z bagna, a wtedy może powiem ci co wiem.</text>
+	</string>
+	<string id="look_for_cs_history_part_1_1_4">
+		<text>Dobra, dawaj namiary.</text>
+	</string>
+	<string id="look_for_cs_history_part_1_1_5">
+		<text>Proszę bardzo - miłej zabawy!</text>
+	</string>
+
+	<string id="look_for_cs_history_part_1_2_0">
+		<text>Zrobione. Jakie informacje dla mnie masz?</text>
+	</string>
+	<string id="look_for_cs_history_part_1_2_1">
+		<text>Tak, już słyszałem raport - dobra robota. Dobry z ciebie strzelec i mogę ci zaufać, więc podam ci informacje. Chłopaki pewnie już mówili ci o ataku na ten pieprzony most do Limańska. A jeśli nie słyszałeś...\n \nWtedy jeszcze najemnicy trzęśli wszystkim - zarówno w samym mieście jak i okolicach. Naturalnie, nie licz, że wystarczy ładnie ich poprosić, żeby opuścili dla ciebie most. Jednak z tamtych czasów żyje jeszcze jeden członek grupy - zwą go Leśnikiem. To właśnie on, razem ze Szramą ugadali, żeby grupka "sztandarów" opuściła most, gdy nasi chłopcy osłaniali ich z drugiego brzegu.\n \nTu masz informacje o trasie między Magazynami Wojskowymi a Czerwonym Lasem - znajdź tam Leśnika i porozmawiaj z nim. A tutaj trzymaj nagrodę za sprzątnięcie pijawek.</text>
+	</string>
+	<string id="look_for_cs_history_part_1_2_2">
+		<text>Dzięki.</text>
+	</string>
+
+	<string id="mlr_inventory_box_unuse">
+		<text>Zamknięty schowek</text>
+	</string>
+
+	<string id="totaliz_helper_mlr_text">
+		<text>Dla innej perspektywy obszaru, naciśnij klawiszy tyldy lub \ aby uruchomić konsolę, a następnie wpisz "demo_record 1". Poruszaj się za pomocą klawiszy WSAD oraz CTRL. Aby wyjść, naciśnij ESC.</text>
+	</string>
+	
+	<string id="st_pda_mlr_descr">
+		<text>PDA zawierające informacje o trasach pomiędzy lokacjami. Historia wiadomości jest niedostępna z powodu hasła.\n \n</text>
+	</string>
+	<string id="st_new_path_mlr">
+		<text>Dostępna nowa droga między lokacjami.</text>
+	</string>
+
+	<string id="killer_bridge_trader_mlr_task_1_name">
+		<text>Znajdź: %s</text>
+	</string>
+	<string id="killer_bridge_trader_mlr_task_1_text">
+		<text>Najemnicy kazali przynieść %s.</text>
+	</string>
+	<string id="killer_bridge_trader_mlr_task_1_about">
+		<text>Nasi chłopcy potrzebują trochę sprzętu, możesz nam to załatwić?</text>
+	</string>
+	<string id="killer_bridge_trader_mlr_task_1_fetch_about">
+		<text>%s potrzebne jest naszym chłopakom, przyniesiesz nam to?</text>
+	</string>
+	<string id="killer_bridge_trader_mlr_task_1_fetch_finish">
+		<text>Dzięki, oto nagroda.</text>
+	</string>
+
+	<string id="killer_bridge_trader_mlr_task_2_name">
+		<text>Znajdź artefakt %s</text>
+	</string>
+	<string id="killer_bridge_trader_mlr_task_2_text">
+		<text>Najemnik potrzebuje %s.</text>
+	</string>
+	<string id="killer_bridge_trader_mlr_task_2_about">
+		<text>Naszym chłopakom przydałoby się kilka artefaktów - bez nich ciężko będzie przebić się przez Limańsk. Możesz je dla nas znaleźć?</text>
+	</string>
+	<string id="killer_bridge_trader_mlr_task_2_fetch_about">
+		<text>Naszym chłopakom przydałoby się kilka artefaktów - bez nich ciężko będzie przebić się przez Limańsk. Możesz znaleźć dla nas artefakt %s?</text>
+	</string>
+	<string id="killer_bridge_trader_mlr_task_2_fetch_finish">
+		<text>Wielkie dzięki. Proszę, trzymaj.</text>
+	</string>
+
+	<string id="task_look_for_cs_history_part_1_1">
+		<text>Znajdź i zabij pijawki</text>
+	</string>
+	<string id="task_look_for_cs_history_part_1_2">
+		<text>Wróć do Zimnego</text>
+	</string>
+	<string id="task_look_for_cs_history_part_1_3">
+		<text>Czyli co, boi się wysłać mnie "tam", ale jak mam ganiać pijawki po bagnach, to wszystko jest w porządku? Podwójne standardy nawet w Czystym Niebie, jak widzę...</text>
+	</string>
+
+	<string id="task_look_for_cs_history_part_2_1">
+		<text>Podążając śladami Czystego Nieba: porozmawiaj z Leśnikiem</text>
+	</string>
+	<string id="task_look_for_cs_history_part_descr_2_1">
+		<text>Zimny powiedział mi, że w tamtych wydarzeniach brał udział Leśnik i podał mi jego współrzędne. Muszę z nim porozmawiać i dostać się do Limańska.</text>
+	</string>
+
+	<string id="task_look_for_cs_history_part_3_1">
+		<text>Podążając śladami Czystego Nieba: znajdź Leszego</text>
+	</string>
+	<string id="task_look_for_cs_history_part_3_2">
+		<text>Podążając śladami Czystego Nieba: porozmawiaj z Leszym</text>
+	</string>
+	<string id="task_look_for_cs_history_part_descr_3_1">
+		<text>Cóż, z powrotem do wojskowych. Wychodzi na to, że kluczowa postać bitwy przy moście była cały czas pod moim nosem.</text>
+	</string>
+	<string id="task_look_for_cs_history_part_descr_3_2">
+		<text>Muszę tylko dogadać się z Leszym, mam nadzieję, że to załatwi sprawę.</text>
+	</string>
+
+	<string id="task_look_for_cs_history_part_4_1">
+		<text>Podążając śladami Czystego Nieba: zbierz 150.000 rubli i przynieś je Leszemu</text>
+	</string>
+	<string id="task_look_for_cs_history_part_4_3">
+		<text>Podążając śladami Czystego Nieba: spotkaj się z Cerberem</text>
+	</string>
+	<string id="task_look_for_cs_history_part_4_4">
+		<text>Podążając śladami Czystego Nieba: porozmawiaj z Cerberem</text>
+	</string>
+
+	<string id="task_look_for_cs_history_part_descr_4_1">
+		<text>Nareszcie, wkrótce będę po drugiej stronie mostu i skończy się bieganie na posyłki.</text>
+	</string>
+
+	<string id="st_bridge_is_open_message">
+		<text>Cerber:\nWidzę kogoś. Hej, stalkerze! Chodź no tutaj, mam ci coś do powiedzenia.</text>
+	</string>
+
+</string_table>

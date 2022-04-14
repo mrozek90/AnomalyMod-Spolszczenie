@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	
+	<string id="encyclopedia_factions_other">
+		<text>Frakcje (pozostałe)</text>
+	</string>
+	
+	<string id="encyclopedia_factions_other_zombified">
+		<text>Zombie</text>
+	</string>
+	<string id="encyclopedia_factions_other_zombified_text">
+		<text>
+			\n%c[pda_white]Zombie%c[ui_gray_1] - potoczne określenie stalkerów, którzy na skutek wpływu silnego promieniowania psionicznego ulegli nieodwracalnym uszkodzeniom mózgu.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]\n
+			\nIstoty te utraciły wszystkie wyższe funkcje mózgu, kierują się wyłącznie szczątkowym refleksem i najbardziej podstawowymi umiejętnościami. Cechują się utratą samoświadomości i wysoką odpornością na ból.\n \nZdrowie fizyczne i psychiczne zzombifikowanych stalkerów z czasem ulega pogorszeniu. Jednym z ostatnich stadiów jest całkowita utrata człowieczeństwa. To, co pozostaje po takiej przemianie również określane jest jako zombie.\n \nW przeciwieństwie do mutantów, zzombifikowani stalkerzy potrafią posługiwać się bronią i niektórymi narzędziami. Często obserwuje się u nich pracę zespołową, czasem wspierają żołnierzy Monolitu.\n
+			\n%c[pda_green]Statystyki%c[ui_gray_1]\n
+			\n• Liderzy: nieznani\n• Sztab: nieznany\n• Barwy: różne, zombifikacja nie oszczędza żadnej frakcji\n
+		</text>
+	</string>
+	
+</string_table>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+<!-- Sergeant Spooner (Military Trader) -->
+	<string id="guid_agr_mlr_military_0">
+		<text>Możesz załatwić mi przelot? Muszę się dostać w pewne miejsce.</text>
+	</string>
+	<string id="guid_agr_mlr_military_1">
+		<text>Jasne, mogę cię przefrunąć do Jantaru i Kordonu... Czekaj no, kim ty w ogóle kurwa jesteś, pajacu? Organizuję transport, ale nie jakimś szeregowym kotom jak ty. Poszedł mi stąd!</text>
+	</string>
+
+	<string id="guid_agr_mlr_military_list_0">
+		<text>Przypomnij, dokąd latasz?</text>
+	</string>
+	<string id="guid_agr_mlr_military_list_1">
+		<text>Do naszego posterunku w Kordonie, za pięć tysięcy rubli oraz do bazy w Jantarze, za siedem tysięcy.</text>
+	</string>
+
+	<string id="guid_agr_mlr_military_vert_0">
+		<text>Potrzebuję pilota.</text>
+	</string>
+	<string id="guid_agr_mlr_military_vert_1">
+		<text>Okej,  wkrótce wylatuje kolejny transport. Dokąd chcesz?</text>
+	</string>
+	<string id="guid_agr_mlr_military_vert_2">
+		<text>Do posterunku w Kordonie. %c[d_orange][5.000 RU]</text>
+	</string>
+	<string id="guid_agr_mlr_military_vert_3">
+		<text>Do bazy w Jantarze. %c[d_orange][7.000 RU]</text>
+	</string>
+	<string id="guid_agr_mlr_military_vert_4">
+		<text>Rozmyśliłem się.</text>
+	</string>
+	
+	<string id="find_blackbox_mlr_reward_army_0">
+		<text>Znalazłem rejestrator lotu z rozbitego helikoptera.</text>
+	</string>
+	<string id="find_blackbox_mlr_reward_army_1">
+		<text>Nieźle! Dobra robota, żołnierzu.</text>
+	</string>
+
+	
+<!-- Military - Medic -->
+	<string id="rogovets_about_himself_1_6_army_mlr_0">
+		<text>Opowiedz mi o sobie.</text>
+	</string>
+	<string id="rogovets_about_himself_1_6_army_mlr_1">
+		<text>Służę jako medyk. Kiedy byłem na kontrakcie, niemalże od razu przydzielili mnie do grupy Ogończy - odbyłem tylko krótkie szkolenie. Kiedy całą operację szlag trafił, byliśmy uwięzieni w Prypeci - przynajmniej ci z nas, którzy przeżyli... Wtedy odnalazł nas człowiek z SBU i potem nas ewakuowali.\n \nNadal siedzi mi w głowie ta jedna sytuacja: dowódca wysyła mnie i kilku chłopaków do przedszkola, gdzie - według wstępnych danych - miało znajdować się urządzenie, które zagłuszało naszą komunikację radiową. Kiedy już tam weszliśmy - nie mam pojęcia, co we mnie wlazło. Nic nie widziałem, nie miałem pojęcia gdzie jest reszta mojego oddziału...\n \nW jednym z pomieszczeń znalazłem pieprzoną lodówkę i schowałem się w środku. Wtedy usłyszałem nade mną wybuch i z jakiegoś powodu od razu poczułem się lepiej - ale lodówka się zatrzasnęła i nie mogłem się wydostać. Nie wiem, czy ja jakoś ją zatrzasnąłem na amen, czy cholerny poltergeist nie pozwalał mi otworzyć tych drzwi...</text>
+	</string>
+	<string id="rogovets_about_himself_1_6_army_mlr_2">
+		<text>Co wydarzyło się dalej? Dlaczego nie zrezygnowałeś?</text>
+	</string>
+	<string id="rogovets_about_himself_1_6_army_mlr_3">
+		<text>Cóż... Potrzebowałem kasy, a po co innego miałbym tu wracać? No i lekarz zawsze jest potrzebny. Zwłaszcza, że w armii nie ma ich teraz zbyt wielu. Całe szczęście, że po klęsce operacji nie zostałem zdegradowany - chociaż nie miałem też co liczyć na awans... I tak lepiej, niż major, który tak przy okazji też jest gdzieś w Zonie.</text>
+	</string>
+	<string id="rogovets_about_himself_1_6_army_mlr_4">
+		<text>Rozumiem. Cóż, powodzenia w twoich podróżach.</text>
+	</string>
+	
+	<string id="rogovets_hello_1_6_army_mlr_0">
+		<text>Hm? Ach, to ty...</text>
+	</string>
+
+	
+<!-- Commander, barman in Agroprom -->
+	<string id="barmen_about_himself_1_6_army_mlr_0">
+		<text>Ktoś ty?</text>
+	</string>
+	<string id="barmen_about_himself_1_6_army_mlr_1">
+		<text>Tak w zasadzie, to jestem miejscowym barmanem, ewentualnie kierownikiem rezerw - cokolwiek ci bardziej pasuje. Jestem jednym z tych, którzy brali udział w likwidacji w osiemdziesiątym szóstym.\n \nNie jestem stąd, ale zdecydowałem pójść do Zony na kontrakcie. Mam jakieś doświadczenie z promieniowaniem, haha...</text>
+	</string>
+	<string id="barmen_about_himself_1_6_army_mlr_2">
+		<text>Jak tam było?</text>
+	</string>
+	<string id="barmen_about_himself_1_6_army_mlr_3">
+		<text>Byłem wtedy tylko poborowym, jedynie mierzyłem promieniowanie i robiłem porządek... Jednak chłopaki przy samej elektrowni trafili w gówno po same uszy.\n \nWszystko, cała technologia, pieprzyło się od promieniowania - a co dopiero ludzie... Wyobraź to sobie. Czyścili dach z grafitu pierdolonymi łopatami. Łopatami! Promieniowanie to dziwna sprawa - jednych przeklnie i zabije, a innych pozostawi przy życiu... Jak Diatłow, który skończył w więzieniu.</text>
+	</string>
+</string_table>

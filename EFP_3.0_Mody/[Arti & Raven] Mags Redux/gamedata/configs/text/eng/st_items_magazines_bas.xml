@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+<!--
+Pistols and MP's
+-->
+
+	<string id="st_mag_sr1m_9x21">
+		<text>Magazynek 9x21 SR1M</text>
+	</string>
+	<string id="st_mag_sr1m_9x21_descr">
+		<text>
+		Standardowy magazynek 9x21 SR1M o pojemności 18 naboi. SR1M to najnowsze osiągnięcie w rosyjskiej technologii broni krótkiej, strzelające pociskiem 9x21 używanym również w SR-2 Veresk PDW.
+		</text>
+	</string>
+
+	<string id="st_mag_sr1m_9x21ext">
+		<text>Powiększony Magazynek 9x21 SR1M</text>
+	</string>
+	<string id="st_mag_sr1m_9x21ext_descr">
+		<text>
+		Powiększony magazynek 9x21 SR1M o pojemności 26 naboi. SR1M to najnowsze osiągnięcie w rosyjskiej technologii broni krótkiej, strzelające pociskiem 9x21 używanym również w SR-2 Veresk PDW.
+		</text>
+	</string>
+
+	<string id="st_mag_pl15_9x19_fmj">
+		<text>Magazynek 9x19 PL15</text>
+	</string>
+	<string id="st_mag_pl15_9x19_fmj_descr">
+		<text>
+		Standardowy magazynek 9x19 PL15 o pojemności 16 naboi.
+		</text>
+	</string>
+
+		<string id="st_mag_pl15_9x19_fmjext">
+		<text>Powiększony magazynek 9x19 PL15</text>
+	</string>
+	<string id="st_mag_pl15_9x19_fmjext_descr">
+		<text>
+		Powiększony magazynek 9x19 PL15 o pojemności 24 naboi.
+		</text>
+	</string>
+
+	<string id="st_mag_sigp220_11.43x23_fmj">
+		<text>Magazynek .45 SigP220</text>
+	</string>
+	<string id="st_mag_sigp220_11.43x23_fmj_descr">
+		<text>
+		Standardowy magazynek .45 SigP220 o pojemności 12 naboi.
+		</text>
+	</string>
+
+	<string id="st_mag_sigp220_11.43x23_fmjext">
+		<text>Powiększony magazynek .45 SigP220</text>
+	</string>
+	<string id="st_mag_sigp220_11.43x23_fmjext_descr">
+		<text>
+		Powiększony magazynek .45 SigP220 o pojemności 20 naboi.
+		</text>
+	</string>
+
+	<string id="st_mag_sig226_9x19_fmj">
+		<text>Magazynek 9x19 SigP226</text>
+	</string>
+	<string id="st_mag_sig226_9x19_fmj_descr">
+		<text>
+		Standardowy magazynek 9x19 SigP226 o pojemności 15 naboi.
+		</text>
+	</string>
+
+	<string id="st_mag_sig226_9x19_fmjext">
+		<text>Powiększony magazynek 9x19 SigP226</text>
+	</string>
+	<string id="st_mag_sig226_9x19_fmjext_descr">
+		<text>
+		Powiększony magazynek 9x19 SigP226 o pojemności 20 naboi.
+		</text>
+	</string>
+
+	<string id="st_mag_usptac_9x19_fmj">
+		<text>Magazynek 9x19 USP</text>
+	</string>
+	<string id="st_mag_usptac_9x19_fmj_descr">
+		<text>
+		Standardowy magazynek 9x19 USP o pojemności 22 naboi.
+		</text>
+	</string>
+
+	<string id="st_mag_usptac_9x19_fmjext">
+		<text>Powiększony magazynek 9x19 USP</text>
+	</string>
+	<string id="st_mag_usptac_9x19_fmjext_descr">
+		<text>
+		Powiększony magazynek 9x19 USP o pojemności 30 naboi.
+		</text>
+	</string>
+
+	<string id="st_mag_wp99_9x19_fmj">
+		<text>Magazynek 9x19 Walther P99</text>
+	</string>
+	<string id="st_mag_wp99_9x19_fmj_descr">
+		<text>
+		Standardowy magazynek 9x19 Walther P99 Magazine o pojemności 10 naboi.
+		</text>
+	</string>
+
+	<string id="st_mag_wp99_9x19_fmjext">
+		<text>Powiększony magazynek 9x19 Walther P99</text>
+	</string>
+	<string id="st_mag_wp99_9x19_fmjext_descr">
+		<text>
+		Powiększony magazynek 9x19 Walther P99 o pojemności 16 naboi.
+		</text>
+	</string>
+
+	<string id="st_mag_p220_9x19_u2p2bas">
+		<text>Magazynek 9x19 P220 Custom Nine</text>
+	</string>
+	<string id="st_mag_p220_9x19_u2p2bas_descr">
+		<text>
+		Standardowy magazynek 9x19 P220 Custom Nine o pojemności 19 naboi.
+		</text>
+	</string>
+
+</string_table>

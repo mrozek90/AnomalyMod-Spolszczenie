@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	
+	<string id="encyclopedia_mutants">
+		<text>Mutanty</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_blind_dog">
+		<text>Ślepy pies</text>
+	</string>
+	<string id="encyclopedia_mutants_blind_dog_text">
+		<text>%c[pda_white]Ślepe psy%c[ui_gray_1] to najbardziej znani przedstawiciele fauny Zony.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nOd czasu katastrofy żyło tu i umarło kilkadziesiąt pokoleń rożnych gatunków psów, a każde z nich było naznaczone przez Zonę bardziej od poprzedniego.\n \nNastępujące po sobie mutacje doprowadziły do znacznego rozwinięcia różnych umiejętności - czasami wcześniej drugorzędnych - często kosztem tych podstawowych.\n \nWiele z badanych i obserwowanych okazów całkowicie utraciło zmysł wzroku i słuchu, ale wykształciło coś na kształt telepatii pozwalającej na wyczuwanie ofiary nawet przez ściany.\n \nTak jak ich dzicy przodkowie - wilki - ślepe psy polują w dużych stadach posługując się wyszukaną taktyką. Spotkanie z dużą grupą tych zwierząt może być bardzo niebezpieczne nawet dla doświadczonego i dobrze uzbrojonego stalkera.\n \n%c[pda_blue]Statystyki%c[ui_gray_1]
+		\n• Sposób ataku: fizyczny\n• Żywotność: mała\n• Szybkość: duża\n• Cechy szczególne: brak
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_bloodsucker">
+		<text>Pijawka</text>
+	</string>
+	<string id="encyclopedia_mutants_bloodsucker_text">
+		<text>%c[pda_white]Pijawki%c[ui_gray_1], jak wskazuje nazwa to hematofagi - istoty żywiące się krwią.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nPijawka to półlegendarna kreatura, często uznawana przez stalkerów za ucieleśnienie wszystkich jej niebezpieczeństw i zagrożeń.\n \nTakie postrzeganie przez ludzi wywodzi się z relatywnej rzadkości spotkań z tymi mutantami i bardzo małą szansą ofiary na przeżycie ataku.\n \nCi, którym udało się zmierzyć z pijawką i przeżyć opisują je jako przygarbione humanoidy z rzędami macek sterczącymi z twarzy.\n \nPrawdopodobnie najbardziej nietypową cechą przetrwania jest ich umiejętność kamuflowania się, dzięki której potrafią stać się niemal niewidzialne gołym okiem.\n \nZwykle korzystanie z kamuflażu trwa tylko chwilę, bo osłabia on wszystkie inne umiejętności. Pijawki używają tej cechy zakradając się do ofiar i próbując ukryć swoje ruchy w trakcie polowania.\n \nInne nazwy: juchociąg, chłeptokrwij, krowosos.\n \n%c[pda_blue]Statystyki%c[ui_gray_1]
+		\n• Sposób ataku: fizyczny\n• Żywotność: średnia\n• Szybkość: duża\n• Cechy szczególne: kamuflaż, wysysanie krwi\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+		\n• Na Bagnach zaobserwowano niegdyś osobniki, które przenosiły swoje ofiary na znaczne odległości.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_boar">
+		<text>Dzik</text>
+	</string>
+	<string id="encyclopedia_mutants_boar_text">
+		<text>%c[pda_white]Dziki%c[ui_gray_1] to pospolite mutanty żyjące w Zonie.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nChociaż nie uległy tak wielu mutacjom, jak inne zwierzęta, dzikom w Zonie rozwinął się silny instynkt atakowania ludzi i wzrosła ich inteligencja.\n \nTo potężne, agresywne bestie, a ich umiejętności przetrwania wielokrotnie przewyższają możliwości krewnych z innych terenów.\n \nTrudne warunki Zony - promieniowanie, anomalie, inne zmutowane zwierzęta - pozostawiły swój ślad w ich wyglądzie: szczecina miejscami zupełnie zanikła, a w innych miejscach urosła bardzo długa i gruba. \n \nZwykle poruszają się w grupach liczących kilka osobników. Łączą się w stada z mięsaczami. Nie atakują, dopóki nie zmniejszy się dystansu i nie rozjuszy ich w żaden sposób.\n \n%c[pda_blue]Statystyki%c[ui_gray_1]
+		\n• Sposób ataku: fizyczny\n• Żywotność: średnia\n• Szybkość: niska\n• Cechy szczególne: brak
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_burer">
+		<text>Burer</text>
+	</string>
+	<string id="encyclopedia_mutants_burer_text">
+		<text>%c[pda_white]Burery%c[ui_gray_1] to krępe, skarłowaciałe mutanty, zwykle trzymające się ciemnych miejsc i podziemi.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nOpisywane są jako niskie, humanoidalne istoty ubrane w łachmany, ze skórą poprzerastaną guzami. Boją się mocnego oświetlenia.\n \nPowstały w efekcie eksperymentów genetycznych przeprowadzanych na najgorszych kryminalistach. Posiadają umiejętności telekinetyczne, co sprawia, że są znacznie groźniejsze, niż sugerowałby to ich wygląd.\n \nIch wprawa w kierowaniu strumieniami energii i zdolność poruszania przedmiotów siłą woli powoduje, że walka z burerami jest trudna nawet korzystając z osłon i kryjówek.\n \n%c[pda_blue]Statystyki%c[ui_gray_1]
+		\n• Sposób ataku: fizyczny, mentalny\n• Żywotność: średnia\n• Szybkość: niska\n• Cechy szczególne: moce psioniczne, telekineza\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Niektóre osobniki potrafią naśladować odgłosy innych istot. Widziano burery, które ćwierkały lub szczekały, a pewne relacje wspominają nawet o udawaniu ludzkiego śmiechu czy płaczu.
+			\n• Ulubioną metodą walki burerów jest pokonanie przeciwnika przez dosłowne zamęczenie go. Dlatego trafiając na tego mutanta lepiej mieć przy sobie mniej i być ubranym w coś wygodniejszego.
+			\n• Dieta burerów składa się głównie z kiszonej kapusty i ludziny.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_cat">
+		<text>Kot</text>
+	</string>
+	<string id="encyclopedia_mutants_cat_text">
+		<text>%c[pda_white]Koty%c[ui_gray_1] żyjące w Zonie to najbardziej zmutowane z tutejszych zwierząt domowych.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nWszelkiej maści Puszki i Mruczki, pod wpływem Zony stały się krwiożerczymi bestiami, groźnymi nawet dla ludzi.\n \nChociaż żyją raczej samotnie, dla osiągnięcia wspólnych korzyści zdarza im się łączyć w małe grupki liczące od dwóch do trzech osobników. Najczęściej zamieszkują ciche, ustronne miejsca, takie jak leśne zarośla i zagłębienia terenu.\n \nZazwyczaj polują w grupach. Jeden z osobników stara się rozproszyć ofiarę i odwrócić jej uwagę, podczas gdy pozostałe zakradają się z tyłu i atakują skacząc. Ranią zdobycz pazurami i gryzą dopóki nie padnie ze zmęczenia i/lub utraty krwi.\n \nPolując samodzielnie są bardziej tchórzliwe. Spędzają dużo czasu śledząc i niepokojąc ofiarę. Potrafią spędzić całe godziny w oczekiwaniu na najlepszą okazję do ataku.\n \n%c[pda_blue]Statystyki%c[ui_gray_1]
+			\n• Sposób ataku: fizyczny\n• Żywotność: mała\n• Szybkość: duża\n• Cechy szczególne: brak\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Atak kota to zaskakująco częsty powód śmierci niedoświadczonych stalkerów.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_chimera">
+		<text>Chimera</text>
+	</string>
+	<string id="encyclopedia_mutants_chimera_text">
+		<text>%c[pda_white]Chimery%c[ui_gray_1] to jedne z najbardziej przerażających monstrów. Wielkością dorównują dorosłym lwom, przy tym nie mając ani grama sierści.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nPod względem ewolucyjnym to niemal perfekcyjnie stworzone żywe machiny do zabijania. Mimo, że nie są najpotężniejszymi mutantami pod względem fizycznym, swoje miano zawdzięczają niezwykłej szybkości i ogromnej agresji.\n \nNiemal wszystkie układy narządów wewnętrznych chimery są zdublowane, by w razie uszkodzenia jednego z nich drugi kontynuował pracę. Zamiast ogólnego układu krwionośnego, całe ciało mają naszpikowane naczyniami włosowatymi, dzięki czemu bardzo trudno o poważną utratę krwi.\n \nDruga głowa zwiększa pole widzenia, a tylne nogi pozwalają skakać na ogromne odległości. Do tego szpony i kły pozwalają tym bestiom przebijać się przez w zasadzie wszystkie rodzaje pancerza.\n \nChimery wykazują nocny tryb życia, choć nie jest to żadną regułą. Nie nastawiaj się, że nigdy nie zdarzy ci się stanąć oko w oko z chimerą w środku dnia.\n \n%c[pda_blue]Statystyki%c[ui_gray_1]
+			\n• Sposób ataku: fizyczny\n• Żywotność: duża\n• Szybkość: duża\n• Cechy szczególne: zwinność, umiejętność regeneracji\n
+			\n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Chociaż wykazują dużą odporność na ostrzał, są bardzo wrażliwe na chemikalia i wysoką temperaturę. Zapędzenie chimery w tego typu anomalie na pewno zwiększy twoje szanse.
+			\n• Mimo, że to raczej samotnicy, niektórym zdarzało się obserwować chimery polujące parami.
+			\n• Dwie niezwykle potężne chimery terroryzowały Janów i Zaton w 2012 r. Obie, jak głosi legenda, zostały upolowane przez człowieka imieniem Aleksander.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_controller">
+		<text>Kontroler</text>
+	</string>
+	<string id="encyclopedia_mutants_controller_text">
+		<text>%c[pda_white]Kontrolery%c[ui_gray_1] są prawdopodobnie najgroźniejszymi mutantami w Zonie.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nPozornie przypomina człowieka z nieproporcjonalnie dużą głową. Kontroler ma umiejętności pozwalające mu oddziaływać - a nawet całkowicie przejmować kontrolę - nad innymi żywymi istotami.\n \nW przeciwieństwie do innych mutantów walczących głównie psychiką, kontrolery nie korzystają z poruszania przedmiotami. Walczą, całkiem dosłownie, za pomocą swojego umysłu, często zaskakując swoje ofiary, lub korzystając z zamieszania.\n \nMutanty te przeciążają ośrodkowy układ nerwowy swojego celu kierowaną wiązką myśli, co powoduje poważne uszkodzenia mózgu. Ekspozycja na wiązkę myśli kontrolera najczęściej prowadzi do samobójstwa lub natychmiastowej zombifikacji.\n \nPrzyjmuje się, że mutanty te mogą atakować wyłącznie takie cele, które są w zasięgu ich wzroku. Ściana, głaz, a w ostateczności odpowiednio szerokie drzewo może mieć ogromny wpływ na wynik konfrontacji z tą kreaturą.\n \n%c[pda_blue]Statystyki%c[ui_gray_1]
+			\n• Sposób ataku: fizyczny, mentalny\n• Żywotność: średnia\n• Szybkość: niska\n• Cechy szczególne: obrażenia pasywne, moce psioniczne, kontrola umysłów
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_crow">
+		<text>Kruk</text>
+	</string>
+	<string id="encyclopedia_mutants_crow_text">
+		<text>%c[pda_white]Kruki%c[ui_gray_1] to jedne z niewielu ptaków, którym udało się dostosować i przeżyć w warunkach Zony.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nWojskowi piloci muszą polegać na skomplikowanych detektorach, żeby uniknąć zakłóceń grawitacyjnych, natomiast wrona wydaje się ufać tylko własnym zmysłom - to tajemnica, która dręczy ornitologów i biologów.\n \nO krukach nie wiadomo praktycznie nic - ani co sprawia, że są tak wyjątkowe, ani dlaczego właściwie nie uległy żadnym mutacjom, względem reszty tutejszej dzikiej przyrody.\n \n%c[pda_blue]Statystyki%c[ui_gray_1]
+			\n• Sposób ataku: brak\n• Żywotność: mała\n• Szybkość: duża\n• Cechy szczególne: brak
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_flesh">
+		<text>Mięsacz</text>
+	</string>
+	<string id="encyclopedia_mutants_flesh_text">
+		<text>%c[pda_white]Mięsacze%c[ui_gray_1] to poważnie zmutowane świnie i jedne z najbardziej nieszkodliwych mutantów.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nTak jak większość stworzeń w Zonie, również i świnie przeszły szereg zmian biologicznych od czasu katastrofy. Wydaje się, że w jej przypadku szczególnie wyewoluowały geny odpowiedzialne za metabolizm.\n \nZmieniony został także fenotyp. Przednie nogi zamieniły się w przywodzące na myśl insekty patykowate odnóża, których mięsacze używają do wykopywania korzeni roślin i rozrywania padliny. Reszta ciała nienaturalnie spuchła i okryła się tłuszczem.\n \nChociaż są raczej niegroźne i zwykle na widok człowieka uciekają, w przypadku zaatakowania, lub braku możliwości ucieczki potrafią się zaciekle bronić.\n \n%c[pda_blue]Statystyki%c[ui_gray_1]
+			\n• Sposób ataku: fizyczny\n• Żywotność: średnia\n• Szybkość: niska\n• Cechy szczególne: brak
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_fracture">
+		<text>Złamiec</text>
+	</string>
+	<string id="encyclopedia_mutants_fracture_text">
+		<text>%c[pda_white]Złamce%c[ui_gray_1] to niemal całkowicie zezwierzęcone istoty, które kiedyś z całą pewnością były ludźmi.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nW przeciwieństwie do innych humanoidów, złamce z daleka przypominają zgarbionych starców w podartych łachmanach. Jedyne, co je wyróżnia to wzrost przekraczający dwa metry.\n \nBardzo możliwe, że powstały w efekcie eksperymentów genetycznych, choć równie prawdopodobna jest teoria głosząca, że złamce to samosioły (ludzie, którzy samowolnie wrócili do znajdujących się w Zonie domów) żyjące tu przed drugą katastrofą.\n \nHipertroficzne (przerośnięte) ręce i spuchnięte dłonie nieco spowalniają te istoty, ale z drugiej strony z ich pomocą złamce potrafią bez wysiłku ogłuszyć dorosłego człowieka jednym uderzeniem.\n \n%c[pda_blue]Statystyki%c[ui_gray_1]
+			\n• Sposób ataku: fizyczny\n• Żywotność: średnia\n• Szybkość: mała\n• Cechy szczególne: brak\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Zdarza się, że widząc stalkera wołają o pomoc. Zagadką jest, czy wzywają stalkerów, czy raczej inne mutanty.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_karlik">
+		<text>Karlik</text>
+	</string>
+	<string id="encyclopedia_mutants_karlik_text">
+		<text>%c[pda_white]Karliki%c[ui_gray_1] to bardzo rzadkie i - jak mówi nazwa - karłowate stworzenia żyjące w odosobnieniu.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nNie jest jasne, czy są jakoś powiązane z burerami, ale dzielą między sobą zbyt wiele cech, by uznać podobieństwo jedynie za zbieg okoliczności.\n \nPodczas dosłownie kilku okazji do obserwacji, karliki wydawały się wręcz zniewolone konkretnymi miejscami czy artefaktami. Mimo wszystko, podchodzenie zbyt blisko skutkowało natychmiastowym atakiem.\n \nNie wiadomo o nich prawie nic. Część z tych, którzy mieli okazje konfrontacji z karlikami w niedługim czasie po spotkaniu traciła zmysły lub była znajdowana martwa bez widocznych obrażeń.\n \n%c[pda_blue]Statystyki%c[ui_gray_1]
+			\n• Sposób ataku: fizyczny, mentalny\n• Żywotność: średnia\n• Szybkość: niska\n• Cechy szczególne: obrażenia pasywne, projekcja widm, moce psioniczne, telekineza\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Mimo częstych przyrównań do burera, karliki posługują się częściej iluzją i telepatią niż telekinezą.
+			\n• Jeśli przyjąć, że karliki i burery zostały stworzone w laboratoriach, to prawdopodobnie jedne są starszym wcieleniem drugiego.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_poltergeist">
+		<text>Poltergeist</text>
+	</string>
+	<string id="encyclopedia_mutants_poltergeist_text">
+		<text>
+			%c[pda_white]Poltergeisty%c[ui_gray_1] to dziwne, niemal niewidzialne kreatury straszące w głębiach i czeluściach Zony.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nW oczach niektórych uważane za istoty paranormalne. Zwykle nawiedzają stare, opuszczone budynki.\n \nNic nie wiadomo o ich pochodzeniu. Niektóre legendy twierdzą, że to dusze stalkerów potraktowane ogromnym promieniowaniem.\n \nNazwa jest bardzo adekwatna, ponieważ poltergeisty lubują się w pojawianiu się znikąd w celu uprzykrzenia życia napotkanemu stalkerowi zarzucając go wszelkim dostępnym w okolicy rupieciem.\n \nTo rzadko spotykana osobliwość, więc większość informacji została zaczerpnięta z niejasnych, czasem sprzecznych ze sobą opowieści przygodnych stalkerów.\n
+			\n%c[pda_blue]Statystyki%c[ui_gray_1]
+			\n• Sposób ataku: mentalny\n• Żywotność: średnia\n• Szybkość: średnia\n• Cechy szczególne: moce psioniczne, telekineza\n
+			\n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Starzy wyjadacze opowiadają, że po zabiciu poltergeista nagle znikąd pojawiało się jego zdeformowane ciało. Młodsi stalkerzy raczej nie wierzą w te historie.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_pseudodog">
+		<text>Nibypies</text>
+	</string>
+	<string id="encyclopedia_mutants_pseudodog_text">
+		<text>%c[pda_white]Nibypsy%c[ui_gray_1] to często występująca mutacja psa.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nPomimo jednoznacznie kojarzącej się nazwy, bestie te pochodzą nie od psów, a od żyjących tu niegdyś wilków europejskich.\n \nJednakowoż w tym przypadku niewiele pozostało z pierwowzoru. Łby tych mutantów są zaokrąglone, ich szczęki zdecydowanie większe i mniej wydatne, choć wciąż pełne ostrych jak brzytwa zębów rosnących przez całe życie.\n \nNibypsy często łączą się w sfory ze ślepymi psami, choć są od nich dużo większe, silniejsze i bardziej agresywne. Dokładnie oznaczają swe tereny i strzegą ich, atakując każdego, kto jest na tyle głupi, żeby pojawić się w zasięgu ich wzroku.\n \nRozwinięte muskuły i przekształcony szkielet zapewniają tym bestiom niezwykłą zwinność, dużo większą, niż w przypadku innych zwierząt tego typu.\n \n%c[pda_blue]Statystyki%c[ui_gray_1]
+			\n• Sposób ataku: fizyczny\n• Żywotność: średnia\n• Szybkość: duża\n• Cechy szczególne: zwinność
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_pseudogeist">
+		<text>Pseudogeist</text>
+	</string>
+	<string id="encyclopedia_mutants_pseudogeist_text">
+		<text>%c[pda_white]Pseudogeisty%c[ui_gray_1] to podgatunek poltergeista przypominający obłok.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nO tych stworzeniach nie wiadomo prawie nic. Pojawiają się tylko tymczasowo, a ich obecność jest zbyt krótka, by można było ją skutecznie udokumentować.\n \nPojawiając się zwykle pod postacią pulsujących, ciemnobordowych oparów zabijają każdego, kto się na nie natknie.\n \nDo tej pory nie ustalono żadnych typowych miejsc występowania. Przyjmuje się, że pojawiają się w najmniej spodziewanych okolicznościach.\n \nIch śmierć przypomina eksplozję, polega na rozdzieleniu na mniejsze obłoczki, które stopniowo ulegają rozproszeniu.\n \n%c[pda_blue]Statystyki%c[ui_gray_1]
+			\n• Sposób ataku: mentalny\n• Żywotność: średnia\n• Szybkość: średnia\n• Cechy szczególne: moce psioniczne\n
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_pseudogiant">
+		<text>Nibyolbrzym</text>
+	</string>
+	<string id="encyclopedia_mutants_pseudogiant_text">
+		<text>%c[pda_white]Nibyolbrzymy%c[ui_gray_1] to jedne z najrzadszych i najbardziej przerażających kreatur istniejących w Zonie.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nMimo pierwszego wrażenia, bestie te traktowane są jako humanoidy. W przeciwieństwie do innych mutantów tego rodzaju, nibyolbrzymy otrzymały nieludzką wręcz siłę i odporność. Potrafią przyjąć niewyobrażalną ilość obrażeń zanim w końcu ulegną śmierci.\n \nPara nieproporcjonalnie wielkich nóg i ogólna siła fizyczna tych stworów pozwalają im na całkowitą destrukcję wszystkiego, co będzie miało pecha znaleźć się w pobliżu. Nibyolbrzymy rozpoczynają atak potężnymi tupnięciami tworzącymi fale uderzeniowe potrafiące dosłownie zdmuchnąć wszystko, co stanie im na drodze.\n \nMutanty te zdają się być bardziej terytorialne niż ofensywne. Zwykle ich pościg za celem kończy się najdalej po kilkuset metrach.\n \n%c[pda_blue]Statystyki%c[ui_gray_1]
+			\n• Sposób ataku: fizyczny\n• Żywotność: bardzo duża\n• Szybkość: niska\n• Cechy szczególne: ogromna siła\n
+			\n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Co ciekawe, nibyolbrzymy - jako stworzenia terytorialne - są jednymi z najmniej agresywnych mutantów. Co nie zmienia faktu, że przeciętny stalker nie będzie miał wielkich szans na przeżycie w przypadku spotkania.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_psydog">
+		<text>Nibypies psioniczny</text>
+	</string>
+	<string id="encyclopedia_mutants_psydog_text">
+		<text>%c[pda_white]Nibypsy psioniczne%c[ui_gray_1] stanowią raczej rzadko spotykany podgatunek nibypsa. Ich szczególną cechą są rozwinięte umiejętności mentalne.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nTym, co najbardziej odróżnia psy psioniczne od innych jest umiejętność wpływania na umysły pozostałych istot. Często wykorzystują ją w czasie polowania na ofiarę, tworząc w jej głowie iluzje do złudzenia przypominające żywe osobniki.\n \nNa szczególną uwagę zasługuje fakt, że w odróżnieniu od innych stworzeń i pól psionicznych potrafiących tworzyć iluzje, fantomy wykreowane przez ten gatunek wyglądają całkiem jak żywe i mogą powodować - przynajmniej w głowie ofiary - prawdziwe obrażenia.\n \nZ wyglądu niemal nie do odróżnienia od zwykłych nibypsów, poza pasmami szarego/białego futra na grzbiecie.\n \n%c[pda_blue]Statystyki%c[ui_gray_1]
+			\n• Sposób ataku: fizyczny, mentalny\n• Żywotność: średnia\n• Szybkość: duża\n• Cechy szczególne: zwinność, projekcja widm
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_pyrogeist">
+		<text>Pirogeist</text>
+	</string>
+	<string id="encyclopedia_mutants_pyrogeist_text">
+		<text>%c[pda_white]Pirogeisty%c[ui_gray_1] są rzadkim - jak wskazuje nazwa - pirokinetycznym podgatunkiem poltergeista.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nŁatwo je odróżnić od zwykłych poltergeistów - ich ogniowe odpowiedniki przyjmują formę gorącej, lekko świecącej mgły. Po śmierci eksplodują, rozbryzgując krew i miotając płomienie.\n \nIch jedynym sposobem ataku jest tworzenie słupów ognia, podobnych do Spalaczy, mających spalić przeciwnika. Nie posiadają żadnych zdolności telekinetycznych.\n \n%c[pda_blue]Statystyki%c[ui_gray_1]
+			\n• Sposób ataku: mentalny (za pomocą ognia)\n• Żywotność: średnia\n• Szybkość: średnia\n• Cechy szczególne: moce psioniczne
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_rat">
+		<text>Szczur</text>
+	</string>
+	<string id="encyclopedia_mutants_rat_text">
+		<text>%c[pda_white]Szczury%c[ui_gray_1] to małe, wiecznie głodne gryzonie. Żyją przede wszystkim w pobliżu opuszczonych budynków.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nZwykle stanowią liczące dziesiątki osobników stada. Rzadko widuje się je pojedynczo. Są nieustannymi towarzyszami ludzkości - prędzej czy później pojawiają się w miejscach, gdzie kiedyś bytowali ludzie.\n \nSzczury są bardzo inteligentne, zwykle próbują atakować z wielu stron jednocześnie. Całkowicie otoczona ofiara ma niewielkie szanse na przeżycie.\n \nZwykle żyją w opustoszałych miejscach. Zdają się wyczuwać zagrożenia i omijać je.\n \n%c[pda_blue]Statystyki%c[ui_gray_1]
+			\n• Sposób ataku: fizyczny\n• Żywotność: mała\n• Szybkość: średnia\n• Cechy szczególne: brak\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Bezsprzecznie najmniej groźny przedstawiciel fauny Zony. Częściej poluje się na nie w celu zdobycia mięsa, niż pozbycia się zagrożenia.
+			\n• Szczury to mniejsi, mniej agresywni i mniej zmutowani kuzyni tuszkanów.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_snork">
+		<text>Snork</text>
+	</string>
+	<string id="encyclopedia_mutants_snork_text">
+		<text>%c[pda_white]Snorki%c[ui_gray_1] to przerażające mutacje żołnierzy i stalkerów.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nTe stwory na pewno pochodzą od ludzi - świadczą o tym strzępy ubrań i mundurów, które nosi większość z nich. Trudno sobie wyobrazić, w jakich warunkach doszło do tak strasznych przeobrażeń.\n \nSnorki, mimo człowieczego wyglądu nie wyróżniają się swoim zachowaniem na tle innych mięsożernych stworów zamieszkujących okolicę. Poruszają się na czterech łapach, głównie skacząc i niemal cały czas próbują wyczuć węchem kolejny posiłek.\n \nPolują sprytnie i ostrożnie, czekając na stalkerów jak typowe drapieżniki. Ich oszałamiający refleks i umięśnione tylne odnóża, za pomocą których rzucają się na ofiarę z odległości nawet kilkunastu metrów, w okamgnieniu przygniatając ją do ziemi i pozbawiając jakichkolwiek szans na obronę sprawiają, że to jedne z najgroźniejszych mutantów w całej Zonie.\n \n%c[pda_blue]Statystyki%c[ui_gray_1]
+			\n• Sposób ataku: fizyczny\n• Żywotność: średnia\n• Szybkość: duża\n• Cechy szczególne: zwinność\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Początkowo myślono, że snorki powstały w efekcie oddziaływania pierwszych, formujących Zonę emisji na strzegących terenu żołnierzy, jednak ich ciągła obecność mimo upływu czasu skłania ku dalszych spekulacjach na temat ich prawdziwego pochodzenia.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_tushkano">
+		<text>Tuszkan</text>
+	</string>
+	<string id="encyclopedia_mutants_tushkano_text">
+		<text>%c[pda_white]Tuszkany%c[ui_gray_1] to małe, szczuropodobne stworzenia poruszające się na tylnych łapach.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nIch nazwa prawdopodobnie odwołuje się do gryzoni skoczkowatych, która po rosyjsku brzmi "tuszkanczikowyje" i wskazuje sposób poruszania się.\n \nPomimo całego wachlarza zachowań, jakie przejawiają, uważa się, że tuszkany pochodzą od udomowionych szczurów doświadczalnych z czasów przed drugą katastrofą.\n \nIch siedliska znajdują się głównie w zrujnowanych budynkach. Żywią się wszystkim, co uda im się upolować. Zwykle polują w grupach liczących około dziesięciu osobników.\n \nSą tak samo mądre, jak szczur - w czasie ataku otaczają ofiarę ze wszystkich stron. Dzięki swoim niewielkim rozmiarom i współpracy, mogą w krótkim czasie pokonać większość przeciwników.\n \n%c[pda_blue]Statystyki%c[ui_gray_1]
+			\n• Sposób ataku: fizyczny\n• Żywotność: mała\n• Szybkość: duża\n• Cechy szczególne: brak\n
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_zombie">
+		<text>Zombie</text>
+	</string>
+	<string id="encyclopedia_mutants_zombie_text">
+		<text>%c[pda_white]Zombie%c[ui_gray_1] to po prostu stalkerzy ograniczeni mentalnie do najprostszych odruchów.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nW przeciwieństwie do tego, co sugeruje nazwa, te zombie nie są nieumarłymi. Raczej powinno się je traktować jak pozostałości tego, czym kiedyś byli ci ludzie, jak ich bezmyślne, pozostałe przy życiu cielesne powłoki.\n \nPowstają jako ostatnie stadium zniszczenia człowieka w wyniku działania potężnych pól i sił psionicznych. Na skutek porażenia tracą umiejętności posługiwania się najprostszymi narzędziami i orężem.\n \nW konsekwencji zombie są niczym innym jak pół-umarłymi, wymagającymi zaspokojenia dwóch podstawowych potrzeb - jedzenia i snu.\n \nZważywszy na fakt, że większość jest zabijana na długo przed osiągnięciem ostatniego stadium, spotkanie mutanta zgodnego z powyższym opisem jest bardzo rzadkie.\n \n%c[pda_blue]Statystyki%c[ui_gray_1]
+			\n• Sposób ataku: fizyczny\n• Żywotność: mała\n• Szybkość: niska\n• Cechy szczególne: brak\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Wielu litościwych stalkerów nie szczędzi amunicji, jeśli chodzi o przynoszenie ulgi w cierpieniu pół-umarłym. I to jest prawdziwy dramat.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_psysucker">
+		<text>Pijawka psioniczna</text>
+	</string>
+	<string id="encyclopedia_mutants_psysucker_text">
+		<text>%c[pda_white]Pijawki psioniczne%c[ui_gray_1] są pochodną zwykłych pijawek. Te posiadają nietypowe zdolności mentalne.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nPochodzenie nieznane. Pijawki psioniczne to jedne z najbardziej tajemniczych kreatur Zony.\n \nAutopsje wykazują wiele podobieństw do oryginału, zwłaszcza w kontekście możliwości "znikania". To, co wyróżnia je na tle zwykłych pijawek to bardziej rozbudowany układ nerwowy, ukształtowany w kierunku wpływania na umysły innych istot celem kreowania w ich głowach iluzji do złudzenia przypominających żywe osobniki.\n \nSkóra tych mutantów jest dużo cieńsza, niż typowych pijawek. Wygląda, jakby z wiekiem traciła swoje właściwości. Brakuje im również charakterystycznych macek wystających z twarzy. Prawdopodobnie z tego powodu pijawki psioniczne częściej atakują z ukrycia, korzystając z mocy swojego umysłu.\n \n%c[pda_blue]Statystyki%c[ui_gray_1]
+			\n• Sposób ataku: fizyczny, mentalny\n• Żywotność: mała\n• Szybkość: duża\n• Cechy szczególne: kamuflaż, projekcja widm\n
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_lurker">
+		<text>Lurker</text>
+	</string>
+	<string id="encyclopedia_mutants_lurker_text">
+		<text>%c[pda_white]Lurker%c[ui_gray_1] to hybryda posiadająca niezwykłą tężyznę fizyczną.\n \n%c[pda_green]Informacje%c[ui_gray_1] \nWedług plotek lurkery były częścią eksperymentu, który odbywał się w tajnych laboratoriach Zony przed drugą katastrofą. Pierwszej obserwacji tych stworzeń dokonano w 2013 na przedmieściach Prypeci\n \nIch twarda, kilkuwarstwowa skóra, niezwykle wytrzymałe mięśnie i rozwinięty zmysł słuchu dały lurkerom umiejętność przetrwania w najgorszych możliwych warunkach. Przerośnięte tylne odnóża pozwalają im skakać na ogromne odległości i spadać na ofiary podobnie, jak robią to snorki, czy chimery.\n \nLokalni myśliwi słyną z kolekcjonowania oczu tych stworzeń ze względu na ich niezwykłą, złotą poświatę.\n \n%c[pda_blue]Statystyki%c[ui_gray_1]
+		\n• Sposób ataku: fizyczny\n• Żywotność: średnia\n• Szybkość: duża\n• Cechy szczególne: brak\n
+		</text>
+	</string>
+	
+</string_table>

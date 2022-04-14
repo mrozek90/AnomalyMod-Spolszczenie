@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+<!-- Sidrovish -->
+	<string id="esc_2_12_stalker_trader_start_dialog_1">
+		<text>O, nowa twarz w Zonie... chyba nie mieliśmy okazji się wcześniej spotkać, a, stalker? Mów mi Sidorowicz.\n \nJestem tu takim gościem, który załatwia handel i to w obie strony, a jak ci dupa zacznie z głodu wciągać spodnie i będziesz potrzebował kasy, prowadzę też coś w rodzaju pośredniaka, haha. Także tego, no: rozgość się gdzieś i czuj się jak u siebie.\n \nTu jest w miarę bezpiecznie, przynajmniej póki nie wyściubisz kinola z obozu. Drzwi mamy otwarte dla każdego, chyba że ktoś ma zamiar robić smród i się awanturować - wtedy murowany wypad z baru. Z wojskiem, chociażby na ten przykład, też mam układy - płacę kupę szmalu trepom z posterunku na południu, żeby udawali, że nas nie widzą i nie plątali się tutaj. Teraz wyobraź sobie, że trafi się jakiś bęcwał, któremu strzeli do łba iść i zadzierać z armią... No, mam nadzieję, że ogarniasz.</text>
+	</string>
+	<string id="esc_2_12_stalker_trader_start_dialog_2">
+		<text>Hej, stalker! Czego ci trzeba?</text>
+	</string>
+	<string id="esc_2_12_stalker_trader_start_dialog_esc_m_trader_task_1_complete">
+		<text>Wszystko ładnie załatwione i posprzątane po sobie? Dobra robota, oto twoja forsa.</text>
+	</string>
+	<string id="esc_2_12_stalker_trader_start_dialog_esc_m_trader_task_2_complete">
+		<text>Zdolny z ciebie facet, nie powiem. Bierz, bierz, należy ci się.</text>
+	</string>
+	
+	<string id="devushka_3_quest_0">
+		<text>Oto dostawa od Hip, zgodnie z umową. Zaufała mi na tyle, że przekazała mi artefakty. Trzymaj.</text>
+	</string>
+	<string id="devushka_3_quest_1">
+		<text>No, czas najwyższy. Oto dola Hip, przekaż dziewczynie. Powiedz jej, że Barman coś od niej chce. Chciała się stąd ruszyć, no to ma teraz szansę. Ponoć niedługo z Baru ma ruszać transport gdzieś za Barierę.</text>
+	</string>
+	<string id="devushka_3_quest_2">
+		<text>Dzięki, dam jej znać. To Hip była kiedyś za Barierą?</text>
+	</string>
+	<string id="devushka_3_quest_3">
+		<text>Hoho, bratku! Hip jest w Zonie od bardzo, bardzo dawna. Latała kiedyś z Wolnością, ale odkąd osiedlili się w Magazynach Wojskowych, nie zabalowała u nich zbyt długo. Plącze się dziewczyna po pograniczach, jak ten gówniarz i marnuje sobie najlepsze lata życia. Robota dla Barmana trochę ją wyprostuje.</text>
+	</string>
+	
+	<string id="st_esc_m_trader_life_ask">
+		<text>Co ciekawego powiesz?</text>
+	</string>
+	<string id="st_esc_m_trader_life_1">
+		<text>Przez całą zimę spływa masa zamówień na futra z nibypsów. Jeśli chciałbyś tej zimy otulić ciepłem jakąś dzierlatkę, to sprzedaj mi takie futerko, a nie będziesz dawać za bezcen naukowcom.</text>
+	</string>
+	<string id="st_esc_m_trader_life_2">
+		<text>Kupa matołów lubi marnować kasę na totalne pierdoły. Na ten przykład - mam całą grandę zamówień na macki pijawki. Wiesz czemu? Nie? Bo według tych głąbów taki bibelot przynosi szczęście.\n \nTa, jasne... No ale cóż poradzić, nasz klient, nasz pan, więc załatwiam im, co tylko chcą. Mi to pasuje. Nie ma nic lepszego, niż cymbał z całą walizą kasiory.</text>
+	</string>
+	<string id="st_esc_m_trader_life_3">
+		<text>Artefakty zamawiają czasami ostatni ludzie, którzy powinni to robić. Kiedyś zgłosili się do mnie jubilerzy poszukujący Kamiennego Kwiatu. Cóż, żywię nadzieję, że uszczęśliwili tym jakąś strojnisię, zanim nabrała... blasku.</text>
+	</string>
+	<string id="st_esc_m_trader_life_4">
+		<text>Wyobraź sobie: kręcił się tu kiedyś jakiś przychlast, który przedstawiał się jako mój "przedstawiciel handlowy". Dopóki tylko wykorzystywał moją reputację, ale sprzedawał dobry towar - jakoś to ścierpiałem. Ale jak jego klienci zaczęli mnie nachodzić ze słusznymi skargami: a to wadliwa amunicja, a to rozlatujący się pancerz, a to przeterminowane konserwy, wtedy powiedziałem sobie dość. No i panu "przedstawicielowi" zdarzył się wypadek.</text>
+	</string>
+	<string id="st_esc_m_trader_life_5">
+		<text>Kręcił się tu taki jeden z wolnych stalkerów, były specnazczik. Stalker to stalker, nie wadził mi ani trochę - dopóki nie zebrał gangu i nie próbował siłą przejąć moich kanałów handlowych z Dużą Ziemią. Szczęśliwie zmarło mu się podczas snu - i tak to biedaczysko nigdy nie ujrzał, jak jego chytry plan się ziszcza.</text>
+	</string>
+	<string id="st_esc_m_trader_life_6">
+		<text>Jeśli pojawia się ktoś, kto czuje w sobie żyłkę handlowca, a nie reprezentuje barw którejś z głównych frakcji, wtedy oczekuję, że mnie wpierw odwiedzi, grzecznie się przedstawi i otworzy swój biznes, ale według moich zasad.\n \nMożesz mnie nazwać Januszem, albo określić to fanaberiami dziada, ale tak to właśnie widzę. Jestem tu, psiakrew, od samego początku i szlag mnie trafia, jak przychodzi jakiś nieopierzony gnojek i uważa, że pozjadał wszystkie rozumy.</text>
+	</string>
+	<string id="st_esc_m_trader_life_7">
+		<text>Wszyscy wiedzą, że jest u mnie pewna nienaruszalna zasada: moich ludzi się nie tyka. Jeśli ktoś skrzywdzi kogoś, kogo znam - to zginie. Proste.</text>
+	</string>
+	<string id="st_esc_m_trader_life_8">
+		<text>Kiedyś trochę robiłem w zdobywaniu wojskowych dokumentów i w łowach na wyjątkowo rzadkie gatunki mutantów, ale teraz to już dawne dzieje... Dziś ludzie nie wydają się być nimi aż tak bardzo zainteresowani, wszystko im jakby spowszedniało.</text>
+	</string>
+	<string id="st_esc_m_trader_life_9">
+		<text>Jak zamarzyłeś sobie luźne stalkerskie życie, to się nad tym jeszcze raz, chłopie, zastanów. A potem, o ile nie zrezygnujesz - przyjdź z tym do mnie. Jestem w stanie zapewnić schronienie, zaopatrzenie i robotę dla wszystkich świeżaków, jakie przyczaiły się w naszej wiosce. Niedaleko stąd jest co prawda posterunek wojskowy, ale doszliśmy do małego porozumienia na szczeblu polowym, hehehe...\n \nW każdym razie moich stalkerów zwykle nikt tu nie zaczepia. To dobry układ i chcę, aby tak pozostało - więc trzymaj się od wojaków z dala, rozumiesz? Słono ich opłacam. Mniejsza zresztą o to, masz może jakiś interes do dogadania? Może potrzebujesz roboty? Pamiętaj, ręka rękę myje, żyj dobrze z wujkiem Sidem, a wujek Sid będzie dobry i dla ciebie.</text>
+	</string>
+	<string id="st_esc_m_trader_life_end">
+		<text>No, dość już pogadaliśmy. Idź zawracać głowę komuś innemu.</text>
+	</string>
+
+
+<!-- Wolf -->
+	<string id="esc_2_12_stalker_wolf_start_dialog_1">
+		<text>Cześć, stalker. Co cię tu dziś przygnało?</text>
+	</string>
+	
+	<string id="wolf_st_1">
+		<text>Jestem tu lokalnym panem szefem, panie nowy. Przybywa tu wielu poszukiwaczy wrażeń, każdy jak ślepy kociak: bez umiejętności, bez sprzętu, z łbem nabitym banialukami, każdy wyobraża sobie, że będzie jakimś Redem Schuhartem, czy coś... Zona wszystkich takich stukniętych marzycieli i hipisów raz-dwa przerabia na padlinę dla mutantów lub zamienia w swoje stwory - a te są strasznie upierdliwe.\n \nSiedzę tu już kawał czasu i swoje przeżyłem. Pracowałem kiedyś z legendarnym Naznaczonym, a właściwie Striełokiem, więc swoje wiem i co mogę, to przekazuję kotom. Fanatyk trochę mi w tym pomaga, ale robienie za niańkę to nie są rurki z kremem. Tak, tak, wiem, co chciałbyś powiedzieć... Nawet chciałem stąd wybyć na dobre, ale zawsze coś stanęło na drodze: a to nalot wojska, a to emisja, a to ekstra płatna robota... no i nadal się tu, kurna, z wami męczę.</text>
+	</string>
+	
+<!-- Fanatic -->
+	<string id="esc_2_12_stalker_fanat_start_dialog_1">
+		<text>Siema, stalker, jak tam się dziś czujemy?</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_start_dialog_esc_m_trader_task_2">
+		<text>Czegoś ci trzeba?</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_about_esc_m_trader_task_2_0">
+		<text>Na parkingu jest paru bandziorów, którymi trzeba się zająć. Sidorowicz wspominał, że mógłbyś mi potowarzyszyć.</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_about_esc_m_trader_task_2_1">
+		<text>Tak, pomogę ci. Szkoda mi was, dzieciaków, jak tak dostajecie z lewa i z prawa.</text>
+	</string>
+	
+	<string id="fanatic_st_1">
+		<text>Fanatyk, to moja ksywka, tak mnie nazywają. Zasadniczo jestem tutaj zastępcą Wilka i zazwyczaj pomagam w trenowaniu nowicjuszy. Wiesz, to w większości dobre, charakterne chłopaki, tylko trochę brakuje im pokory... Uczę ich, jak strzelać z tych ich rozklekotanych pukawek, cierpliwie tłumaczę, gdzie można iść, a gdzie nie można, przetrzebiamy razem mutanty, pokazuję, jak nie pchać się pod lufę armii i jak trzymać bandytów we względnym strachu.\n \nMówię ci, roboty z tym jest huk, nawet tu, na granicy Zony. Ale sprawia mi to frajdę, wiesz? Jak dzieciaki wracają z pierwszym znalezionym artefaktem i z tym błyskiem w oczach, to chłopie - czuję się, jakbym własne dziecko stawiające pierwsze kroki oglądał. Wcale nie narzekam, że poświęcam się tu belferowaniu! Sam pamiętam, jak zaczynałem. Też nic wtedy nie wiedziałem o życiu. I mnie nie miał kto nauczyć i prowadzić za rączkę...</text>
+	</string>
+	
+	<string id="fanat_training_start_0">
+		<text>Hej! Nie wydaje mi się, żebym cię tu wcześniej widział, bez urazy, ale wydajesz się być całkiem nowy w tym fachu. Jestem zastępcą Wilka, przywódcy tej wioski.\n \nJeśli chcesz, mogę nauczyć cię kilku rzeczy na temat tego, jak tu przetrwać. Wolałbym się upewnić, że nie zabije cię pierwszy napotkany mutant, ani że nie wleziesz w pierwszą anomalię, którą napotkasz.</text>
+	</string>
+	<string id="fanat_training_start_1">
+		<text>W sumie to chyba przydałaby mi twoja pomoc i porady.</text>
+	</string>
+	<string id="fanat_training_start_2">
+		<text>Nie, dziękuję, będę uczyć się na swoich błędach i w swoim tempie.</text>
+	</string>
+	<string id="fanat_training_start_3">
+		<text>Świetnie. Najpierw poćwiczymy sobie polowanie na mutanty. Niedaleko stąd, po drugiej stronie drogi siedzi w krzakach mała wataha kabanów, znaczy się dzików. Dziki mają małe rozumki, ale grube czachy, więc najłatwiej można je położyć strzelając nie na wprost, ale w ich bok, a już idealnie byłoby prosto w zadek. Najlepiej strzelać z bezpiecznego dystansu.\n \nNo to jak, masz chęć popróbować myśliwskich przygód? Zajmiemy się nimi we dwóch, postaraj się tylko nie ściągać ich na mnie, o tej porze roku są zwykle nabuzowane.</text>
+	</string>
+	
+	<string id="fanat_training_boars_death_0">
+		<text>Uff, trochę się działo. Co teraz?</text>
+	</string>
+	<string id="fanat_training_boars_death_1">
+		<text>Dobra robota! Sprawdź, czy twój nóż jest wystarczająco ostry, aby wykroić z nich kilka części. Kiedy skończysz, przejdziemy do najbliższego pola anomalii.</text>
+	</string>
+
+	<string id="fanat_training_anomaly_reached_0">
+		<text>Jesteśmy na miejscu. Co mam zrobić?</text>
+	</string>
+	<string id="fanat_training_anomaly_reached_1">
+		<text>Popatrz, ten dół jest pełen anomalii grawitacyjnych. Widzisz ten artefakt, o tam? To tylko bochenek Anomalnego Chleba, nic ważnego, olej to. Ale w tej jamie znajduje się także Meduza, a Meduzy, jak każdy inny artefakt, mają zarówno pozytywne, jak i negatywne cechy... Mamy szczęście, że ta tutaj tak sobie na nas czeka. Porozmawiajmy teraz o sprzęcie, który powinieneś mieć do polowania na artefakty.</text>
+	</string>
+	<string id="fanat_training_anomaly_reached_2">
+		<text>Pokaż mi.</text>
+	</string>
+	<string id="fanat_training_anomaly_reached_3">
+		<text>Oto detektor Echo. Wszystkie takie urządzenia po włączeniu zarejestrują obecność artefaktu i zmierzą odległość do najbliższego. To zupełnie podstawowe narzędzie do poszukiwania artefaktów, które nie są tylko anomalnym odpadkiem. Gdy usłyszysz, że urządzenie piszczy, to znaczy, że artefakt jest niedaleko, im częściej piszczy, tym artefakt jest bliżej. Proste, prawda?\n \nEcho to dość stary model, nie wykryje wszystkich znanych obecnie artefaktów, ale na potrzeby naszego szkolenia jest zupełnie wystarczający. Lepsze i nowsze modele mają większy zakres i czułość.</text>
+	</string>
+	<string id="fanat_training_anomaly_reached_4">
+		<text>No nieźle.</text>
+	</string>
+	<string id="fanat_training_anomaly_reached_5">
+		<text>Teraz drugie urządzenie, ołowiany pojemnik. Nadal pamiętasz, jak mówiłem o pozytywnych i negatywnych właściwościach artefaktów? W tych czasach niemal wszystko warte zgięcia grzbietu jakoś oddaje tłem, to znaczy emituje promieniowanie. W takim pojemniku zamkniesz szczelnie każdy artefakt, co uchroni cię przed radiacją, ale nie pozwoli ci skorzystać z jego innych, bardziej pożądanych efektów.\n \nBez tej puszki nawet jeden wytwór Zony trzymany luzem w plecaku odda ci tyle radiacji, że zaczniesz świecić jak robaczek świętojański. I - jak ten robaczek - padniesz trupem w parę godzin. Tak, pojemnik jest ołowiany i swoje waży, ale lepiej zapobiegać, niż leczyć, no nie?\n \nJeśli zechciałbyś skorzystać z tych dobrych efektów działania artefaktu, to potrzeba tu bardziej zaawansowanego kontenera. Naukowcy opracowali kilka takich urządzeń. Jak zarobisz trochę grosza, pytaj handlarzy o moduły aplikacji artefaktów. Jeśli nic się nie zmieniło, obecnie w obiegu są trzy rodzaje takich pojemników filtrujących - każdy zapewnia ochronę przed promieniowaniem na innym poziomie.\n \nGeneralnie, ich zadaniem jest zamknięcie w środku promieniowania, ale przepuszczenie pozostałych działań tworu. Sidorowicz czasami ma coś takiego na stanie, ale zwykle trzyma to dla bardziej doświadczonych stalkerów.</text>
+	</string>
+	<string id="fanat_training_anomaly_reached_6">
+		<text>Dobrze wiedzieć. Ten pojemnik faktycznie swoje waży. Co teraz?</text>
+	</string>
+	<string id="fanat_training_anomaly_reached_7">
+		<text>Teraz sobie rozpracujemy tą butelczynę. Tak jak mówiłem, wszystkie artefakty są radioaktywne i nawet jeśli je zamkniesz w ołowianym pojemniku, to część promieniowania, że się tak wyrażę, wycieka - a to zdrowiu nie służy. Łyczek albo sześć pomoże ci... ekhm... "wypłukać" część tego promieniowania z organizmu. Można by powiedzieć: "wódko, pozwól żyć", hehehe.</text>
+	</string>
+	<string id="fanat_training_anomaly_reached_8">
+		<text>No to zdrowia! Co dalej?</text>
+	</string>
+	<string id="fanat_training_anomaly_reached_9">
+		<text>Śruby. Musisz o nich pamiętać, zanim wleziesz w anomalne pole. Rzuć kilka przed siebie, aby znaleźć drogę między anomaliami. No, to by było na tyle, ruszajmy. Idź przodem, w razie czego będę pomagał.</text>
+	</string>
+
+	<string id="fanat_training_artefact_taken_1">
+		<text>Hej, mam go! Mam artefakt!</text>
+	</string>
+	<string id="fanat_training_artefact_taken_2">
+		<text>No, no... Widzę, że sobie zupełnie nieźle radzisz, facet. Jeszcze będzie z ciebie stalker! Chodźmy do wioski, tam będziemy kontynuować.</text>
+	</string>
+
+	<string id="fanat_training_back_to_village_1">
+		<text>No, to było dość...</text>
+	</string>
+	<string id="fanat_training_back_to_village_2">
+		<text>Męczące? Wygląda na to, że podstawy już złapałeś. Jak będziesz gotowy, to mam dla ciebie takie małe wyzwanie.</text>
+	</string>
+
+	<string id="fanat_training_stash_search_0">
+		<text>Jestem gotowy. Co to za wyzwanie?</text>
+	</string>
+	<string id="fanat_training_stash_search_1">
+		<text>Powiedz mi, co to za stalker, który nigdy nie odkrył cudzych tajemnic? Zona jest jedna i wspólna dla wszystkich. Ci, którzy dają sobie radę - przetrwają.\n \nCzasami, gdy cię okoliczności przyduszą, znalezienie cudzego schowka jest nie tyle osiągnięciem, co koniecznością. Gdzieś w wiosce ukryłem małe co nieco - spróbuj je znaleźć. Dam ci małą podpowiedź - szukaj bocianiego gniazda.</text>
+	</string>
+
+	<string id="fanat_training_stash_found_0">
+		<text>Znalazłem! Dzięki za artefakt.</text>
+	</string>
+	<!--string id="fanat_training_stash_found_1">
+		<text>Hmmm... Bystry gość, Zona nie dorwie cię tak łatwo. Niedługo przystąpimy do ostatniej lekcji, przygotuj się dobrze.</text>
+	</string-->
+	<string id="fanat_training_stash_found_1">
+		<text>Hmmm... Bystry gość, Zona nie dorwie cię tak łatwo. To była ostatnia z lekcji. Dowiodłeś, że jesteś godny tytułu "Wolnego Stalkera", możesz być z siebie dumny. Niczego więcej nie mogę cię już nauczyć, cała reszta należy do ciebie. Dobrej Zony i niech fortuna ci sprzyja, stalker!</text>
+		</string>
+	
+	<string id="fanat_training_bandit_raid_start_0">
+		<text>A jakie jest nasze ostatnie zadanie?</text>
+	</string>
+	<string id="fanat_training_bandit_raid_start_1">
+		<text>Zobaczysz. Jak wiesz, człowiek człowiekowi wilkiem. Przez długi czas trzymaliśmy wszystkich bandytów z dala od stacji pojazdów, ale oni wciąż wracają. Są dla nas stałym zagrożeniem. Zwykle przesiaduje tam od pięciu do siedmiu zbirów. Zajmijmy się nimi. Co ty na to?</text>
+	</string>
+
+	<string id="fanat_training_bandit_raid_end_0">
+		<text>Hah, nasza dwójka przeciwko tym... Jesteśmy bohaterami!</text>
+	</string>
+	<string id="fanat_training_bandit_raid_end_1">
+		<text>To, co właśnie nazwałeś bohaterstwem, to dla bardziej doświadczonych stalkerów chleb codzienny. Wracajmy do wioski.</text>
+	</string>
+
+	<string id="fanat_training_end_0">
+		<text>Dzięki, że wziąłeś mnie pod swoje skrzydła, Fanatyku.</text>
+	</string>
+	<string id="fanat_training_end_1">
+		<text>Od tego tu jestem. Mam dla ciebie mały podarek na drogę - współrzędne przejścia z Jantaru do Agropromu, tak na wypadek, gdybyś kiedyś tam zabłądził. Odpocznij kapkę, a potem... a zresztą, co ja ci będę mówić!\n \nDowiodłeś, że zasłużyłeś na swoją naszywkę "Wolnego Stalkera" i masz prawo być z tego dumny, chłopaku! Teraz leć, wdychaj cudowne radioaktywne powietrze i ciesz się wolnością!</text>
+	</string>
+
+
+<!-- Nimble -->
+	<!-- esc_2_12_stalker_trader_mar_base_owl_stalker_trader_task_1 -->
+	<string id="esc_2_12_stalker_nimble_mar_base_owl_stalker_trader_task_1">
+		<text>Masz coś dla mnie? No nareszcie. Naczekałem się. Zarodnik pomaga mi utrzymywać kontakty na Wielkiej Ziemi. Wszystko jest bezpiecznie i anonimowo, typowe hakerskie babranie się w kodzie, szyfrowanie i takich tam. Może zabrzmi to dziwnie, ale były czasy, gdy byłem w Czystym Niebie.\n \nDostali srogo, ale wygląda na to, że jakoś się z tego pozbierali. Sporo z nich zginęło, wielu poszło swoją drogą, nie widziałem potrzeby, by tam dalej tkwić - ale kontakty z Zarodnikiem trzymam do tej pory. A, prawda, masz. Twoje pieniądze.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_mar_base_owl_stalker_trader_task_1_about">
+		<text>Mam coś dla ciebie.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_no">
+		<text>Chyba nie jesteś właściwą osobą.</text>
+	</string>
+
+	<string id="esc_2_12_stalker_nimble_about_0">
+		<text>Mógłbyś mi odpowiedzieć na kilka pytań?</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_about_1">
+		<text>Dawaj.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_about_1111">
+		<text>Ile czasu potrwa realizacja mojego zamówienia?</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_about_11111">
+		<text>To zależy od tego, jak bardzo jest skomplikowane. Czasami dzień, czasami mniej.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_about_1114">
+		<text>Opowiedz mi o sobie.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_about_11141">
+		<text>Nic wielkiego do opowiadania. Dawno temu przybyłem do Zony jako młody szczyl. Jak u większości, bywało głodno i chłodno, ale bywało i na bogato. Wlazłem w kilka anomalii, byłem zakładnikiem u bandytów...\n \nNajpierw byłem obnośnym sprzedawcą - antyrady, amuna przeciwpancerna, te sprawy. Potem pracowałem dla Sidorowicza, spłacając mu wyratowanie mojego tyłka z tarapatów. Gdy już odsłużyłem dług to poszedłem na swoje, bo w międzyczasie nawiązałem trochę przydatnych kontaktów i mogłem zacząć żyć ze zleceń na nieco rzadsze towary.\n \nDo tej pory jakoś sobie radzę, ale coś mi mówi, że dobra passa nie będzie trwać wiecznie. Z drugiej strony człowiek łatwo przywykł do dobrego i nadstawianie głowy za marne grosze jakoś mi się już nie uśmiecha.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_about_1116">
+		<text>Chyba cię rozumiem, dzięki.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_about_11161">
+		<text>Proszę bardzo.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_0">
+		<text>Przyszedłem po swoje zamówienie.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_111">
+		<text>Oto twój Stepowy Orzeł. Załatwienie go było trudniejsze, niż sądziłem, jakiś fascynat pistoletów bardzo się nim interesował, ledwo udało mi się położyć na nim rękę jako pierwszy. Spójrz: ręcznie wykończony i poskładany, wszystkie elementy dopolerowane i dopasowane ze szwajcarską precyzją. Gdybyś kiedyś zastanawiał się, jak też może wyglądać snajperski pistolet - to popatrz. Należy się jeszcze dwa osiemset i jest twój.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_1111">
+		<text>Okej, proszę.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_11111">
+		<text>Trzymaj. Interesy z tobą to czysta przyjemność.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_1112">
+		<text>Nie mam tyle przy sobie.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_11121">
+		<text>Nie ma sprawy, przetrzymam go dla ciebie przez jakiś czas. Mam nadzieję, że wkrótce go odbierzesz.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_1113">
+		<text>Nie chcę go kupować.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_11131">
+		<text>Jeśli teraz zrezygnujesz, to kolejnym razem nie będę mógł zaoferować ci takich warunków. Sam rozumiesz - ponoszę ryzyko i będę je musiał wliczyć na przyszłość jako wyższą zaliczkę.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_111311">
+		<text>Dobrze, ale i tak nie chcę tego kupować.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_1113111">
+		<text>W porządku, jak chcesz.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_1114">
+		<text>Rozważę to jeszcze.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_11141">
+		<text>Jasne, rozumiem cię. Zatrzymam to dla ciebie przez jakiś czas.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_112">
+		<text>Proszę, to twój superdokładny Stepowy Orzeł. Dopłacasz mi ekstra dwa osiemset.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_121">
+		<text>Oto Alpejka - śliczna rzecz, no nie? Bądź pewny, że drugiego takiego pistoletu nie znajdziesz w całej Zonie. To model unikalny, limitowana produkcja dla pewnej jednostki specjalnej. Niełatwo było to dla ciebie dostać, musiałem poruszyć niebo i ziemię.\n \nPowiększony magazynek, lufa odkuta na zimno ze stali o niezwykłej twardości, komora zamka wykonana z supertwardych polimerów. Dorzuć brakujące dwa osiemset i ta ślicznotka jest twoja.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_122">
+		<text>Oto twoja Alpejka, pistolet z powiększonym magazynkiem. Dodaj brakujące dwa osiemset i ta ślicznotka jest twoja.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_131">
+		<text>Zerknij, oto Marsz. Ten pistolet należał do najemnika zwanego Wilczarz. Kompaktowa broń ze skróconą drogą zamka i mechanizmem ryglowym o zmniejszonej wadze.\n \nWilczarz był łajdakiem jakich mało, ale trzeba przyznać, że na broni znał się też jak mało kto. Mówi się, że jego ulubionym trikiem było przestrzelenie wszystkich kończyn ofiary i wykańczający strzał w głowę, zanim nieszczęśnik upadł na ziemię. Tak czy owak - ten pistolet jest za dwa osiemset.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_132">
+		<text>Oto twój szybkostrzelny pistolet Marsz. Jesteś mi dłużny jeszcze dwa osiemset.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_211">
+		<text>Trzymaj, oto Przecinak - pistolet maszynowy. Ujmę to tak: nie patrz na wygląd. To zupełnie nowy model, jeszcze przed wprowadzeniem do produkcji, prototyp prościutko z fabryki broni.\n \nTwórcy zaprojektowali go jako broń krótkiego dystansu nowej generacji - połączenie dużego kalibru, szybkostrzelności i precyzji strzału. Więc, to będzie jeszcze dodatkowe osiem tysiączków.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_212">
+		<text>Tak, to jest Przecinak - szybkostrzelna broń na bliski dystans. To będzie jeszcze osiem tysiączków.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_221">
+		<text>Oto dopracowany egzemplarz broni - Karabinier. Rzetelna strzelba dla poważnej armii. Dzięki systemowi kompensacji odrzutu łączy możliwość strzelania serią z naprawdę zmniejszonym kopnięciem i poderwaniem lufy. Dorzucasz osiem tysięcy i jest twój.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_222">
+		<text>Oto Karabinier, automatyczny shotgun. Dodaj osiem tysiączków i jest twój.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_231">
+		<text>Sądzę, że to jest to, czego ci potrzeba. Eliminator, ostatni model. Cała partia została wysłana do Afryki Środkowej, ale ten egzemplarz dostałem od przyjaciół w ramach przysługi jako "próbkę".\n \nAutomatyczna strzelba z wielkim magazynkiem i doskonałą szybkostrzelnością. Rozmieciesz tym wszystko i każdego. Twój za jedyne osiem tysięcy.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_232">
+		<text>Jasne. Automatyczny shotgun Eliminator, ze zwiększonym magazynkiem. Za osiem tysięcy.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_311">
+		<text>Jasna sprawa. Oto Burza, karabinek sprzężony z granatnikiem. Ten prototyp jest modyfikacją standardowej broni przerobionej pod wymagania jednostek specjalnych operujących w Zonie. Ta modyfikacja, to najlepsze, co tylko mógł wymyśleć wielki duch Turbosłowian. Dołóż mi szesnaście kawałków i Burza jest twoja.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_312">
+		<text>Proszę, Burza - karabinek ze zwiększonym magazynkiem, sprzężony z granatnikiem podlufowym, wszystko za dodatkowe szesnaście tysięcy.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_321">
+		<text>Oto i on: GP-37, broń szturmowa nowej generacji. Celny, niezawodny, z wbudowanym celownikiem optycznym. Był własnością obserwatora ONZ, jego grupę wysłano do Zony w celu dochodzenia, no i powinęła im się noga... Szesnaście tysięcy i broń jest twoja.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_322">
+		<text>Proszę: GP-37, nowoczesny karabinek szturmowy. Cena to szesnaście tysięcy.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_331">
+		<text>Sekundkę... Oto modułowy karabin FT-200M, cudo belgijskiej myśli rusznikarskiej. Precyzyjny, wszechstronny, przyjazny również dla leworęcznego użytkownika. W zestawie celownik optyczny i granatnik podlufowy. Mam go po jednym z pechowych obserwatorów ONZ... to będzie szesnaście tysięcy.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_332">
+		<text>Oto modułowy karabinek FT-200M. Za dodatkowe szesnaście tysięcy.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_411">
+		<text>To jest Przypływ. Ta broń bazuje na wytłumionym karabinie wyborowym i została stworzona na zamówienie armii do skrytej eliminacji zombie. Przypływ ma zmniejszoną szybkostrzelność kosztem efektu obalającego, co ułatwia snajperowi zadanie "jeden pocisk - jeden zombie" bez ujawniania swej lokalizacji.\n \nOdkąd jednak stało się jasne, że sami stalkerzy trzymają zombie w ryzach z dala od Bariery - prace nad karabinem zarzucono. Ta piękna broń będzie twoja za dodatkowe szesnaście tysięcy.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_412">
+		<text>Oto Przypływ, cichy karabin snajperski o zwiększonej sile rażenia. Dodaj dodatkowe szesnaście tysięcy i czerp frajdę ze strzelania.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_421">
+		<text>Proszę, oto SWU2-A, skrócony karabin wyborowy o poprawionej szybkostrzelności. Kupiłem go od Maksa, legendarnego strażnika Wolności. Facet zarzekał się, że drugiego takiego nie ma w całej Zonie.\n \nTo ekskluzywna rzecz, przynajmniej w naszych stronach. Twoja za dodatkowe szesnaście tysięcy.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_422">
+		<text>Ta, SWU2-A, skrócona snajperka o zwiększonej szybkostrzelności. Za dodatkowe szesnaście tysięcy.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_431">
+		<text>Ma się rozumieć, popatrz tylko na Rysia. Ręcznie dopieszczony i poskładany przez tutejszego eksperta od takich broni. Zmarło się człowiekowi jakiś czas temu, niech mu Zona lekką będzie - no i ten swój niepowtarzalny dryg zabrał ze sobą do grobu.\n \nBroń niby wygląda jak każda inna snajpa, ale weź ją tylko do ręki i przymierz się do odległego celu, a poczujesz różnicę. Połączenie precyzji strzału i siły obalającej jest niezrównane. Dodaj pozostałe szesnaście tysięcy i ta piękność zostaje u ciebie.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_432">
+		<text>Owszem, Ryś - karabin wyborowy o zwiększonej precyzji i sile ognia. Dodajesz szesnaście tysięcy i bierzesz go ze sobą.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_511">
+		<text>Popatrz tutaj, CS-3a z hełmem. Udało mi się odhaczyć wszystkie założenia z listy, bo hełm jak hełm - nie jest niczym nadzwyczajnym, ale jakie ma możliwości modyfikacji! Zainstalujesz tu mobilny system wsparcia taktycznego, na który składa się wysokiej jakości noktowizja i aktywny czujnik podczerwieni.\n \nCS-3a da ci świetną ochronę przed pociskami i anomaliami, a połączenie tych cech z lekkością i mobilnością to już prawdziwy unikat. Cały komplet będzie cię kosztować jeszcze trzydzieści dwa tysiące.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_512">
+		<text>Owszem, zestaw pancerza CS-3a z hełmem taktycznym. Trzydzieści dwa tysiące za wszystko.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_611">
+		<text>Specjalnie dla ciebie, przyjacielu: SEVA. Wszystko według twojego zamówienia: zamknięty obieg powietrza, zaawansowana ochrona termiczna i przeciwporażeniowa, wszystko pokryte materiałem antykorozyjnym. W bonusie kilka zasobników na artefakty. Marzenie każdego stalkera. Dorzuć jeszcze dwadzieścia cztery kawałki, jak się umawialiśmy i SEVA jest twoja.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_612">
+		<text>Proszę, pancerz SEVA. Cena to dwadzieścia cztery tysiące, jak ustaliliśmy.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_711">
+		<text>Oto egzoszkielet bojowy, tak niezwykły jak sama Zona. Poza pojazdami opancerzonymi, to najlepsza ochrona przed pociskami, pazurami i odłamkami. Zwiększy także twój udźwig, oczywiście w granicach rozsądku. Czterdzieści osiem tysięcy i jest twój, wraz z wysypką... eee... mam na myśli akumulatory i serwomotory.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_712">
+		<text>Oto i on, egzoszkielet bojowy. Czterdzieści osiem tysięcy i jest twój.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_0">
+		<text>Chcę złożyć zamówienie.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_1">
+		<text>Jasna sprawa. Czego ci potrzeba?</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_11">
+		<text>Pistoletu.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_111">
+		<text>Oczywiście. Taka zabawa to trzy i pół tysiąca, z czego siedem stów tytułem zaliczki.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_1111">
+		<text>W porządku, masz.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_11111">
+		<text>Skontaktuję się z tobą, jak tylko zrealizuję twoje zamówienie.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_1112">
+		<text>Nie mam tyle przy sobie.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_11121">
+		<text>Zatem przyjdź do mnie, jak zbierzesz pieniądze.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_1113">
+		<text>Chyba zmieniłem zdanie.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_11131">
+		<text>Nie ma problemu. Jeśli chciałbyś kiedyś coś zamówić, jestem do usług.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_112">
+		<text>Nie jesteś najbardziej solidnym z moich klientów, kolego... Więc pistolet będzie kosztować cztery tysiące dwieście i poproszę z góry tysiąc czterysta zaliczki.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_113">
+		<text>Obawiam się, że pistoletów już nie ma. Jeśli wystarczy ci coś zwykłego, to idź do Sowy.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_12">
+		<text>Broń krótkiego zasięgu.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_121">
+		<text>Jasna sprawa. Cena to dziesięć tysięcy, z czego teraz poproszę dwa.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_122">
+		<text>Ostatniego zamówienia nie odebrałeś... więc to będzie kosztować dwanaście tysięcy, z czego z góry poproszę cztery patyki.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_123">
+		<text>Hmm... Wiesz, chyba nie jestem w stanie ci pomóc. Twoje oczekiwania są zbyt wysokie, jak na mój skromny asortyment.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_13">
+		<text>Broń szturmowa.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_131">
+		<text>Hmmm, większy kaliber i duża szybkostrzelność, dobrze... Standardowa cena to dwadzieścia tysięcy, w tym cztery zaliczki. To jak, mam to dla ciebie załatwiać?</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_132">
+		<text>Jesteś dość specyficznym klientem. Wezmę od ciebie dwadzieścia cztery koła, z czego tytułem zaliczki poproszę osiem tysiączków. Zgoda?</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_133">
+		<text>To nie jest dobry czas na takie interesy... Armia trochę pozmieniała stan rzeczy w Kordonie. Jakiś matołek zaatakował ich posterunek, co ich trochę utwardziło w negocjacjach...</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_14">
+		<text>Karabin wyborowy.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_141">
+		<text>Coś z górnej półki dla ciebie za jedyne dwadzieścia tysięcy, ale musisz mi dać cztery patyki z góry.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_142">
+		<text>Dobijanie targu z tobą przysparza pewne ryzyko biznesowe... Mógłbym się za czymś rozejrzeć za jakieś dwadzieścia cztery ka, ale na dzień dobry płacisz osiem tysiączków. Pasuje?</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_143">
+		<text>Przepraszam, ale ten typ broni trudno ostatnio znaleźć. Mój kontakt do światka snajperów jest... powiedzmy, że mało skłonny do współpracy.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_15">
+		<text>Pancerz.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_151">
+		<text>Miałbym coś pasującego jak na miarę. "Krawiec" będzie cię kosztować czterdzieści tysięcy, ale musisz mi dać osiem patyków na "materiały".</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_152">
+		<text>>No, mógłbym pomyśleć o czymś pasującym na ciebie. Odmówiłeś niestety odbioru ostatniego zamówienia, więc cena wynosi czterdzieści osiem tysięcy, z czego z góry dajesz mi szesnaście, tu i teraz.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_153">
+		<text>Nie będę w stanie znaleźć nic lepszego od pancerza, który ostatnio dla ciebie załatwiałem. To było coś z górnej półki i prima sort, towarzyszu stalkerze.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_16">
+		<text>Pancerz z zamkniętym obiegiem powietrza.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_161">
+		<text>O proszę, bardzo nietypowe zamówienie... Niełatwo będzie coś takiego znaleźć, ale gadasz z fachowcem. Znajdę ci któreś z podobnych cudeniek za trzydzieści koła, ale jestem zmuszony poprosić cię o zaliczkę - sześć tysięcy.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_162">
+		<text>Ostatnim razem pozostawiłeś mnie trochę na lodzie, więc tym razem dwa razy się zastanowię... Owszem, mogę coś takiego znaleźć za trzydzieści sześć tysi, ale najpierw jedna trzecia zaliczki, to uczciwy układ. Dwanaście tysięcy z góry i zaczynam szukać.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_163">
+		<text>Aby dostać poprzedni, zdrowo się nabiegałem. Nie sądzę, abym był w stanie znaleźć ci coś jeszcze z tego sortu.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_17">
+		<text>Egzoszkielet.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_171">
+		<text>Musiałeś to solidnie przemyśleć. Mogę dostać w ręce bojową wersję takiego pancerza, ale będzie cię to kosztować sześćdziesiąt tysięcy. Wiem, drogo jak cholera, ale poczucie takiej ochrony jest warte każdego wydanego rubelka. Pamiętaj tylko, że na rozpoczęcie poszukiwań potrzebuję dwanaście tysięcy.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_172">
+		<text>Przy poprzednim zamówieniu nie zachowałeś się zbyt elegancko względem mnie, gościu... więc te zamówienie będzie cię kosztować siedemdziesiąt dwa patyki, z czego z góry dajesz mi dwadzieścia cztery.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_173">
+		<text>Nie ma opcji. Odkąd zamknięto fabrykę egzoszkieletów, to dostępne sztuki są tylko na trupach. A to już nie moje metody.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_18">
+		<text>Aktualnie nic.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_2">
+		<text>Przepraszam, na razie nie przyjmuję zamówień. Tymczasowe problemy z innymi zleceniami...</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_start_11">
+		<text>Witaj, jestem Żwawy. Ludzie przychodzą do mnie, gdy potrzebują nietypowej broni - rzadkie modele, prototypy, unikalne egzemplarze, to jest to, czego chcą. Oczywiście elitarne wyposażenie, najnowsze modyfikacje i modele pancerzy ochronnych i bojowych. Wszystko osobiście sprowadzam i sam sprawdzam, więc gwarantuję wysoką jakość każdego produktu.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_start_12">
+		<text>Witaj, chcesz coś zamówić?</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_start_13">
+		<text>Cześć.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_start_14">
+		<text>Twoje zamówienie wkrótce będzie na miejscu.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_start_15">
+		<text>Zrealizowałem zamówienie, przyjdź po swój towar.</text>
+	</string>
+
+<!-- (Military Mechanic - Southern Outpost) -->
+	<string id="army_south_mechan_mlr_st_0">
+		<text>Kim jesteś?</text>
+	</string>
+	<string id="army_south_mechan_mlr_st_1">
+		<text>Tutejszą złotą rączką.</text>
+	</string>
+	<string id="army_south_mechan_mlr_st_2">
+		<text>A jak cię zwą?</text>
+	</string>
+	<string id="army_south_mechan_mlr_st_3">
+		<text>Darujmy se kurtuazyjne pierdololo i wyliczanie odznaczeń, to nie defilada na Placu Czerwonym... Zresztą, jak zacznie się robić gorąco, to i tak język ci się zaplącze, zanim przesylabizujesz moje nazwisko. Na imię mi Siergiej, ale wolę, jak się do mnie mówi Sierioża.</text>
+	</string>
+	<string id="army_south_mechan_mlr_st_4">
+		<text>No to miło poznać, Sierioża.</text>
+	</string>
+	<string id="army_south_mechan_mlr_st_5">
+		<text>Nawzajem. Gdybyś potrzebował jakichś napraw, to zachodź śmiało.</text>
+	</string>
+	<string id="army_south_mechan_mlr_st_6">
+		<text>Jak wygląda obecna sytuacja?</text>
+	</string>
+	<string id="army_south_mechan_mlr_st_7">
+		<text>Bez fajerwerków. Kawałek drogi stąd na północ jest wioska, gdzie siedzą stalkerzy... Nic oprócz samych wrogów i tak aż do Agropromu.</text>
+	</string>
+	<string id="army_south_mechan_mlr_st_8">
+		<text>Więc... Siedzimy tu i w każdy momencie może nastąpić atak?</text>
+	</string>
+	<string id="army_south_mechan_mlr_st_9">
+		<text>No nie, każdy wie, że jakby zaczepić nas tak na chama, to w mig rozpęta się piekło. Tutejsze rozrabiaki to kocury, banda małolatów bez żadnej wiedzy i umiejętności. Nie ma tam nikogo odważnego, żeby szturchać śpiącego niedźwiedzia. A jak jest, to ma łeb na karku i wie, że nic dobrego im z tego nie przyjdzie.</text>
+	</string>
+	<string id="army_south_mechan_mlr_st_10">
+		<text>Trochę mnie pocieszyłeś.</text>
+	</string>
+
+	
+<!-- (Military Trader - Southern Outpost) -->
+	<string id="guid_esc_mlr_military_0">
+		<text>Przydałoby mi się śmigło. Da się to jakoś załatwić?</text>
+	</string>
+	<string id="guid_esc_mlr_military_1">
+		<text>Da się, ale nie będziemy palić wachy specjalnie dla ciebie. Udowodnij najpierw, że w ogóle warto obudzić pilotów.</text>
+	</string>
+
+	<string id="guid_esc_mlr_military_list_0">
+		<text>Dokąd możecie mnie podrzucić?</text>
+	</string>
+	<string id="guid_esc_mlr_military_list_1">
+		<text>Do bazy w Agropromie za pięć tysięcy rubli. Oprócz tego latamy na stację paliw w Mrocznym Wąwozie - koszt operacyjny to trzy tysiące. Czasem też wozimy zaopatrzenie do bunkra naukowców nad Jantarem - za dziesięć tysięcy.</text>
+	</string>
+
+	<string id="guid_esc_mlr_military_vert_0">
+		<text>Chciałbym się gdzieś zabrać.</text>
+	</string>
+	<string id="guid_esc_mlr_military_vert_1">
+		<text>Dokąd?</text>
+	</string>
+	<string id="guid_esc_mlr_military_vert_2">
+		<text>Baz w Agropromie. %c[d_orange][5.000 RU]</text>
+	</string>
+	<string id="guid_esc_mlr_military_vert_3">
+		<text>Do stacji paliw w Mrocznym Wąwozie. %c[d_orange][3.000 RU]</text>
+	</string>
+	<string id="guid_esc_mlr_military_vert_4">
+		<text>Do laboratorium w Jantarze. %c[d_orange][10.000 RU]</text>
+	</string>
+	<string id="guid_esc_mlr_military_vert_5">
+		<text>Zmieniłem zdanie.</text>
+	</string>
+
+	
+<!-- Hip -->
+	<string id="devushka_1_start_0">
+		<text>Bywało lepiej, czego chcesz?</text>
+	</string>
+	<string id="devushka_1_start_1">
+		<text>Miałbym kilka pytań.</text>
+	</string>
+	<string id="devushka_1_start_2">
+		<text>To niewiele ci powiem, chyba że pytasz o robotę. Znam pewnego gościa, nadziany tępak. Przyjeżdża do Zony jak na safari, w dupie ma artefakty, jedyne, co go rajcuje, to zbieranie starych spluw i strzelanie z nich do świń.\n \nMarudził, że jako pamiątkę chce TOZa z lunetą, ale takiego, co to "niejedno w Zonie przeszedł". Oczywiście cena, jaką zapodał, to zupełny odlot, jedyny rebus w tym, że ja tu nie widziałam TOZa z lunetą od dwa tysiące dwunastego roku. Wypytałam już wszystkich handlarzy, nikt z nich nie ma takiego czegoś do spylenia. Gdybyś takie coś gdzieś znalazł, to mi go dostarcz, a ja cię za to obsypię forsą.</text>
+	</string>
+	<string id="devushka_1_start_3">
+		<text>Brzmi jak zapowiedź dobrego interesu. Idę w to.</text>
+	</string>
+	<string id="devushka_1_start_4">
+		<text>Nie jestem tym teraz zainteresowany, przykro mi.</text>
+	</string>
+	<string id="devushka_1_start_6">
+		<text>Daj mi namiary na tego turystę, albo jesteś trupem.</text>
+	</string>
+	<string id="devushka_1_start_5">
+		<text>Brzmi naprawdę nieźle. Zrobię to.</text>
+	</string>
+	
+	<string id="devushka_2_start_0">
+		<text>Trzymaj strzelbę. Tak, jak się umawialiśmy.</text>
+	</string>
+	<string id="devushka_2_start_1">
+		<text>Obawiam się, że wiadomości cię nie ucieszą. Nasz klient gryzie piach. No, nie bądź taki skwaszony! Jego pierdołowatość przebijała tylko jego niedyskrecja. Masz, to kilka rzeczy z jego skrytki.</text>
+	</string>
+	<string id="devushka_2_start_2">
+		<text>Cholerny świat... Więc on nie żyje? Ale jak?</text>
+	</string>
+	<string id="devushka_2_start_3">
+		<text>Z tego, co wiem i mogę powiedzieć, to przeszedł po nim nibyolbrzym. Skoro już o tym gadamy, to mógłbyś mi przynieść puszkę tuńczyka? Akurat się nada. Na pewno jacyś jego bliscy będą chcieli pogrzebać resztki, a przecież w coś go trzeba będzie zebrać.</text>
+	</string>
+	<string id="devushka_2_start_4">
+		<text>Że co, kuźwa...? Miałem na myśli, że jeśli znajdę jakąś puszkę tuńczyka, to pewnie dam ci znać. Na razie.</text>
+	</string>
+	<string id="devushka_2_start_5">
+		<text>Zawartość jego skrytki nie urywała dupy, Hip. Lepiej podrzuć mi coś na otarcie łez, albo zrobi się nieciekawie.</text>
+	</string>
+	
+	<string id="devushka_0_dialog_0">
+		<text>Hip, łap. Znalazłem puchę dla ciebie.</text>
+	</string>
+	<string id="devushka_0_dialog_1">
+		<text>Mmm, pychota! Mam nadzieję, że utrzymam to w żołądku podczas zbierania resztek naszego klienta.</text>
+	</string>
+	
+	<string id="devushka_1_dialog_0">
+		<text>Chciałbym zadać ci kilka pytań.</text>
+	</string>
+	<string id="devushka_1_dialog_1">
+		<text>Może nawet odpowiem. Dawaj.</text>
+	</string>
+	<string id="devushka_1_dialog_2">
+		<text>Wiesz może coś, co się zawsze przyda? Jak przetrwać? Coś o anomaliach? Cokolwiek z takich tematów?</text>
+	</string>
+	<string id="devushka_1_dialog_3">
+		<text>Po pierwsze - nie sikaj pod wiatr. Po drugie - celuj w klatę, nie w łeb. Po trzecie - nie jedz żółtego śniegu. Po czwarte - podatki tu nie działają, to taka ogólno-zoniasta anomalia. Po piąte - nie panikuj.</text>
+	</string>
+	<string id="devushka_1_dialog_4">
+		<text>To było... pouczające?</text>
+	</string>
+
+	<string id="devushka_2_dialog_0">
+		<text>Załatwiasz różne rzeczy dla ludzi?</text>
+	</string>
+	<string id="devushka_2_dialog_1">
+		<text>No raczej. Słyszałeś o Żwawym? Ech, uwielbiam historyjki o tym gościu... Wiesz, byłam kiedyś "mrówką" i przemycałam prochy dla Wolności, ale w końcu żem se powiedziała: daj spokój dziewczyno, jak długo zamierzasz tak nadstawiać dupsko za marne grosze? No i wylądowałam tutaj, próbując iść w ślady mojego idola.</text>
+	</string>
+	<string id="devushka_2_dialog_2">
+		<text>To dość... ambitne. Dlaczego go nie odszukasz?</text>
+	</string>
+	<string id="devushka_2_dialog_3">
+		<text>Bo jeszcze nie ocipiałam na tyle, aby tak po prostu leźć sobie za Barierę, ot co. Forsa jest spoko tylko wtedy, kiedy żyjesz i nią szastasz, czaisz?</text>
+	</string>
+	<string id="devushka_2_dialog_4">
+		<text>No dobra, to czemu tak tu tkwisz w Wiosce Kotów?</text>
+	</string>
+	<string id="devushka_2_dialog_5">
+		<text>Bo Sidorowicz zna dosłownie każdego, kogo warto znać w tym zadupiu piekła. Chcesz bawić się we własne interesy? No to lepiej zacznij od pokłonu dla Sida, jak nie chcesz mieć "ogonów" i nagrody wyznaczonej za swój czerep.</text>
+	</string>
+	<string id="devushka_2_dialog_6">
+		<text>Polował ktoś kiedyś na ciebie?</text>
+	</string>
+	<string id="devushka_2_dialog_7">
+		<text>Powinność nigdy nie przepadała za tymi w zielonym flecktarnie, chociaż ostatnimi laty wojna bardzo zelżała. Czasami trafi się też jakiś model, który dostanie kosza i potraktuje to zbyt personalnie.</text>
+	</string>
+	<string id="devushka_2_dialog_8">
+		<text>Ktoś chciał cię zabić tylko dlatego, że nie zechciałaś być jego dupeczką?</text>
+	</string>
+	<string id="devushka_2_dialog_9">
+		<text>Gorzej. Na szczęście porządnych facetów jest tu więcej, niż sądziłam. Życie nie trwa w tym kurwidole zbyt długo, przydało by się kilku nowych kumpli...</text>
+	</string>	
+	<string id="devushka_2_dialog_10">
+		<text>Założę się, że mówisz to każdemu, kto przyniesie ci puszkę tuńczyka.</text>
+	</string>
+	<string id="devushka_2_dialog_11">
+		<text>Och, daj spokój. Wiesz, jak trudno jest pilnować pleców przed pijawką, gdy jest się samotną kobietą? Zaręczam ci, jest trudniej, niż się wydaje.</text>
+	</string>
+	<string id="devushka_2_dialog_16">
+		<text>Planujesz się zatem gdzieś wyrwać?</text>
+	</string>
+	<string id="devushka_2_dialog_17">
+		<text>Niby tak. Chcę złapać kilka standardowych zleceń na artefakty. Teraz mam na tapecie jedną fuchę ekstra do skończenia - w sumie mógłbyś się zabrać, jak chcesz. Wciąż przyda się ktoś do pilnowania pleców przed pijawkami. Dostaniesz ładną dolę, pół na pół to lepiej, niż jak dla brata.</text>
+	</string>
+	<string id="devushka_2_dialog_12">
+		<text>W porządku, możesz na mnie liczyć.</text>
+	</string>
+	<string id="devushka_2_dialog_13">
+		<text>No chyba nie, nie dołączę do ciebie. Może innym razem.</text>
+	</string>
+	<string id="devushka_2_dialog_14">
+		<text>Świetnie! Sidorowicz zamówił Blask Księżyca, Skrętak i Kulę Ognistą. Niełatwo je znaleźć, więc nie mamy limitu czasowego, ale im szybciej, tym lepiej. W końcu chcę sobie wyrobić dobrą reputację i opinię wiarygodnej.</text>
+	</string>
+	<string id="devushka_2_dialog_15">
+		<text>W porządku, więc komu w drogę, temu na drugą nogę!</text>
+	</string>
+
+	<string id="devushka_3_quest_money_0">
+		<text>Połowa doli, jak ustaliliśmy. Ktoś inny pewnie wziąłby sobie więcej.</text>
+	</string>
+	<string id="devushka_3_quest_money_1">
+		<text>Być może, ale słowo jest słowo. I tak zarobiliśmy na tym ładną sumkę, więc nie mam powodu, by narzekać.</text>
+	</string>
+
+	<string id="devushka_heal_0">
+		<text>Weź tą apteczkę, tak na wszelki wypadek.</text>
+	</string>
+	<string id="devushka_heal_1">
+		<text>A po co? Jeśli nie jesteś w stanie sam się zabandażować, to zapewne i tak jesteś już trupem.</text>
+	</string>
+	<string id="devushka_heal_2">
+		<text>Tak na wszelki wypadek. Zaufaj mi. Mało to rzeczy w Zonie może pójść nie tak?</text>
+	</string>
+	<string id="devushka_heal_3">
+		<text>No dobra... Niech będzie. W sumie racja.</text>
+	</string>
+	<string id="devushka_heal_4">
+		<text>...</text>
+	</string>
+
+	<string id="devushka_3_dialog_0">
+		<text>Masz nietypowe zwyczaje, nawet jak na byłego Wolnościowca.</text>
+	</string>
+	<string id="devushka_3_dialog_1">
+		<text>Większość pierwszych członków i założycieli Wolności była moimi przyjaciółmi i to dla nich dołączyłam. Nie spodobało mi się, jak zmieniła się ich ideologia i to, czym stała się cała frakcja. Chciałam ekscytujących przygód z przyjaciółmi, nie uśmiechało mi się bycie pionkiem w czyjejś wojnie.</text>
+	</string>
+	<string id="devushka_3_dialog_2">
+		<text>Chodź ze mną do wioski. Mam dla ciebie dobre wieści.</text>
+	</string>
+
+	<string id="devushka_4_dialog_0">
+		<text>Sidorowicz chciał, żebym ci coś powiedział. Zapewnił ci robotę dostawcy u Barmana. Problem polega na tym, że trzeba przejść przez Barierę.</text>
+	</string>
+	<string id="devushka_4_dialog_1">
+		<text>Dzięki za info. Stary kumpel właśnie podrzucił mi na PDA coś podobnego. Słuchaj, bądź tu dziś wieczorem, dobrze? Muszę się nastawić psychicznie do tej drogi. Wciąż będę potrzebować kogoś do pilnowania pleców przed pijawką, więc nie zamarudź zbyt długo.</text>
+	</string>
+
+	<string id="devushka_4_quest_0">
+		<text>Hip, już czas. Jesteś gotowa by sprawdzić, co za robotę daje Barman?</text>
+	</string>
+	<string id="devushka_4_quest_1">
+		<text>Nie jestem pewna. Ta wiadomość, którą dostałam wcześniej... była od Łukasza. Pisał, że rozpaczliwie potrzebuje kuriera z medykamentami do ich bazy na Janowie. Wiem, co mówiłam wcześniej o Wolności, ale obydwoje wiemy, że nie tylko oni na tym skorzystają.</text>
+	</string>
+	<string id="devushka_4_quest_2">
+		<text>Łukasz zapewne szybko znajdzie innego chętnego do tej misji, a Barman siedzi w strategicznym punkcie Zony. Złapanie jego zleceń może być opłacalne i dać ci jakąś perspektywę na przyszłość.</text>
+	</string>
+	<string id="devushka_4_quest_3">
+		<text>W takim razie powinniśmy zasuwać do Łukasza, żeby odebrać leki tak szybko, jak to tylko możliwe. Każda chwila ratuje czyjeś życie.</text>
+	</string>
+	<string id="devushka_4_quest_4">
+		<text>Hm, w sumie to masz rację. Wolność znajdzie sobie innego frajera do objuczenia. Barman - to jest to. Trzymajmy się go, dopóki sprawy idą dobrze.</text>
+	</string>
+	<string id="devushka_4_quest_5">
+		<text>Cieszę się, że się zgadzasz. Z tego, co słyszałem, lider Wolności rządzi swoimi naprawdę skutecznie. Wyświadczenie tej przysługi Łukaszowi może uratować więcej ludzi, niż Barman może sobie wyobrazić. Jestem gotowy do drogi w kierunku Magazynów Wojskowych, daj tylko znak.</text>
+	</string>
+
+	<string id="devushka_about_artefact_0">
+		<text>Masz pomysł, gdzie możemy znaleźć artefakty, których chciał Sidorowicz?</text>
+	</string>
+	<string id="devushka_about_artefact_1">
+		<text>No jasne. Blask Księżyca można znaleźć w Elektro, Skrętaki w Wirach, a Kule Ogniste przy Spalaczach.</text>
+	</string>
+	<string id="devushka_about_artefact_2">
+		<text>Dobra. Rozumiem, że mam cię osłaniać, gdy będziesz je łowić?</text>
+	</string>
+	<string id="devushka_about_artefact_3">
+		<text>Tak naprawdę to ja będę osłaniać ciebie. Ty możesz po nie iść.</text>
+	</string>
+	<string id="devushka_about_artefact_4">
+		<text>Czy ktoś tu nie planował zostać łowcą artefaktów?</text>
+	</string>
+	<string id="devushka_about_artefact_5">
+		<text>Powiedziałam ci, gdzie ich szukać, no nie? Poza tym, tak będziesz miał więcej frajdy.</text>
+	</string>
+	
+	<string id="devushka_about_semeckiy_0">
+		<text>Hej, Hip? Znasz jakieś ciekawe historie?</text>
+	</string>
+	<string id="devushka_about_semeckiy_1">
+		<text>Tak, jedną. Znasz tę o Juriju Siemieckim? Znany był z tego, że znikał z sieci stalkerskiej każdego dnia. To był przypuszczalnie jakiś błąd, ale niektórzy gadają, że Jurij był jednym z pierwszych stalkerów, który przedarł się do Spełniacza Życzeń. \n \nLegenda głosi, że poprosił o nieśmiertelność. Ponoć w tamtej chwili z miejsca skonał - tylko po to, aby odradzać się w jakimś losowym miejscu Zony co dobę lub nawet mniej - przed swą kolejną, nieuchronną śmiercią. Okoliczności niektórych z nich były ponoć naprawdę straszne. Zona bywa piękna, ale lepiej, żeby niektóre tajemnice pozostały nieodkryte.</text>
+	</string>
+	<string id="devushka_about_semeckiy_2">
+		<text>A wiesz może, dlaczego jego śmierci nie są już rejestrowane przez sieć?</text>
+	</string>
+	<string id="devushka_about_semeckiy_3">
+		<text>Nie do końca, ale mam swoje przypuszczenia. Ciekawe jest to, że raporty o jego śmierci skończyły się wkrótce potem, jak stalker zwany Naznaczonym wyłączył Mózgozwęglacz i dotarł do Elektrowni. Nie mam pojęcia, co tam się stało, ale wiele rzeczy uległo wtedy zmianie. Cokolwiek jednak zaszło, zdaje sie, że Jurij został uwolniony i mógł w spokoju odejść na zawsze.</text>
+	</string>
+	<string id="devushka_about_semeckiy_4">
+		<text>A nie myślałaś, że on może wciąż żyć?</text>
+	</string>
+	<string id="devushka_about_semeckiy_5">
+		<text>Może, ale nie wiem, co by to było za życie. Może jest jakimś rodzajem ducha, czy coś? Nie mam pojęcia. Dużo dziwnych rzeczy się tu dzieje.</text>
+	</string>
+
+	<string id="give_devushka_medved_0">
+		<text>Hej, Hip! Potrzymasz dla mnie ten detektor?</text>
+	</string>
+	<string id="give_devushka_medved_1">
+		<text>Właśnie tego mi było potrzeba - kolejna droga zabawka, która robi "piiip!".</text>
+	</string>
+
+	<string id="devushka_give_present_0">
+		<text>Jak sobie wyobrażasz przyszłość?</text>
+	</string>
+	<string id="devushka_give_present_1">
+		<text>Wiesz, w czasie podróży z tobą przemyślałam kilka spraw. Może to jeszcze nie czas, abym osiadła w jednym miejscu i zajęła się interesami? Tak, tego właśnie chciałam... i tak naprawdę tego właśnie się boję. To, czego najbardziej pragnę, to przygody. Zrozumiałam teraz, ile jest jeszcze do odkrycia.</text>
+	</string>
+	<string id="devushka_give_present_2">
+		<text>A co z naśladowaniem Żwawego? Tyle o tym mówiłaś.</text>
+	</string>
+	<string id="devushka_give_present_3">
+		<text>Więc mam nie robić nic innego, tylko tu tkwić jak ten kołek w płocie? Może tak wcześniej myślałam, ale popatrz dookoła! Jak można siedzieć w bezruchu, mając świadomość, ile się dzieje wokół nas? Nie jestem jeszcze gotowa, aby się ustatkować.</text>
+	</string>
+	<string id="devushka_give_present_4">
+		<text>Na zewnątrz jest przeważnie śmierć.</text>
+	</string>
+	<string id="devushka_give_present_5">
+		<text>Ale wciąż tu jesteś, dzień za dniem.</text>
+	</string>
+	<string id="devushka_give_present_6">
+		<text>Co masz na myśli?</text>
+	</string>
+	<string id="devushka_give_present_7">
+		<text>Trudno mi to wytłumaczyć, ale czuję, że mogę być tu szczęśliwa. Zona jest cudem, tyle mam jeszcze do zobaczenia.</text>
+	</string>
+	<string id="devushka_give_present_8">
+		<text>Więc wybrałaś życie wolnego stalkera, a nie handlarza? Nawet jeśli masz już kontakty i pieniądze, żeby się osiedlić?</text>
+	</string>
+	<string id="devushka_give_present_9">
+		<text>Tak, jestem tego pewna. Może kiedyś, jak będę taka stara i gruba jak Sidor, to rozważę, czy ta zmiana czegoś mi już nie sugeruje, hahaha.</text>
+	</string>
+	<string id="devushka_give_present_10">
+		<text>Działasz trochę zbyt pochopnie. Przemyśl to jeszcze raz.</text>
+	</string>
+	<string id="devushka_give_present_12">
+		<text>Już to zrobiłam. Podjęłam decyzję i miałam nadzieję, że będziesz mnie w tym wspierać.</text>
+	</string>
+	<string id="devushka_give_present_11">
+		<text>No dobra. Może będę w pobliżu. Zawsze przyda się ktoś do pilnowania pleców przed pijawkami.</text>
+	</string>
+	<string id="devushka_give_present_13">
+		<text>Ha, dokładnie o tym myślałam! Masz, to... podarek ode mnie. W ramach wdzięczności. Pomogłeś mi więcej razy, niż mogłabym zliczyć. </text>
+	</string>
+	<string id="devushka_give_present_14">
+		<text>Chyba tak właśnie robią zgrane zespoły, no nie? Chodźmy.</text>
+	</string>
+
+	<string id="devushka_go_village_0">
+		<text>Hip, myślę, że najlepiej będzie, jeśli się teraz rozstaniemy.</text>
+	</string>
+	<string id="devushka_go_village_1">
+		<text>Jesteś pewien?</text>
+	</string>
+	<string id="devushka_go_village_2">
+		<text>Tak, każde niech idzie teraz swoją drogą. Jest coś, co muszę załatwić w pojedynkę.</text>
+	</string>
+	<string id="devushka_go_village_3">
+		<text>Nie... Wkręcam cię, ty głupolku.</text>
+	</string>
+	<string id="devushka_go_village_4">
+		<text>W porządku. Czasami wpadam do Wioski Kotów, więc może się tam kiedyś spotkamy? Tylko proszę, cokolwiek będziesz robić - wróć cało.</text>
+	</string>
+
+	<string id="adventure_time_with_hip_0">
+		<text>Dobrze cię znowu widzieć, Hip. Zechciałabyś może dołączyć do mnie w kolejną podróż w głąb Zony?</text>
+	</string>
+	<string id="adventure_time_with_hip_1">
+		<text>Musisz tylko o to spytać.</text>
+	</string>
+	
+	<string id="st_hip_news_1">
+		<text>No dobra, chodźmy już do tej wioski. Nie mogę się doczekać, aż o tym wszystkim usłyszę!</text>
+	</string>
+	<string id="st_hip_news_2">
+		<text>Zimnej krwi i powodzenia, stalkerzy.</text>
+	</string>
+	<string id="st_hip_news_3">
+		<text>Nie martwiłabym się o tamtą robotę. Jestem pewna, że ktoś się już tym zajmuje.</text>
+	</string>
+	<string id="st_hip_news_4">
+		<text>Brodacz wydaje się być zadowolony, a to nie była taka bułka z masłem. Uważaj na siebie, to może być początek niezłych interesów.</text>
+	</string>
+	<string id="st_hip_news_5">
+		<text>Wiesz, miałeś rację, żeby przede wszystkim dobrze żyć z Barmanem!</text>
+	</string>
+	<string id="st_hip_news_6">
+		<text>Wiem, że czasami trudno jest działać tak po prostu, bo tak wypada.</text>
+	</string>
+	<string id="st_hip_news_7">
+		<text>Naprawdę, dziękuję ci. Przypuszczalnie przyłożyłeś się do wielkich zmian na dobre tam, w Janowie.</text>
+	</string>
+</string_table>

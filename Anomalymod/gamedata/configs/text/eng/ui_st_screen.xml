@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="st_ignite_fire">
+		<text>Rozpal ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_ignite_wait">
+		<text>Musisz zaczekać, zanim znów rozpalisz</text>
+	</string>
+	<string id="st_ignite_far">
+		<text>W pobliżu nie ma ogniska, albo stoisz za daleko</text>
+	</string>
+	<string id="st_extinguish_fire">
+		<text>Zgaś ($$ACTION_USE$$)</text>
+	</string>
+	<string id="actor_inventory_box_use">
+		<text>Przeszukaj schowek ($$ACTION_USE$$)</text>
+	</string>
+	<string id="cant_walk">
+		<text>Jesteś zbyt wyczerpany aby iść dalej.</text>
+	</string>
+	<string id="cant_walk_weight">
+		<text>Nadmierne obciążenie nie pozwala ci iść dalej</text>
+	</string>
+	<string id="car_character_use">
+		<text>Otwórz drzwi ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_use_action_sit">
+		<text>Usiądź ($$ACTION_USE$$)</text>
+	</string>
+	<string id="character_use">
+		<text>Rozmawiaj ($$ACTION_USE$$)</text>
+	</string>
+	<string id="dead_character_use">
+		<text>Przeszukaj ciało ($$ACTION_USE$$)</text>
+	</string>
+	<string id="dead_character_use_or_drag">
+		<text>Przeszukaj ciało ($$ACTION_USE$$)\nPrzeciągnij ciało (SHIFT+$$ACTION_USE$$)</text>
+	</string>
+	<string id="general_complete_task">
+		<text>Wykonano zadanie:</text>
+	</string>
+	<string id="general_fail_task">
+		<text>Nie wykonano zadania:</text>
+	</string>
+	<string id="general_in_item">
+		<text>Otrzymano:</text>
+	</string>
+	<string id="general_in_money">
+		<text>Otrzymano pieniądze:</text>
+	</string>
+	<string id="general_new_task">
+		<text>Nowe zadanie:</text>
+	</string>
+	<string id="general_out_item">
+		<text>Utracono przedmiot:</text>
+	</string>
+	<string id="general_out_money">
+		<text>Utracono pieniądze:</text>
+	</string>
+	<string id="general_reverse_task">
+		<text>Anulowano zadanie:</text>
+	</string>
+	<string id="general_update_task">
+		<text>Uaktualniono informacje o zadaniu:</text>
+	</string>
+	<string id="gun_jammed">
+		<text> </text>
+	</string>
+	<string id="st_item_taken">
+		<text>%s</text>
+	</string>
+	<string id="inventory_box_use">
+		<text>Przeszukaj schowek ($$ACTION_USE$$)</text>
+	</string>
+	<string id="inventory_item_use">
+		<text>Podnieś przedmiot ($$ACTION_USE$$)</text>
+	</string>
+	<string id="jup_b10_ufo_searching_tips">
+		<text>Przeszukaj samolot ($$ACTION_USE$$)</text>
+	</string>
+	<string id="jup_b1_bar_door">
+		<text>Zamek w drzwiach się zaciął.</text>
+	</string>
+	<string id="jup_b1_door_is_closed">
+		<text>Drzwi są zamknięte od środka</text>
+	</string>
+	<string id="jup_b202_treasures_closed">
+		<text>Schowek jest zamknięty</text>
+	</string>
+	<string id="jup_b205_tip_door_closed">
+		<text>Potrzebny jest kod</text>
+	</string>
+	<string id="jup_b205_tip_door_decode">
+		<text>Wprowadź kod ($$ACTION_USE$$)</text>
+	</string>
+	<string id="jup_b206_use_plant">
+		<text>Podnieś roślinę ($$ACTION_USE$$)</text>
+	</string>
+	<string id="jup_b209_scanner_place_tips">
+		<text>Ustaw skaner ($$ACTION_USE$$)</text>
+	</string>
+	<string id="jup_b209_scanner_remove_tips">
+		<text>Weź skaner ($$ACTION_USE$$)</text>
+	</string>
+	<string id="lx8_raduga">
+		<text>Supresor agresji Tęcza\nmodel zewnętrznego kompleksu emisji\nskala 1:20</text>
+	</string>
+	<string id="pas_b400_tip_switcher">
+		<text>Użyj przełącznika ($$ACTION_USE$$)</text>
+	</string>
+	<string id="pri_a18_use_idol">
+		<text>Zbadaj urządzenie ($$ACTION_USE$$)</text>
+	</string>
+	<string id="pri_a25_blow_up_enter_door">
+		<text>Podłóż ładunki wybuchowe ($$ACTION_USE$$)</text>
+	</string>
+	<string id="pri_a28_talk_with_stupid_medic">
+		<text>Odzyskaj ($$ACTION_USE$$)</text>
+	</string>
+	<string id="pri_b306_elevator_door_locked_used">
+		<text>Brak zasilania windy</text>
+	</string>
+	<string id="pri_b306_generator_use">
+		<text>Włącz generator ($$ACTION_USE$$)</text>
+	</string>
+	<string id="sleep_ok_button">
+		<text>Śpij</text>
+	</string>
+	<string id="sleep_warning_all_pleasures">
+		<text>Nie możesz teraz spać! Silnie krwawisz i cierpisz z powodu napromieniowania. Użyj lekarstw lub odwiedź medyka.</text>
+	</string>
+	<string id="sleep_warning_bleeding">
+		<text>Nie możesz teraz spać! Silnie krwawisz. Użyj lekarstw lub odwiedź medyka.</text>
+	</string>
+	<string id="sleep_warning_radiation">
+		<text>Nie możesz teraz spać! Cierpisz z powodu napromieniowania. Użyj lekarstw lub odwiedź medyka.</text>
+	</string>
+	<string id="sleep_zone_tip">
+		<text>Śpij ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_autosave">
+		<text>Autozapis...</text>
+	</string>
+	<string id="st_can_use_weapon_now">
+		<text>Teraz możesz używać broni.</text>
+	</string>
+	<string id="st_codelock">
+		<text>Zamek szyfrowy ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_detective_news">
+		<text>W nagrodę za rozwiązanie tajemnicy zaginionych stalkerów w twojej skrytce na Skadowsku zostały umieszczone środki medyczne.</text>
+	</string>
+	<string id="st_duty_first_reward_news">
+		<text>W nagrodę za pomoc Powinności w twojej skrytce na stacji Janów umieszczony został kombinezon PS5-M Uniwersalna ochrona.</text>
+	</string>
+	<string id="st_duty_second_reward_news">
+		<text>W nagrodę za pomoc Powinności w twojej skrytce na stacji Janów umieszczony został kombinezon Pancerz Powinności PSZ-9d. </text>
+	</string>
+	<string id="st_freedom_first_reward_news">
+		<text>W nagrodę za pomoc Wolności w twojej skrytce na stacji Janów umieszczony został kombinezon Powiew Wolności.</text>
+	</string>
+	<string id="st_freedom_second_reward_news">
+		<text>W nagrodę za pomoc Wolności w twojej skrytce na stacji Janów umieszczony został kombinezon Strażnik Wolności.</text>
+	</string>
+	<string id="st_freeplay_text_ok">
+		<text>Nie udało ci się dotrzeć do helikopterów i drużyna ewakuacyjna opuściła Zonę bez ciebie.</text>
+	</string>
+	<string id="st_freeplay_text_yes_no">
+		<text>Czy na pewno chcesz opuścić Zonę? Po tym nie ma już powrotu.</text>
+	</string>
+	<string id="st_game_over">
+		<text> </text>
+	</string>
+	<string id="st_game_over_press_jump">
+		<text> </text>
+	</string>
+	<string id="st_game_paused">
+		<text>Pauza</text>
+	</string>
+	<string id="st_game_saved">
+		<text>Gra zapisana</text>
+	</string>
+	<string id="st_herald_of_justice_news">
+		<text>W nagrodę za pomoc w zdemaskowaniu Sroki w twojej skrytce na Skadowsku umieszczony został artefakt.</text>
+	</string>
+	<string id="st_jup_b41_door_locked">
+		<text>Musisz zaczekać, aż śluza zostanie uszczelniona.</text>
+	</string>
+	<string id="st_lx8_button_press_true">
+		<text>Przyznano dostęp</text>
+	</string>
+	<string id="st_lx8_lift_button">
+		<text>Jedź windą do góry ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_pri_b306_go_down">
+		<text>Jedź windą w dół ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_psy_danger">
+		<text>Niebezpieczne poziomy promieniowania psi. Aby przejść dalej, potrzebna jest dodatkowa ochrona.</text>
+	</string>
+	<string id="st_helmet_countdown">
+		<text>Czas ochrony</text>
+	</string>
+	<string id="st_radiation_danger">
+		<text>Niebezpieczny poziom promieniowania. Aby przejść dalej, potrzebna jest dodatkowa ochrona.</text>
+	</string>
+	<string id="st_search_helicopter">
+		<text>Przeszukaj helikopter ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_search_treasure">
+		<text>Przeszukaj schowek ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_sleep_hours">
+		<text>g.</text>
+	</string>
+	<string id="st_tip">
+		<text>Wiadomość</text>
+	</string>
+	<string id="tip_door_blocked">
+		<text>Drzwi zablokowane</text>
+	</string>
+	<string id="tip_door_close">
+		<text>Zamknij drzwi ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_door_closed_base_alarm">
+		<text>Drzwi zamknięte - w obozie trwa alarm</text>
+	</string>
+	<string id="tip_door_closed_hide_weapon">
+		<text>Drzwi zamknięte - schowaj broń</text>
+	</string>
+	<string id="tip_door_locked">
+		<text>Drzwi zamknięte</text>
+	</string>
+	<string id="tip_door_no_electricity">
+		<text>Brak zasilania drzwi</text>
+	</string>
+	<string id="tip_door_open">
+		<text>Otwórz drzwi ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_gate_locked">
+		<text>Brama zablokowana</text>
+	</string>
+	<string id="tip_need_access_card">
+		<text>Użyj karty dostępu ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_no_access_card">
+		<text>Wymagana karta dostępu</text>
+	</string>
+	<string id="tip_open_another_site">
+		<text>Drzwi nie można otworzyć z tej strony</text>
+	</string>
+	<string id="ui_st_mp_experience_grow">
+		<text>-</text>
+	</string>
+	<string id="ui_st_mp_create">
+		<text>Utwórz</text>
+	</string>
+	<string id="zat_b12_conteiner_full_locked">
+		<text>Pojemnik jest zamknięty. Aby go otworzyć, potrzebne są dwa klucze.</text>
+	</string>
+	<string id="zat_b12_conteiner_has_one_key">
+		<text>Użyj klucza ($$ACTION_USE$$)</text>
+	</string>
+	<string id="zat_b12_conteiner_has_two_key">
+		<text>Użyj kluczy ($$ACTION_USE$$)</text>
+	</string>
+	<string id="zat_b12_conteiner_locked">
+		<text>Pojemnik jest zamknięty. Aby go otworzyć, potrzebny jest drugi klucz.</text>
+	</string>
+	<string id="zat_b12_conteiner_open">
+		<text>Otwórz pojemnik ($$ACTION_USE$$)</text>
+	</string>
+	<string id="zat_b14_door_locked_hint">
+		<text>Mechanizm drzwi został zablokowany od środka.</text>
+	</string>
+	<string id="zat_b57_balon_use_hint">
+		<text>Podłącz zbiornik z gazem ($$ACTION_USE$$) </text>
+	</string>
+	<string id="zat_b57_gas_warning">
+		<text>Uwaga! Zagrożenie chemiczne!</text>
+	</string>
+	<string id="zat_b57_vintil_press">
+		<text>Otwórz zawór ($$ACTION_USE$$)</text>
+	</string>
+	<string id="zat_b33_car_searching_tip">
+		<text>Przeszukaj samochód ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_resupply_ready">
+		<text>Możesz uzupełnić swój zapas środków medycznych oraz amunicji, odwiedzając poruczników Rogowca i Kiryłowa.</text>
+	</string>
+	<string id="st_surge_while_asleep">
+		<text>Niedawno w Zonie nastąpiła emisja.</text>
+	</string>
+	<string id="st_mutant_hunter_news">
+		<text>W nagrodę za eliminację niebezpiecznych mutantów w twojej skrytce na stacji Janów została umieszczona amunicja.</text>
+	</string>
+	<string id="st_found_old_treasure">
+		<text>Otrzymano współrzędne schowka, który już wcześniej został odkryty.</text>
+	</string>
+	<string id="st_got_treasure">
+		<text>Znaleziono schowek</text>
+	</string>
+	<string id="st_found_new_treasure">
+		<text>Otrzymano współrzędne schowka</text>
+	</string>
+	<string id="st_press_any_key">
+		<text>Wejdź do Zony</text>
+	</string>
+	<string id="tips_labx16switcher_press">
+		<text>Wyłącz psi-emiter ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tips_rad_switcher_press">
+		<text>Wyłącz Mózgozwęglacz ($$ACTION_USE$$)</text>
+	</string>
+	<string id="bridge_down_red_forest_tips">
+		<text>Opuść most ($$ACTION_USE$$)</text>
+	</string>
+	<string id="bridge_stop_red_forest_tips">
+		<text>Zatrzymaj ($$ACTION_USE$$)</text>
+	</string>
+	<string id="bridge_up_red_forest_tips">
+		<text>Podnieś most ($$ACTION_USE$$)</text>
+	</string>
+	<string id="drx_sl_tips_rad_switcher_press">
+		<text>Uruchom Mózgozwęglacz ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_make_a_wish">
+		<text>Wypowiedz życzenie ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_lx18_pda">
+		<text>Wysłuchaj zapisu nagrania z PDA</text>
+	</string>
+	<string id="dar_poltergeist_hold_the_door">
+		<text>Ktoś lub coś przytrzymuje drzwi.</text>
+	</string>
+	<string id="st_labx18_pass_to_1st_door">
+		<text>Wspaniale, szanowny kolego. Cieszę się, że uzyskałeś dostęp do poziomu drugiego. Wreszcie dowiesz się, co robimy w naszym laboratorium. Twój kod dostępu to 1243. Dyrektor laboratorium X-18, Piotr Iljicz Kaługin.</text>
+	</string>
+	<string id="st_labx18_pass_to_2nd_door">
+	<text>Szanowny kolego, chciałbym ci przypomnieć, że od jutra będziesz się zajmować pojemnikami w głównym pomieszczeniu laboratoryjnym. Pojemniki należy sprawdzać co dwie godziny. Raporty składaj bezpośrednio u mnie. Kod do głównego pomieszczenia laboratoryjnego to 9524. Dyrektor laboratorium X-18, Piotr Iljicz Kaługin.</text>
+	</string>
+	<string id="st_yan_saharov_message">
+		<text>Co za szczęście, żyjesz! Pamiętaj, młodzieńcze, że koniecznie musimy zbadać urządzenie w głębi laboratorium. Postaraj je wyłączyć, abyśmy mogli dokładnie się mu przyjrzeć.</text>
+	</string>
+	<string id="st_yan_saharov_message_2">
+		<text>Stalkerze, prototyp tego hełmu nie jest wystarczający, by chronić cię przed potężnymi emisjami przez cały czas. Gdy emisja zostanie wykryta, uruchomi się zegar. Po upływie czasu prototyp przestanie działać, więc bądź ostrożny, ale nie ociągaj się.</text>
+	</string>
+	<string id="st_yan_saharov_message_3">
+		<text>Wspaniale, młody człowieku. Emiter wyłączony, a ty ciągle żyjesz. Zapraszam do naszego bunkra. Zawsze będziesz tu mile widziany.</text>
+	</string>
+	<string id="tips_warlab_switcher_press">
+		<text>Wyłącz Generatory ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_door_coded">
+		<text>Drzwi są zamknięte na zamek kodowy</text>
+	</string>
+	<string id="tip_door_decode">
+		<text>Naciśnij ($$ACTION_USE$$) aby otworzyć drzwi</text>
+	</string>
+	<string id="tip_door_decoding">
+		<text>Dekodowanie w toku...</text>
+	</string>
+	<string id="bar_arena_actor_afraid">
+		<text>Walka odwołana! Jeden z uczestników się spietrał i nie przyszedł!</text>
+	</string>
+	<string id="bar_arena_fight_10">
+		<text>Upłynęło 10 sekund!</text>
+	</string>
+	<string id="bar_arena_fight_20">
+		<text>Upłynęło 20 sekund!</text>
+	</string>
+	<string id="bar_arena_fight_30">
+		<text>Upłynęło 30 sekund!</text>
+	</string>
+	<string id="bar_arena_fight_40">
+		<text>Upłynęło 40 sekund!</text>
+	</string>
+	<string id="bar_arena_fight_50">
+		<text>Upłynęło 50 sekund!</text>
+	</string>
+	<string id="bar_arena_fight_60">
+		<text>Pozostała 1 minuta do rozpoczęcia walki!</text>
+	</string>
+	<string id="bar_arena_fight_70">
+		<text>Upłynęła 1 minuta i 10 sekund!</text>
+	</string>
+	<string id="bar_arena_fight_80">
+		<text>Upłynęła 1 minuta i 20 sekund!</text>
+	</string>
+	<string id="bar_arena_fight_90">
+		<text>Upłynęła 1 minuta i 30 sekund!</text>
+	</string>
+	<string id="bar_arena_fight_begin">
+		<text>Walka rozpoczęta!</text>
+	</string>
+	<string id="bar_arena_fight_bloodsucker">
+		<text>Uwaga! Za chwilę rozpocznie się nowa walka na Arenie! W lewym narożniku - najgorsza zmora Zony, zawsze głodna pijawka! A w prawym narożniku... Człowiek? Tak, to człowiek! Brawa dla tego tajemniczego stalkera!</text>
+	</string>
+	<string id="bar_arena_fight_burer">
+		<text>Uwaga! Uwaga! Za chwilę rozpocznie się nowa walka na Arenie! W lewym narożniku - mistrz w rzucaniu przedmiotami na odległość - burer! A w prawym narożniku... Ciągle ten sam człowiek...</text>
+	</string>
+	<string id="bar_arena_fight_dead">
+		<text>Uczestnik walki został zabity! To ci dopiero niespodzianka!</text>
+	</string>
+	<string id="bar_arena_fight_lose">
+		<text>Cóż, uczestnik walki zabił swojego przeciwnika, ale nie zmieścił się w wyznaczonym czasie. Przegrywa więc walkę!</text>
+	</string>
+	<string id="bar_arena_fight_pseudodog">
+		<text>Uwaga! Uwaga! Za chwilę rozpocznie się nowa walka na Arenie! W lewym narożniku - jest biały, futrzasty i mocno wkurwiony... pseudopies! A w prawym narożniku... człowiek, który przybył znikąd i dokładnie tam zmierza.</text>
+	</string>
+	<string id="bar_arena_fight_savage">
+		<text>Uwaga! Uwaga! Za chwilę rozpocznie się nowa walka na Arenie! W lewym narożniku - znacie i uwielbiacie go a on was nienawidzi! Oto Bestia! A w prawym narożniku... ciągle żywy człowiek, bynajmniej do teraz.</text>
+	</string>
+	<string id="bar_arena_fight_snork">
+		<text>Uwaga! Uwaga! Za chwilę rozpocznie się nowa walka na Arenie! W lewym narożniku - mistrz w akrobacjach pozbawiających życia - snork! A w prawym narożniku... człowiek bez przeszłości i jak widać bez przyszłości.</text>
+	</string>
+	<string id="bar_arena_fight_timeout">
+		<text>Czas minął! Uczestnik przegrał walkę, ale nadal walczy o swoje życie!</text>
+	</string>
+	<string id="bar_arena_fight_victory">
+		<text>Tak! Uczestnik zabił swojego przeciwnika, w wyznaczonym czasie! Wygrywa walkę!</text>
+	</string>
+	<string id="st_death_count">
+		<text>Umarłeś %s razy.</text>
+	</string>
+	<string id="st_msg_unlocked_routes">
+		<text>W Twoim PDA zaznaczono nowe przejście</text>
+	</string>
+	<string id="st_zone_disappeared">
+		<text> ŻYCZENIE SPEŁNIONE! </text>
+	</string>
+	
+	<string id="st_screen_kick">
+		<text>Kopnij</text>
+	</string>
+	<string id="st_screen_field_dress">
+		<text>Wypatrosz i odetnij przydatne części ciała mutanta</text>
+	</string>
+	<string id="st_nobody_left_to_replace">
+		<text>Nie ma więcej zamian.</text>
+	</string>
+	<string id="st_nothing_useful">
+		<text>Nic użytecznego</text>
+	</string>
+	<string id="st_ui_heli">
+		<text>Helikopter</text>
+	</string>
+
+	<!-- AWR -->
+	<string id="st_tiski_no_info">
+		<text>Nie masz pozwolenia na korzystanie z tego imadła</text>
+	</string>
+	<string id="st_tiski">
+		<text>Użyj Warsztatu ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_awr_tiski">
+		<text>Napraw ($$ACTION_USE$$)</text>
+	</string>
+	
+	<!-- Lost to the Zone -->
+	<string id="st_impending_doom">
+		<text>Zbliża się emisja</text>
+	</string>
+	
+	<!-- Ironman -->
+	<string id="st_ironman_new_life">
+		<text>PRZYZNANO NOWE ŻYCIE! Zginąłeś %s razy. Pozostało żyć: %s</text>
+	</string>
+	
+	<!-- Toggle Animations -->
+	<string id="st_toggle_animation_on">
+		<text>Animacje przedmiotów włączone</text>
+	</string>
+	<string id="st_toggle_animation_off">
+		<text>Animacje przedmiotów wyłączone</text>
+	</string>
+	
+	<!-- Disguise -->
+	<string id="ui_st_disguse_disabled">
+		<text>System podszywania się jest wyłączony.</text>
+	</string>
+	<string id="ui_st_disguse_back_to_default">
+		<text>Wszyscy znów poznają cię jako członka frakcji %s.</text>
+	</string>
+	<string id="ui_st_disguse_blacklisted_faction">
+		<text>Nie możesz podszyć się za członka frakcji %s. Wszyscy wiedzą, że jesteś członkiem frakcji %s.</text>
+	</string>
+	<string id="ui_st_disguse_someone_saw">
+		<text>Widziano cię zmieniającego ubrania. Wszyscy wiedzą, że jesteś członkiem frakcji %s.</text>
+	</string>
+	<string id="ui_st_disguse_someone_remember">
+		<text>Widziano cię niedawno. Wszyscy wiedzą, że jesteś członkiem frakcji %s.</text>
+	</string>
+	<string id="ui_st_disguse_naked">
+		<text>Bez przebrania stalkerzy będą wiedzieć, że jesteś członkiem frakcji %s.</text>
+	</string>
+	<string id="ui_st_disguse_patch_torn">
+		<text>Naszywka jest zerwana. Stalkerzy będą myśleć, że jesteś członkiem frakcji %s.</text>
+	</string>
+	<string id="ui_st_disguse_patch_torn_now">
+		<text>Zerwałeś naszywkę frakcji %s z tego ubrania. Nie możesz go użyć do podszycia się.</text>
+	</string>
+	<string id="ui_st_disguse_patch_attach_now">
+		<text>Przyczepiłeś naszywkę frakcji %s do tego ubrania. Możesz go teraz użyć do podszycia się.</text>
+	</string>
+	<string id="ui_st_disguse_on">
+		<text>W tych ubraniach większość stalkerów uzna cię za członka frakcji %s</text>
+	</string>
+	<string id="st_disguse_actor_exposed">
+		<text>Twoja przykrywka została spalona! Wszyscy wiedzą, że jesteś członkiem frakcji %s w przebraniu.</text>
+	</string>
+	
+	<string id="st_news_disguse_enemy_expose_1">
+		<text>INTRUZ!!!</text>
+	</string>
+	<string id="st_news_disguse_enemy_expose_2">
+		<text>SZPIEG! OTWORZYĆ OGIEŃ!</text>
+	</string>
+	<string id="st_news_disguse_enemy_expose_3">
+		<text>SZPIEG! NATYCHMIAST OTWORZYĆ OGIEŃ!</text>
+	</string>
+	<string id="st_news_disguse_enemy_expose_4">
+		<text>TEN TYP TO WRÓG! ROZWALCIE GO!</text>
+	</string>
+	<string id="st_news_disguse_enemy_expose_5">
+		<text>ANI KROKU DALEJ, ŚCIERWO! Zapłać należną karę lub odbądź wyrok. Skradzione przedmioty zostały utracone.</text>
+	</string>
+	
+	<string id="st_news_disguse_natural_expose_1">
+		<text>Szpiegujesz kogoś?! Kto cię przysłał?</text>
+	</string>
+	<string id="st_news_disguse_natural_expose_2">
+		<text>Pod przykrywką? Myślisz, że to zabawne?</text>
+	</string>
+	<string id="st_news_disguse_natural_expose_3">
+		<text>Nikogo nie oszukasz, głąbie.</text>
+	</string>
+	<string id="st_news_disguse_natural_expose_4">
+		<text>Odejdź.</text>
+	</string>
+	
+<!-- DoctorX Questlines -->
+    <string id="st_drx_questlines_and_this_one">
+        <text>Hmm...</text>
+    </string>
+    <string id="st_drx_questlines_joined">
+        <text>Dołączyłeś do frakcji</text>
+    </string>
+    <string id="st_drx_questlines_faction">
+        <text>Frakcja (?)</text>
+    </string>
+	
+<!-- Bribe -->
+	<string id="st_bribe_expired">
+		<text>Zawieszenie ognia z frakcją %s wygasło.</text>
+	</string>
+	<string id="st_bribe_broke">
+		<text>Złamałeś zasady! Układ z frakcją %s nieważny!</text>
+	</string>
+	
+<!-- UPD -->
+	<string id="st_upd_low">
+		<text>Niska moc baterii</text>
+	</string>
+	<string id="st_upd_disconnected">
+		<text>Nie posiadasz uniwersalnego zasilacza (UPD)</text>
+	</string>
+	
+<!-- Goodwill -->
+	<string id="st_news_goodwill_update_title">
+		<text>Zmiana porządku</text>
+	</string>
+	<string id="st_news_goodwill_intro_1">
+		<text>Plotki o twoich wyczynach szybko się rozchodzą.</text>
+	</string>
+	<string id="st_news_goodwill_intro_lose_1">
+		<text>Cała Zona śmieje się z twojej porażki.</text>
+	</string>
+	<string id="st_news_goodwill_main_1">
+		<text>Zyskałeś uznanie frakcji %s.</text>
+	</string>
+	<string id="st_news_goodwill_main_lose_1">
+		<text>Straciłeś uznanie frakcji %s.</text>
+	</string>
+	<string id="st_news_goodwill_enemy_1">
+		<text>Członkowie frakcji %s nie przyjęli tego zbyt dobrze.</text>
+	</string>
+	
+	
+<!-- Bad turn -->
+	<string id="st_bad_turn_into_bandit">
+		<text>Zostałeś wydalony z tej grupy!</text>
+	</string>
+	<string id="st_bad_turn_into_bandit_news">
+		<text>%c[0,255,0,0]Zostałeś wydalony z tej grupy!</text>
+	</string>
+	<string id="st_bad_turn_into_zombie">
+		<text>Krytyczny poziom promieniowania psi. Zostałeś zzombifikowany.</text>
+	</string>
+	<string id="st_bad_turn_into_zombie_news">
+		<text>%c[0,255,64,0]Krytyczny poziom promieniowania psi. Zostałeś zzombifikowany.</text>
+	</string>
+	<string id="st_bad_turn_dezombification">
+		<text>Dezombifikacja zakończona sukcesem!</text>
+	</string>
+	<string id="st_bad_turn_dezombification_news">
+		<text>%c[0,255,64,0]Dezombifikacja zakończona sukcesem!</text>
+	</string>
+	
+<!-- Travel -->
+	<string id="st_travel_event">
+		<text>Podróż jest niebezpieczna, kiedy wrogowie są w pobliżu.</text>
+	</string>
+	<string id="st_travel_overloaded">
+		<text>Jesteś przeciążony</text>
+	</string>
+	<string id="st_travel_already_here">
+		<text>Jesteś już u celu</text>
+	</string>
+	<string id="bp_to">
+		<text>Idź</text>
+	</string>
+	<string id="bp_open">
+		<text>Otwórz plecak</text>
+	</string>
+	
+<!-- Stash placement -->
+	<string id="st_stash_created">
+		<text>Schowek utworzony</text>
+	</string>
+	<string id="st_stash_placed">
+		<text>Już utworzyłeś gdzieś schowek</text>
+	</string>
+	<string id="st_stash_unsafe">
+		<text>Nie można utworzyć schowka w tym miejscu</text>
+	</string>
+	<string id="st_itm_stash">
+		<text>schowek</text>
+	</string>
+	<string id="st_itm_stash_of_character">
+		<text>Schowek %s</text>
+	</string>
+	
+<!-- Sleep -->
+	<string id="st_sleep_awake">
+		<text>Nie potrzebujesz odpoczynku</text>
+	</string>
+	<string id="st_sleep_awake_wired">
+		<text>Masz w organizmie za dużo kofeiny - nie zaśniesz</text>
+	</string>
+	<string id="st_sleep_bleeding">
+		<text>Krwawisz - uzyskaj pomoc medyczną</text>
+	</string>
+	<string id="st_sleep_bleeding_irradiated">
+		<text>Krwawisz i zostałeś napromieniowany - uzyskaj pomoc medyczną</text>
+	</string>
+	<string id="st_sleep_deprived">
+		<text>Zostałeś zabity w czasie utraty świadomości</text>
+	</string>
+	<string id="st_sleep_event">
+		<text>Nie jesteś na tyle szalony, żeby teraz odpoczywać</text>
+	</string>
+	<string id="st_sleep_exhausted">
+		<text>Jesteś wyczerpany, potrzebujesz odpoczynku</text>
+	</string>
+	<string id="st_sleep_exhausted_final">
+		<text>Jesteś skrajnie wyczerpany - musisz natychmiast odpocząć</text>
+	</string>
+	<string id="st_sleep_irradiated">
+		<text>Zostałeś napromieniowany - uzyskaj pomoc medyczną</text>
+	</string>
+	<string id="st_cant_sleep_find_shelter_mlr">
+		<text>Poszukaj bezpieczniejszego miejsca, by zasnąć</text> 
+	</string>
+	<string id="st_cant_sleep_outside_tent_mlr">
+		<text>Musisz wejść do namiotu, by zasnąć</text> 
+	</string>
+	
+<!-- Skinning -->
+	<string id="st_body_decayed">
+		<text>Ciało jest zbyt zepsute</text>
+	</string>
+	<string id="st_body_useless">
+		<text>Nie znaleziono niczego przydatnego</text>
+	</string>
+	<string id="st_body_knife_needed">
+		<text>Wyciągnij nóż</text>
+	</string>
+	<string id="st_body_knife_bad">
+		<text>Nóż jest w złym stanie</text>
+	</string>
+	<string id="st_body_knife_weak">
+		<text>Potrzebujesz lepszego noża do tego mutanta</text>
+	</string>
+	
+<!-- Campfire -->
+	<string id="st_only_campfire_save">
+		<text>Zapis ręczny wyłączony (tylko przy ognisku)</text>
+	</string>
+	<string id="st_only_campfire_load">
+		<text>Wczytywanie, gdy żyjesz wyłączone</text>
+	</string>
+	<string id="st_only_campfire_quit">
+		<text>Wychodzenie z gry, gdy żyjesz wyłączone</text>
+	</string>
+	<string id="st_swsh">
+		<text>Potrzebujesz czegoś ostrego, by otworzyć puszkę</text>
+	</string>
+	<string id="st_camp_m">
+		<text>Potrzebujesz zapalniczki żeby wzniecić ogień</text>
+	</string>
+	<string id="st_camp_help">
+		<text>Udało ci się rozpalić ognisko</text>
+	</string>
+	<string id="st_fail">
+		<text>Nie udało ci się rozpalić ogniska</text>
+	</string>
+	<string id="st_ui_no_save_campfire">
+		<text>Możesz tylko %s przy ognisku.</text>
+	</string>
+	<string id="st_ui_campfire_prereq">
+		<text>Do rozpalenia ogniska wymagane są zapałki lub piecyk na drewno.</text>
+	</string>
+	
+<!-- Items -->
+	<string id="st_imm_smoke_fail">
+		<text>Potrzebujesz zapałek, by odpalić</text>
+	</string>
+	<string id="st_imm_smoke_already_used">
+		<text>Korzystasz z podobnego, skuteczniejszego efektu</text>
+	</string>
+	<string id="st_imm_befor_swiss">
+		<text>Potrzebujesz czegoś ostrego, by otworzyć puszkę</text>
+	</string>
+	<string id="st_imm_need_swiss">
+		<text>Żeby otworzyć puszkę, użyj scyzoryka</text>
+	</string>
+	<string id="st_imm_swiss_broken">
+		<text>Twój scyzoryk się połamał</text>
+	</string>
+	<string id="st_stash_no_backpack_found">
+		<text>Nie założono plecaka</text>
+	</string>
+	
+	<string id="st_itm_manager_greater_effect">
+		<text>Korzystasz z podobnego efektu przeciwko: %s</text>
+	</string>
+	<string id="st_itm_manager_missing_requirements">
+		<text>Potrzebujesz: %s!</text>
+	</string>
+	
+<!-- Notes -->
+	<string id="st_recipe_is_known">
+		<text>Już to czytałeś</text>
+	</string>
+	<string id="st_letter_is_known">
+		<text>Już to czytałeś</text>
+	</string>
+	
+<!-- Hardcore Saving -->
+	<string id="st_ui_no_save_timer">
+		<text>Odliczanie aktywne, %s niemożliwy</text>
+	</string>
+	
+	<string id="st_ui_no_save_combat">
+		<text>%s niemożliwy w trakcie walki.</text>
+	</string>
+	<string id="st_ui_no_save_surge">
+		<text>%s niemożliwy w trakcie emisji lub burzy psionicznej.</text>
+	</string>
+	<string id="st_ui_no_save_bleed">
+		<text>%s niemożliwy. Krwawisz.</text>
+	</string>
+	<string id="st_ui_no_save_radiation">
+		<text>%s niemożliwy. Jesteś napromieniowany.</text>
+	</string>
+	<string id="st_ui_no_save_bleed_radiation">
+		<text>%s niemożliwy. Krwawisz i jesteś napromieniowany.</text>
+	</string>
+	<string id="st_ui_no_save_injury_1">
+		<text>%s niemożliwy. Cierpisz z powodu odniesionych obrażeń.</text>
+	</string>
+	<string id="st_ui_no_save_injury_2">
+		<text>%s niemożliwy. Cierpisz z powodu odniesionych obrażeń.</text>
+	</string>
+	<string id="st_ui_no_save_injury_3">
+		<text>%s niemożliwy. Cierpisz z powodu odniesionych obrażeń.</text>
+	</string>
+	<string id="st_ui_no_save_injury_4">
+		<text>%s niemożliwy. Cierpisz z powodu odniesionych obrażeń krytycznych.</text>
+	</string>
+
+	<string id="st_pri_special_trader_mlr_message2">
+		<text>Cichy:\nDotarło twoje zamówienie. Zgłoś się po odbiór.</text>
+	</string>
+	<string id="st_pri_special_trader_mlr_message">
+		<text>Gryf:\nStalkerze, przebywasz na terytorium Syndykatu. Nie zostaniesz zaatakowany, dopóki będziesz się właściwie zachowywał. Jeśli szukasz pracy, może będę miał coś dla ciebie.</text>
+	</string>
+	
+	<!-- Lost to the Zone -->
+	<string id="st_lttz_eidolon_strelok_message">
+		<text>Oddział zwiadowczy gryzie ziemię. Czas przeprowadzić ostateczny atak na centrum Prypeci.</text>
+	</string>
+	<string id="st_lttz_stancia_strelok_message">
+		<text>Następnie wejdziemy do Sarkofagu. Złap oddech, zanim ruszymy dalej. Łatwo nie będzie.</text>
+	</string>
+	<string id="st_lttz_mon_strelok_message">
+		<text>Odłamek Monolitu jest silnie chroniony. Musimy zabić wszystkich strażników.</text>
+	</string>
+	<string id="st_lttz_limansk_rogue_message">
+		<text>Hej, twardzielu. Mam kłopoty w Limańsku. Potrzebuję twojej pomocy. Oto moje współrzędne. </text>
+	</string>
+	<string id="st_lttz_kat_rogue_message">
+		<text>To nie będzie spacer po parku. Powoli i do przodu. Uważaj na drzwi i rogi.</text>
+	</string>
+	<string id="st_lttz_gen_stitch_message">
+		<text>Siema! To ty? Dawaj tu, szybko!</text>
+	</string>
+	<string id="st_lttz_intercepted_transmission_message">
+		<text>...obozu w opuszczonych magazynach podstacji od teraz. Zlokalizowaliśmy jednostki wroga i przygotowujemy się się do...</text>
+	</string>
+	<string id="st_lttz_yanov_invitation_message">
+		<text>Widzę, że jesteś w okolicy. Może wpadnij do Janowa? Chcę z tobą pogadać.</text>
+	</string>
+	<string id="st_lttz_yanov_invitation2_message">
+		<text>Ej, stalker? Może wpadniesz na pogawędkę?</text>
+	</string>
+	<string id="st_lttz_pripyat_strelok_message">
+		<text>Ścigam siły Monolitu w pobliżu opuszczonego szpitala. Każda lufa się przyda!</text>
+	</string>
+	<string id="st_lttz_pripyat_rogue_message">
+		<text>Po-pomóż... mi. Kto... kolwiek... Po...mocy...</text>
+	</string>
+	<string id="st_lttz_pripyat_stitch_message">
+		<text>Kurwa jego mać! Przydałaby mi się pomoc. Ktokolwiek?!</text>
+	</string>
+	<string id="st_lttz_pripyat_degtyarev_message">
+		<text>Tu mówi pułkownik SBU Aleksander Aleksandrowicz Diegtiarow. Wiemy, że tam jesteś, Striełok i wiemy, że wiesz, czemu tu jesteśmy. Odłóż broń i wyjdź powoli z ukrycia. Możemy to zrobić bez używania przemocy, jeśli zastosujesz się do naszych poleceń</text>
+	</string>
+	<string id="st_lttz_pripyat_strelok_message2">
+		<text>Nigdy nie wyjdziesz z Zony, pułkowniku - nie ważne, czy właśnie szturmujesz Elektrownię, czy ukrywasz się na końcu świata. Dopóki Zona istnieje, zagraża całemu światu. Twoi przełożeni nie dadzą rady zamieść tego pod dywan. Obawiam się, że nie mogę do ciebie dołączyć.</text>
+	</string>
+	<string id="st_lttz_pripyat_unisg_message">
+		<text>To był ostatni raz, kiedy wszedłeś nam w drogę, pułkowniku. Zacznij się modlić.</text>
+	</string>
+	<string id="st_lttz_oa_army_degtyarev_jup_meet_msg">
+		<text>%s, tu %s. Spotkajmy się w fabryce Jupiter. Muszę o czymś z tobą pomówić.</text>
+	</string>
+	<string id="st_oa_transmission_decryption">
+		<text>Deszyfracja</text>
+	</string>
+</string_table>

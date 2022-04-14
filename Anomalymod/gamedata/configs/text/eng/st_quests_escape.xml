@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON ESCAPE (CORDON) MAP
+<	CoC 1.4.08 - DoctorX Questlines 1.6
+<
+<	Modified by: DoctorX
+<	Last revised: October 07, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- STORYLINE TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sidorovich (Loner Trader) Default Storyline Task -->
+
+	<string id="drx_sl_esc_m_trader_default_task_name">
+		<text>Weź kolejne zadanie</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_default_task_text">
+		<text>Otrzymaj kolejne zadanie.</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_default_task_about">
+		<text>Nie mam dla ciebie żadnej roboty, ale znam kogoś, kto może mieć. Zaznaczyłem ci jego miejscówkę w PDA.</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_default_task_finish">
+		<text>Powodzenia, stalkerze.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sidorovich (Loner Trader) Mutant Safari Storyline Task -->
+
+	<string id="drx_sl_esc_m_trader_task_1_name">
+		<text>Etyka łowiecka</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_task_1_text">
+		<text>Grupę turystów chce zapolować na mutanty. Zaprowadź ich w odpowiednie miejsce i zabezpiecz w trakcie polowania.</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_task_1_about">
+		<text>Mam tu paru żądnych wrażeń turystów, gdzieś ze świata. Panowie chcą sobie postrzelać do naszych, wiesz, zwierzątek. Zabierz ich na polowanie i pokaż, jak odstrzelić parę mutantów, niech mają trochę radochy. Tylko pilnuj, żeby włos im z głowy, kurwa, nie spadł! Takie gówno źle działa na biznes.</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_task_1_finish">
+		<text>O, już wróciliście? Dobrze. Oto twoja zapłata.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sidorovich (Loner Trader) Rookie Initiation Storyline Task- -->
+
+	<string id="drx_sl_esc_m_trader_task_2_name">
+		<text>Inicjacja</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_task_2_text">
+		<text>Zabierz do Zony grupę nowicjuszy i pokaż im, jak przetrwać w tych trudnych warunkach.</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_task_2_about">
+		<text>Te świeżaki gówno teraz wiedzą o przetrwaniu. Puścić ich samopas, to nocy nie dożyją, ech. No co zrobić. Przypilnować ich trzeba, żeby biznes działał, jak należy - jak coś im się stanie, to zaraz, rozumisz, pójdzie plotka, że Sidorowicz na śmierć wysyła i nowi przestaną przyjeżdżać...\n \nWeź ich pod swoje skrzydła i poprowadź do Zony. Niech na własne gały zobaczą anomalię i mutasa. Powiedz im, co i jak tutaj działa, żeby wiedzieli cokolwiek o życiu. Potem odstaw ich z powrotem do wioski.</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_task_2_finish">
+		<text>I jak, nie obsrali się na starcie? No to chwała Panu. Wspomniałeś im o tym, że po zapasy i z chabarem to tylko do wujka Sidora, co? Trzymaj, w nagrodę.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Xenotech (Loner Mechanic) Default Storyline Task -->
+
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_default_task_name">
+		<text>Weź kolejne zadanie</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_default_task_text">
+		<text>Otrzymaj kolejne zadanie.</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_default_task_about">
+		<text>Mój przyjaciel mógłby skorzystać z twoich usług. Zaznaczyłem ci jego położenie w PDA.</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_default_task_finish">
+		<text>Powodzenia, stalkerze.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Xenotech (Loner Mechanic) Rescue Missing Stalker Storyline Task -->
+
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_name">
+		<text>Zaginiony</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_text">
+		<text>Jeden ze stalkerów mieszkających w obozie Furgona nie wrócił. Odnajdź go.</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_about">
+		<text>Potrzebna mi twoja pomoc. Stalker z mojego obozu wyruszył po zaopatrzenie i nie wrócił. Boję się, że mogło mu się coś stać. Zaznaczę ci na mapie jego ostatnią znaną pozycję. Zobacz, czy uda ci się go odnaleźć.</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_finish">
+		<text>Uratowałeś go! Wyśmienita robota, stalkerze. Weź to jako oznakę mojej wdzięczności.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Xenotech (Loner Mechanic) Track Wounded Attacker Storyline Task -->
+
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_name">
+		<text>Ranny zwierz</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_text">
+		<text>Skorumpowany oddział wojskowych zaatakował obóz Furgona i zamordował wielu jego ludzi. Atakującym udało się uciec. Wyśledź ich i zlikwiduj.</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_about">
+		<text>Gdzieś ty był?! Parę godzin temu wleciały tu kurwiszony z wojska i zrobiły pogrom! Zaczęli do nas pruć ze śmigłowca, wybili prawie wszystkich naszych. Udało nam się ich dopaść, ale paru z nich zwiało, jak kundle. Jeden z nich na bank jest ranny, więc na pewno znajdziesz go po śladach krwi. Wskaże ci kierunek, w którym się udali.</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_finish">
+		<text>Dziękuję, stalkerze. Weź to jako podarunek za twoją fatygę.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- CHANGE FACTIONS TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sidorovich (Loner Trader) Payoff Change Factions Task -->
+
+	<string id="drx_sl_esc_m_trader_cf_task_1_name">
+		<text>Spalone mosty</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_cf_task_1_text">
+		<text>Sidorowicz wyciągnie cię z obecnych zobowiązań wobec aktualnej frakcji za kwotę 10.000 RU.</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_cf_task_1_about">
+		<text>Co, znudziło się garowanie całymi dniami na posterunku, a? Mądrze robisz, stalker, przychodząc z tym do mnie. Mam paru znajomych, którzy... no, mają u mnie, powiedzmy, dług wdzięczności. Mogę załatwić, że ci odpuszczą i będziesz wolnym stalkerem. Tylko taka impreza swoje kosztuje - temu trzeba posmarować, tamtemu posłać dużą flaszkę, rozumiesz... Dziesięć tysi, tyle będę potrzebował, żeby załatwić ci odejście z frakcji. Pasuje?</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_cf_task_1_finish">
+		<text>No, powinno wystarczyć. Pogadam z kim trzeba, a ty, kolego, ciesz się życiem wolnego stalkera.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- DYNAMIC TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sidorovich (Loner Trader) Eliminate Car Park Bandits Task -->
+
+	<string id="esc_m_trader_task_1_name">
+		<text>Wojna podjazdowa</text>
+	</string>
+	<string id="esc_m_trader_task_1_text">
+		<text>Dokonaj ataku na starą Stację Pojazdów i wyeliminuj bandytów okupujących to miejsce.</text>
+	</string>
+	<string id="esc_m_trader_task_1_about">
+		<text>Bandyckie mendy założyły sobie bazę w starej stacji pojazdów. Te dupki żyją z napadania, okradania i zabijania każdego, kto wejdzie im w drogę. Przez tych sukinsynów nie mogę zapewnić bezpieczeństwa klientom szukającym rozrywki, a i stalkerzy mają związane ręce, bo się, kurwa, boją wyjść z obozu! Przez to sypie mi się interes!\n \nZajmij się tymi ścierwojadami i przegoń ich z mojego terenu. Pogadaj z Fanatykiem, jeśli potrzebujesz wsparcia.</text>
+	</string>
+	<string id="esc_m_trader_task_1_finish">
+		<text>Świetna robota, stalker! Jak tak dalej pójdzie, to zostaniemy najlepszymi przyjaciółmi, haha! A oto obiecana zapłata.</text>
+	</string>
+
+	<string id="esc_m_trader_task_2_name">
+		<text>Dbanie o interesy</text>
+	</string>
+	<string id="esc_m_trader_task_2_text">
+		<text>Sidorowicz zlecił ci pozbycie się celu. Znajdź i wyeliminuj cel, a potem wróć do Sidorowicza po nagrodę.</text>
+	</string>
+	<string id="esc_m_trader_task_2_about">
+		<text>Mam listę łbów do ścięcia. Większość nazwisk to najpodlejsze szumowiny i łajdacy, ale nie będę ukrywał, że są na niej i tacy, którzy mnie, krótko mówiąc, wychujali. Od czasu do czasu i Zonie trzeba pomóc w wyniesieniu śmieci. To jak, stalker, zostaniesz moim zabójcą na zlecenie?</text>
+	</string>
+	<string id="esc_m_trader_task_2_finish">
+		<text>Dobrze, pozbyłeś się tego dupka! Oto obiecana zapłata.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sidorovich (Loner Trader) Decimate the Enemy Task -->
+
+	<string id="esc_m_trader_task_3_name">
+		<text>Agresja za agresję</text>
+	</string>	
+	<string id="esc_m_trader_task_3_text">
+		<text>Sidorowicz chce pozbyć się bandytów. Zdobądź: %s.</text>
+	</string>		
+	<string id="esc_m_trader_task_3_about">
+		<text>Słuchaj, stalker. To miało być bezpieczne miejsce dla nowicjuszy, by mogli lepiej poznać Zonę, nauczyć się strzelać i tak dalej, i tak dalej. A tymczasem jakieś obdartusy panoszą się po okolicy, napadają świeżaków, kradną im towar i - jak mają dobry dzień - puszczają wolno w samych skarpetkach. No, powiedz ty mi, do czego to jest, kurwa, podobne?!\n \nZajmij się tymi patałachami. Nie chcę słyszeć o żadnej, kręcącej się w okolicy bandyckiej mordzie.</text>
+	</string>		
+	<string id="esc_m_trader_task_3_fetch_about">
+		<text>Słuchaj, stalker. To miało być bezpieczne miejsce dla nowicjuszy, by mogli lepiej poznać Zonę, nauczyć się strzelać i tak dalej, i tak dalej. A tymczasem jakieś obdartusy panoszą się po okolicy, napadają świeżaków, kradną im towar i - jak mają dobry dzień - puszczają wolno w samych skarpetkach. No, powiedz ty mi, do czego to jest, kurwa, podobne?!\n \nZajmij się tymi patałachami. Nie chcę słyszeć o żadnej, kręcącej się w okolicy bandyckiej mordzie. Jako dowód przynieś mi: %s.</text>
+	</string>		
+	<string id="esc_m_trader_task_3_fetch_finish">
+		<text>Nareszcie jesteś z powrotem. Masz naszywki? W porządku, oto twoja nagroda.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Wolf (Loner Honcho) -->
+	
+	<string id="esc_2_12_stalker_wolf_task_1_name">
+		<text>Kordon bezpieczeństwa</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_1_text">
+		<text>Wilk poprosił cię o pozbycie się mutantów w celu zapewnienia bezpieczeństwa wiosce nowicjuszy oraz stalkerom przemierzającym Kordon. Dotrzyj na miejsce i wyeliminuj wszystkie napotkane mutanty. Po zakończeniu zadania wróć do Wilka po nagrodę.</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_1_about">
+		<text>Stalkerze, do tego zadania potrzebny mi ktoś, kto ma trochę większe jaja, niż ci nowicjusze. Przez grasujące w okolicy mutanty Kordon staje się niebezpiecznym miejscem.\n \nChciałbym, abyś zapolował na nie w miejscu, które zaznaczę ci na PDA. Twoim zadaniem jest zabicie wszystkich mutantów, jakie spotkasz. Pamiętaj, że jak zaczniesz strzelać, pewnie zaczną uciekać we wszystkie strony. Jeśli to zrobisz, to zarobisz trochę grosza. A więc jak będzie?</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_1_finish">
+		<text>Dziękuję, dzięki tobie nowicjusze w wiosce będą teraz bezpieczniejsi. Oto twoja zapłata.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Wolf (Loner Honcho) Stalker Search and Rescue Dynamic Task -->
+
+	<string id="esc_2_12_stalker_wolf_task_2_name">
+		<text>Na pomoc</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_2_text">
+		<text>Znajdź zaginionego stalkera.</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_2_about">
+		<text>Zaginął jeden ze stalkerów z obozu. Dowiedz się, w co się wpakował i uratuj go z niebezpieczeństwa.</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_2_finish">
+		<text>Dziękuję. Dzięki takim jak ty to miejsce jest jeszcze jako tako bezpieczne.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Wolf (Loner Honcho) Stalker Guide Dynamic Task -->
+
+	<string id="esc_2_12_stalker_wolf_task_3_name">
+		<text>Pierwszy raz</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_3_text">
+		<text>Poprowadź grupę nowicjuszy w Zonę.</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_3_about">
+		<text>Grupa nowicjuszy wyrusza po raz pierwszy w Zonę. Potrzebuję kompetentnego stalkera, który ich poprowadzi i zadba o ich bezpieczeństwo.</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_3_finish">
+		<text>Dziękuję ci za zapewnienie im bezpieczeństwa, stalkerze.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Nimble (Loner Trader) Find Weapon Task -->
+
+	<string id="esc_2_12_stalker_nimble_task_1_name">
+		<text>Dostarcz broń: %s</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_text">
+		<text>Żwawy poprosił cię o znalezienie broni konkretnego typu. Musi być w idealnym stanie. Wróć do niego, kiedy znajdziesz to, czego mu potrzeba.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_about">
+		<text>Mam klienta, który szuka konkretnej broni i przydałby mi się ktoś, kto mógłby ją dla mnie zdobyć. Podam ci więcej szczegółów, jeśli jesteś zainteresowany. Co ty na to?</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_fetch_about">
+		<text>%s jest tym czego potrzebuję. Jeden warunek - musi być w idealnym stanie. Klient płaci grube pieniądze, nie potrzebuje zardzewiałego gruza, który rozsypie mu się w rękach. Z racji, że to ty wykonasz większą część roboty, dostaniesz większą część z końcowego zysku. Wróć do mnie, jak już znajdziesz tę broń.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_fetch_finish">
+		<text>To się nazywa dobra broń. Myślę, że mój klient będzie zadowolony. Oto, co jestem ci winien.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Nimble (Loner Trader) Retrieve PDA Dynamic Task -->
+
+	<string id="esc_2_12_stalker_nimble_task_2_name">
+		<text>Dobry kurier to żwawy kurier</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_2_text">
+		<text>Żwawy chce, żebyś odzyskał dla niego PDA.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_2_about">
+		<text>Potrzebuję, abyś odzyskał dla mnie PDA. Jest ukryte w schowku niedaleko stąd.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_2_finish">
+		<text>Dziękuję, stalkerze!</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- MECHANIC TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Xenotech (Loner Mechanic) Find Level 1 Toolkit Task -->
+
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_name">
+		<text>Znajdź %s</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_text">
+		<text>%s są potrzebne Furgonowi do instalacji podstawowych ulepszeń pancerzy i broni, powinieneś mu takie przynieść, jeśli uda ci się jakieś znaleźć.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_about">
+		<text>Stary, mógłbyś wyświadczyć mi przysługę. Wielu stalkerów odwiedziło mnie w ostatnim czasie pytając, czy jestem w stanie zmodyfikować im broń w konkretny sposób. A ja rozkładam ręce - nie mam potrzebnych narzędzi.\n \nJeżeli oprę warsztat na dobrym zestawie narzędzi to będę w stanie wprowadzać ulepszenia do większej ilości broni i pancerzy. Pomożesz mi, stary?</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_fetch_about">
+		<text>Potrzebuję zestawu narzędzi podstawowych. Powinien zawierać to, co będzie mi potrzebne. Będę wdzięczny, jeśli przyniesiesz mi jakieś, a nawet będę w stanie zaoferować ci zniżkę.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_fetch_finish">
+		<text>Okej, tak, ten zestaw ma wszystko, czego potrzebowałem. Trzymaj obiecaną zapłatę. No bierz, nie patrz tak na mnie.</text>
+	</string>
+
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_name">
+		<text>Znajdź %s</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_text">
+		<text>%s są potrzebne Furgonowi do instalacji zaawansowanych ulepszeń pancerzy i broni, powinieneś mu takie przynieść, jeśli uda ci się jakieś znaleźć.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_about">
+		<text>Stary, dzięki tobie mój interes zaczął rozkwitać! Z dnia na dzień zjawia się u mnie więcej i więcej stalkerów, którzy potrzebują, aby zmodyfikować im broń. Poprzednio przyniosłeś mi zestaw bardzo dobrej jakości, ale roboty jest tyle, że przydałby mi się lepszy. Jeśli zgodzisz się pomóc, to powiem ci, czego mi potrzeba.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_fetch_about">
+		<text>Potrzebuję narzędzi zaawansowanych. Będę wdzięczny, jeśli przyniesiesz mi jakieś. Zapłacę ci za nie.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_fetch_finish">
+		<text>Tak! Trzymaj kasę, zasłużyłeś na nią.</text>
+	</string>
+
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_name">
+		<text>Znajdź %s</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_text">
+		<text>%s są potrzebne Furgonowi do instalacji precyzyjnych ulepszeń pancerzy i broni, powinieneś mu takie przynieść, jeśli uda ci się jakieś znaleźć.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_about">
+		<text>Dzięki tobie mój interes rozkwitł na dobre! Stalkerzy potrzebujący modyfikacji broni lub pancerza walą do mnie drzwiami i oknami... Ostatnim razem przyniosłeś mi świetny zestaw, ale mam teraz tyle roboty, że przydałby mi się jeszcze lepszy. Jeśli zgodzisz się pomóc, to powiem ci czego potrzebuję.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_fetch_about">
+		<text>Potrzebuję narzędzi precyzyjnych. Będę wdzięczny, jeśli przyniesiesz mi jakieś i tak jak ostatnio, zapłacę ci za nie.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_fetch_finish">
+		<text>O, tak! Teraz mam już wszystko, czego potrzebuję. Oto obiecana zapłata, zasłużyłeś.</text>
+	</string>
+	
+	
+<!-- (Military Trader - Southern Outpost) -->
+	<string id="esc_3_16_military_trader_task_1_name">
+		<text>Szczególnie niebezpieczni</text>
+	</string>
+	<string id="esc_3_16_military_trader_task_1_text">
+		<text>Zhurov poprosił mnie o zdobycie %s.</text>
+	</string>
+	<string id="esc_3_16_military_trader_task_1_about">
+		<text>Dowództwo wprowadziło ostatnimi czasy nieoficjalny program oczyszczania Zony ze szczególnie niebezpiecznych, przebywających w Zonie nielegalnie osobników, chciałbyś wziąć w nim udział? Jako dowód przynieś mi naszywki zerwane z kombinezonów kryminalistów kręcących się po okolicy.</text>
+	</string>
+	<string id="esc_3_16_military_trader_task_1_fetch_about">
+		<text>Dowództwo wprowadziło ostatnimi czasy nieoficjalny program oczyszczania Zony ze szczególnie niebezpiecznych, przebywających w Zonie nielegalnie osobników, chciałbyś wziąć w nim udział? Zbierz %s - wydaje mi się, że nie będziesz musiał się zbytnio wysilać!</text>
+	</string>
+	<string id="esc_3_16_military_trader_task_1_fetch_finish">
+		<text>Wygląda na to, że wiesz co robisz. Dobra robota to dobra zapłata. Pochwalę cię w raporcie.</text>
+	</string>
+
+	
+<!-- (Military Mechanic - Southern Outpost) -->
+	<string id="army_south_mechan_mlr_task_1_name">
+		<text>Znajdź %s</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_1_text">
+		<text>Sierioga, wojskowy technik, poprosił mnie o znalezienie: %s.</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_1_about">
+		<text>W sumie to mam. Nasze narzędzia zostały w kompleksie badawczym na Jantarze, przez co nawet nie mogę pogrzebać przy transporterze. Potrzebne mi narzędzia - choćby te najbardziej podstawowe. Pomożesz?</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_1_fetch_about">
+		<text>W sumie to mam. Nasze narzędzia zostały w kompleksie badawczym na Jantarze, przez co nawet nie mogę pogrzebać przy transporterze. Potrzebne mi narzędzia - choćby te najbardziej podstawowe. Pomożesz?</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_1_fetch_finish">
+		<text>Dzięki wielkie! Masz u mnie zniżkę.</text>
+	</string>
+
+	<string id="army_south_mechan_mlr_task_2_name">
+		<text>Znajdź %s</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_2_text">
+		<text>Sierioga, wojskowy technik, poprosił mnie o znalezienie: %s.</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_2_about">
+		<text>Niestety, ale narzędzia, które mi przyniosłeś już nie wystarczają, bo dzięki nim mogę instalować tylko podstawowe ulepszenia. Potrzebny mi bardziej zaawansowany zestaw - chyba nie powinno być tak trudno go znaleźć. Rozejrzysz się dla mnie za nimi?</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_2_fetch_about">
+		<text>Niestety, ale narzędzia, które mi przyniosłeś już nie wystarczają bo dzięki nim mogę instalować tylko podstawowe ulepszenia. Potrzebny mi bardziej zaawansowany zestaw - chyba nie powinno być tak trudno go znaleźć. Rozejrzysz się dla mnie za nimi?</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_2_fetch_finish">
+		<text>Stary, wszyscy to doceniamy. Chłopcy z kompanii kazali przekazać ci wyrazy szacunku.</text>
+	</string>
+
+	<string id="army_south_mechan_mlr_task_3_name">
+		<text>Znajdź %s</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_3_text">
+		<text>Sierioga, wojskowy technik, poprosił mnie o znalezienie: %s.</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_3_about">
+		<text>Mam już dość grzebania się w tym pieprzonym beteerze. Dosyć, niech kto inny zajmuje się transporterem, a nie wiecznie ja! W tym czasie mógłbym zajmować się choćby bronią czy pancerzami. Chyba już czas, by nasi chłopcy dostali porządny sprzęt. Przydałby mi się nowy zestaw narzędzi - precyzyjny. Załatwisz mi taki?</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_3_fetch_about">
+		<text>Mam już dość grzebania się w tym pieprzonym beteerze. Dosyć, niech kto inny zajmuje się transporterem, a nie wiecznie ja! W tym czasie mógłbym zajmować się choćby bronią czy pancerzami. Chyba już czas, by nasi chłopcy dostali porządny sprzęt. Przydałby mi się nowy zestaw narzędzi - precyzyjny. Załatwisz mi taki?</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_3_fetch_finish">
+		<text>Niesamowite. Nigdy bym nie pomyślał, że na własne oczy zobaczę tak dobre narzędzia... zwłaszcza w tej melinie. Od teraz masz u mnie naprawdę dużą zniżkę.</text>
+	</string>
+
+	
+<!-- Fanatic -->
+	<string id="task_fanat_training_1_1">
+		<text>Szkolenie: Polowanie na dziki</text>
+	</string>
+	<string id="task_fanat_training_1_3">
+		<text>Szkolenie: Porozmawiaj z Fanatykiem</text>
+	</string>
+	<string id="task_fanat_training_1_4">
+		<text>Szkolenie: Dotrzyj do strefy anomalii</text>
+	</string>
+	<string id="task_fanat_training_1_5">
+		<text>Szkolenie: Porozmawiaj z Fanatykiem</text>
+	</string>
+	<string id="task_fanat_training_1_9">
+		<text>Szkolenie: Zdobądź artefakt Meduza</text>
+	</string>
+	<string id="task_fanat_training_1_6">
+		<text>Szkolenie: Wróć do wioski</text>
+	</string>
+	<string id="task_fanat_training_1_7">
+		<text>Szkolenie: Porozmawiaj z Fanatykiem</text>
+	</string>
+	<string id="task_fanat_training_1_8">
+		<text>Szkolenie: Porozmawiaj z Fanatykiem</text>
+	</string>
+	<string id="task_fanat_training_1_10">
+		<text>Szkolenie: Umieść artefakt Meduza w ołowianym pojemniku</text>
+	</string>
+	<string id="task_fanat_training_1_descr">
+		<text>Fanatyk wydaje się być jednym z najbardziej doświadczonych stalkerów w wiosce. Pokaże ci kilka rzeczy ułatwiających przetrwanie w Zonie.</text>
+	</string>
+	
+	<string id="task_fanat_training_2_1">
+		<text>Wyzwanie: Znajdź schowek</text>
+	</string>
+	<string id="task_fanat_training_2_2">
+		<text>Wyzwanie: Porozmawiaj z Fanatykiem</text>
+	</string>
+	<string id="task_fanat_training_2_descr">
+		<text>Kolejne wyzwanie ma za zadanie sprawdzić twoją spostrzegawczość - musisz odnaleźć schowek znajdujący się gdzieś w wiosce nowicjuszy. Fanatyk nazywa go "bocianim gniazdem" - może to jakaś wskazówka?</text>
+	</string>
+	
+	<string id="task_fanat_training_3_1">
+		<text>Rytuał Przejścia: Oczyść Stację Pojazdów</text>
+	</string>
+	<string id="task_fanat_training_3_2">
+		<text>Rytuał Przejścia: Porozmawiaj z Fanatykiem</text>
+	</string>
+	<string id="task_fanat_training_3_3">
+		<text>Rytuał Przejścia: Wróć do wioski</text>
+	</string>
+	<string id="task_fanat_training_3_4">
+		<text>Rytuał Przejścia: Porozmawiaj z Fanatykiem</text>
+	</string>
+	<string id="task_fanat_training_3_descr">
+		<text>Wyrusz z Fanatykiem, by pomóc mu w pozbyciu się bandytów okupujących Stację Pojazdów.</text>
+	</string>
+
+
+	<string id="esc_2_12_stalker_fanat_task_1_name">
+		<text>Zniszcz legowisko mutantów</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_task_1_text">
+		<text>Fanatyk poprosił o zniszczenie legowiska mutantów w celu zapewnienia bezpieczeństwa nowicjuszom mieszkającym w wiosce, a także stalkerom przechodzącym przez Kordon.</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_task_1_about">
+		<text>Mamy duży problem. Mutanty tworzą sobie nowe gniazda i im więcej ich się tu kręci, tym mniej Kordon staje się bezpieczny - nie możemy pozwolić sobie na to, by zaczęło ich przybywać. Musisz znaleźć jedno z gniazd i zniszczyć je. Gwarantuję, że jeśli ci się uda, każdy z mieszkańców będzie ci wdzięczny. Co ty na to?</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_task_1_finish">
+		<text>Świetna robota. Dzięki tobie to miejsce będzie bardziej przyjazne dla nowicjuszy. A oto nagroda.</text>
+	</string>
+
+	<string id="esc_2_12_stalker_fanat_task_2_name">
+		<text>Pierwsze koty za płoty</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_task_2_text">
+		<text>Fanatyk poprosił o znalezienie artefaktu Bateria dla jednego z nowicjuszy.</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_task_2_fetch_about">
+		<text>Sprawa wygląda tak. Ostatnio jeden z obozowiczów wybrał się na Agroprom, przygotowany na wielką przygodę. Ruszył z pistoletem w jednej ręce i detektorem w drugiej. Szperał w tamtejszych skupiskach anomalii szukając czegoś ciekawego i udało mu się znaleźć artefakt. W drodze powrotnej został zatrzymany przez wojskowy patrol, który zabrał mu wszystko, co miał przy sobie - oczywiście, wraz z artefaktem.\n \nTeraz biedaczyna przesiaduje tu i wypłakuje oczy, nie mogąc uwierzyć w to, co się wydarzyło. Wiesz, to był pierwszy artefakt jaki udało mu się złowić. Według opisu wydaje mi się, że znalazł Baterię. Strasznie mi go szkoda - poszedłbym szukać tego artefaktu sam, ale nie mogę zostawić nowicjuszy samych - ktoś musi ich chronić, bo jeszcze wiele nauki przed nimi. Facet na pewno ucieszy się, jeśli ktoś dostarczy mu coś podobnego, do jego pierwszego znaleziska. To co, pomożesz?</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_task_2_fetch_finish">
+		<text>Ach, znalazłeś Baterię? Wyśmienicie. Jestem pewny, że ten stalker w końcu się uśmiechnie - przykro patrzeć, jak całymi dniami topi smutki w butelce i użala się nad sobą. Tak między nami, trochę miałem już tego dosyć. W każdym razie, dzięki za pomoc.</text>
+	</string>
+
+	
+<!-- Hip -->
+	<string id="toz34_sk2_return">
+		<text>Przynieś Hip TOZ-34 Bizon wraz z amunicją, aby otrzymać nagrodę</text>
+	</string>
+	<string id="toz34_sk2_find">
+		<text>Znajdź strzelbę TOZ-34 Bizon wraz z amunicją dla klienta Hip</text>
+	</string>
+	<string id="toz34_return_descr">
+		<text>Hip powiedziała, że bogaty klient jest w stanie wyłożyć niezłą sumkę za TOZ-34 Bizon wraz z dwudziestoma pociskami 12x70mm. Problem w tym, że żaden ze sławnych handlarzy na południu Zony nie ma takiej strzelby na sprzedaż.</text>
+	</string>
+	
+	<string id="artefacts_to_sidor_return">
+		<text>Przynieś artefakty do Sidorowicza</text>
+	</string>
+	<string id="artefacts_to_sidor_find">
+		<text>Znajdź artefakty dla Sidorowicza</text>
+	</string>
+	<string id="artefacts_to_sidor_return_descr">
+		<text>Sidorowicz wysłał ciebie i Hip na poszukiwanie artefaktów. Trzeba mu dostarczyć artefakty: Skrętak, Kula Ognista i Blask Księżyca.</text>
+	</string>
+
+	<string id="go_to_barmen_1">
+		<text>Odwiedź Barmana</text>
+	</string>
+	<string id="go_to_barmen_2">
+		<text>Odwiedź Barmana</text>
+	</string>
+	<string id="go_to_barmen_descr">
+		<text>Hip chciałaby poszerzyć swoje znajomości w Zonie poprzez odwiedziny i rozmowę z Barmanem. Wygląda na to, że handlarz ma pilne zlecenie, więc powinniście się pośpieszyć, by nikt was nie uprzedził.</text>
+	</string>
+	
+	<string id="go_to_lukash_1">
+		<text>Spotkaj się i porozmawiaj z Łukaszem</text>
+	</string>
+	<string id="go_to_lukash_2">
+		<text>Spotkaj się i porozmawiaj z Łukaszem</text>
+	</string>
+	<string id="go_to_lukash_descr">
+		<text>Hip chce porozmawiać z Łukaszem na temat dostarczenia medykamentów do społeczności stalkerskich znajdujących się na północ od Bariery. Wygląda na to, że sprawa jest pilna, więc lepiej nie tracić czasu.</text>
+	</string>
+	
+	<string id="go_to_boroda_1">
+		<text>Zanieś pojemniki z artefaktami do Brodacza</text>
+	</string>
+	<string id="go_to_boroda_2">
+		<text>Zanieś pojemniki z artefaktami do Brodacza</text>
+	</string>
+	<string id="go_to_boroda_descr">
+		<text>Barman poprosił was o dostarczenie pojemników z artefaktami do Brodacza, który prowadzi bar w Skadowsku na Zatonie.</text>
+	</string>
+	
+	<string id="go_to_loki_1">
+		<text>Dostarcz medykamenty Lokiemu</text>
+	</string>
+	<string id="go_to_loki_2">
+		<text>Dostarcz medykamenty Lokiemu</text>
+	</string>
+	<string id="go_to_loki_descr">
+		<text>Łukasz chce, byście dostarczyli medykamenty Lokiemu, znajdującemu się na Jupiterze, na stacji Janów.</text>
+	</string>
+	
+	<string id="army_south_mechan_mlr_task_4_about">
+		<text>Jakiś kutas ciągle niszczy nam megafon. Nie mam pojęcia, czy to ci zasrani stalkerzy z wioski, czy któremuś z naszych wybitnie się nudzi. Potrzebuję części, aby go naprawić. Mógłbyś ich poszukać?</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_4_name">
+		<text>Chochliki</text>
+	</string>
+	
+</string_table>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+<!-- Forester -->
+	<string id="red_forester_hello_dialog_0">
+		<text>Jakiemuż zbiegowi okoliczności zawdzięczam tę przyjemność?</text>
+	</string>
+	<string id="red_forester_hello_dialog_1">
+		<text>I co taki żółtodziób jak ty, porabia u starego Leśnika?</text>
+	</string>
+	<string id="red_forester_hello_dialog_2">
+		<text>Nie trafiłeś tu chyba przez przypadek, synku?</text>
+	</string>
+	<string id="red_forester_hello_dialog_3">
+		<text>Powodzenia, synku!</text>
+	</string>
+	<string id="red_forester_hello_dialog_4">
+		<text>Nie zapomnij tam, w szerokim świecie o Leśniku!</text>
+	</string>
+	<string id="red_forester_hello_dialog_5">
+		<text>Wspominaj mnie dobrze, mój chłopcze!</text>
+	</string>
+	<string id="red_forester_who_are_you_0">
+		<text>Kim jesteś?</text>
+	</string>
+	<string id="red_forester_who_are_you_1">
+		<text>Cóż ja ci mogę o sobie opowiedzieć? Jestem Leśnik. Całe moje życie upłynęło w tym lesie, nawet wybuch w Elektrowni nie zmusił mnie do ucieczki. Przyjechali po starego człowieka, chcieli ewakuować, mówili, że to dla mojego dobra - a ja odmówiłem. Przyszła Ona, a ja mimo to nigdzie się nie ruszyłem. Mówią, że nie przesadza się starych drzew. I tak tu sobie żyję od dawien dawna, synku... Tylu ludzi tu poginęło w strasznym błysku Emisji, przez mutanty, w anomaliach i przez promieniowanie, a Ona nie tylko darowała żywot mnie, staremu - Ona mnie przyjęła jak swego i obdarzyła swymi cudami!\n \nZawsze znajdowałem właściwą drogę w Lesie - a teraz ot tak, wyczuwam bezpieczną ścieżynę pomiędzy anomaliami. Inni zginęliby - a ja przejdę bezpiecznie. Stalkerzy tacy jak ty zazdroszczą mi tego, chociaż sami nie wiedzą, czego pragną! Trzeba ci wiedzieć, że wszystko ma swoją cenę, a wcześniej, czy później będziesz musiał zapłacić rachunek. Obawiam się, że kiedyś, pewnego dnia... Ona tu przyjdzie po swój dług.</text>
+	</string>
+	<string id="red_forester_who_are_you_111">
+		<text>Nie, to był zwyczajny sosnowy las. Zrobili tu co prawda i rezerwat przyrody, ale tak naprawdę wszystko było dalej zwyczajne i zielone, jak to las, tu czy tam. Zrudział i poczerwieniał jednej nocy w 1986 po wypadku w Elektrowni. Kładę się ja wtedy do łóżka - las zielony. Wstaję - a tu las odmieniony. Przyszła Ona - i przegnała z lasu wszystko, co jeszcze było żywe i chciało żyć. Tylko ja tu zostałem, Czerwony Las i te nigdy nie niknące pasma gęstej mgły.</text>
+	</string>
+	<string id="red_forester_who_are_you_11111">
+		<text>Tak, wielu stalkerów dokonało tu żywota. Gadają, ze w głębi Lasu mieszkają jakieś złe siły. A ja tak sobie myślę, że Las nie jest ani lepszy, ani gorszy od czegokolwiek innego, gdzie jest Ona. Jest sprawiedliwy, tylko tyle. Jeśli traktujesz go z szacunkiem - on nie skrzywdzi ciebie.\n \nProblem jest w takich stalkerach jak ty - nigdy nie traktujecie niczego z szacunkiem. Każdy przychodzi i nie szanuje Lasu, tylko szuka tu własnego celu - no i znajduje... To, co znajduje.</text>
+	</string>
+	<string id="red_forester_about_forest_0">
+		<text>Opowiedz mi o Czerwonym Lesie.</text>
+	</string>
+	<string id="red_forester_about_forest_1">
+		<text>To niegdyś był rezerwat dzikiej przyrody - a ja, Leśnik, miałem go strzec przed kłusownikami i innymi pasożytami społecznymi. Teraz Ona sama chroni to miejsce i to tak, że ludzie wolą nadłożyć dobry kawał drogi i obejść Las dookoła, byle tylko nie musieli tu zaglądać. Śmiałka, który tu wchodzi można już z góry uznać za martwego. Nawet ja, stary Leśnik nie wiem do końca, co się tu dzieje. Był człowiek, szedł, szedł, wszedł w mgłę - i już nie ma człowieka. Mógłbyś iść zaraz za nim, a i tak nawet nie zauważysz, kiedy zniknie ci z oczu na zawsze. Tak tu już jest, synku.</text>
+	</string>
+	<string id="red_forester_about_zone_0">
+		<text>Co możesz mi powiedzieć o Zonie?</text>
+	</string>
+	<string id="red_forester_about_zone_1">
+		<text>Ech, Ona... On żyje po swojemu, a my - ludzie - tylko stajemy na Jej drodze, czasami bardziej, czasami mniej. Ona jest jak żywy organizm - chroni siebie i zwalcza zagrożenia tak, jak nasze ciało walczy z chorobą. My miewamy gorączkę - Ona też miewa dreszcze. My się pocimy i mamy mdłości - emisje to Jej sposób, by wydalić z siebie ludzkie toksyny. Im więcej zamieszania tu uczynimy - tym silniejsze będą emisje.</text>
+	</string>
+	<string id="red_forester_about_zone_11">
+		<text>Jak tu przetrwałeś tyle lat, sam jeden pośród tylu zagrożeń?</text>
+	</string>
+	<string id="red_forester_about_zone_111">
+		<text>Ciężko będzie ci to zrozumieć, ale Ona jest bardzo wrażliwym organizmem. Jedno nieostrożne działanie może na zawsze zniszczyć Ją i wszystko, co w niej jest. Nie, żeby tylko mutanty i anomalie, ale też artefakty i inne dziwy. Was, stalkerów także... Mnie nie oszczędzając. Zrozum to, żyję tu od lat i wyczuwam Jej napięcie. Ona jest bardzo niespokojna, coś Ją drażni, zakłóca Jej równowagę. Było już tak kilka lat temu, pamiętam to doskonale. Teraz znowu słychać pomruk nadciągającej burzy... a ja nie wiem, czy po niej będzie chociażby tak, jak jest teraz.</text>
+	</string>
+	
+	<string id="red_forester_about_doc_0">
+		<text>Szukam kogoś, kto może mi opowiedzieć coś o Zonie. Powiedz, staruszku, wiesz może coś użytecznego?</text>
+	</string>
+	<string id="red_forester_about_doc_1">
+		<text>Hmm... Dziarski i ambitny, jak wzorowy komsomolec! Widziałem tu już takich wielu... Tylu stalkerów tędy wędrowało, każdy ślepo wpatrzony w swoją drogę, bez tchu goniąc za swoim celem, biedaczyska...\n \nWiele lat była taka grupa śmiałków... Krążyły później plotki, że jeden z nich dotarł do Jej najgłębszych zakątków. To zapewne takiego kogoś poszukujesz. Mój stary druh ruszył kiedyś z nimi w niebezpieczną podróż. Jeśli pamięć starego człowieka nie zwodzi, to osiadł samotnie wraz ze swym psem gdzieś na Wielkich Bagnach.</text>
+	</string>
+	<string id="red_forester_about_doc_11">
+		<text>Dziękuje za informacje.</text>
+	</string>
+	<string id="red_forester_about_doc_111">
+		<text>Uważaj, za czym tak gnasz, młody człowieku. Nigdy nie wiesz, co się może stać, gdy się to ziści.</text>
+	</string>
+
+	<string id="look_for_cs_history_part_2_1_0">
+		<text>Leśniku, muszę przedostać się przez most do Limańska.</text>
+	</string>
+	<string id="look_for_cs_history_part_2_1_1">
+		<text>Przez most, powiadasz? Dlaczego sam nie pójdziesz i nie porozmawiasz z tymi, którzy go strzegą?</text>
+	</string>
+	<string id="look_for_cs_history_part_2_1_2">
+		<text>To dzięki twojej pomocy Limańsk jest teraz zajęty przez najemników.</text>
+	</string>
+	<string id="look_for_cs_history_part_2_1_3">
+		<text>Pamiętam o tym. Ale i tak nie uzyskasz ode mnie żadnej pomocy. Sam wciąż się zastanawiam, czy należało pomagać tamtym ludziom.</text>
+	</string>
+	<string id="look_for_cs_history_part_2_1_4">
+		<text>Posłuchaj, naprawdę musisz mi pomóc. Jakie to ma dzisiaj znaczenie, czy wtedy należało postąpić tak, czy inaczej? Co było to było, nie rozpamiętujmy. Tak czy owak - ja muszę się przekonać, czy jestem w stanie dotrzeć do miasta.</text>
+	</string>
+	<string id="look_for_cs_history_part_2_1_5">
+		<text>Powiesz mi o wszystkim tu i teraz - albo zaraz komuś zrobi się naprawdę niemiło. Wybieraj.</text>
+	</string>
+	<string id="look_for_cs_history_part_2_1_6">
+		<text>Staruszku, jeśli Zona zechce i przepuści, abym dotarł do Limańska, to ja tam dotrę, a jeśli nie zechce - to cóż, raz matka rodziła... Zona pozwoliła, abyśmy się spotkali i to tobie powinno zależeć, aby mi pomóc. Kto wie, czy nie stajesz jej właśnie na drodze i czy będzie dla ciebie dalej taka łaskawa.</text>
+	</string>
+	<string id="look_for_cs_history_part_2_1_7">
+		<text>...Szrama... Widziałem w nim coś więcej, jak go tylko zobaczyłem. Ona potrzebowała go do swych celów i nie ukrywam: chciałbym wiedzieć, co się z nim dalej stało. Ale ty, chłystku...\n \nDobra, słuchaj: był czas, że pomogliśmy oddziałowi najemników wydostać się z anomalii przestrzennej. Gdy już wszystko się uspokoiło i przycichło - złożyli mi tu niespodziewaną wizytę. Zdaje się, że jeden z nich chciał mnie wrobić, ale udowodniłem, że brałem udział w tamtej akcji ratunkowej. Po moich wyjaśnieniach ich dowódca, Leszy, obdarował mnie pieniędzmi, amunicją i prowiantem - a potem poszedł swoją drogą.\n \nZ tego, co mi wiadomo - rzucił służbę i udał się do Wolności w Magazynach Wojskowych. Jak chcesz, to idź tam i poszukaj go. Kilka lat już minęło, ale jeśli wciąż żyje, to powinieneś go tam odnaleźć, wyglądał na człowieka zdeterminowanego w swych postanowieniach.</text>
+	</string>
+
+	
+<!-- (Monolith Trader) by the bridge to Limansk -->
+	<string id="meet_guid_red_forest_mon_0">
+		<text>Dokąd możesz mnie zaprowadzić, bracie?</text>
+	</string>
+	<string id="meet_guid_red_forest_mon_1">
+		<text>Nie jestem w stanie sam cię odeskortować, ale nasi bracia mogą wskazać ci bezpieczną drogę, o ile zapłacisz. Mamy swe siły w Czerwonym Lesie, w Jupiterze i w Prypeci. Dogadamy się - to powspółpracujemy.</text>
+	</string>
+
+	<string id="meet_guid_red_forest_mon_list_0">
+		<text>Dokąd i za ile możecie mnie zaprowadzić?</text>
+	</string>
+	<string id="meet_guid_red_forest_mon_list_1">
+		<text>Bezpieczna droga do Czerwonego Lasu - pięć tysięcy rubli. Do Jupitera za dwa tysiące. Prypeć - tylko tysiąc.</text>
+	</string>
+
+	<string id="travel_guid_red_forest_mon_0">
+		<text>Potrzebuję dostać się w pewne miejsce.</text>
+	</string>
+	<string id="travel_guid_red_forest_mon_1">
+		<text>Jasne. Dokąd przewodnik ma cię zabrać?</text>
+	</string>
+	<string id="travel_guid_red_forest_mon_2">
+		<text>Do Czerwonego Lasu. %c[d_orange][5.000 RU]</text>
+	</string>
+	<string id="travel_guid_red_forest_mon_3">
+		<text>Do Jupitera. %c[d_orange][2.000 RU]</text>
+	</string>
+	<string id="travel_guid_red_forest_mon_4">
+		<text>Do Prypeci. %c[d_orange][1.000 RU]</text>
+	</string>
+	<string id="travel_guid_red_forest_mon_5">
+		<text>Jednak zmieniłem zdanie.</text>
+	</string>
+	
+<!-- Sin trader -->
+	<string id="red_greh_trader_start_dialog_0">
+		<text>Idź, bracie. Dołożę swych starań, abyś dobrze służył Zonie, naszej matce.</text>
+	</string>
+	<string id="red_greh_trader_st_1">
+		<text>Jeśli potrzeba ci wyposażenia - mogę pomóc. Nasi odważni wojownicy dostarczają mi broń i sprzęt wrogów, którzy zginęli z ich rąk - ale to nie wszystko, czym dysponuję, o nie! Długie lata budowałem kontakty z ludźmi, którzy gotowi są dostarczać nam towar z zewnątrz - i moje starania zaczynają teraz procentować.\n \nWidzisz, bracie... Niewielu błądzących docenia wspaniałość Zony, matki naszej. Większość pozostaje głuchymi na argumenty naszej świętej sprawy, a wielu jest takich, którzy woleliby nas wszystkich widzieć martwymi... Ale chciwość zysków rządzi nimi bardziej, niż nienawiść. To właśnie czyni tych głupców takimi cudownie plastycznymi i chętnymi do współpracy - a ja nauczyłem się, jak obracać ich ułomności na naszą korzyść.\n \nDzień po dniu przybliżamy Wyraj za pomocą narzędzi, które oni nam ochoczo dostarczają... za ułudę cyferek, metalowe krążki i zadrukowane skrawki papieru. Trochę to ironiczne, nie sądzisz?</text>
+	</string>
+
+<!-- Sin mechanic -->
+	<string id="red_greh_tech_start_dialog_0">
+		<text>Zona, to coś więcej, niż tylko to, co widzisz.</text>
+	</string>
+	<string id="red_greh_tech_st_1">
+		<text>Niczym więcej nie jestem, jak pokornym sługą. Słuchaj, bracie! Pracowałem jako inżynier dla Mistrzów od niepamiętnych czasów, jeszcze zanim powstała Zona, nasza matka. Byłem jednym z wielu zaanagażowanych w powstanie Generatorów. Mała, ale ważna rola trybika służącego powstaniu Zony - oto moje życie.\n \nKiedy Mistrzowie wstąpili w Wyraj, a ojciec nasz, Czarnobóg został posłany, aby pełnić ich wolę - w uznaniu mojej roli i poświęcenia dla Sprawy zawezwał mnie w szeregi Grzechu. Od tamtego dnia nieustannie czuwam nad utrzymaniem wyposażenia naszych krzyżowców w odpowiednim stanie. Wszystko po to, aby i oni mogli wypełniać rolę Mistrzów.</text>
+	</string>
+</string_table>

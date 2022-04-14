@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<!-- Bandits -->
+	<string id="cc_generic-bandit-meet_hello_1">
+		<text>Zacznij gadać, koleś.</text>
+	</string>
+	<string id="cc_generic-bandit-meet_hello_2">
+		<text>Zamieniam się w słuch, koleś.</text>
+	</string>
+	<string id="cc_generic-bandit-meet_hello_3">
+		<text>No witam!</text>
+	</string>
+
+	<string id="cc_generic-bandit-meet_hide_weapon_1">
+		<text>Przestań mi tym machać!</text>
+	</string>
+	<string id="cc_generic-bandit-meet_hide_weapon_2">
+		<text>Zabierz mi to sprzed twarzy!</text>
+	</string>
+	<string id="cc_generic-bandit-meet_hide_weapon_3">
+		<text>Twardziela mi tu zgrywasz? Schowaj broń!</text>
+	</string>
+	<string id="cc_generic-bandit-meet_hide_weapon_4">
+		<text>Jeśli chcesz pozostać w jednym kawałku, natychmiast schowaj to żelastwo!</text>
+	</string>
+	<string id="cc_generic-bandit-meet_hide_weapon_5">
+		<text>Spójrz! Ja też wyciągam swojego gnata!</text>
+	</string>
+	<string id="cc_generic-bandit-meet_hide_weapon_6">
+		<text>Nie groź nam tym żelastwem! My też mamy podobne!</text>
+	</string>
+
+	<string id="cc_generic-bandit-meet_use_no_default_1">
+		<text>Idź komuś innemu truć dupę, koleś.</text>
+	</string>
+	<string id="cc_generic-bandit-meet_use_no_default_2">
+		<text>Nie jestem teraz w nastroju do pogaduszek.</text>
+	</string>
+	<string id="cc_generic-bandit-meet_use_no_default_3">
+		<text>Spadaj!</text>
+	</string>
+
+	<string id="cc_generic-bandit-meet_use_no_fight_1">
+		<text>Co jest z Tobą nie tak?</text>
+	</string>
+	<string id="cc_generic-bandit-meet_use_no_fight_2">
+		<text>Mniej gadania, więcej strzelania!</text>
+	</string>
+	<string id="cc_generic-bandit-meet_use_no_fight_3">
+		<text>Wybrałeś dobry moment do rozmowy...</text>
+	</string>
+
+	<string id="cc_generic-bandit-meet_use_no_talk_leader_1">
+		<text>Porozmawiaj z wielkim złym szefem.</text>
+	</string>
+	<string id="cc_generic-bandit-meet_use_no_talk_leader_2">
+		<text>Nie płacą mi za słuchanie Twojego pierdolenia.</text>
+	</string>
+	<string id="cc_generic-bandit-meet_use_no_talk_leader_3">
+		<text>Jeśli czegoś potrzebujesz, szef stoi tam.</text>
+	</string>
+
+	<string id="cc_generic-bandit-meet_use_no_weapon_1">
+		<text>Nie zamierzam gadać z Tobą z tym czymś przystawionym do twarzy!</text>
+	</string>
+	<string id="cc_generic-bandit-meet_use_no_weapon_2">
+		<text>Odłóż klamkę, wtedy pogadamy.</text>
+	</string>
+	<string id="cc_generic-bandit-meet_use_no_weapon_3">
+		<text>Schowaj to albo bujaj się stąd!</text>
+	</string>
+
+	<!-- Clear Sky -->
+	<string id="cc_generic-csky-meet_hello_1">
+		<text>Czego potrzebujesz, bracie?</text>
+	</string>
+	<string id="cc_generic-csky-meet_hello_2">
+		<text>Czego chcesz, stalkerze?</text>
+	</string>
+	<string id="cc_generic-csky-meet_hello_3">
+		<text>Czego potrzebujesz?</text>
+	</string>
+
+	<string id="cc_generic-csky-meet_hide_weapon_1">
+		<text>Odstaw tą giwerę, człowieku.</text>
+	</string>
+	<string id="cc_generic-csky-meet_hide_weapon_2">
+		<text>Przestań się popisywać! Opuść broń!</text>
+	</string>
+	<string id="cc_generic-csky-meet_hide_weapon_3">
+		<text>Dalej stary, opuść broń!</text>
+	</string>
+
+	<string id="cc_generic-csky-meet_use_no_talk_leader_1">
+		<text>Pogadaj z dowódcą jeśli czegoś chcesz...</text>
+	</string>
+	<string id="cc_generic-csky-meet_use_no_talk_leader_2">
+		<text>Pogadaj z szefem.</text>
+	</string>
+	<string id="cc_generic-csky-meet_use_no_talk_leader_3">
+		<text>Dowódca stoi właśnie tam. Idź i pogadaj z nim.</text>
+	</string>
+
+	<string id="cc_generic-csky-meet_use_no_weapon_1">
+		<text>Opuść broń to pogadamy.</text>
+	</string>
+	<string id="cc_generic-csky-meet_use_no_weapon_2">
+		<text>Jeśli chcesz pogadać to opuść tą giwerę.</text>
+	</string>
+	<string id="cc_generic-csky-meet_use_no_weapon_3">
+		<text>Najpierw opuść broń.</text>
+	</string>
+
+	<string id="cc_generic-csky-meet_weapon_start_1">
+		<text>Opuść broń to pogadamy.</text>
+	</string>
+	<string id="cc_generic-csky-meet_use_no_weapon_2">
+		<text>Jeśli chcesz pogadać to opuść tą giwerę.</text>
+	</string>
+	<string id="cc_generic-csky-meet_use_no_weapon_3">
+		<text>Najpierw opuść broń.</text>
+	</string>
+
+	<string id="cc_generic-csky-meet_weapon_wait_1">
+		<text>Odłóż ten złom!</text>
+	</string>
+	<string id="cc_generic-csky-meet_weapon_wait_2">
+		<text>Opuść broń.</text>
+	</string>
+	<string id="cc_generic-csky-meet_weapon_wait_3">
+		<text>Schowaj broń, pierdolcu!</text>
+	</string>
+	<string id="cc_generic-csky-meet_weapon_wait_4">
+		<text>Powiedziałem żebyś schowaj broń!</text>
+	</string>
+	<string id="cc_generic-csky-meet_weapon_wait_5">
+		<text>Bez popisywania się. Schowaj broń.</text>
+	</string>
+
+	<string id="cc_generic-csky-meet_stop_1">
+		<text>W Zonie pojawiają się ostatnio sami idioci.</text>
+	</string>
+	<string id="cc_generic-csky-meet_stop_2">
+		<text>No cóż, jak sobie chcesz...</text>
+	</string>
+	<string id="cc_generic-csky-meet_stop_3">
+		<text>Widzę, że nigdy nie nauczysz się mówić po naszemu.</text>
+	</string>
+
+	<string id="cc_generic-csky-meet_general_wait_1">
+		<text>Jak długo mam jeszcze kurwa czekać?</text>
+	</string>
+	<string id="cc_generic-csky-meet_general_wait_2">
+		<text>Uciąłeś tam komara czy co?</text>
+	</string>
+	<string id="cc_generic-csky-meet_general_wait_3">
+		<text>No, budzimy się!</text>
+	</string>
+	<string id="cc_generic-csky-meet_general_wait_4">
+		<text>Koleś, przerwa się skończyła.</text>
+	</string>
+	<string id="cc_generic-csky-meet_general_wait_5">
+		<text>Chciałeś coś?</text>
+	</string>
+
+	<string id="cc_generic-csky-meet_general_stop_1">
+		<text>Widzę, że kolega jest niepełnosprawny, czyż tak?</text>
+	</string>
+	<string id="cc_generic-csky-meet_general_stop_2">
+		<text>Ale z Ciebie zjeb, bracie.</text>
+	</string>
+	<string id="cc_generic-csky-meet_general_stop_3">
+		<text>O nie! Ani jednego niemego.</text>
+	</string>
+
+	<string id="cc_generic-csky-meet_general_start_1">
+		<text>Więc... czego Ci trzeba?</text>
+	</string>
+	<string id="cc_generic-csky-meet_general_start_2">
+		<text>Czego chciałeś?</text>
+	</string>
+	<string id="cc_generic-csky-meet_general_start_3">
+		<text>Co jest, stalkerze?</text>
+	</string>
+
+	<string id="cc_generic-csky-meet_comander_wait_1">
+		<text>Powiesz mi czego chcesz?</text>
+	</string>
+	<string id="cc_generic-csky-meet_comander_wait_2">
+		<text>Mów, kurwa!</text>
+	</string>
+	<string id="cc_generic-csky-meet_comander_wait_3">
+		<text>Czy masz do mnie jakiś romans?</text>
+	</string>
+	<string id="cc_generic-csky-meet_comander_wait_4">
+		<text>O co chodzi?</text>
+	</string>
+	<string id="cc_generic-csky-meet_comander_wait_5">
+		<text>Na co czekasz, bracie?</text>
+	</string>
+
+	<string id="cc_generic-csky-meet_comander_stop_1">
+		<text>A myślałem, że przynajmniej w Zonie nie ma idiotów...</text>
+	</string>
+	<string id="cc_generic-csky-meet_comander_stop_2">
+		<text>No cóż, jak sobie chcesz...</text>
+	</string>
+	<string id="cc_generic-csky-meet_comander_stop_3">
+		<text>Widzę, że nigdy nie nauczysz się mówić po naszemu.</text>
+	</string>
+
+	<string id="cc_generic-csky-meet_comander_start_1">
+		<text>Czego potrzebujesz stalkerze?</text>
+	</string>
+	<string id="cc_generic-csky-meet_comander_start_2">
+		<text>Powiesz mi czego chcesz?</text>
+	</string>
+	<string id="cc_generic-csky-meet_comander_start_3">
+		<text>Czego potrzebujesz?</text>
+	</string>
+
+	<!-- Duty -->
+	<string id="cc_generic-dolg-meet_hello_1">
+		<text>Co słychać?</text>
+	</string>
+	<string id="cc_generic-dolg-meet_hello_2">
+		<text>Witam!</text>
+	</string>
+	<string id="cc_generic-dolg-meet_hello_3">
+		<text>Czas to pieniądz. Zacznij gadać!</text>
+	</string>
+
+	<string id="cc_generic-dolg-meet_hide_weapon_1">
+		<text>Opuść broń, przyjacielu.</text>
+	</string>
+	<string id="cc_generic-dolg-meet_hide_weapon_2">
+		<text>Odłóż broń.</text>
+	</string>
+	<string id="cc_generic-dolg-meet_hide_weapon_3">
+		<text>Schowaj broń, wodzu.</text>
+	</string>
+	<string id="cc_generic-dolg-meet_hide_weapon_7">
+		<text>Opuść broń człowieku.</text>
+	</string>
+	<string id="cc_generic-dolg-meet_hide_weapon_8">
+		<text>Zabieraj to ode mnie!</text>
+	</string>
+	<string id="cc_generic-dolg-meet_hide_weapon_9">
+		<text>Schowaj broń stary!</text>
+	</string>
+	<string id="cc_generic-dolg-meet_hide_weapon_10">
+		<text>Czy potrzebujesz pomocy w schowaniu swojej broni?</text>
+	</string>
+	<string id="cc_generic-dolg-meet_hide_weapon_11">
+		<text>Koleś... odłóż broń.</text>
+	</string>
+
+	<string id="cc_generic-dolg-meet_use_no_default_1">
+		<text>Nie, teraz nie porozmawiamy.</text>
+	</string>
+	<string id="cc_generic-dolg-meet_use_no_default_2">
+		<text>Nie jestem w nastroju do rozmów.</text>
+	</string>
+	<string id="cc_generic-dolg-meet_use_no_default_3">
+		<text>Nie mogę teraz gadać.</text>
+	</string>
+
+	<string id="cc_generic-dolg-meet_use_no_fight_1">
+		<text>Porozmawiamy później.</text>
+	</string>
+	<string id="cc_generic-dolg-meet_use_no_fight_2">
+		<text>Później. Porozmawiamy później.</text>
+	</string>
+	<string id="cc_generic-dolg-meet_use_no_fight_3">
+		<text>To zły moment na pogawędki.</text>
+	</string>
+
+	<string id="cc_generic-dolg-meet_use_no_talk_leader_1">
+		<text>Porozmawiaj z dowódcą, jeśli czegoś potrzebujesz.</text>
+	</string>
+	<string id="cc_generic-dolg-meet_use_no_talk_leader_2">
+		<text>Stalkerze, z pytaniami kieruj się do dowódcy.</text>
+	</string>
+	<string id="cc_generic-dolg-meet_use_no_talk_leader_3">
+		<text>Idź do dowódcy.</text>
+	</string>
+	
+	<string id="cc_generic-dolg-meet_use_no_weapon_1">
+		<text>Pogadamy kiedy przestaniesz celować w moją twarz.</text>
+	</string>
+	<string id="cc_generic-dolg-meet_use_no_weapon_2">
+		<text>Albo odłożysz broń, albo wypierdalaj mi stąd!</text>
+	</string>
+	<string id="cc_generic-dolg-meet_use_no_weapon_3">
+		<text>Pogadamy, kiedy już opuścisz broń.</text>
+	</string>
+	<string id="cc_generic-dolg-meet_use_no_weapon_6">
+		<text>Zapomniałeś schować broni?</text>
+	</string>
+	<string id="cc_generic-dolg-meet_use_no_weapon_7">
+		<text>Tak nie będziemy rozmawiać.</text>
+	</string>
+	<string id="cc_generic-dolg-meet_use_no_weapon_8">
+		<text>Jeśli nie odłożysz broni, za chwilę sobie z nią pogadasz!</text>
+	</string>
+
+	<!-- Ecologists -->
+	<string id="cc_generic-ecolog-meet_hello_1">
+		<text>Co mi powiesz?</text>
+	</string>
+	<string id="cc_generic-ecolog-meet_hello_2">
+		<text>Słucham.</text>
+	</string>
+	<string id="cc_generic-ecolog-meet_hello_3">
+		<text>Miłego dnia.</text>
+	</string>
+
+	<string id="cc_generic-ecolog-meet_hide_weapon_1">
+		<text>Hej, to nie wyjdzie. Schowaj broń</text>
+	</string>
+	<string id="cc_generic-ecolog-meet_hide_weapon_2">
+		<text>Najpierw schowaj broń.</text>
+	</string>
+	<string id="cc_generic-ecolog-meet_hide_weapon_3">
+		<text>Najpierw odłóż broń, stary.</text>
+	</string>
+
+	<string id="cc_generic-ecolog-meet_use_no_default_1">
+		<text>Nie mamy teraz o czym rozmawiać.</text>
+	</string>
+	<string id="cc_generic-ecolog-meet_use_no_default_2">
+		<text>Wybacz, nie mamy o czym mówić.</text>
+	</string>
+	<string id="cc_generic-ecolog-meet_use_no_default_3">
+		<text>Nie zawracaj mi głowy.</text>
+	</string>
+
+	<string id="cc_generic-ecolog-meet_use_no_fight_1">
+		<text>Na prawdę chcesz gadać? Odczep się, idioto!</text>
+	</string>
+	<string id="cc_generic-ecolog-meet_use_no_fight_2">
+		<text>Później! Pogadamy później!</text>
+	</string>
+	<string id="cc_generic-ecolog-meet_use_no_fight_3">
+		<text>Masz głowę na karku?! Nie teraz!</text>
+	</string>
+
+	<string id="cc_generic-ecolog-meet_use_no_talk_leader_1">
+		<text>Nie mamy teraz o czym rozmawiać.</text>
+	</string>
+	<string id="cc_generic-ecolog-meet_use_no_talk_leader_2">
+		<text>Wybacz, nie ma o czym mówić.</text>
+	</string>
+	<string id="cc_generic-ecolog-meet_use_no_talk_leader_3">
+		<text>Oszczędź mi gadki.</text>
+	</string>
+
+	<string id="cc_generic-ecolog-meet_use_no_weapon_1">
+		<text>Jeśli chcesz pogadać, odłóż broń.</text>
+	</string>
+	<string id="cc_generic-ecolog-meet_use_no_weapon_2">
+		<text>Schowaj tę pukawkę, stary. W przeciwnym razie, nie mamy o czym rozmawiać.</text>
+	</string>
+	<string id="cc_generic-ecolog-meet_use_no_weapon_3">
+		<text>Hej, tak to nie będzie. Schowaj broń.</text>
+	</string>
+
+	<!-- Freedom -->
+	<string id="cc_generic-freedom-meet_hello_1">
+		<text>Nawijaj!</text>
+	</string>
+	<string id="cc_generic-freedom-meet_hello_2">
+		<text>Słucham cię.</text>
+	</string>
+	<string id="cc_generic-freedom-meet_hello_3">
+		<text>Co jest bracie?</text>
+	</string>
+
+	<string id="cc_generic-freedom-meet_hide_weapon_1">
+		<text>Nie zgrywaj bohatera. Schowaj broń.</text>
+	</string>
+	<string id="cc_generic-freedom-meet_hide_weapon_2">
+		<text>Odłóż tą broń, do cholery!</text>
+	</string>
+	<string id="cc_generic-freedom-meet_hide_weapon_3">
+		<text>Pokój człowieku! Opuść tą swoją armatę.</text>
+	</string>
+	<string id="cc_generic-freedom-meet_hide_weapon_9">
+		<text>Nie wyciągaj mi tu nic a już szczególnie broni, spoko?</text>
+	</string>
+	<string id="cc_generic-freedom-meet_hide_weapon_10">
+		<text>Dość tego! Przestań w kółko tym machać.</text>
+	</string>
+	<string id="cc_generic-freedom-meet_hide_weapon_11">
+		<text>Odłóż tą zabawkę!</text>
+	</string>
+	<string id="cc_generic-freedom-meet_hide_weapon_12">
+		<text>Opuść tą pieprzoną broń.</text>
+	</string>
+
+	<string id="cc_generic-freedom-meet_use_no_default_1">
+		<text>Spieprzaj!</text>
+	</string>
+	<string id="cc_generic-freedom-meet_use_no_default_2">
+		<text>Nie chce mi się z Tobą gadać.</text>
+	</string>
+	<string id="cc_generic-freedom-meet_use_no_default_3">
+		<text>Nie mogę teraz z Tobą rozmawiać.</text>
+	</string>
+
+	<string id="cc_generic-freedom-meet_use_no_fight_1">
+		<text>Koleś, jesteś szurnięty!</text>
+	</string>
+	<string id="cc_generic-freedom-meet_use_no_fight_2">
+		<text>Teraz jest dobra chwila, aby zacząć strzelać, wiesz?</text>
+	</string>
+	<string id="cc_generic-freedom-meet_use_no_fight_3">
+		<text>To nie jest czas na pogaduszki.</text>
+	</string>
+
+	<string id="cc_generic-freedom-meet_use_no_talk_leader_1">
+		<text>Idź zawracać dupę komuś innemu, dobrze?</text>
+	</string>
+	<string id="cc_generic-freedom-meet_use_no_talk_leader_2">
+		<text>Wątpię żebyś usłyszał ode mnie coś ciekawego. Na razie!</text>
+	</string>
+	<string id="cc_generic-freedom-meet_use_no_talk_leader_3">
+		<text>Zejdź mi z oczu.</text>
+	</string>
+
+	<string id="cc_generic-freedom-meet_use_no_weapon_1">
+		<text>Chcesz gadać czy strzelać? Opuść broń!</text>
+	</string>
+	<string id="cc_generic-freedom-meet_use_no_weapon_2">
+		<text>Nie będę z Tobą gadał, kiedy we mnie celujesz.</text>
+	</string>
+	<string id="cc_generic-freedom-meet_use_no_weapon_3">
+		<text>Pogadamy, kiedy odłożysz broń.</text>
+	</string>
+	<string id="cc_generic-freedom-meet_use_no_weapon_6">
+		<text>Jesteś tu po to żeby strzelać - czy może rozmawiać?</text>
+	</string>
+	<string id="cc_generic-freedom-meet_use_no_weapon_7">
+		<text>Stary. Musisz odłożyć swoje metalowe argumenty!</text>
+	</string>
+	<string id="cc_generic-freedom-meet_use_no_weapon_8">
+		<text>Używasz tego wielkiego gnata żeby zrekompensować sobie coś małego?</text>
+	</string>
+
+	<!-- Mercenaries -->
+	<string id="cc_generic-killer-meet_hello_1">
+		<text>Podejdź. Nie gryzę.</text>
+	</string>
+	<string id="cc_generic-killer-meet_hello_2">
+		<text>Hej, koleś!</text>
+	</string>
+	<string id="cc_generic-killer-meet_hello_3">
+		<text>Kim jesteś?</text>
+	</string>
+
+	<string id="cc_generic-killer-meet_hide_weapon_1">
+		<text>Schowaj tą giwerę!</text>
+	</string>
+	<string id="cc_generic-killer-meet_hide_weapon_2">
+		<text>Jeśli chcesz pogadać, opuść broń i podejdź powoli!</text>
+	</string>
+	<string id="cc_generic-killer-meet_hide_weapon_3">
+		<text>Nie będziemy ze sobą rozmawiać celując do siebie!</text>
+	</string>
+	<string id="cc_generic-killer-meet_hide_weapon_4">
+		<text>Schowaj te narzędzie zagłady!</text>
+	</string>
+	<string id="cc_generic-killer-meet_hide_weapon_5">
+		<text>Opuść lufę i podejdź bliżej.</text>
+	</string>
+	<string id="cc_generic-killer-meet_hide_weapon_6">
+		<text>Nie wydurniaj się i schowaj to.</text>
+	</string>
+
+	<string id="cc_generic-killer-meet_use_no_default_1">
+		<text>Nie zamierzam z Tobą gadać.</text>
+	</string>
+	<string id="cc_generic-killer-meet_use_no_default_2">
+		<text>Nie chce mi się z Tobą gadać.</text>
+	</string>
+	<string id="cc_generic-killer-meet_use_no_default_3">
+		<text>Nie mam nastroju na pogawędki.</text>
+	</string>
+
+	<string id="cc_generic-killer-meet_use_no_fight_1">
+		<text>Nie teraz!</text>
+	</string>
+	<string id="cc_generic-killer-meet_use_no_fight_2">
+		<text>Odjebało Ci? Spadaj!</text>
+	</string>
+	<string id="cc_generic-killer-meet_use_no_fight_3">
+		<text>Nie zauważyłeś, że jesteśmy w trakcie walki?</text>
+	</string>
+
+	<string id="cc_generic-killer-meet_use_no_talk_leader_1">
+		<text>Nie mam nastroju na pogawędki. Idź pogadać z dowódcą.</text>
+	</string>
+	<string id="cc_generic-killer-meet_use_no_talk_leader_2">
+		<text>Jeśli czegoś chcesz to pogadaj z dowódcą.</text>
+	</string>
+	<string id="cc_generic-killer-meet_use_no_talk_leader_3">
+		<text>Nie mam nastroju na pogawędki. Idź pogadać z dowódcą.</text>
+	</string>
+
+	<string id="cc_generic-killer-meet_use_no_weapon_1">
+		<text>Nie będę z Tobą gadał z tą lufą przystawioną do twarzy!</text>
+	</string>
+	<string id="cc_generic-killer-meet_use_no_weapon_2">
+		<text>Odłóż ten złom i wtedy może pogadamy.</text>
+	</string>
+	<string id="cc_generic-killer-meet_use_no_weapon_3">
+		<text>Opuść broń albo spierdalaj!</text>
+	</string>
+
+	<!-- Military -->
+	<string id="cc_generic-military-meet_hello_1">
+		<text>Jak leci?</text>
+	</string>
+	<string id="cc_generic-military-meet_hello_2">
+		<text>Czego chcesz?</text>
+	</string>
+	<string id="cc_generic-military-meet_hello_3">
+		<text>Więc? Słucham Cię...</text>
+	</string>
+
+	<string id="cc_generic-military-meet_hide_weapon_1">
+		<text>Opuść swoją broń.</text>
+	</string>
+	<string id="cc_generic-military-meet_hide_weapon_2">
+		<text>Schowaj broń!</text>
+	</string>
+	<string id="cc_generic-military-meet_hide_weapon_3">
+		<text>Odłóż broń.</text>
+	</string>
+
+	<string id="cc_generic-military-meet_use_no_default_1">
+		<text>To nie jest czas na rozmowę.</text>
+	</string>
+	<string id="cc_generic-military-meet_use_no_default_2">
+		<text>Nie mogę Ci pomóc.</text>
+	</string>
+	<string id="cc_generic-military-meet_use_no_default_3">
+		<text>Zostaw mnie w spokoju.</text>
+	</string>
+
+	<string id="cc_generic-military-meet_use_no_fight_1">
+		<text>Porozmawiamy po walce.</text>
+	</string>
+	<string id="cc_generic-military-meet_use_no_fight_2">
+		<text>Skończ pogaduszki i skup się!</text>
+	</string>
+	<string id="cc_generic-military-meet_use_no_fight_3">
+		<text>To nie jest najlepsza pora na rozmowę.</text>
+	</string>
+	
+	<string id="cc_generic-military-meet_use_no_talk_leader_1">
+		<text>Pogadaj z dowódcą.</text>
+	</string>
+	<string id="cc_generic-military-meet_use_no_talk_leader_2">
+		<text>Dowódca odpowie na wszystkie Twoje pytania.</text>
+	</string>
+	<string id="cc_generic-military-meet_use_no_talk_leader_3">
+		<text>Ja strzelam, a dowódca zadaje pytania.</text>
+	</string>
+
+	<string id="cc_generic-military-meet_use_no_weapon_1">
+		<text>Jeśli chcesz pogadać, to opuść swoją broń.</text>
+	</string>
+	<string id="cc_generic-military-meet_use_no_weapon_2">
+		<text>Nie mam zamiaru z Tobą rozmawiać kiedy celujesz we mnie.</text>
+	</string>
+	<string id="cc_generic-military-meet_use_no_weapon_3">
+		<text>Odłóż broń i wtedy porozmawiamy.</text>
+	</string>
+
+	<!-- Monolith -->
+	<string id="cc_generic-monolith-meet_hello_1">
+		<text>Nie ufaj nikomu innemu poza Monolitem i braćmi.</text>
+	</string>
+	<string id="cc_generic-monolith-meet_hello_2">
+		<text>Za cicho tutaj.</text>
+	</string>
+	<string id="cc_generic-monolith-meet_hello_3">
+		<text>Chyba już tu kiedyś byłem... Nie pamiętam...</text>
+	</string>
+	<string id="cc_generic-monolith-meet_hello_4">
+		<text>Dziwne... Wszystko tutaj jest takie dziwne.</text>
+	</string>
+
+	<string id="cc_generic-monolith-meet_use_no_fight_1">
+		<text>Monolit... Wspaniały Monolit...</text>
+	</string>
+	<string id="cc_generic-monolith-meet_use_no_fight_2">
+		<text>Wrogowie są blisko... Taka jest wola Monolitu.</text>
+	</string>
+	<string id="cc_generic-monolith-meet_use_no_fight_3">
+		<text>Monolit... Jestem Twoim wiernym sługą.</text>
+	</string>
+
+	<string id="cc_generic-monolith-meet_use_no_talk_leader_1">
+		<text>Zachowajmy to dla siebie.</text>
+	</string>
+	<string id="cc_generic-monolith-meet_use_no_talk_leader_2">
+		<text>Nie warto kłapać na próżno.</text>
+	</string>
+	<string id="cc_generic-monolith-meet_use_no_talk_leader_3">
+		<text>Nie mam teraz ochoty na rozmowę, spadaj.</text>
+	</string>
+
+	<!-- Loners -->
+	<string id="cc_generic-stalker-meet_hello_1">
+		<text>Co jest?</text>
+	</string>
+	<string id="cc_generic-stalker-meet_hello_2">
+		<text>Witam, bracie!</text>
+	</string>
+	<string id="cc_generic-stalker-meet_hello_3">
+		<text>Słucham Cię...</text>
+	</string>
+	
+	<string id="cc_generic-stalker-meet_hide_weapon_1">
+		<text>Schowaj broń, człowieku.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_hide_weapon_2">
+		<text>Przestań się zgrywać! Odłóż broń!</text>
+	</string>
+	<string id="cc_generic-stalker-meet_hide_weapon_3">
+		<text>Dalej stary, opuść broń!</text>
+	</string>
+	<string id="cc_generic-stalker-meet_hide_weapon_7">
+		<text>Schowaj broń!</text>
+	</string>
+	<string id="cc_generic-stalker-meet_hide_weapon_6">
+		<text>Przestań we mnie celować!</text>
+	</string>
+	<string id="cc_generic-stalker-meet_hide_weapon_8">
+		<text>Odjebało ci?</text>
+	</string>
+
+	<string id="cc_generic-stalker-meet_use_no_default_1">
+		<text>Nie chce mi się z Tobą gadać.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_use_no_default_2">
+		<text>Nie mam zamiaru z Tobą rozmawiać.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_use_no_default_3">
+		<text>Nie jestem teraz w nastroju żeby się z Tobą użerać.</text>
+	</string>
+	
+	<string id="cc_generic-stalker-meet_use_no_fight_1">
+		<text>To nie jest dobry czas na kłapanie dziobem.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_use_no_fight_2">
+		<text>Odjebało ci? Pogadamy później!</text>
+	</string>
+	<string id="cc_generic-stalker-meet_use_no_fight_3">
+		<text>Czy na pewno chcesz teraz rozmawiać?</text>
+	</string>
+
+	<string id="cc_generic-stalker-meet_use_no_talk_leader_1">
+		<text>Porozmawiaj z szefem, jeśli czegoś potrzebujesz....</text>
+	</string>
+	<string id="cc_generic-stalker-meet_use_no_talk_leader_2">
+		<text>Rozmawiaj z szefem.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_use_no_talk_leader_3">
+		<text>Szef stoi tam. Idź z nim porozmawiaj.</text>
+	</string>
+
+	<string id="cc_generic-stalker-meet_use_no_weapon_1">
+		<text>Schowaj broń i wtedy porozmawiamy.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_use_no_weapon_2">
+		<text>Nie jestem zbytnio komunikatywny, kiedy ktoś celuje mi w twarz. Zdziwiony, co?</text>
+	</string>
+	<string id="cc_generic-stalker-meet_use_no_weapon_3">
+		<text>Kiedy masz mnie na muszce, jakoś nie jestem skłonny rozmawiać.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_use_no_weapon_9">
+		<text>Dalej człowieku! Odłóż broń.</text>
+	</string>
+
+	<string id="cc_generic-stalker-meet_weapon_start_1">
+		<text>Nie bądź dupkiem i odłóż broń.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_weapon_start_2">
+		<text>Przestań mi tu machać tą giwerą, zwróciłeś już wystarczająco moją uwagę.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_weapon_start_3">
+		<text>Może i nawet porozmawiamy, kiedy już opuścisz broń.</text>
+	</string>
+
+	<string id="cc_generic-stalker-meet_weapon_wait_1">
+		<text>Czemu do mnie celujesz?</text>
+	</string>
+	<string id="cc_generic-stalker-meet_weapon_wait_2">
+		<text>O co chodzi z tą bronią?</text>
+	</string>
+	<string id="cc_generic-stalker-meet_weapon_wait_3">
+		<text>Pożegnaj się z bronią.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_weapon_wait_4">
+		<text>Przestań mi tu machać przed twarzą tym żelastwem!</text>
+	</string>
+	<string id="cc_generic-stalker-meet_weapon_wait_5">
+		<text>Opuść broń. Natychmiast!</text>
+	</string>
+
+	<string id="cc_generic-stalker-meet_wait_1">
+		<text>Słucham.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_wait_2">
+		<text>No dalej, wypluj to z siebie.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_wait_3">
+		<text>Nie widzisz że jestem zajęty? Do rzeczy.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_wait_4">
+		<text>Jesteś z tych nieśmiałych czy co? Dalej, mów wreszcie.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_wait_5">
+		<text>Nie wstydź się, mów.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_wait_6">
+		<text>Jeśli jesteś tu aby pogadać o interesach, to mów.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_wait_7">
+		<text>Dobrze, dość już tej ciszy, mów o co chodzi!</text>
+	</string>
+	<string id="cc_generic-stalker-meet_wait_8">
+		<text>Paliłeś coś dzisiaj? Mów o co chodzi.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_wait_9">
+		<text>A Ty co, udar masz?</text>
+	</string>
+	<string id="cc_generic-stalker-meet_wait_10">
+		<text>No, co chciałeś mi przekazać?</text>
+	</string>
+	<string id="cc_generic-stalker-meet_wait_11">
+		<text>Cóż, chcesz czegoś czy będziesz tylko tak stał?</text>
+	</string>
+	<string id="cc_generic-stalker-meet_wait_12">
+		<text>Czy będę musiał mówić za nas obu?</text>
+	</string>
+
+	<string id="cc_generic-stalker-meet_stop_1">
+		<text>Ogłuchłeś? Gadaj wreszcie.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_stop_2">
+		<text>Wróć do mnie kiedy już nauczysz się mówić.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_stop_3">
+		<text>Ta cisza naprawdę nie sprawia mi przyjemności. Mów.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_stop_4">
+		<text>Hmmm... Niezła gadka, nie ma co.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_stop_5">
+		<text>Czy to jest konkurs 'ciszy'? Dobra, wygrałeś! A teraz gadaj.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_stop_6">
+		<text>Nie wiem o co ci chodzi.</text>
+	</string>
+	
+	<string id="cc_generic-stalker-meet_general_wait_1">
+		<text>Obudź się! Gadaj!</text>
+	</string>
+	<string id="cc_generic-stalker-meet_general_wait_2">
+		<text>Dalej, mów do mnie.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_general_wait_3">
+		<text>Dalej, zacznij gadać.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_general_wait_4">
+		<text>Cóż, chcesz czegoś ode mnie czy nie?</text>
+	</string>
+	<string id="cc_generic-stalker-meet_general_wait_5">
+		<text>Czy będę musiał mówić za nas obu?</text>
+	</string>
+
+	<string id="cc_generic-stalker-meet_general_stop_1">
+		<text>To była miła pogawędka.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_general_stop_2">
+		<text>Czy to jest konkurs 'ciszy'? Dobra, wygrałeś! A teraz gadaj.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_general_stop_3">
+		<text>Nie wiem o co ci chodzi.</text>
+	</string>
+	
+	<string id="cc_generic-stalker-meet_general_start_1">
+		<text>Jeśli chcesz coś powiedzieć, to mów.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_general_start_2">
+		<text>Zamieniam się w słuch.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_general_start_3">
+		<text>Słucham cię.</text>
+	</string>
+	
+	<string id="cc_generic-stalker-meet_comander_wait_1">
+		<text>Nie widzisz że jestem zajęty? Do rzeczy.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_comander_wait_2">
+		<text>Jesteś z tych nieśmiałych, co? Dalej, gadaj!</text>
+	</string>
+	<string id="cc_generic-stalker-meet_comander_wait_3">
+		<text>Nie wstydź się, mów o co chodzi.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_comander_wait_4">
+		<text>Jeśli jesteś tu, aby pogadać o interesach, słucham Cię.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_comander_wait_5">
+		<text>Koleś, dość tej ciszy. Mów o co Ci chodzi!</text>
+	</string>
+</string_table>

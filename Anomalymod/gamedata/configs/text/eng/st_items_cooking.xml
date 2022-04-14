@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Faction Patches
+-->
+<string_table>
+	<string id="st_matches">
+		<text>Krzesiwo</text>
+	</string>
+	<string id="st_matches_descr">
+		<text>Zestaw do rozpalania ognia złożony z sosnowych listewek impregnowanych żywicą. Każdy, kto kiedykolwiek próbował rozpalić ognisko na wolnym powietrzu wie, że każdy podmuch wiatru potrafi zagasić ogień. Krzesiwo pozwala wytworzyć niewielki, ale stabilny płomień, którego temperatura jest znacznie wyższa niż papieru czy parafiny. Przedmiot niezbędny na każdym kempingu - rozpala się nawet zawilgocony.\n \n
+		%c[d_green] • %c[ui_gray_2] używany do rozpalania ognisk</text>
+	</string>
+	
+	<string id="st_wood_stove">
+		<text>Piecyk na drewno</text>
+	</string>
+	<string id="st_wood_stove_descr">
+		<text>Ten poręczny, składany piecyk przeznaczony jest do przygotowania pojedynczego dania przy wykorzystaniu drewna. Jednak drewno, jakie można znaleźć w Zonie, jest zbyt skażone, dlatego stalkerzy stosują zazwyczaj importowany węgiel drzewny jako najtańszy i najłatwiej dostępny zamiennik.\n \nPiecyk osiąga temperatury wystarczające do ugotowania mniej zanieczyszczonych mięs mutantów, lecz przygotowanie dań zawierających znacznie bardziej toksyczne składniki wymaga bardziej zaawansowanych przyrządów. Wykonany ze stali nierdzewnej i bardzo lekkiego tytanu. Do użycia potrzebne jest źródło ognia.\n \n%c[ui_gray_3]UWAGI: \n%c[ui_gray_1]Chociaż węgiel drzewny dostępny jest z Zonie po względnie niskiej cenie, żeby przygotować posiłek potrzebujesz go w dużej ilości. Z tego powodu nie jest on tak opłacalny, jak mogłoby się wydawać. Z drugiej strony jest dość lekki, przez co idealnie nadaje się na dłuższe wypady w głąb Zony.\n \n%c[ui_gray_1]Mięsa mutantów dzielimy na dwie kategorie: te, których przygotowanie nie wymaga wysokiej temperatury, określane są jako "mięsa niższego poziomu", zaś te, które wymagają wysokiej temperatury, to "mięsa wyższego poziomu".\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2]obiekt techniczny\n
+		%c[d_green] • %c[ui_gray_2] podstawowy sprzęt do gotowania\n
+		%c[d_green] • %c[ui_gray_2] paliwo: %c[ui_gray_1] węgiel drzewny\n
+		%c[d_green] • %c[ui_gray_2] można użyć do ugotowania mięs niższego poziomu\n</text>
+	</string>
+	
+	<string id="st_cooking">
+		<text>Kuchenka turystyczna</text>
+	</string>
+	<string id="st_cooking_descr">
+		<text>Zestaw do gotowania w warunkach polowych. Zawiera wszystkie niezbędne akcesoria i sprzęty potrzebne do przyrządzania posiłków w czasie kempingów, czy pieszych wypraw. Generuje mnóstwo hałasu, a przez swoją wagę i ilość elementów jest bardzo nieporęczna. Chętnie korzystają z niej większe grupy przebywających ze sobą stalkerów.\n \n%c[ui_gray_3]UWAGI: \n%c[ui_gray_1]Chociaż węgiel drzewny dostępny jest z Zonie po względnie niskiej cenie, żeby przygotować posiłek potrzebujesz go w dużej ilości. Z tego powodu nie jest on tak opłacalny, jak mogłoby się wydawać. Z drugiej strony jest dość lekki, przez co idealnie nadaje się na dłuższe wypady w głąb Zony.\n \n%c[ui_gray_1]Mięsa mutantów dzielimy na dwie kategorie: te, których przygotowanie nie wymaga wysokiej temperatury, określane są jako "mięsa niższego poziomu", zaś te, które wymagają wysokiej temperatury, to "mięsa wyższego poziomu".\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2]obiekt techniczny\n
+		%c[d_green] • %c[ui_gray_2] podstawowy sprzęt do gotowania\n
+		%c[d_green] • %c[ui_gray_2] paliwo: %c[ui_gray_1] węgiel drzewny\n
+		%c[d_green] • %c[ui_gray_2] można użyć do ugotowania mięs niższego poziomu\n
+		</text>
+	</string>
+	
+	<string id="st_army_bowler">
+		<text>Menażka</text>
+	</string>
+	<string id="st_army_bowler_descr">
+		<text>Wojskowa menażka ma charakterystyczny wklęsło-wypukły kształt. Posiada rączkę z drutu do zawieszania i przenoszenia.\n \nNosząc menażkę przy pasie, powinna przylegać wklęsłą stroną do ciała. Pokrywki można używać jak patelni do podgrzania, czy przyrządzania drugiego dania. Jej osobna rączka jest zaprojektowana tak, by wytrzymywać wysokie temperatury. Przy okazji stanowi bezpieczne zamknięcie całego pojemnika. Do zestawu dołączona jest niewielka łyżka, wetknięta w perforację w rączce.\n \n%c[ui_gray_3]UWAGI: \n%c[ui_gray_1]Jako że paliwa stosowane w piecu wielopaliwowym odznaczają się przeważnie wyższą kalorycznością niż węgiel czy drewno, piec wielopaliwowy jest - przynajmniej na dłuższą metę - bardziej opłacalnym rozwiązaniem niż piec na drewno czy węgiel. Z drugiej strony paliwa te zazwyczaj przenoszone są w ciężkich, metalowych pojemnikach, co sprawia, że bardziej nadają się do użycia w bazie niż podczas działań polowych.\n \n%c[ui_gray_1]Mięsa mutantów dzielimy na dwie kategorie: te, których przygotowanie nie wymaga wysokiej temperatury, określane są jako "mięsa niższego poziomu", zaś te, które wymagają wysokiej temperatury, to "mięsa wyższego poziomu".\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2]obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość wykonania\n
+		%c[d_green] • %c[ui_gray_2] zaawansowany sprzęt do gotowania\n
+		%c[d_green] • %c[ui_gray_2] paliwo: %c[ui_gray_1] węgiel\n
+		%c[d_green] • %c[ui_gray_2] można korzystać w %c[ui_gray_1]ogniskach%c[ui_gray_2]
+		%c[d_green] • %c[ui_gray_2] można użyć ugotowania mięs niższego poziomu\n</text>
+	</string>
+	
+	<string id="st_fieldcooker">
+		<text>Kuchenka wielopaliwowa</text>
+	</string>
+	<string id="st_fieldcooker_descr">
+		<text>Kuchenki tego typu są od lat poddawane wielu testom, były i nadal są używane w czasie najróżniejszych wypraw. Są niezwykle wytrzymałe i niezawodne - w końcu zostały zaprojektowane, by radzić sobie w wymagających sytuacjach, na ekstremalnych wysokościach i w skrajnych temperaturach.\n \nJest bardzo wydajna, pozwala na zastosowanie niemal każdego rodzaju paliwa, włączając butan, benzynę, olej, naftę, a nawet paliwo lotnicze. Ergonomiczne pokrętło pozwala dostosować intensywność płomienia, nawet jeśli dotykasz go przez rękawice.\n \n%c[ui_gray_3]UWAGI: \n%c[ui_gray_1]Jako że paliwa stosowane w piecu wielopaliwowym odznaczają się przeważnie wyższą kalorycznością niż węgiel czy drewno, piec wielopaliwowy jest - przynajmniej na dłuższą metę - bardziej opłacalnym rozwiązaniem niż piec na drewno czy węgiel. Z drugiej strony paliwa te zazwyczaj przenoszone są w ciężkich, metalowych pojemnikach, co sprawia, że bardziej nadają się do użycia w bazie niż podczas działań polowych.\n \n%c[ui_gray_1]Mięsa mutantów dzielimy na dwie kategorie: te, których przygotowanie nie wymaga wysokiej temperatury, określane są jako "mięsa niższego poziomu", zaś te, które wymagają wysokiej temperatury, to "mięsa wyższego poziomu".\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2]obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość wykonania\n
+		%c[d_green] • %c[ui_gray_2] profesjonalny sprzęt do gotowania\n
+		%c[d_green] • %c[ui_gray_2] paliwo: %c[ui_gray_1]benzyna, gaz ziemny, nafta\n
+		%c[d_green] • %c[ui_gray_2] można użyć do ugotowania mięs wszystkich mutantów\n</text>
+	</string>
+	
+	<string id="st_box_matches">
+		<text>Zapałki</text>
+	</string>
+	<string id="st_box_matches_descr">
+		<text>Paczka zapałek to druga najpotrzebniejsza rzecz w Zonie, zaraz po broni. Z pomocą zapałek możesz rozpalić ogień, odpalić kumplowi szluga, albo oświetlić niewielką przestrzeń.\n \nTa paczka została wyprodukowana w jakiejś podziemnej fabryce na obrzeżach Zony. Nie są bardzo drogie, ale nie oczekuj od nich zbyt wysokiej jakości wykonania. Pudełeczko jest zmięte, siarka pokruszona, a zapałki wilgotne i połamane. Tylko niewielka część zawartości pozostaje użyteczna.\n \nRozpalanie zapałkami ognia, czy odpalanie nimi papierosów to sztuka - większość stalkerów woli nosić droższe, ale bardziej praktyczne zapalniczki.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot codziennego użytku\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do: %c[ui_gray_1] rozpalania ognia, odpalania papierosów\n</text>
+	</string>
+	
+	<string id="st_kerosene">
+		<text>Nafta</text>
+	</string>
+	<string id="st_kerosene_descr">
+		<text>Nafta znajduje zastosowanie w wielu dziedzinach, np. w lotnictwie, jako paliwo rakietowe czy też jako paliwo do produktów szklanych, w domu i w urządzeniach grzewczych. Jest również świetnym rozpuszczalnikiem i może bez problemu dotrzeć do wewnętrznych części mechanizmów; w związku z tym można ją wykorzystać do czyszczenia i napraw wyposażenia.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_green] • %c[ui_gray_2] paliwo wysokiej jakości\n
+		</text>
+	</string>
+	
+	<string id="st_charcoal">
+		<text>Węgiel drzewny</text>
+	</string>
+	<string id="st_charcoal_descr">
+		<text>Węgiel drzewny przeznaczony do smażenia mięsa, ryb i warzyw w piecyku i na rożnie.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_green] • %c[ui_gray_2] paliwo niskiej jakości\n</text>
+	</string>
+
+	<string id="st_paliwo_tier_1">
+		<text>Przedmioty palne</text>
+	</string>
+	<string id="st_paliwo_tier_1_desc">
+		<text>
+		%c[d_blue] • %c[ui_gray_2] Ognisko\n
+		%c[d_blue] • %c[ui_gray_2] Węgiel drzewny\n
+		%c[d_blue] • %c[ui_gray_2] Nafta\n
+		%c[d_blue] • %c[ui_gray_2] Kanister z paliwem\n
+		%c[d_blue] • %c[ui_gray_2] Butla z gazem\n
+		</text>
+	</string>
+	
+	<string id="st_paliwo_tier_2">
+		<text>Paliwa płynne</text>
+	</string>
+	<string id="st_paliwo_tier_2_desc">
+		<text>
+		%c[d_blue] • %c[ui_gray_2] Nafta\n
+		%c[d_blue] • %c[ui_gray_2] Kanister z paliwem\n
+		%c[d_blue] • %c[ui_gray_2] Butla z gazem\n
+		</text>
+	</string>
+
+</string_table>

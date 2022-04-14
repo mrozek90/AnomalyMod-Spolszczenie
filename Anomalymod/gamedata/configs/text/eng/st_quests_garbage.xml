@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+<!-- Butcher -->
+	<string id="hunter_gar_trader_task_1_name">
+		<text>Sezon łowiecki</text>
+	</string>
+	<string id="hunter_gar_trader_task_1_text">
+		<text>Oczyść legowisko mutantów</text>
+	</string>
+	<string id="hunter_gar_trader_task_1_about">
+		<text>Potrzeba mi Twojej pomocy przy wybiciu kilku mutantów. To są współrzędne ich legowiska.</text>
+	</string>
+	<string id="hunter_gar_trader_task_1_finish">
+		<text>Dobra robota, oto Twoja zapłata.</text>
+	</string>
+
+	<string id="hunter_gar_trader_task_2_name">
+		<text>Każde polowanie jest inne</text>
+	</string>
+	<string id="hunter_gar_trader_task_2_text">
+		<text>Zlecenie Rzeźnika - dostarcz %s.</text>
+	</string>
+	<string id="hunter_gar_trader_task_2_about">
+		<text>Niektórzy nieźle płacą za mięso mutantów.</text>
+	</string>
+	<string id="hunter_gar_trader_task_2_fetch_about">
+		<text>Chcesz sobie trochę dorobić? Znam paru "koneserów", którym smakuje mięso tutejszych mutantów. Oszczędzę Ci szczegółów - dasz radę zdobyć %s?</text>
+	</string>
+	<string id="hunter_gar_trader_task_2_fetch_finish">
+		<text>No no, ładna rąbanka się trafiła. Będzie z Ciebie dobry myśliwy.</text>
+	</string>
+
+	
+<!-- Flea Market -->
+	<string id="baraholka_trader_night_task_1_name">
+		<text>Pola Cudów</text>
+	</string>
+	<string id="baraholka_trader_night_task_1_text">
+		<text>Handlarz z Pchlego Targu poszukuje artefaktu %s.</text>
+	</string>
+	<string id="baraholka_trader_night_task_1_about">
+		<text>Słuchaj, chcesz przytulić trochę kasy i coś więcej? Potrzebuję paru rzadkich artefaktów. Miałbym w zamian trochę niezłego sprzętu dla Ciebie.</text>
+	</string>
+	<string id="baraholka_trader_night_task_1_fetch_about">
+		<text>Słuchaj, chcesz przytulić trochę kasy i coś więcej? Potrzebuję paru rzadkich artów. Chyba mógłbym zaoferować Ci w zamian coś ciekawego.</text>
+	</string>
+	<string id="baraholka_trader_night_task_1_fetch_finish">
+		<text>Nieźle, Stalkerze, naprawdę nieźle. Proszę, to dla Ciebie, zgodnie z umową.</text>
+	</string>
+
+
+</string_table>

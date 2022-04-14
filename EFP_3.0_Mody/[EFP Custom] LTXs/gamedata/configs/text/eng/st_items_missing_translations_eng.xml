@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="kb_tp_companion">
+		<text>Companion Teleport</text>
+	</string>
+	
+	<string id="kb_grp_custom">
+		<text>Custom Keybinds</text>
+	</string>
+
+	<string id="st_boil">
+		<text>boil</text>
+	</string>
+
+</string_table>

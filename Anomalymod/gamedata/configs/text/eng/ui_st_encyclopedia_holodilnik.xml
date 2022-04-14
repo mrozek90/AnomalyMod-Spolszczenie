@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	
+	<string id="encyclopedia_world">
+		<text>Świat gry</text>
+	</string>
+
+	<string id="encyclopedia_world_craft">
+		<text>Crafting</text>
+	</string>
+	<string id="encyclopedia_world_craft_text">
+		<text>
+			\n Crafting - bardzo szeroki temat. Obejmuje: rozkładanie broni, rozkładanie kombinezonów, wytwarzanie przedmiotów i części specjalne.	
+			\n Demontaż odbywa się poprzez bezpośrednie przeciągniecie zadanego narzędzia lub zestawu narzędzi (w przypadku kombinezonów) na kombinezon w ekwipunku.\n		
+		
+			\n%c[0,215,215,215]• %c[ui_gray_2]Demontaż broni  %c[0,215,215,215]•%c[ui_gray_2].
+			\n Demontaż broni odbywa się za pomocą specjalnych narzędzi: młota, łomu i szwajcarskiego noża. Każde narzędzie może służyć do demontażu określonej broni.
+			\n łom może być używany do demontażu karabinów 7,62, karabinów 9 mm, karabinów 5,56, karabinów 5,45, pistoletów maszynowych, śrutówek i strzelb. Niemożliwe: jakiekolwiek pistolety .
+			\n Młot może służyć do demontażu karabinów 7,62, karabinów 9 mm, karabinów 5,56, karabinów 5,45, pistoletów maszynowych, śrutówek, pistoletów.
+			\n Tylko pistolety, zarówno zużyte, jak i zardzewiałe, można zdemontować szwajcarskim nożem.\n
+		
+			\n%c[0,215,215,215]• %c[ui_gray_2]Demontaż kombinezonów %c[0,215,215,215]•%c[ui_gray_2].
+			\n Demontaż kombinezonów odbywa się za pomocą zestawu narzędzi: szorstkich, zwykłych i drobnych, a także za pomocą szwajcarskiego noża.
+			\n Szwajcarski noż może ciąć wyłącznie przedmioty z tkaniny: berety, czapki, opaski na głowę, kominiarki itp.
+			\n Szorstkie narzędzia mogą ciąć jak szwajcarski noż. Przeznaczony do demontażu elementów low-tech: wszelkiego rodzaju kurtek, płaszczy przeciwdeszczowych, niektórych masek przeciwgazowych.
+			\n Zwykle narzędzia mogą analizować to samo, co zwykle. Przeznaczony do demontażu przedmiotów o średnim stopniu zaawansowania technicznego: kombinezonów stalkerów (rękodzieło), kombinezonów stalkerów.
+			\n Elementy opancerzone kombinezonu "SEVA" (kombinezony Powinności, grube płaszcze przeciwdeszczowe, kombinezony klasy „Iolit” uczonych), kombinezony typu „Jantar”.
+			\n Cienkie narzędzia mogą również ciąć jak zwykle narzędzia. Przeznaczony do demontażu elementów high-tech: wszelkiego rodzaju SEB, kombinezonów ekologów, ciężkich pancerzy (Bułat, Skat),
+			\n Egzoszkielety, ciężkie pancerze "Woschod"(kombinezony radiacyjne), a także nowoczesne hełmy (maski, hełmy taktyczne). Nie zezwalaj na demontaż hełmu „Ekran”, jak innych narzędzi.\n 
+
+			
+			\n%c[0,215,215,215]• %c[ui_gray_2]Tworzenie przedmiotów %c[0,215,215,215]•%c[ui_gray_2].
+			\n Tworzenie obiektów to chyba najbardziej obszerny temat. Rzemieślnicy cały czas wymyślają nowe sposoby na zdobycie czegoś, a handlarze ściągają do Strefy najróżniejsze nowe rzeczy, z których można coś zrobić.
+			\n \n
+			\n Jedna z najważniejszych technologii używanych w Strefie jest odkażanie przedmiotów, które można dezaktywować. Płyn odkażający można uzyskać, mieszając aquatabs i dowolna wódkę. 
+			\n Musisz wymieszać aquatabs i wódkę, przeciągając jedna do drugiej w swoim ekwipunku. Aby dezaktywować przedmiot, musisz przeciągnąć go na płyn lub płyn na elemencie w ekwipunku.		
+			\n \n			
+			\n Rzemieślnicy otrzymują również podstawowe artykuły pierwszej potrzeby z dostępnych narzędzi. Na przykład bandaże ze szmat i wódki, również przeciągając jeden na drugi.
+			\n Szmaty można zdobyć przecinając elementy tkanin (opaski, czapki, kominiarki, bandany itp.) Szwajcarskim nożem. Wszystkie te czynności wykonuje się przeciągając jeden przedmiot na inny w ekwipunku.			
+			\n Kawałki tkaniny można również zdobyć, demontując kombinezony, możesz je po prostu znaleźć. Niektóre rodzaje tkanin są dostępne u handlarzy.
+			\n \n
+			\n Możesz również zrobić własny plecak lub śpiwór. Aby to zrobić, musisz kupić od kupca zestaw do szycia i niezbędne materiały, a następnie przeciągnąć jeden do drugiego w ekwipunku.			
+			\n \n
+			\n Kupcy sprzedają również tytoń do wyrobu skrętów. Powstałe w ten sposób skręty są znacznie wydajniejsze niż zwykle papierosy.
+			\n Czasami w asortymencie handlarzy znajdują się również zestawy do produkcji nabojów. "Domowej roboty" amunicja jest nieco mniej skuteczna, ale znacznie tańsza niż fabryczna.\n
+			
+			\n%c[0,215,215,215]• %c[ui_gray_2]Wymiana elementów %c[0,215,215,215]•%c[ui_gray_2].
+			\n Wymiana części składowych jest również popularna w naprawach niektórych elementów.
+			\n Najczęstszą wymiana jest wymiana lufy broni. Aby to zrobić, musisz mieć lufę w dobrym stanie, a kaliber lufy musi pasować do kalibru broni.
+			\n Jeśli lufa jest zużyta, można ja wyczyścić nafta, benzyna, wódka, środkami do czyszczenia broni, zestawami do czyszczenia, olejem do broni, zestawami naprawczymi.
+			\n Jeśli lufa jest zardzewiała, można ja odnowić za pomocą środków do czyszczenia broni, zestawów do czyszczenia, oleju do broni, zestawów naprawczych.
+			\n Następnie potrzebujesz zestawu określonego kalibru, aby wymienić lufę tego samego kalibru. Za pomocą zestawu i lufy możesz przywrócić do 50% wytrzymałości broni, niezależnie od oryginalnej.
+			\n \n
+			\n Możliwa jest również zmiana serw w egzoszkieletach. Wymaga to serwomechanizmu, które można uzyskać poprzez demontaż egzoszkieletu, oraz zestawu do wymiany serwomechanizmu.
+			\n Używając zestawu i serwomechanizmu, możesz przywrócić do 30% trwałości egzoszkieletu, niezależnie od jego pierwotnego stanu.\n 
+
+			\n%c[0,215,215,215]• %c[0,240,140,140]Artykuł może być z czasem uzupełniany. %c[0,215,215,215]•.			
+		</text>
+	</string>	
+	
+</string_table>

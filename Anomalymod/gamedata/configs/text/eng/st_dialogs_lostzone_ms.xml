@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="mortal_sin_start_text_0">
+		<text>Słyszałem plotki o jakimś "mrocznym stalkerze" nie wiadomo skąd. Ponoć bez przerwy głosi kazania na temat Zony. Słyszałeś o nim?</text>
+	</string>
+
+	<string id="voronin_mortal_sin_0">
+		<text>Jakie są kolejne rozkazy, panie generale?</text>
+	</string>
+	<string id="voronin_mortal_sin_1">
+		<text>Inicjatywa, to mi się podoba, żołnierzu! Cóż... Bar Sto Radów znany jest ze swej gościnności, przynajmniej do czasu. Od niedawna kręci się tu pewien dość problematyczny stalker. Na szczęście, jak na razie obyło się bez przemocy, chociaż człowiek ten bardzo agresywnie promuje na naszym terenie pogląd, jakoby Zona była "cudem" i "zbawieniem" nas wszystkich. Może uważa, że nie podchodząc zbyt blisko do sztabu, będziemy go ignorować... Nie ma takiej opcji!\n \nOdszukajcie go i wydobądźcie tyle informacji, ile tylko dacie radę. Nie wiem, możecie poudawać, że interesuje was to, o czym plecie. Po wszystkim zezwalam na eliminację celu, wygląda na kolejnego fanatyka.</text>
+	</string>
+	<string id="voronin_mortal_sin_2">
+		<text>Tak jest! Nie możemy pozwolić, by szaleńcy uprawiali na naszym terenie wrogą propagandę!</text>
+	</string>
+	<string id="voronin_mortal_sin_21">
+		<text>Proszę wybaczyć, panie generale. Potrzebuję czasu, by przygotować się do przeprowadzenia tej rozmowy.</text>
+	</string>
+	<string id="voronin_mortal_sin_3">
+		<text>Cieszę się, że to słyszę.</text>
+	</string>
+	
+	<string id="voronin_mortal_sin_envoy_0">
+		<text>Panie generale, rozkaz wykonany!</text>
+	</string>
+	<string id="voronin_mortal_sin_envoy_1">
+		<text>Widzę, że zostawiliście tego fanatyka przy życiu. Wytłumaczcie się, żołnierzu.</text>
+	</string>
+	<string id="voronin_mortal_sin_envoy_11">
+		<text>Widzę, że wyeliminowaliście zagrożenie. Doskonale. Teraz poproszę o raport operacyjny.</text>
+	</string>
+	<string id="voronin_mortal_sin_envoy_2">
+		<text>Uznałem, że dzięki niemu możemy dotrzeć do większej liczby tych ludzi, panie generale. Twierdzi, że jest wysłannikiem frakcji, którą oni sami nazywają Grzechem. Powiedział, że to oni są prawdziwymi strażnikami sekretów Zony. Rekrutują nowych członków, ponieważ szykują się do działań na dużą skalę.</text>
+	</string>
+	<string id="voronin_mortal_sin_envoy_21">
+		<text>Nieznajomy twierdził, że jest wysłannikiem frakcji, którą oni sami nazywają Grzechem. Powiedział, że to oni są prawdziwymi strażnikami sekretów Zony. Rekrutują nowych członków, ponieważ szykują się do działań na dużą skalę.</text>
+	</string>
+	<string id="voronin_mortal_sin_envoy_3">
+		<text>Dobrze zrobiliście, żołnierzu, choć sytuacja rozwija się dość niepokojąco. Otrzymuję coraz więcej raportów o starciach z członkami nieznanej frakcji. Są bardzo agresywni i atakują niemal każdą napotkaną grupę stalkerów. Sposób ataku przypomina działania partyzanckie.\n \nOstatnie zgłoszenie dotyczy Czerwonego Lasu. Chcę, żebyście odwiedzili Leśnika - zna to miejsce lepiej, niż ktokolwiek inny. Po spotkaniu oceńcie skalę zagrożenia i zweryfikujcie, czy za atakami rzeczywiście stoją członkowie Grzechu. W międzyczasie ja przygotuję "kwaterę" naszemu nieproszonemu gościowi.</text>
+	</string>
+	<string id="voronin_mortal_sin_envoy_31">
+		<text>Dobrze zrobiliście, żołnierzu, choć sytuacja rozwija się dość niepokojąco. Otrzymuję coraz więcej raportów o starciach z członkami nieznanej frakcji. Są bardzo agresywni i atakują niemal każdą napotkaną grupę stalkerów. Sposób ataku przypomina działania partyzanckie.\n \nOstatnie zgłoszenie dotyczy Czerwonego Lasu. Chcę, żebyście odwiedzili Leśnika - zna to miejsce lepiej, niż ktokolwiek inny. Po spotkaniu oceńcie skalę zagrożenia i zweryfikujcie, czy za atakami rzeczywiście stoją członkowie Grzechu.</text>
+	</string>
+	<string id="voronin_mortal_sin_envoy_4">
+		<text>Tak jest!</text>
+	</string>
+	
+	<string id="voronin_mortal_sin_report_0">
+		<text>Panie generale, przeprowadziłem zwiad w Czerwonym Lesie.</text>
+	</string>
+	<string id="voronin_mortal_sin_report_1">
+		<text>Bardzo dobrze. Mówcie, co tam się dzieje.</text>
+	</string>
+	<string id="voronin_mortal_sin_report_2">
+		<text>Melduję, że członkowie Grzechu tropili towarzysza Striełoka zwanego Igłą. Przejąłem i wyeliminowałem ich oddział, po czym skontaktowałem się z rzeczonym stalkerem. Potwierdził, że Grzech przygotowuje się do wielkiej inwazji na południowe sektory Zony. Tutaj jest PDA, które znalazłem przy martwym dowódcy oddziału. Uznałem, że zechce pan się temu przyjrzeć.</text>
+	</string>
+	<string id="voronin_mortal_sin_report_3">
+		<text>To doprawdy ponure wiadomości... Czasem zastanawiam się, kto jest bardziej nieustępliwy w swoich działaniach - my, czy Zona. Jak nie jedni kultyści z wypranymi mózgami, to inni... Powinniśmy... chwila! Ktoś atakuje nasze barykady na zachodzie! Ruchy, żołnierzu! Idź! Odeprzyj atak nieprzyjaciela!</text>
+	</string>
+	<string id="voronin_mortal_sin_report_4">
+		<text>Tajest!</text>
+	</string>
+	
+	<string id="voronin_mortal_sin_ambush_0">
+		<text>Panie generale, melduję, że udało nam się odeprzeć atak.</text>
+	</string>
+	<string id="voronin_mortal_sin_ambush_1">
+		<text>Dobra robota, żołnierzu. Grzech wykonał bardzo zuchwały ruch, za który teraz będzie musiał ponieść zasłużoną karę. Każdy prowokator czy szaleniec, który odważy się podnieść rękę przeciw Powinności, niech będzie pewny, że mu tę rękę Powinność odrąbie!\n \nWedług raportów siły nieprzyjaciela zbliżają się do dwóch instalacji psionicznych. Wygląda na to, że będą próbowali dokonać ich ponownej aktywacji. Nie można do tego dopuścić! Musimy zrobić wszystko, co w naszej mocy, by ich zablokować!</text>
+	</string>
+	<string id="voronin_mortal_sin_ambush_2">
+		<text>Której instalacji mam bronić, panie generale?</text>
+	</string>
+	<string id="voronin_mortal_sin_ambush_3">
+		<text>Możecie wybrać osobiście, żołnierzu. Ufam waszemu doświadczeniu. Osobiście zadbam o ochronę drugiego obiektu. Decydujcie się szybko, nie mamy chwili do stracenia.</text>
+	</string>
+	<string id="voronin_mortal_sin_ambush_4">
+		<text>Zajmę się ochroną Machiny Cudów. To daleko stąd, na pewno będę tam potrzebny.</text>
+	</string>
+	<string id="voronin_mortal_sin_ambush_41">
+		<text>Zajmę się ochroną Mózgozwęglacza. Nie możemy pozwolić, by wróg przejął tak potężną fortecę!</text>
+	</string>
+	
+	<string id="voronin_mortal_sin_zone_hero_0">
+		<text>Panie generale! Melduję, że wrogi przywódca poniósł śmierć, a jego wojska zostały zdziesiątkowane. Kryzys zażegnany!</text>
+	</string>
+	<string id="voronin_mortal_sin_zone_hero_1">
+		<text>Doskonale, żołnierzu! Napawasz mnie prawdziwą dumą... Stałeś się wzorem do naśladowania całej Powinności! Zona nadal stanowi ogromne zagrożenie, ale dzięki tobie jej plugastwa nie rozlały się na cały świat, jak chcieli tego fanatycy.</text>
+	</string>
+	<string id="voronin_mortal_sin_zone_hero_2">
+		<text>Chciałem też wspomnieć, panie generale, że poza naszymi oddziałami, olbrzymie wsparcie otrzymałem od Striełoka i jego towarzyszy broni.</text>
+	</string>
+	<string id="voronin_mortal_sin_zone_hero_3">
+		<text>Tak, słyszałem o tym. Powinność jako całość spełnia swoją misję ochrony słabszych i niewinnych. Chętnie korzystamy z pomocy sojuszników, nawet tych najbardziej nietypowych.\n \nA skoro o tym mowa... pytał o ciebie były jeniec wojenny. Skontaktuj się z nim w wolnym czasie.</text>
+	</string>
+	<string id="voronin_mortal_sin_zone_hero_31">
+		<text>Tak, słyszałem o tym. Powinność jako całość spełnia swoją misję ochrony słabszych i niewinnych. Chętnie korzystamy z pomocy sojuszników, nawet tych najbardziej nietypowych.</text>
+	</string>
+	<string id="voronin_mortal_sin_zone_hero_4">
+		<text>Jakie są dalsze rozkazy, panie generale?</text>
+	</string>
+	<string id="voronin_mortal_sin_zone_hero_5">
+		<text>Możecie wrócić do swoich zajęć, żołnierzu. Odmaszerować.</text>
+	</string>
+	
+	<string id="dushman_mortal_sin_0">
+		<text>Duszman, słyszałeś, jacy wszyscy tutaj pospinani? Co jest?</text>
+	</string>
+	<string id="dushman_mortal_sin_1">
+		<text>Trudno było nie słyszeć, skoro niedawno w okolicy zamelinował się jakiś dziwoląg. Nikogo w sumie nie zaczepiał, to myślę, niech se siedzi. Oczywiście posłałem paru chłopaków, żeby go obserwowali, tak na wszelki.\n \nParę dni temu zaczął nachodzić strażników i patrolowych. Non stop nawija im o jakimś duchowym gównie - w kółko zbawienie, potępienie, oczyszczenie, pierdolenie. I chłopcy zaczynają dumać, czy to nie jest jakiś Monolec w przebraniu. Idź, pogadaj z nim. Dowiedz się, o chuj mu chodzi i zrób z nim porządek.</text>
+	</string>
+	<string id="dushman_mortal_sin_2">
+		<text>Tajest, przyjrzę mu się. Rozumiem, że po wszystkim sam mam po sobie posprzątać?</text>
+	</string>
+	<string id="dushman_mortal_sin_21">
+		<text>Nie brzmi to zbyt pilnie. Odezwę się do ciebie, jak będę gotowy.</text>
+	</string>
+	<string id="dushman_mortal_sin_3">
+		<text>No a jak! Pamiętaj, dokładność, profesjonalizm i takie tam. No, idź już.</text>
+	</string>
+	
+	<string id="dushman_mortal_sin_envoy_0">
+		<text>Pogadałem sobie z tym szurem.</text>
+	</string>
+	<string id="dushman_mortal_sin_envoy_1">
+		<text>No właśnie, tylko pogadałeś... Chyba pomału nerwy ci puszczają, co? Dobra, nieważne, co ci naopowiadał?</text>
+	</string>
+	<string id="dushman_mortal_sin_envoy_11">
+		<text>Pogadałeś i załatwiłeś. No i super. Wszyscy mieli już dość tego świra. Czego żeś się dowiedział?</text>
+	</string>
+	<string id="dushman_mortal_sin_envoy_2">
+		<text>Nie chciałem doprowadzić do odwetu z ich strony. Jest jakimś... agentem. Niby należy do tajnej frakcji, nazywają się Grzechem. Twierdzi, że wiedzą o Zonie więcej, niż ktokolwiek inny i że kiedyś zapanują nad światem. W skrócie - szuka tu rekrutów dla ich sprawy.</text>
+	</string>
+	<string id="dushman_mortal_sin_envoy_21">
+		<text>Był jakimś... agentem. Należał niby do tajnej frakcji, nazywają się Grzechem. Twierdził, że wiedzą o Zonie więcej, niż ktokolwiek inny i że kiedyś zapanują nad światem. W skrócie - szukał tu rekrutów dla ich sprawy.</text>
+	</string>
+	<string id="dushman_mortal_sin_envoy_3">
+		<text>Grzech, mówisz... To się składa do kupy. Dostawałem od chłopaków raporty o stalkerach atakowanych przez jakichś dziwnych partyzantów. Dobra, będzie trzeba przyjrzeć się bliżej temu jegomościowi.\n \nW tym czasie chcę, żebyś ogarnął, co się dzieje w Czerwonym Lesie. To stamtąd otrzymujemy najwięcej doniesień o tajemniczych stalkerach straszących innych. Może to właśnie ten... Grzech, o którym się właśnie dowiedzieliśmy. Zacznij od złożenia wizyty Leśnikowi. Na pewno będzie wiedział coś na ten temat.</text>
+	</string>
+	<string id="dushman_mortal_sin_envoy_31">
+		<text>Grzech, mówisz... To się składa do kupy. Dostawałem od chłopaków raporty o stalkerach atakowanych przez jakichś dziwnych partyzantów. Dobra, powiedzmy, że ja zajmę się tym, co zostało z tego jegomościa.\n \nW tym czasie chcę, żebyś ogarnął, co się dzieje w Czerwonym Lesie. To stamtąd otrzymujemy najwięcej doniesień o tajemniczych stalkerach straszących innych. Może to właśnie ten... Grzech, o którym się właśnie dowiedzieliśmy. Zacznij od złożenia wizyty Leśnikowi. Na pewno będzie wiedział coś na ten temat.</text>
+	</string>
+	<string id="dushman_mortal_sin_envoy_4">
+		<text>Przeklęci nie zaznają spoczynku... Okej, zobaczymy, co da się zrobić.</text>
+	</string>
+	
+	<string id="dushman_mortal_sin_report_0">
+		<text>Byłem w Czerwonym Lesie.</text>
+	</string>
+	<string id="dushman_mortal_sin_report_1">
+		<text>I dowiedziałeś się czegoś interesującego, tak?</text>
+	</string>
+	<string id="dushman_mortal_sin_report_2">
+		<text>Raczej tak. Grzech ścigał kumpla Striełoka, którego poznałem podczas ostatniego kontraktu. Wyeliminowałem ich oddział, a potem spotkałem się z tym stalkerem. Potwierdził, że Grzech przygotowuje się do wielkiej inwazji mogącej objąć nawet Pogranicze. To porządny gość, żaden farmazoniarz. No i, jak na razie, wygląda na to, że po prostu wie, co mówi. Mam ze sobą PDA dowódcy tych świrów, gdybyś chciał zerknąć.</text>
+	</string>
+	<string id="dushman_mortal_sin_report_3">
+		<text>Kurwa mać. Jak Monolce chwilowo zajęły się ochroną swoich terenów, to zaraz wylazła następna banda fanatyków do ogarnięcia. Nie lubię takich wojenek, ale musimy utrzymać status quo, żeby samemu nie wylecieć z obiegu. Z resztą... co do?! Nasi strażnicy mają kontakt z wrogiem niedaleko stąd. Kurwa! Zaatakowali nas! Jebańcy! Leć, zajmij się nimi, ja ogarnę defensywę tutaj.</text>
+	</string>
+	<string id="dushman_mortal_sin_report_4">
+		<text>Zapierdalam.</text>
+	</string>
+	
+	<string id="dushman_mortal_sin_ambush_0">
+		<text>Sprawa z atakiem załatwiona.</text>
+	</string>
+	<string id="dushman_mortal_sin_ambush_1">
+		<text>Niekiepsko. Zasłużyłeś na swoją reputację. Nie możemy pozwolić tym skurwysynom robić, co im się podoba. Problem jest taki, że nasi zwiadowcy odkryli, że ten atak to tylko dywersja.\n \nGłówne siły Grzechu w tym czasie przeszły po cichu bokiem i właśnie zbliżają się do jebanego Mózgozwęglacza i pierdolonej Machiny Cudów. Jak znam życie, będą próbowali znowu włączyć te ustrojstwa. Nie możemy na to pozwolić.</text>
+	</string>
+	<string id="dushman_mortal_sin_ambush_2">
+		<text>Słuchaj, rozwalę tylu psycholi, ile mi powiesz, ale wiesz... generalnie to jestem sam jeden, jedyny.</text>
+	</string>
+	<string id="dushman_mortal_sin_ambush_3">
+		<text>A znasz to powiedzenie, że takich trzech, jak nas dwóch, to nie ma ani jednego? No właśnie. Ja zbiorę oddział, żeby obronić jedną miejscówkę. Do drugiej musisz drałować solo. Wybierz, czego wolisz dopilnować. Ruchy, nie mamy za wiele czasu.</text>
+	</string>
+	<string id="dushman_mortal_sin_ambush_4">
+		<text>Machina Cudów. To rzut muterką stąd, więc przy okazji będę miał oko na tę okolicę.</text>
+	</string>
+	<string id="dushman_mortal_sin_ambush_41">
+		<text>Mózgozwęglacz. Nie możemy pozwolić, by te świry się tam zamelinowały.</text>
+	</string>
+	
+	<string id="dushman_mortal_sin_zone_hero_0">
+		<text>Duszman, zrobiłem tym fanatykom jesień średniowiecza. Raczej nieprędko wrócą do pomysłu przejmowania władzy nad światem.</text>
+	</string>
+	<string id="dushman_mortal_sin_zone_hero_1">
+		<text>Pojebany ty jesteś... Ale stanowisz najbardziej zajebistą jednoosobową armię na świecie, to jest fakt. Świetna robota.</text>
+	</string>
+	<string id="dushman_mortal_sin_zone_hero_2">
+		<text>Cóż... Sporo pomógł mi Striełok i jego wesoła kompania.</text>
+	</string>
+	<string id="dushman_mortal_sin_zone_hero_3">
+		<text>Nie da się ukryć, ale koniec końców to właśnie tobie za to wszystko zapłacą. Najważniejsze, że możemy bez spiny wrócić do swoich zajęć.\n \nA, tak w ogóle, grupa Striełoka przyprowadziła mi tu jakiegoś jeńca wojennego. Pytał o ciebie, kręci się gdzieś w okolicy. Może powinieneś z nim pogadać?</text>
+	</string>
+	<string id="dushman_mortal_sin_zone_hero_31">
+		<text>Nie da się ukryć, ale koniec końców to właśnie tobie za to wszystko zapłacą. Najważniejsze, że możemy bez spiny wrócić do swoich zajęć. </text>
+	</string>
+	<string id="dushman_mortal_sin_zone_hero_4">
+		<text>Powiedz mi lepiej, czy w tym czasie zaobserwowaliście coś nietypowego, czym trzeba się natychmiast zająć?</text>
+	</string>
+	<string id="dushman_mortal_sin_zone_hero_5">
+		<text>Hola, kolego! Spokojnie! Poza Grześkami nic się nie działo. Cisza, spokój, babranie w gównie, wszystko po staremu.</text>
+	</string>
+	
+	<string id="sidorovich_mortal_sin_0">
+		<text>Cześć, Sidorowicz! Słyszałeś może coś o jakiejś... robocie ekstra?</text>
+	</string>
+	<string id="sidorovich_mortal_sin_1">
+		<text>A no, słyszałem, słyszałem. Od paru dni młodzików w wiosce nagabuje jakiś szurnięty facet. Przylazł tu niewiadomo skąd i bełkocze jakieś pseudo religijne bzdury - coś o doskonałości Zony i takie tam. Próbuje namówić chłopaków, żeby dołączyli do jego organizacji, czymkolwiek ona, kurwa, jest.\n \nWiększość kazała mu, ma się rozumieć, spierdalać, ale było paru takich, co połknęli haczyk. Nie chcę, żeby świeżaki dołączały do jakichś sekt i znikały bez śladu, rozumiemy się? Zajmij się tym oszołomem.</text>
+	</string>
+	<string id="sidorovich_mortal_sin_2">
+		<text>Mam się najpierw dowiedzieć, o co mu chodzi?</text>
+	</string>
+	<string id="sidorovich_mortal_sin_21">
+		<text>Nie brzmi to jak duży problem... Może zajmę się tym trochę później.</text>
+	</string>
+	<string id="sidorovich_mortal_sin_3">
+		<text>No pewnie, że tak! Wywiedz się przede wszystkim czegoś na temat tej jego frakcji. Potem... sprawimy, że chłopu przydarzy się wypadek. Wiesz, niechcący wpierdoli się w anomalię, albo polezie nie tam, gdzie trzeba i coś go zeżre... a bo to mało tu zagrożeń?</text>
+	</string>
+	
+	<string id="sidorovich_mortal_sin_envoy_0">
+		<text>Sidor, pogadałem z tym szurem.</text>
+	</string>
+	<string id="sidorovich_mortal_sin_envoy_1">
+		<text>Nigdy. Nie mów. Do mnie. W ten. Sposób. Dowiedziałeś się czegoś ciekawego? Dlaczego żeś go nie odstrzelił?</text>
+	</string>
+	<string id="sidorovich_mortal_sin_envoy_11">
+		<text>Nigdy. Nie mów. Do mnie. W ten. Sposób. Dowiedziałeś się czegoś ciekawego, zanim go odstrzeliłeś?</text>
+	</string>
+	<string id="sidorovich_mortal_sin_envoy_2">
+		<text>Nie chciałem, żeby wzięli sobie wioskę na cel. To jakiś naganiacz, mówi, że jest z Grzechu. Twierdzi, że wiedzą o Zonie więcej, niż ktokolwiek inny, a ich celem jest "oczyszczenie" świata. Tak jak mówiłeś, szuka tu rekrutów gotowych poświęcić się dla ich sprawy.</text>
+	</string>
+	<string id="sidorovich_mortal_sin_envoy_21">
+		<text>To jakiś naganiacz, mówił, że jest z Grzechu. Twierdził, że wiedzą o Zonie więcej, niż ktokolwiek inny, a ich celem jest "oczyszczenie" świata. Tak jak mówiłeś, szukał tu rekrutów gotowych poświęcić się dla ich sprawy.</text>
+	</string>
+	<string id="sidorovich_mortal_sin_envoy_3">
+		<text>Grzech, powiadasz... Niedobrze, powiem ci, niedobrze. Przez te wszystkie lata słyszałem parę razy o tych świrach, ale do tej pory nikt nie potrafił ich jednoznacznie zidentyfikować. W sumie to nawet ma sens - od jakiegoś czasu dostaję cynki od różnych frakcji, że zdarza im się tłuc z członkami jakiejś nieznanej grupy, zwłaszcza w Czerwonym Lesie.\n \nDobra, słuchaj. Mamy parę elementów tej układanki, pora je do siebie dopasować. Kopsnij no się do Czerwonego Lasu, zobaczysz, co tam się odbywa, co? Odwiedź Leśnika, na pewno będzie w stanie ci pomóc. A ja w tym czasie zastanowię się, jak po cichu pozbyć się tego szarlatana.</text>
+	</string>
+	<string id="sidorovich_mortal_sin_envoy_31">
+		<text>No to trafiła kosa na kamień, hyhyhy! Powiadasz, że Grzech, tak? Niedobrze, powiem ci, niedobrze. Przez te wszystkie lata słyszałem o tych świrach parę razy, ale do tej pory nikt nie potrafił ich jednoznacznie zidentyfikować. W sumie to nawet ma sens - od jakiegoś czasu dostaję cynki od różnych frakcji, że zdarza im się tłuc z członkami jakiejś nieznanej grupy, zwłaszcza w Czerwonym Lesie.\n \nDobra, słuchaj. Mamy parę elementów tej układanki, pora je do siebie dopasować. Kopsnij no się do Czerwonego Lasu, zobaczysz, co tam się odbywa, co? Odwiedź Leśnika, na pewno będzie w stanie ci pomóc. A ja w tym czasie pogonię któregoś z małolatów, żeby zajął się truchłem tego szarlatana. Może pójdzie do Segregacji Odpadów, hyhyhy.</text>
+	</string>
+	<string id="sidorovich_mortal_sin_envoy_4">
+		<text>Czerwony Las, super...</text>
+	</string>
+	
+	<string id="sidorovich_mortal_sin_report_0">
+		<text>Zdrastwuj, wróciłem z Czerwonego Lasu i nawet żyję.</text>
+	</string>
+	<string id="sidorovich_mortal_sin_report_1">
+		<text>A czemu miałbyś nie żyć? Nie sądziłem, że to będzie dla ciebie za dużo... No, to jak, wywiedziałeś się czegoś?</text>
+	</string>
+	<string id="sidorovich_mortal_sin_report_2">
+		<text>Czegoś tak... przede wszystkim tego, że jest chujowo. Te świry goniły za Igłą, kumplem Striełoka. Rozniosłem ich i poszedłem zamienić parę słów ze starym znajomym. Powiedział mi, że Grzech szykuje się do inwazji obejmującej całą Zonę, nawet Pogranicze. To rozsądny gość, nie mam powodów, żeby mu nie wierzyć. Masz, weź to PDA, należało do przywódcy tych fanatyków.</text>
+	</string>
+	<string id="sidorovich_mortal_sin_report_3">
+		<text>Hmm, no masz rację, to rzeczywiście brzmi chujowo. Fakt, czasem straszę gnojków historyjkami o złym i potężnym Monolicie, ale nie ma co się oszukiwać - tutaj, dla tych świeżaków to wszystko legendy o głębi Zony, żadne realne zagrożenie... Nie podoba mi się wizja, że banda szarlatanów wpadnie na Kordon i zacznie strzelać do wszystkiego, co się rusza. To nie przyniesie nic dobrego dla interesów.\n \nTak czy srak, musimy coś zrobić zanim sytuacja wymknie się spod... ech, kurwa, co tym razem?! Czekaj chwilę... O, masz. Jeden z chłopaków wysłał mi właśnie wiadomość - do wioski zbliża się dość duży oddział nieznanych stalkerów. Wyglądają na tych pomyleńców z Grzechu. Może dołączysz do reszty i przygotujesz komitet powitalny dla naszych niespodziewanych gości?</text>
+	</string>
+	<string id="sidorovich_mortal_sin_report_4">
+		<text>Z przyjemnością.</text>
+	</string>
+	
+	<string id="sidorovich_mortal_sin_ambush_0">
+		<text>Zrobione, Sidorowicz. Już po tych świrach.</text>
+	</string>
+	<string id="sidorovich_mortal_sin_ambush_1">
+		<text>Zuch chłopak! Dobrze mieć cię w pobliżu... Słuchaj, stawka poszła do góry. Zacząłem dostawać info od stalkerów z całej Zony, że główne siły Grzechu próbują dostać się do instalacji psionicznych. Coś czuję, że ci debile będą chcieli je znów włączyć i odciąć centrum Zony. Nie można im na to pozwolić, to chyba zrozumiałe...</text>
+	</string>
+	<string id="sidorovich_mortal_sin_ambush_2">
+		<text>Pewnie, nie mam zamiaru kombinować, jak je drugi raz dezaktywować. Ale wiesz, mogę być tylko w jednym miejscu naraz.</text>
+	</string>
+	<string id="sidorovich_mortal_sin_ambush_3">
+		<text>Nie ma sprawy. Zwołam chłopaków, zbiorę ekipę, żeby zajęli się jednym z kompleksów. Drugi jest cały dla ciebie. Wybierz sobie, czego wolisz dopilnować. Byle szybko.</text>
+	</string>
+	<string id="sidorovich_mortal_sin_ambush_4">
+		<text>Machina Cudów. To zadupie świata, na pewno będę tam szybciej, niż ty zbierzesz ekipę.</text>
+	</string>
+	<string id="sidorovich_mortal_sin_ambush_41">
+		<text>Mózgozwęglacz. Nie możemy pozwolić, by ci szaleńcy przejęli tak potężną fortecę!</text>
+	</string>
+	
+	<string id="sidorovich_mortal_sin_zone_hero_0">
+		<text>Wróciłem... W końcu. Grzech już nie będzie stanowił żadnego zagrożenia. Wybiłem wszystkich przywódców, a resztę szarlatanów rozgoniłem na cztery wiatry.</text>
+	</string>
+	<string id="sidorovich_mortal_sin_zone_hero_1">
+		<text>No i charaszo, stalker! Wiesz, czasem przypominasz mi Naznaczonego... Z tym, że ty przynajmniej wracasz po takiej poważnej robocie.</text>
+	</string>
+	<string id="sidorovich_mortal_sin_zone_hero_2">
+		<text>Skoro już wspomniałeś o Striełoku - nic bym nie zdziałał, gdyby nie on i jego ludzie.</text>
+	</string>
+	<string id="sidorovich_mortal_sin_zone_hero_3">
+		<text>Dobrze wiedzieć, że dalej kręci się po okolicy i zajmuje tym, czym powinien. Ty, może ty też byś tu został, co? Ludzie zaczynają się tobą interesować... Nawet nie zdajesz sobie sprawy, ilu głąbów gotowych jest kupić kawałek złomu tylko dlatego, że pochodzi z twojego szpeju.\n \nA, w ogóle, to masz już pierwszego fanboja. Czeka na ciebie gdzieś w wiosce. Może idź się z nim przywitać, bo mu smutno będzie...</text>
+	</string>
+	<string id="sidorovich_mortal_sin_zone_hero_31">
+		<text>Dobrze wiedzieć, że dalej kręci się po okolicy i zajmuje tym, czym powinien. Ty, może ty też byś tu został, co? Ludzie zaczynają się tobą interesować... Nawet nie zdajesz sobie sprawy, ilu głąbów gotowych jest kupić kawałek złomu tylko dlatego, że pochodzi z twojego szpeju.</text>
+	</string>
+	<string id="sidorovich_mortal_sin_zone_hero_4">
+		<text>To... całkiem miłe. Masz jeszcze jakąś robotę ekstra w tej chwili?</text>
+	</string>
+	<string id="sidorovich_mortal_sin_zone_hero_5">
+		<text>Nie ma teraz nic specjalnego. Generalnie, jak szukasz roboty, mam to, co zwykle.</text>
+	</string>
+	
+	<string id="cold_mortal_sin_0">
+		<text>Zimny, nie masz czasem wrażenia, że atmosfera zrobiła się jakaś... napięta? O co może chodzić chłopakom? Słyszałeś coś?</text>
+	</string>
+	<string id="cold_mortal_sin_1">
+		<text>Jak miałem nie słyszeć, jak od jakiegoś czasu kręci się tu to dziwadło w płaszczu? Przyszedł do bazy parę dni temu z kilkoma innymi stalkerami. Z początku nie było z nim żadnych kłopotów, więc pozwoliliśmy mu zostać. A teraz facet cały czas głosi kazania o wspaniałości i majestacie Zony - że to jakiś rodzaj cudownego zjawiska, które może pomóc nam oczyścić świat z grzechu, czy coś. I nie, nie zmyślam tego, słyszałem to na własne uszy.\n \nOprócz tego próbował namówić paru naszych na dołączenie do jego sprawy. Nieszkodliwego wariata jeszcze zniosę, ale to już przeginka. Pójdź do niego i posłuchaj, co ma do powiedzenia, postaraj się dowiedzieć, co próbuje osiągnąć. A potem... no, cóż... wiesz, mnóstwo ludzi weszło na bagna i nigdy z nich nie wróciło, niech im Zona lekką będzie.</text>
+	</string>
+	<string id="cold_mortal_sin_2">
+		<text>Zgadzam się z tobą. Mam już dość fanatycznych wyznawców Zony. Zajmę się nim.</text>
+	</string>
+	<string id="cold_mortal_sin_21">
+		<text>Wybacz, ale nie jestem gotowy na spotkanie z kolejnym świrem. Daj mi trochę czasu.</text>
+	</string>
+	<string id="cold_mortal_sin_3">
+		<text>Dzięki, kolego. Facet jest gdzieś w pobliżu. Myślę, że rozpoznasz go bez najmniejszego trudu.</text>
+	</string>
+	
+	<string id="cold_mortal_sin_envoy_0">
+		<text>Pogadałem sobie z tym dziwnym koleżką.</text>
+	</string>
+	<string id="cold_mortal_sin_envoy_1">
+		<text>No i jak było? I dlaczego dalej kręci się po naszym obozie?</text>
+	</string>
+	<string id="cold_mortal_sin_envoy_11">
+		<text>No i jak było? Powiedział ci coś użytecznego, zanim trafił na tamten świat?</text>
+	</string>
+	<string id="cold_mortal_sin_envoy_2">
+		<text>Żyje, bo królicza nora jest głębsza, niż sądziłem. Jest agentem frakcji, którą oni sami nazywają Grzechem. Twierdzi, że wiedzą o Zonie więcej, niż ktokolwiek inny i że są jej strażnikami. Tak jak mówiłeś, oprócz gadania o "oczyszczeniu świata" stara się pozyskać rekrutów.</text>
+	</string>
+	<string id="cold_mortal_sin_envoy_21">
+		<text>Był agentem frakcji, którą oni sami nazywają Grzechem. Twierdził, że wiedzą o Zonie więcej, niż ktokolwiek inny i że są jej strażnikami. Tak jak mówiłeś, oprócz gadania o "oczyszczeniu świata" starał się pozyskać rekrutów.</text>
+	</string>
+	<string id="cold_mortal_sin_envoy_3">
+		<text>Znowu to samo... Ech. Słyszałem o nich już parę razy, ale zawsze uważałem, że to tylko stalkerskie legendy - od lat po Zonie krążą historie o bandzie przerażających bękartów pojawiających się znikąd, atakujących wszystko, co żyje i po wszystkim znikających bez śladu.\n \nPo prawdzie, to parę osób mówiło mi, że coś podobnego ostatnio dzieje się w Czerwonym Lesie. Powiem ci, że nie podoba mi się, dokąd to wszystko zmierza. Powinieneś sprawdzić to miejsce i dowiedzieć się, o co może chodzić. Odwiedź Leśnika, na pewno zechce ci pomóc. A tymczasem my tutaj przygotujemy przyjęcie na cześć naszego honorowego gościa.</text>
+	</string>
+	<string id="cold_mortal_sin_envoy_31">
+		<text>Znowu to samo... Ech. Słyszałem o nich już parę razy, ale zawsze uważałem, że to tylko stalkerskie legendy - od lat po Zonie krążą historie o bandzie przerażających bękartów pojawiających się znikąd, atakujących wszystko, co żyje i po wszystkim znikających bez śladu.\n \nPo prawdzie, to parę osób mówiło mi, że coś podobnego ostatnio dzieje się w Czerwonym Lesie. Powiem ci, że nie podoba mi się, dokąd to wszystko zmierza. Powinieneś sprawdzić to miejsce i dowiedzieć się, o co może chodzić. Odwiedź Leśnika, na pewno zechce ci pomóc. A ja tymczasem poślę kogoś, żeby złożył szczątki naszego honorowego gościa gdzieś w bagnie.</text>
+	</string>
+	<string id="cold_mortal_sin_envoy_4">
+		<text>Przerażające bękarty w przerażającym miejscu... brzmi świetnie.</text>
+	</string>
+	
+	<string id="cold_mortal_sin_report_0">
+		<text>Byłem w Czerwonym Lesie.</text>
+	</string>
+	<string id="cold_mortal_sin_report_1">
+		<text>I jak sytuacja? Jaką historię przygotowała dla ciebie Zona?</text>
+	</string>
+	<string id="cold_mortal_sin_report_2">
+		<text>Tylko jedną. Oddział Grzechu ścigał Igłę - jednego z towarzyszy Striełoka. Zająłem się tymi szarlatanami, po czym złożyłem staremu znajomemu wizytę. Powiedział, że Grzech będzie się starał przeprowadzić wielką inwazję na południowe rubieże Zony. Nie mam powodów, by mu nie wierzyć... A to PDA powinno przekonać i ciebie, o ile masz jeszcze jakiekolwiek wątpliwości. Należało do przywódcy tego oddziału.</text>
+	</string>
+	<string id="cold_mortal_sin_report_3">
+		<text>O cholera... Liczyłem bardziej na bajkę z morałem, a nie thriller z wątkiem horroru. Szlag. Miałem nadzieję, że po rozprawieniu się z tymi pieprzonymi renegatami uda nam się utrzymać pokój na Bagnach... Mam już dość tej całej przemocy, naprawdę, ale nie możemy pozwolić, żeby banda szaleńców próbowała doprowadzić do końca świata! Walka pewnie będzie nieunikniona... Idź... co? Właśnie dostałem wiadomość z Wioski Rybackiej. Podobno duży oddział wroga idzie prosto na nas. Cholera! Leć, pomóż im odeprzeć atak, ja ogarnę ludzi w obozie.</text>
+	</string>
+	<string id="cold_mortal_sin_report_4">
+		<text>Pędzę!</text>
+	</string>
+	
+	<string id="cold_mortal_sin_ambush_0">
+		<text>Załatwione. Póki co jest bezpiecznie.</text>
+	</string>
+	<string id="cold_mortal_sin_ambush_1">
+		<text>Dawno już nie mieliśmy okazji walczyć z tak wieloma przeciwnikami w samym przedsionku naszej bazy... Twoje zwycięstwo napawa optymizmem. Ale to by było na tyle z dobrych wiadomości.\n \nWedług moich kontaktów rozmieszczonych w Zonie ten szturm był tylko zasłoną dymną. Tak naprawdę Grzechowi zależy na ponownym uruchomieniu instalacji psionicznych znajdujących się na północy. Musimy im to uniemożliwić! Nie wyobrażam sobie ponownego rozpoczynania wszystkiego od zera...</text>
+	</string>
+	<string id="cold_mortal_sin_ambush_2">
+		<text>To brzmi jak plan. Czym mam się w takim razie zająć?</text>
+	</string>
+	<string id="cold_mortal_sin_ambush_3">
+		<text>Cóż... to ty wyłączyłeś wcześniej obydwie, więc myślę, że sprawiedliwym będzie tobie zostawić wybór. Udasz się w miejsce, które wybierzesz. W pojedynkę, czy z zespołem, jeśli zechcesz go stworzyć. Ja zajmę się ochroną drugiego obiektu. Nie zastanawiaj się zbyt długo, nie ma czasu do stracenia.</text>
+	</string>
+	<string id="cold_mortal_sin_ambush_4">
+		<text>Zajmę się Machiną Cudów. To dość odległe miejsce. Sądzę, że moja pomoc właśnie tam będzie bardziej potrzebna.</text>
+	</string>
+	<string id="cold_mortal_sin_ambush_41">
+		<text>Zajmę się Mózgozwęglaczem. Nie możemy pozwolić, by wróg przejął tak potężną fortecę!</text>
+	</string>
+	
+	<string id="cold_mortal_sin_zone_hero_0">
+		<text>Witaj, Zimny. Udało mi się. Idea Grzechu została pogrzebana razem z ich przywódcą.</text>
+	</string>
+	<string id="cold_mortal_sin_zone_hero_1">
+		<text>To świetna wiadomość! W końcu Czyste Niebo wypełniło swoją pierwotną misję. I udało nam się to bez zdziesiątkowania frakcji. Doskonała robota!</text>
+	</string>
+	<string id="cold_mortal_sin_zone_hero_2">
+		<text>Jak na ironię, to właśnie Striełok i jego ludzie pomogli mi zaprowadzić w Zonie pokój i porządek.</text>
+	</string>
+	<string id="cold_mortal_sin_zone_hero_3">
+		<text>Tak, wiem... Zabawne, kto by o tym pomyślał jeszcze parę lat temu. Fortuna faktycznie ma czasem dziwne poczucie humoru... A może to przeznaczenie? W każdym razie, odkąd zapobiegliśmy tej... śniętej inkwizycji możemy wrócić do naszego spokojnego żywota.\n \nTak przy okazji, dosłownie zaraz przed tobą przyszedł tu do obozu jakiś gość i pytał o ciebie. Powinieneś go odwiedzić, jest gdzieś w bazie.</text>
+	</string>
+	<string id="cold_mortal_sin_zone_hero_31">
+		<text>Tak, wiem... Zabawne, kto by o tym pomyślał parę lat temu. Fortuna faktycznie ma czasem dziwne poczucie humoru... A może to przeznaczenie? W każdym razie, odkąd zapobiegliśmy tej... śniętej inkwizycji możemy wrócić do naszego spokojnego żywota.</text>
+	</string>
+	<string id="cold_mortal_sin_zone_hero_4">
+		<text>Fakt, muszę przyznać, że dobrze byłoby w końcu trochę odpocząć...</text>
+	</string>
+	<string id="cold_mortal_sin_zone_hero_5">
+		<text>Pewnie, kładź się i nie wstawaj, choćby przez tydzień. Należy ci się, bez dwóch zdań.</text>
+	</string>
+	
+	<string id="lukash_mortal_sin_0">
+		<text>Siemasz, Łukasz, jak tam? Co słychać ciekawego?</text>
+	</string>
+	<string id="lukash_mortal_sin_1">
+		<text>Wolność nie patrzy, którego jesteś sortu, zgadza się? Każdy jest tu mile widziany, co nie? Ostatnio przypałętał się do nas taki dziwny ziomek, raczej niezbyt sympatyczny, ale w sumie nikogo nie zaczepiał, ani nic, to pozwoliliśmy mu zostać. Tym bardziej, że szanuje i podziwia Zonę tak samo, jak my.\n \nNo ale w końcu wyszło, o co mu kaman... Któregoś dnia zaczął nawijać chłopakom o tym, że muszą oczyścić cały świat z grzechu, że nie rozumiemy, czym jest Zona i jakieś inne, okołoreligijne dyrdymały. No mówię ci, jadaczka mu się, kurwa, od tej pory nie zamyka.\n \nTak w skrócie okazało się, że gość jest po prostu szurnięty. No i chłopaki mają pomału dość tej jego gadaniny i czują się przy nim trochę nieswojo. Możesz z nim pogadać? Pokminić, z której strony można go podejść? A jak uda ci się go przekonać, żeby poszukał sobie innego towarzystwa, to już w ogóle, mordo.</text>
+	</string>
+	<string id="lukash_mortal_sin_2">
+		<text>Czaję temat. Mam być taki, wiesz, bardzo przekonujący?</text>
+	</string>
+	<string id="lukash_mortal_sin_21">
+		<text>Sorki, ziomuś, ale nie jestem w tej chwili gotowy na takie pogadanki.</text>
+	</string>
+	<string id="lukash_mortal_sin_3">
+		<text>Daję ci wolną rękę. Jeśli okaże się, że stanowi jakieś niebezpieczeństwo, wierzę, że będziesz wiedział, co z nim zrobić.</text>
+	</string>
+	<string id="lukash_mortal_sin_4">
+		<text>Ogarnę.</text>
+	</string>
+	
+	<string id="lukash_mortal_sin_envoy_0">
+		<text>Ogarnięte. Pogadałem sobie z tym świrem.</text>
+	</string>
+	<string id="lukash_mortal_sin_envoy_1">
+		<text>I dalej się tu kręci... Nie za dobrze.</text>
+	</string>
+	<string id="lukash_mortal_sin_envoy_11">
+		<text>I przy okazji się go pozbyłeś? No, skoro tak było trzeba.</text>
+	</string>
+	<string id="lukash_mortal_sin_envoy_2">
+		<text>No, słuchaj, mówi, że jest jakimś tam agentem, swoją frakcję nazywa Grzechem. Większość z tego, co gadał, już wiesz, ale przyznał się, że szuka tu rekrutów do ich sprawy. Chyba szykują się do jakiejś wielkiej akcji.</text>
+	</string>
+	<string id="lukash_mortal_sin_envoy_21">
+		<text>No, słuchaj, mówił, że jest jakimś tam agentem, swoją frakcję nazwał Grzechem. Większość z tego, co gadał, już wiesz, ale przyznał się, że szukał tu rekrutów do ich sprawy. Chyba szykują się do jakiejś wielkiej akcji.</text>
+	</string>
+	<string id="lukash_mortal_sin_envoy_3">
+		<text>Grzech? To ci dopiero... Od niedawna jakaś banda niezidentyfikowanych stalkerów bawi się w Czerwonym Lesie w Predatorów i poluje na ludzi. Może to właśnie ten cały Grzech? Hmm... nie podoba mi się to ani trochę. Z Monolitem nie wyrabiamy, a tu rośnie kolejna grupa szarlatanów.\n \nMoże przejdź się do Leśnika i podpytaj go o tych gości? Kto jak kto, ale on na pewno będzie coś wiedział. A ja w tym czasie poproszę kogoś, żeby przekazał nowemu znajomemu, że nadużył naszej gościnności.</text>
+	</string>
+	<string id="lukash_mortal_sin_envoy_31">
+		<text>>Grzech? To ci dopiero... Od niedawna jakaś banda niezidentyfikowanych stalkerów bawi się w Czerwonym Lesie w Predatorów i poluje na ludzi. Może to właśnie ten cały Grzech? Hmm... nie podoba mi się to ani trochę. Z Monolitem nie wyrabiamy, a tu rośnie kolejna grupa szarlatanów.\n \nMoże przejdź się do Leśnika i podpytaj go o tych gości? Kto jak kto, ale on na pewno będzie coś wiedział. A ja w tym czasie poproszę kogoś, żeby ogarnął tego sztywnego.</text>
+	</string>
+	<string id="lukash_mortal_sin_envoy_4">
+		<text>No jasne. Pora na nową przygodę!</text>
+	</string>
+	
+	<string id="lukash_mortal_sin_report_0">
+		<text>Wróciłem z Czerwonego Lasu.</text>
+	</string>
+	<string id="lukash_mortal_sin_report_1">
+		<text>O, siemanko. I jak tam wycieczka? Spotkałeś kogoś ciekawego po trasie?</text>
+	</string>
+	<string id="lukash_mortal_sin_report_2">
+		<text>A no, było paru takich. Igłę spotkałem, na przykład. Ścigali go ludzie z Grzechu. Miałeś całkowitą rację. Co prawda zająłem się tymi, co go szukali, ale Igła twierdzi, że Grzech szykuje się do jakiejś inwazji mającej objąć nawet południe Zony. To rozsądny gość, wierzę mu. A nawet gdyby nie, fakty mówią same za siebie. Poczytaj sobie, to PDA przywódcy oddziału.</text>
+	</string>
+	<string id="lukash_mortal_sin_report_3">
+		<text>Stary, wojna idzie. I to większa, niż ci się zdaje. W sumie... znudziło mnie już naparzanie się z Monolitem, fajnie będzie obić ryja komuś nowemu, haha! Zaraz zbieram ekipę i w nich wje... czekaj chwilę... Hmm... Strażnicy przy głównej bramie zgłaszają, że do bazy zbliża się jakiś duży oddział. Słychać strzały! I to nie Monolit! Kurwa mać! Zwijaj się stąd, pomóż im, co? Ja ogarnę coś tutaj, gdyby się przedarli.</text>
+	</string>
+	<string id="lukash_mortal_sin_report_4">
+		<text>Jasne, ruszam!</text>
+	</string>
+	
+	<string id="lukash_mortal_sin_ambush_0">
+		<text>Zgadnij, kto właśnie załatwił bandę fanatyków.</text>
+	</string>
+	<string id="lukash_mortal_sin_ambush_1">
+		<text>Zastanówmy się chwilę... Hmm... Ty? Haha! Świetna robota, serio, ale to dopiero początek. Zwiadowcy podają, że w tej chwili siły przeciwnika zbliżają się do emiterów psionicznych. Pewnie chujki będą chciały je uruchomić! Nie może tak być! Fajnie, jak Zona jest otwarta i dostępna dla każdego. Wolałbym, żeby tak zostało.</text>
+	</string>
+	<string id="lukash_mortal_sin_ambush_2">
+		<text>No raczej, ale wiesz, sam nie oblecę obu miejscówek w tym samym czasie. Bilokacji, cholera, jeszcze nie umiem. Chociaż, jakbyś dał jakąś dobrą snajperę... i może jakiegoś dropsa...</text>
+	</string>
+	<string id="lukash_mortal_sin_ambush_3">
+		<text>Nie no, bez przesady. Wyślę oddział do jednej z nich, żebyś potem się nie chwalił, że w pojedynkę ocaliłeś całą Zonę! Dawaj, idź tam, gdzie ci się bardziej podoba. I lepiej się pospiesz, nieładnie jest spóźniać się na imprezę.</text>
+	</string>
+	<string id="lukash_mortal_sin_ambush_4">
+		<text>Zajmę się Machiną Cudów. To zadupie, sam dotrę tam szybciej, niż zbierzesz ludzi.</text>
+	</string>
+	<string id="lukash_mortal_sin_ambush_41">
+		<text>Pójdę na Mózgozweglacz. To rzut muterką stąd i byłoby bardzo niefajnie, gdyby znów zaczął działać...</text>
+	</string>
+	
+	<string id="lukash_mortal_sin_zone_hero_0">
+		<text>Przybył pan zniszczenia, niszczyciel szaleńców, pogromca Grzechu. Ich prowodyr znalazł spoczynek w samym Sarkofagu.</text>
+	</string>
+	<string id="lukash_mortal_sin_zone_hero_1">
+		<text>Ooo, stary, ale wjechałeś, haha! Dobrze, nareszcie trochę spokoju. I niech Zona zostanie taką, jaką ją uwielbiamy - nieprzewidywalną i śmiercionośną, ale i cholernie przytulną. Nie ma tu co zmieniać, jest perfekt.</text>
+	</string>
+	<string id="lukash_mortal_sin_zone_hero_2">
+		<text>Zgadzam się. Na dokładkę, ocalić Zonę pomógł mi Striełok i jego ziomale.</text>
+	</string>
+	<string id="lukash_mortal_sin_zone_hero_3">
+		<text>Ten gość to jest przechuj, jak nic jaja ze zbrojonego betonu... Dobrze, że tym razem zechciał ją ocalić, a nie zniszczyć... Taką mam nadzieję.\n \nTy, skoro już tu jesteś, weź no sprawdź gościa, który się do nas ostatnio przypałętał. Ciągle o ciebie wypytuje. Pewnie kręci się teraz gdzieś po bazie.</text>
+	</string>
+	<string id="lukash_mortal_sin_zone_hero_31">
+		<text>Ten gość to jest przechuj, jaja ma pewnie z zbrojonego betonu... Dobrze, że tym razem zechciał ją ocalić, a nie zniszczyć... Taką mam nadzieję.</text>
+	</string>
+	<string id="lukash_mortal_sin_zone_hero_4">
+		<text>Nie będziesz miał nic przeciwko temu, żebym sobie kipnął na chwilę? Styrany jestem, jak nie wiem. Muszę trochę wychillować.</text>
+	</string>
+	<string id="lukash_mortal_sin_zone_hero_5">
+		<text>A leż sobie ile chcesz, choćby cały tydzień! Tylko nie zapomnij wpaść na melanż z okazji twojego zwycięstwa, haha!</text>
+	</string>
+	
+	<string id="sakharov_mortal_sin_0">
+		<text>Wszystko w porządku, profesorze? Strażnicy wyglądają na spiętych jeszcze bardziej, niż zwykle.</text>
+	</string>
+	<string id="sakharov_mortal_sin_1">
+		<text>Czasem nie umiem określić, czy żartujesz, czy pytasz poważnie, młodzieńcze. Cóż, sytuacja jest względnie stabilna... choć, gdyby się zastanowić... taaak, zdarzył się niedawno jeden dość niepokojący incydent.\n \nNad Jantar przybyło kilku nieznanych stalkerów, wśród których znalazł się pewien zakapturzony jegomość. Miast pomóc naszym strażnikom odpierać ciągłe ataki, on wolał głosić im kazania na temat rzekomych cudów Zony. Powiem ci, dobrodzieju, że zdarzyło mi się osobiście usłyszeć to, co mówi i niestety podejrzewam, że ten mężczyzna może być niepoczytalny.\n \nWprawdzie nie atakował nas ani nie szkodził nam bezpośrednio, ale strażnicy skarżą, że uprzykrza im życie i są zmęczeni jego natarczywością. Proszę, spróbuj przekonać go, by nas opuścił.</text>
+	</string>
+	<string id="sakharov_mortal_sin_2">
+		<text>Kazania na temat cudów Zony? Brzmi dziwnie znajomo. Zadam mu parę pytań i zobaczę, co da się zrobić, profesorze.</text>
+	</string>
+	<string id="sakharov_mortal_sin_21">
+		<text>Proszę wybaczyć, profesorze, ale nie jestem w tej chwili przygotowany do zajmowania się kolejnymi fanatykami.</text>
+	</string>
+	<string id="sakharov_mortal_sin_3">
+		<text>Bardzo ci dziękuję.</text>
+	</string>
+	
+	<string id="sakharov_mortal_sin_envoy_0">
+		<text>Profesorze, zadanie wykonanie.</text>
+	</string>
+	<string id="sakharov_mortal_sin_envoy_1">
+		<text>Bardzo dobrze. Czego się dowiedziałeś, młody człowieku?</text>
+	</string>
+	<string id="sakharov_mortal_sin_envoy_11">
+		<text>Więc odebrałeś mu życie... Drastyczne rozwiązanie...</text>
+	</string>
+	<string id="sakharov_mortal_sin_envoy_2">
+		<text>Ten mężczyzna w kapturze jest jakiegoś rodzaju agentem frakcji, którą nazywa Grzechem. Twierdzi, że o Zonie wiedzą więcej niż ktokolwiek inny i najwyraźniej planują "oczyszczenie" świata. Jest tu, gdyż szuka rekrutów gotowych dołączyć do ich sprawy.</text>
+	</string>
+	<string id="sakharov_mortal_sin_envoy_21">
+		<text>Obawiam się, że nie mogliśmy pozwolić zostać temu zakapturzonemu mężczyźnie ani chwili dłużej. Był agentem frakcji, którą nazywał Grzechem. Twierdził, że o Zonie wiedzą więcej niż ktokolwiek inny. Najwyraźniej planują "oczyszczenie" świata. Zjawił się tu, gdyż szukał rekrutów gotowych dołączyć do ich sprawy.</text>
+	</string>
+	<string id="sakharov_mortal_sin_envoy_3">
+		<text>To bardzo niepokojące. Nasi pracownicy od niedawna dość często napotykają agresywnych stalkerów będących członkami nieznanego ugrupowania. Dzięki tobie mogę przypuszczać, że to właśnie Grzech. O ile mi wiadomo, najczęściej atakują w okolicach Czerwonego Lasu.\n \nMieszka tam jednak legendarny stalker zwany Leśnikiem. Proszę, pomów z nim o obecnej sytuacji. Im więcej będzie nam wiadomo, tym lepiej będziemy w stanie przygotować się na to, co nadejdzie. Tymczasem ja rozmówię się ze strażnikami a propos możliwego naruszenia procedur bezpieczeństwa obiektu.</text>
+	</string>
+	<string id="sakharov_mortal_sin_envoy_31">
+		<text>To bardzo niepokojące. Nasi pracownicy od niedawna dość często napotykają agresywnych stalkerów będących członkami nieznanego ugrupowania. Dzięki tobie mogę przypuszczać, że to właśnie Grzech. O ile mi wiadomo, najczęściej atakują w okolicach Czerwonego Lasu.\n \nMieszka tam jednak legendarny stalker zwany Leśnikiem. Proszę, pomów z nim o obecnej sytuacji. Im więcej będzie nam wiadomo, tym lepiej będziemy w stanie przygotować się na to, co nadejdzie. A ja tymczasem poproszę strażników o utylizację szczątków nieznajomego.</text>
+	</string>
+	<string id="sakharov_mortal_sin_envoy_4">
+		<text>Zobaczę, co da się zrobić, profesorze.</text>
+	</string>
+	
+	<string id="sakharov_mortal_sin_report_0">
+		<text>Zbadałem sytuację w Czerwonym Lesie, profesorze.</text>
+	</string>
+	<string id="sakharov_mortal_sin_report_1">
+		<text>To dobra wiadomość. Mam nadzieję, że odkryłeś coś wartościowego, młody człowieku.</text>
+	</string>
+	<string id="sakharov_mortal_sin_report_2">
+		<text>Oddział pościgowy Grzechu śledził towarzysza Striełoka, którego poznałem podczas mojej ostatniej misji. Wyeliminowałem przeciwnika, po czym skontaktowałem się z rzeczonym stalkerem. Podał mi informację, jakoby Grzech przygotowywał się do wielkoskalowej inwazji obejmującej nawet południowe sektory Zony. Jest bardzo rzetelną osobą, poza tym, wszystkie fakty do tej pory wskazują, że rzeczywiście jest to prawdopodobne. Proszę wziąć to PDA, profesorze. Odebrałem je przywódcy oddziału Grzechu.</text>
+	</string>
+	<string id="sakharov_mortal_sin_report_3">
+		<text>O mój...! To doprawdy ponure wieści. Cóż, przynajmniej bojownicy Monolitu skupili się ostatnio na umocnieniu terytoriów i nie są tak ekspansywni... Obawiam się, że będziemy musieli stawić czoła wrogowi równie groźnemu, ale znacznie bardziej napastliwemu. Powinniśmy... o nie! Jesteśmy atakowani! Strażnicy dostrzegli siły wroga wkraczające na teren bunkra. Proszę, pomóż im odeprzeć atak!</text>
+	</string>
+	<string id="sakharov_mortal_sin_report_4">
+		<text>Tak jest!</text>
+	</string>
+	
+	<string id="sakharov_mortal_sin_ambush_0">
+		<text>Teren czysty, profesorze, przeciwnik został pokonany.</text>
+	</string>
+	<string id="sakharov_mortal_sin_ambush_1">
+		<text>Doskonale, młodzieńcze! Wiedziałem, że można na ciebie liczyć. Niestety, obawiam się, że to zaledwie początek... Wojskowe śmigłowce obserwują liczne siły Grzechu zmierzające do obu dużych instalacji psionicznych. Według obecnego stanu naszej wiedzy można wysnuć wniosek, że będą próbowali uruchomić je ponownie. Najrozsądniej byłoby jak najszybciej pokrzyżować ich plany.</text>
+	</string>
+	<string id="sakharov_mortal_sin_ambush_2">
+		<text>Zgadzam się z tym, profesorze, aczkolwiek obawiam się, że nie mamy do tego wystarczających sił... Jak moglibyśmy skutecznie ochronić obie placówki jednocześnie?</text>
+	</string>
+	<string id="sakharov_mortal_sin_ambush_3">
+		<text>Zgłoszę się do majora Kuźniecowa. Jestem pewien, że uda mu się zorganizować siły konieczne do obrony przynajmniej jednej placówki. Niestety, obroną drugiego kompleksu będziesz musiał zająć się osobiście, drogi kolego. Decyduj się szybko, przyjacielu, nasz wróg chyba nie będzie czekał, aż podejmiesz decyzję.</text>
+	</string>
+	<string id="sakharov_mortal_sin_ambush_4">
+		<text>Obronię Machinę Cudów. Znajduje się tuż obok, może uda mi się dotrzeć tam przed nimi.</text>
+	</string>
+	<string id="sakharov_mortal_sin_ambush_41">
+		<text>Obronię Mózgozwęglacz. Nie możemy pozwolić, by wróg przejął tak potężną fortecę!</text>
+	</string>
+	
+	<string id="sakharov_mortal_sin_zone_hero_0">
+		<text>Udało nam się, profesorze! Siły Grzechu zostały rozgromione, a ich główny przywódca nie żyje.</text>
+	</string>
+	<string id="sakharov_mortal_sin_zone_hero_1">
+		<text>Tak... to był straszny konflikt. Cieszę się, że już po wszystkim. Dobrze się spisałeś, młodzieńcze. Wiedziałem, że można na ciebie liczyć. Żywię wielką nadzieję, że po tych fluktuacjach Zona niedługo wróci do swojej równowagi.</text>
+	</string>
+	<string id="sakharov_mortal_sin_zone_hero_2">
+		<text>Zwycięstwo nie byłoby możliwe, gdyby nie Striełok i jego przyjaciele.</text>
+	</string>
+	<string id="sakharov_mortal_sin_zone_hero_3">
+		<text>Naznaczony - a raczej Striełok, rzeczywiście - nieustannie umacnia swój status żywej legendy. Czuję się spokojny wiedząc, że mamy w Zonie tak zaradnego i rozsądnego stalkera, gotowego stawić czoła każdemu zagrożeniu, byle tylko utrzymać równowagę.\n \nPo prawdzie, może się wkrótce okazać, że wśród nas jest kolejny taki śmiałek. Dotarł tu niewiele przed tobą i pytał, czy może z tobą rozmawiać. Gdy go ostatnio widziałem, podziwiał okolice naszego bunkra. Chyba powinieneś się z nim przywitać.</text>
+	</string>
+	<string id="sakharov_mortal_sin_zone_hero_31">
+		<text>Naznaczony - a raczej Striełok, rzeczywiście - nieustannie umacnia swój status żywej legendy. Czuję się spokojny wiedząc, że mamy w Zonie tak zaradnego i rozsądnego stalkera, gotowego stawić czoła każdemu zagrożeniu, byle tylko utrzymać równowagę.</text>
+	</string>
+	<string id="sakharov_mortal_sin_zone_hero_4">
+		<text>Czy to wszystko, profesorze?</text>
+	</string>
+	<string id="sakharov_mortal_sin_zone_hero_5">
+		<text>Tak, bohaterze. Możesz wrócić do swoich zajęć.</text>
+	</string>
+	
+	<string id="greh_envoy_greeting_0">
+		<text>Pozdrawiam cię, stalkerze. Szukasz oświecenia?</text>
+	</string>
+	<string id="greh_envoy_greeting_killer_0">
+		<text>Pozdrawiam cię, najemniku. Szukasz oświecenia?</text>
+	</string>
+	
+	<string id="greh_envoy_dialog_0">
+		<text>Witaj... nieznajomy.</text>
+	</string>
+	<string id="greh_envoy_dialog_1">
+		<text>Czego potrzebujesz?</text>
+	</string>
+	<string id="greh_envoy_dialog_2">
+		<text>Chcę porozmawiać.</text>
+	</string>
+	<string id="greh_envoy_dialog_21">
+		<text>Mam parę pytań, świrze.</text>
+	</string>
+	<string id="greh_envoy_dialog_3">
+		<text>Dobrze... Rad jestem, że wśród całej hałastry egoistów wciąż istnieje kilka umysłów gotowych pomówić o czymś wykraczającym poza własne, nic nie znaczące przyjemności. Czego chciałbyś się ode mnie dowiedzieć?</text>
+	</string>
+	<string id="greh_envoy_dialog_31">
+		<text>Zważaj na swoje słowa i nie oceniaj zbyt pochopnie. Pogłoski, mylne wrażenia i zakusy ducha mogą odwieść od ścieżki światłości. Wszystko, czego pragnę, to dzielić się moją wiedzą z tobą i twymi przyjaciółmi. Zapytaj, a ci odpowiem. Być może otworzą się twoje oczy i wysłuchanie mnie okaże się dla ciebie bardzo korzystne.</text>
+	</string>
+	<string id="greh_envoy_dialog_4">
+		<text>Kim jesteś?</text>
+	</string>
+	<string id="greh_envoy_dialog_5">
+		<text>Jestem tylko pokornym wysłannikiem naszego Ojca. Dawno temu byłem zwykłym stalkerem, takim jak ty, ale ukazano mi prawdę o Zonie. Wtedy uległem przemianie, stałem się inny. Moja tożsamość już nie ma znaczenia. Ważny jest tylko przekaz, który niosę światu.</text>
+	</string>
+	<string id="greh_envoy_dialog_41">
+		<text>Kto cię przysłał?</text>
+	</string>
+	<string id="greh_envoy_dialog_51">
+		<text>Społeczność, do której należę. Nazywamy się Grzechem, gdyż pragniemy naprawić skazy, które niosą ludzkości zagrożenie. Różne ugrupowania mają tu różne ambicje. Jedni chcą Zonę zniszczyć, drudzy pragną posiąść jej bogactwa, a jeszcze inni zachwycają się nad jej niezliczonymi cudami.\n \nJednakże tylko my znamy całą prawdę. To my jesteśmy jedynymi i prawdziwymi strażnikami sekretów Zony i powiernikami jej misteriów. To my chlubimy się całą wiedzą i mocą, jaką Zona może obdarzyć.</text>
+	</string>
+	<string id="greh_envoy_dialog_511">
+		<text>Grzech? Dziwne... nie słyszałem o takiej frakcji nigdy wcześniej.</text>
+	</string>
+	<string id="greh_envoy_dialog_5111">
+		<text>Słyszałem kilka historii o "mrocznych stalkerach", ale poza tym nic konkretnego.</text>
+	</string>
+	<string id="greh_envoy_dialog_512">
+		<text>Pozostajemy w cieniu od dnia, w którym nadeszła światłość i zrodziła się Zona. Miast walczyć, czy zawłaszczać jej dary wolimy raczej w zadumie i skupieniu zdobywać wiedzę. W ten sposób rośniemy w siłę.\n \nGdybym miał posłużyć się prostym językiem rzekłbym, że gdzie dwóch się bije, tam trzeci korzysta, ale to zbyt przyziemne powiedzenie. Teraz jesteśmy już niemal gotowi do wyjścia z ukrycia prosto w światłość Wyraju. Ufam, że gdy nadejdzie, podążycie tam za nami.</text>
+	</string>
+	<string id="greh_envoy_dialog_42">
+		<text>Co chcesz osiągnąć?</text>
+	</string>
+	<string id="greh_envoy_dialog_52">
+		<text>Nie chcę niczego osiągnąć. Chcę głosić słowo i przekazywać światu wiadomość. Chcę uświadomić wszystkich, czym naprawdę jest Zona. Chcę ukazać egoistom, jak wielkim jest cudem. Że dzięki niej mamy szansę rozwoju. Że ona ocali ludzkość przed jej autodestrukcyjną naturą.\n \nStaram się zachęcać innych, by do nas dołączyli, abyśmy mogli razem brać udział w misteriach i dzielić się mocą pochodzącą z licznych tajemnic Zony. Dzięki temu, gdy nadejdzie oczyszczenie świata z wszelkiego grzechu będą mogli stanąć pośród nas.</text>
+	</string>
+	<string id="greh_envoy_dialog_6">
+		<text>Cóż... brzmi nawet ciekawie.</text>
+	</string>
+	<string id="greh_envoy_dialog_61">
+		<text>Nie kupuję tej gadaniny o cudach Zony.</text>
+	</string>
+	<string id="greh_envoy_dialog_7">
+		<text>Liczyłem na to, że uda mi się cię zainteresować. Czuję, że jesteś doprawdy wyjątkową osobą. Niestety, nie każdy gotów jest do nas dołączyć, ale wierz mi, żywię ogromną nadzieję, że Zona właściwie cię poprowadzi.</text>
+	</string>
+	<string id="greh_envoy_dialog_71">
+		<text>To zrozumiałe. Możesz potrzebować czasu by właściwie rozważyć to, co usłyszałeś, stalkerze. Pamiętam, jak trudno było mi odejść od starego sposobu postrzegania świata, kiedy opowiedziano mi o Wyraju. Nie musisz się spieszyć.</text>
+	</string>
+	<string id="greh_envoy_dialog_8">
+		<text>Dziękuję, że przyniosłeś nam swoje... oświecenie. Muszę już iść.</text>
+	</string>
+	<string id="greh_envoy_dialog_81">
+		<text>Koniec tych bzdur. Spierdalaj do tego swojego Wyraju.</text>
+	</string>
+	<string id="greh_envoy_dialog_9">
+		<text>Doskonale... Liczę, że rozważysz dołączenie do światłości Grzechu. Żegnaj.</text>
+	</string>
+	<string id="greh_envoy_dialog_91">
+		<text>Głupcze, Grzech nie ma końca! Jedyne, co może się wkrótce skończyć, to twoje podłe życie.</text>
+	</string>
+	<string id="greh_envoy_dialog_92">
+		<text>A zdychaj, paparuchu.</text>
+	</string>
+	
+	<string id="red_forester_mortal_sin_0">
+		<text>Czołem, Leśniku! Szukam tajemniczych stalkerów, którzy grasują w tym lesie. Mógłbyś mi pomóc?</text>
+	</string>
+	<string id="red_forester_mortal_sin_1">
+		<text>Młody człowieku, Czerwony Las jest domem wielu niespotykanych fenomenów i zjawisk. Jeślibym miał opisać je wszystkie, musielibyśmy...</text>
+	</string>
+	<string id="red_forester_mortal_sin_2">
+		<text>Czyli nie wiesz?</text>
+	</string>
+	<string id="red_forester_mortal_sin_3">
+		<text>Cierpliwości, młody człowieku, staram się przypomnieć! Ach, tak... myślę, że wiem, kogo masz na myśli. Rzeczywiście, pojawili się bez żadnego ostrzeżenia kilka dni temu. Przybyli z północy. Było w nich coś złowieszczego, sposób, w jaki szli... Maszerowali w milczeniu, jeden przy drugim, ramię w ramię... Inni stalkerzy natychmiast schodzili im z drogi. Weszli do lasu, jakby był to zwykły park. Od tej pory odgłosy strzelaniny słyszę o wiele częściej, niż zwykle.</text>
+	</string>
+	<string id="red_forester_mortal_sin_4">
+		<text>Czy oni wciąż tutaj są?</text>
+	</string>
+	<string id="red_forester_mortal_sin_5">
+		<text>Tak, jestem o tym przekonany. Wydaje mi się, że szukają w tej okolicy kogoś lub czegoś, trudno stwierdzić. Sądząc po unoszącym się dymie uważam, że mają obóz we wschodniej części lasu i kontynuują swoje poszukiwania.</text>
+	</string>
+	<string id="red_forester_mortal_sin_6">
+		<text>We wschodniej części, mówisz?</text>
+	</string>
+	<string id="red_forester_mortal_sin_7">
+		<text>Tak, jest tam dość spora polana, do której można dotrzeć przez opuszczony szyb kopalni. Jeśli chcesz się z nimi skonfrontować, najprawdopodobniej zastaniesz ich właśnie w tym miejscu. To dość proste - oprócz mojej wieży, mostu do Limańska i kopalni na zachodzie, nie ma w tej okolicy innych miejsc, w których pomieściłoby się bezpiecznie i komfortowo tak wiele osób.</text>
+	</string>
+	<string id="red_forester_mortal_sin_8">
+		<text>Dzięki za wskazówki. Pójdę już.</text>
+	</string>
+	<string id="red_forester_mortal_sin_9">
+		<text>Bądź ostrożny, młody człowieku. W tej głuszy możesz natknąć się na coś gorszego niż tylko wrogo nastawieni stalkerzy. Zachowaj czujność. Darzbór!</text>
+	</string>
+	
+	<string id="stalker_stitch_mortal_sin_0">
+		<text>To dopiero niespodzianka! Co ty tu robisz?</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_1">
+		<text>O w mordę jeża, kopę lat! Ech, to dość długa i zawiła historia, ale, ten, postaram się ją skrócić. Nie mamy za wiele czasu, idzie za mną banda naprawdę wrednych gości.</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_2">
+		<text>Nie idą, bo nie żyją. Zająłem się nimi, zanim wpadli do ciebie w odwiedziny.</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_3">
+		<text>O! No masz, to ci dopiero. Dzięki, stary! Tak czy siak, im szybciej się ogarniemy, tym lepiej dla nas.\n \nTo ten... pamiętasz Odłamek Monolitu? Ten artefakt, który pomogłeś zdobyć Striełokowi? Zapytał go o Zonę, a ten dał mu jakąś... wizję, czy coś takiego. Jak magiczna kula, tylko że serio magiczna. No. W każdym razie odkryliśmy obszar na północny zachód od Elektrowni. Prze-je-ba-ne miejsce, mówię ci. Okropne.</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_4">
+		<text>I co dalej?</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_5">
+		<text>Cóż... Podeszliśmy bliżej, żeby się lepiej przyjrzeć i jak się nie odjebało, to mówię ci! Okazało się, że siedzi tam banda fanatyków, ale to nawet nie był jebany Monolit! Przegnali nas stamtąd i zaczęli śledzić, łazili i szukali nas całymi dniami! Nie było innego wyjścia, rozdzieliliśmy się. Ja trafiłem tutaj, Łotrzyk zwiał gdzieś na zachód, a Striełok... wydaje mi się, że on to w ogóle zawrócił.</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_6">
+		<text>I ci fanatycy ścigali cię aż tutaj, do Czerwonego Lasu? To trochę dziwne.</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_7">
+		<text>Ale tak było, nie ściemniam. Mieli pecha, że akurat ty stanąłeś im na drodze. Zanim się rozdzieliliśmy, Striełok powiedział, że znaleźliśmy źródło wszystkich emisji, miejsce tego... no, faktycznego powstania Zony. I siedzi tam ta banda szarlatanów! Chyba nie muszę ci mówić, że raczej nie będzie z tego nic dobrego...</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_8">
+		<text>No kurwa, rzeczywiście. Masz jakiś pomysł, co można z tym zrobić?</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_9">
+		<text>To ten, plan jest prosty - uniemożliwić im wszystko, cokolwiek mają zamiar tam zrobić, o. Gorzej z wykonaniem, bo tego... zostawiłem swój dekoder w tajnej skrytce. Chciałem go odzyskać, ale trochę cykam, że jak tylko wyściubię stąd łeb, to te świry mnie odstrzelą.</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_10">
+		<text>Przecież nie żyją, więc w czym problem?</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_11">
+		<text>Hmm... w tym, że wyślą tu kolejny oddział? O ile jeszcze tego nie zrobili. I wiedzą przecież, jak wyglądam. Ty! Za to... nie wiedzą, jak ty wyglądasz! W końcu pojawiłeś się znikąd i zabiłeś absolutnie wszystkich! No a tak w ogóle, to muszę tu zostać na wypadek, gdyby Striełok albo Łotrzyk próbowali się skontaktować. To jak, załatwisz ten dekoder?</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_12">
+		<text>Tia, pewnie... Przynieś to, znajdź tamto, zdobądź siamto i tak do usranej śmierci... Ech, gdzie on jest?</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_13">
+		<text>Spokojnie, to niedaleko. Ukryłem go pod tylnym siedzeniem jednego z tych... no, pomarańczowych autobusów porzuconych na Cmentarzysku Pojazdów. Pamiętam, że stoją mniej więcej po środku całego placu.</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_14">
+		<text>Którego autobusu? Zresztą, po prostu daj mi współrzędne.</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_15">
+		<text>No widzisz... Sęk w tym, że nie zapisałem żadnych współrzędnych. W końcu to tajna skrytka, co nie? Ale jestem przekonany, że uda ci się ją odnaleźć.</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_16">
+		<text>No ty chyba zwariowałeś. Przecież tam są dziesiątki pomarańczowych autobusów!</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_17">
+		<text>Niby tak... ale nie. Dekoder ma wbudowany moduł radiowy do nadawania i odbierania sygnału, nie? Ustawiłem częstotliwość na 171 MHz, właśnie na wypadek, gdybym zapomniał, gdzie go zostawiłem. To tego, jeśli masz odbiornik radiowy, możesz go znaleźć, szukając sygnału na właściwych falach.\n \nProste - jeśli znajdziesz się w zasięgu nadajnika, zacznie pipczeć, im bliżej, tym wyraźniej. Taki kozak jak ty nie powinien mieć żadnych problemów. Hmm... chyba, że baterie w dekoderze szlag trafił, to ten, wtedy będzie trochę gorzej...</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_18">
+		<text>Ech... niech będzie, ale oby ta gra była warta świeczki.</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_19">
+		<text>Może dzięki temu uda nam się powstrzymać bandę szajbusów od przypadkowego odpalania emisji jednej za drugą... Pasuje?</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_20">
+		<text>W sumie pasuje. To idę.</text>
+	</string>
+	
+	<string id="stalker_stitch_mortal_sin_decoder_0">
+		<text>Igła, mam twój pieprzony dekoder.</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_decoder_1">
+		<text>No, wiedziałem, że znajdziesz go bez żadnego problemu. Co, swoją drogą jest, ten, dość... niepokojące. Tak czy siak, dziękówa.</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_decoder_2">
+		<text>Jakieś wieści?</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_decoder_3">
+		<text>A są, owszem, owszem. Udało mi się skontaktować z Łotrzykiem. Dalej kręci się gdzieś na zachodzie, obserwuje ruchy przeciwnika. Mówił, że Grzechowi udało się zmobilizować kupę ludu i walą teraz na południe, podzieleni na kilka oddziałów. Cholera, to nie wróży dla nas nic dobrego.</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_decoder_4">
+		<text>Fakt, jest źle i pewnie będzie jeszcze gorzej. W sumie, jak o tym myślę, ich wysłannik pieprzył coś o oczyszczeniu świata z grzechu. Może będą teraz próbować? Trzeba się spiąć i zasuwać, jeśli mamy ich powstrzymać.</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_decoder_5">
+		<text>Teraz mając dekoder będę gonił na północ. Muszę odnaleźć Striełoka i pomóc mu w sabotażu ich bazy.</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_decoder_6">
+		<text>Dobra, to ty leć do Striełoka, a ja poinformuję generała Woronina, jaka jest sytuacja. Jazda!</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_decoder_61">
+		<text>Dobra, to ty leć do Striełoka, a ja poinformuję Duszmana, jaka jest sytuacja. Jazda!</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_decoder_62">
+		<text>Dobra, to ty leć do Striełoka, a ja poinformuję Sidorowicza, jaka jest sytuacja. Jazda!</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_decoder_63">
+		<text>Dobra, to ty leć do Striełoka, a ja poinformuję Zimnego, jaka jest sytuacja. Jazda!</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_decoder_64">
+		<text>Dobra, to ty leć do Striełoka, a ja poinformuję Łukasza, jaka jest sytuacja. Jazda!</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_decoder_65">
+		<text>Dobra, to ty leć do Striełoka, a ja poinformuję profesora Sacharowa, jaka jest sytuacja. Jazda!</text>
+	</string>
+	
+	<string id="stalker_stitch_mortal_sin_generators_0">
+		<text>Jesteś! Świetnie!</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_generators_1">
+		<text>O, czyli udało wam się dotrzeć tu przed nami? Co ze Striełokiem?</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_generators_2">
+		<text>No właśnie... powiedział, że ten, że nie możemy czekać ani chwili dłużej, więc pokręciliśmy się tu trochę i nie zgadniesz! Znaleźliśmy tylne wejście do ich bazy, beż żadnej obstawy, ani niczego! Udało nam się odpalić windę, więc Striełok zszedł solo, będzie próbował wyłączyć w pizdu to ustrojstwo. A ja tu filuję i go osłaniam.</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_generators_3">
+		<text>Was obu chyba zgięło. Mogliście się wstrzymać jeszcze chwilę...</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_generators_4">
+		<text>Słyszysz to? Tu nie ma na co czekać! Ale, tego, widzieliśmy tych fanatyków, zbierają chyba wszystkie siły  niedaleko głównego wejścia. Jeśli ogarną, że ten, że Striełok tam gmera i całe to tałatajstwo zbiegnie do podziemi to momentalnie kaplica, amen, do widzenia i krzyżyk na drogę. Musimy czymś ich zająć, żeby tego, żeby odwrócić ich uwagę.</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_generators_5">
+		<text>Tu nie ma co zajmować, trzeba na nich po prostu wjechać. Dawajcie!</text>
+	</string>
+	
+	<string id="stalker_stitch_mortal_sin_choice_0">
+		<text>Udało się. Kolejny zmutowany odszczepieniec gryzie glebę. Mam nadzieję, że to już ostatni.</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_choice_1">
+		<text>A no, zgodzę się. Znaczy, ten, cholernie podoba mi się w Zonie, ale gdzieś z tyłu głowy mam, że jak już się tu nażyję, czeka na mnie ciche, spokojne życie na Dużej Ziemi. To pomaga mi się zrelaksować. Wizja tego, że cały świat stałby się Zoną nie była... no, zbyt wesoła.</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_choice_2">
+		<text>Ta, nie ma potrzeby, żeby Zona się powiększała.</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_choice_3">
+		<text>Wydaje mi się, że już więcej tu nie zdziałamy. Pójdziemy z Łotrzykiem odnaleźć Striełoka. A ty? Tego... wypowiesz życzenie?</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_choice_4">
+		<text>Wypowiedzieć życzenie?! Nigdy nie użyję tego czegoś dla własnych korzyści, ani w ogóle! Muszę zdać generałowi Woroninowi raport. Dzięki za pomoc, Powinność nie zapomni waszego udziału w tym zwycięstwie.</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_choice_41">
+		<text>Eee tam, wolałbym raczej coś bardziej... godnego zaufania. Kasy, na przykład. W ogóle temat tego Spełniacza jest jakiś... nie tego. Idę powiedzieć Duszmanowi, że skopaliśmy dupy tym Grześkom. Trzymajcie się.</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_choice_42">
+		<text>Kupa nowicjuszy ciągnie do Zony z nadzieją na znalezienie Spełniacza Życzeń. Czy ja ci wyglądam na świeżaka? Wiem, jak zarobić tu poważny pieniądz. Muszę wrócić się do Sidorowicza, powiedzieć mu, co i jak. Na razie!</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_choice_43">
+		<text>Z tego, co mi wiadomo, Spełniacz Życzeń ma dość... nietypowe poczucie humoru. Coś jak w tym dowcipie o głuchej złotej rybce. Lepiej nie ryzykować... Z przyjemnością za to przekażę Zimnemu, że i tym razem Czyste Niebo odniosło sukces. Dzięki za pomoc, chłopaki, na razie!</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_choice_44">
+		<text>Nieee, chyba mi to niepotrzebne. Życie w Zonie jest spoko takie, jakie jest. Nie myślę jeszcze o szczęśliwym zakończeniu swojej bajki. Zresztą, nawet nie wiem, czego miałbym sobie życzyć. Wracam, będzie co opowiadać Łukaszowi i reszcie. Trzymajcie się, ziomki, nara!</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_choice_45">
+		<text>Bardzo chciałbym przyjrzeć się tak zwanemu Spełniaczowi Życzeń z bliska, ale obawiam się, że ryzyko nieszczęśliwego incydentu jest w tym przypadku za wysokie. Nie zapominajmy, że to efekt działań lekkomyślnych naukowców, którzy zapomnieli o konsekwencjach swoich czynów. Będzie lepiej, jeśli po prostu zdam profesorowi Sacharowowi raport z tego, co tu się wydarzyło. Doceniam waszą pomoc, panowie. Do zobaczenia.</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_choice_46">
+		<text>Cóż... skoro udało mi się przeżyć to wszystko i uratowałem świat myślę, że ta niezwykła nagroda mi się po prostu należy.</text>
+	</string>
+	<string id="stalker_stitch_mortal_sin_choice_5">
+		<text>Mhm, tak, jasne, skoro tak mówisz. To, ten... pójdziemy z tobą, zobaczyć, co się stanie. Tak, wiesz, na wszelki wypadek.</text>
+	</string>
+	
+	<string id="stalker_rogue_dialog_ms_0">
+		<text>Się masz, twardzielu?</text>
+	</string>
+	
+	<string id="stalker_rogue_repair_0">
+		<text>Cześć, Łotrzyk. Możesz naprawić mój sprzęt?</text>
+	</string>
+	
+	<string id="stalker_rogue_mortal_sin_0">
+		<text>Łotrzyk! Opowiadaj, jak sytuacja?</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_1">
+		<text>Chujowa, a jaka ma być? Kiedy powstrzymałeś Grzech przed aktywacją emiterów, zdecydowali się zebrać i przegrupować w Limańsku. Udało mi się zwerbować paru stalkerów, ale nas jest garstka, a tym szaleńcom udało się zawiązać sojusz z Monolitem. Na własne oczy widziałem, jak walczą, idąc ramię w ramię.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_2">
+		<text>O, naprawdę? To super! Już zaczynałem się martwić, że tym popapranym kultystom zabraknie towarzystwa.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_3">
+		<text>Bardzo, kurwa, zabawne, no boki, do chuja pana, zrywać... Jest tak - Grzech organizuje się teraz w duże oddziały, każdy z nich prowadzony jest przez wielkiego, wyrośniętego skurwola w egzoszkielecie. Oni sami nazywają ich Egzekutorami.\n \nTo nie tylko dojebani żołnierze, ale i doskonali stratedzy. Udało mi się położyć raptem jednego, a i to jak się stamtąd zwijałem, żeby mnie nie zatłukli.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_4">
+		<text>Zajebiiiiście. To... masz jakiś plan?</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_5">
+		<text>Podzieliłem kontrofensywę na kilka etapów. Po pierwsze, musimy pozbyć się dowódców. "Uderz w pasterza, a rozpierzchną się owce". To ich na pewno spowolni.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_6">
+		<text>Nie brzmi jak coś prostego do zrobienia.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_7">
+		<text>Na pewno nie będzie to coś prostego. Na szczęście generał Woronin przysłał ochotników, którzy zgodzili się nam pomóc. To doświadczeni wojownicy pełni niechęci dla Zony i jej czcicieli.\n \nJazda, trzeba im skopać te grzeszne dupska</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_71">
+		<text>Na pewno nie będzie to coś prostego. Na szczęście Duszman przysłał ochotników, którzy zgodzili się nam pomóc. To doświadczeni, wyszkoleni i profesjonalni najemnicy o nienagannej reputacji.\n \nJazda, trzeba im skopać te grzeszne dupska</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_72">
+		<text>Na pewno nie będzie to coś prostego. Na szczęście udało mi się zwerbować kilku ochotników, którzy zgodzili się nam pomóc. To doświadczeni stalkerzy - kilku z nich osobiście uczyłem stawiać w Zonie pierwsze kroki.\n \nJazda, trzeba im skopać te grzeszne dupska</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_73">
+		<text>Na pewno nie będzie to coś prostego. Na szczęście Zimny przysłał ochotników, którzy zgodzili się nam pomóc. To doświadczeni stalkerzy, niektórzy z nich są weteranami wojen frakcji.\n \nJazda, trzeba im skopać te grzeszne dupska</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_74">
+		<text>Na pewno nie będzie to coś prostego. Na szczęście Łukasz przysłał ochotników, którzy zgodzili się nam pomóc. To doświadczeni stalkerzy, którzy nie chcą, żeby szaleńcy pokroju Grzechu przejęli kontrolę nad Zoną.\n \nJazda, trzeba im skopać te grzeszne dupska</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_75">
+		<text>Na pewno nie będzie to coś prostego. Na szczęście profesor Sacharow przysłał ochotników, którzy zgodzili się nam pomóc. To doświadczeni badacze, ale mam nadzieję, że do walki też są przygotowani.\n \nJazda, trzeba im skopać te grzeszne dupska</text>
+	</string>
+	
+	<string id="stalker_rogue_mortal_sin_warfare_0">
+		<text>Było ostro, ale udało nam się wybić tych Egzekutorów.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_warfare_1">
+		<text>Świetnie! W końcu będzie trochę spokoju. Twój szef podesłał mi nagrodę za twoje wysiłki, więc trzymaj.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_warfare_2">
+		<text>Dzięki. Co teraz?</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_warfare_3">
+		<text>W czasie, kiedy wy tłukliście Egzekutorów, ja wziąłem paru chłopaków i zasadziliśmy się na patrol Grzechu. Zabiliśmy prawie wszystkich - jednego udało nam się wziąć żywcem. Zdaje się, że dołączył do nich całkiem niedawno, jeszcze jako tako kojarzy rzeczywistość.\n \nSłuchaj, nie jestem specjalistą od przesłuchań, szybko robię się nerwowy i agresywny. Weź, pogadaj z nim, postaraj się wyciągnąć od niego jakieś przydatne informacje.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_warfare_4">
+		<text>Jasna sprawa. Zobaczę, co da się zrobić.</text>
+	</string>
+	
+	<string id="stalker_rogue_mortal_sin_interrogation_0">
+		<text>Pogadałem sobie z tym jeńcem.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_interrogation_1">
+		<text>Widziałem. Całkiem nieźle ci poszło. Nie sądziłem, że będzie tak ładnie śpiewał bez obijania mu ryja. Masz dar, chłopie.\n \nWygląda na to, że jeszcze nie są gotowi do ataku. Powinniśmy jak najszybciej przygotować kontrofensywę, żeby pokrzyżować im plany.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_interrogation_11">
+		<text>Widziałem. Nie był zbyt chętny do rozmowy, co? Tak myślałem. Luzik, teraz ja go wezmę w obroty. Coś czuję, że moje metody jednak przekonają go do otwarcia gęby.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_interrogation_12">
+		<text>Widziałem. Strata czasu. Raczej nie uda nam się dorwać kolejnego... No cóż, trzeba będzie jakoś wywiedzieć się samemu.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_interrogation_2">
+		<text>Więc co teraz?</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_interrogation_3">
+		<text>Zaraz po tym, jak ruszyłeś na Egzekutorów, wysłałem oddział zwiadowczy. Mieli skorzystać z zamieszania i poprzyglądać się manewrom Grzechu w dalszej części miasta. Szło im całkiem nieźle, aż wpadli w jakąś zasadzkę. Straciłem z nimi kontakt.\n \nSprawdź, czy komukolwiek udało się przeżyć i postaraj się ocalić ich misję.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_interrogation_4">
+		<text>Gdzie byli, kiedy ostatni raz się z nimi kontaktowałeś?</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_interrogation_5">
+		<text>Wrzucę ci współrzędne na PDA. Pilnuj się, w tej okolicy roi się od tych szarlatanów.</text>
+	</string>
+	
+	<string id="stalker_rogue_mortal_sin_contact_lost_0">
+		<text>Jestem. Udało mi się znaleźć ostatniego ocalałego ze zwiadu. Niestety, na pomoc było już za późno.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_contact_lost_1">
+		<text>Kurwa mać! To byli porządni, zaufani ludzie! Ja pierdolę. Co z ich misją?</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_contact_lost_2">
+		<text>Zwiadowca nie był w stanie powiedzieć zbyt dużo, ale udało mi się odnaleźć PDA dowódcy oddziału. Wydaje mi się, że są na nim zapisane przydatne informacje.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_contact_lost_3">
+		<text>Dobrze, że choć tyle. Przynajmniej ich poświęcenie nie poszło na marne. Pokaż.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_contact_lost_4">
+		<text>I?</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_contact_lost_5">
+		<text>Zrobili kawał dobrej roboty, niech im Zona lekką będzie. Ich obserwacje potwierdzają to, co powiedział nam jeniec. Grzech szykuje wielką inwazję, pewnie niedługo będą przechodzić przez Limańsk. Wszyscy. Na szczęście, w tej chwili jeszcze nie są na to gotowi.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_contact_lost_51">
+		<text>Zrobili kawał dobrej roboty, niech im Zona lekką będzie. Wydaje mi się, że nawet obejdzie się bez informacji od jeńca. Grzech szykuje wielką inwazję, pewnie niedługo będą przechodzić przez Limańsk. Wszyscy. Na szczęście, w tej chwili jeszcze nie są na to gotowi.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_contact_lost_6">
+		<text>Musimy działać szybko. Wpaść, póki się tego nie spodziewają.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_contact_lost_7">
+		<text>Masz rację, ale wciąż to nie będzie jak spacer po parku. Zanim będziemy mogli wyruszyć, upewnij się, że jesteś gotowy na absolutnie wszystko. Kiedy stąd wyjdziemy nie będzie już odwrotu ani przerwy na siku.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_contact_lost_8">
+		<text>Racja. Dam ci znać, kiedy skończę przygotowania.</text>
+	</string>
+	
+	<string id="stalker_rogue_mortal_sin_ready_0">
+		<text>Jestem gotowy. W drogę.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_ready_1">
+		<text>W sam raz na czas. Najpierw zaatakujemy ich ufortyfikowany posterunek na placu budowy, dzięki temu otworzymy sobie przejście w głąb ich terytorium.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_ready_2">
+		<text>Ufortyfikowany?</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_ready_3">
+		<text>Mają barykadę w wąskim gardle, świetny widok na okolicę z wyższych pięter i kilku dobrze wyszkolonych snajperów. A, no i cała miejscówka solidnie oddaje tłem. Co to dla nas? Jak splunięcie, haha! Idziemy.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_ready_4">
+		<text>Będzie śmiesznie...</text>
+	</string>
+	
+	<string id="stalker_rogue_mortal_sin_destruction_0">
+		<text>Wygląda na to, że wciąż żyjemy.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_destruction_1">
+		<text>A na dodatek właśnie przejęliśmy ich główny punkt zborny i to w momencie, kiedy posiłki nadal są w drodze. Nie możemy się teraz zatrzymać.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_destruction_2">
+		<text>To co, dalej na północ?</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_destruction_3">
+		<text>Tak. Tam jest przejście do opuszczonego szpitala. Parę lat temu Monolit urządził sobie w nim bastion. Powiem ci, że cholernie ciężko było ich stamtąd wygnać, więc będzie przypał, jeśli pozwolimy Grzechowi się tam rozgościć.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_destruction_4">
+		<text>Dawaj, nie ma czasu do stracenia.</text>
+	</string>
+	
+	<string id="stalker_rogue_mortal_sin_assault_0">
+		<text>Ja pierdolę! Po prostu zniknął. Kurwa! Co jest?! Łotrzyk, żyjesz? Wszystko okej?</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_assault_1">
+		<text>Ze wszystkich najgorszych gówien Zony... uch. Tak, chyba nic mi nie jest. Ten psychol chciał, żebym strzelił ci w plecy.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_assault_2">
+		<text>Dobrze, że tego nie zrobiłeś. Jak udało ci się oprzeć? Ja prawie pękłem.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_assault_3">
+		<text>Myślałem o broni. Rozbierałem ją, czyściłem i znów składałem, element po elemencie, śrubka po śrubce... nieważne, musimy iść. Ten typ powiedział, że chce powiększyć Zonę, a tak się składa, że ci psychole są w miejscu, które jest źródłem emisji. W dużym uproszczeniu - mamy przejebane.</text>
+	</string>
+	<string id="stalker_rogue_mortal_sin_assault_4">
+		<text>Ta, trzeba zasuwać. Po drodze musimy kasować wszystkie ich patrole. Nie chcę mieć na ogonie bandy uzbrojonych po zęby fanatyków w momencie, kiedy Czarnobóg będzie próbował przepalić mi styki.</text>
+	</string>
+	
+	<string id="greh_prisoner_greeting_0">
+		<text>Możesz pokonać mnie, ale nie pokonasz Grzechu! Dostąpimy zwycięstwa!</text>
+	</string>
+	
+	<string id="greh_prisoner_dialog_0">
+		<text>Witaj.</text>
+	</string>
+	<string id="greh_prisoner_dialog_1">
+		<text>Powinność! Dlaczego uważacie, że macie prawo zniszczyć Zonę i zadeptać jej cuda? Czy wam się wydaje, że to w ogóle możliwe?! Głupcy!</text>
+	</string>
+	<string id="greh_prisoner_dialog_111">
+		<text>Najemnicy! Przestańcie wsadzać swoje nochale w coś, czego nie rozumiecie! Znajdźcie sobie inny sposób na pozyskiwanie mamony!</text>
+	</string>
+	<string id="greh_prisoner_dialog_112">
+		<text>Samotnicy! Jak zawsze, banda zachłannych, samolubnych zarozumialców! Odejdź stąd, lub zgiń w męczarniach!</text>
+	</string>
+	<string id="greh_prisoner_dialog_113">
+		<text>Ha! Czyste Niebo! Poznaliśmy wasze sekrety... ale wy nie poznaliście naszych! Sprawimy, że Zona obejmie cały świat i nie uda wam się nas powstrzymać!</text>
+	</string>
+	<string id="greh_prisoner_dialog_114">
+		<text>Wolnościowiec? Wy rozumiecie, jakim cudem jest Zona, ale ilość popełnianych przez was grzechów jest absolutnie niedopuszczalna. Zginiecie razem z resztą!</text>
+	</string>
+	<string id="greh_prisoner_dialog_115">
+		<text>Głupi naukowcy... niby słyniecie z mądrości, a jednak przemawia przez was próżność! Czemu z nami walczycie? Po co?! Jeśli chcecie badać Zonę, po prostu zaczekajcie! Powiększymy ją dla was!</text>
+	</string>
+	<string id="greh_prisoner_dialog_2">
+		<text>Uspokój się, człowieku. Chcę tylko chwilę porozmawiać.</text>
+	</string>
+	<string id="greh_prisoner_dialog_221">
+		<text>Odpowiesz mi teraz na kilka pytań.</text>
+	</string>
+	<string id="greh_prisoner_dialog_222">
+		<text>Zamknij mordę, pieprzony fanatyku!</text>
+	</string>
+	<string id="greh_prisoner_dialog_3">
+		<text>Ty... co? Okej? Chcesz pogadać, tak? A niby o czym mam z tobą gadać, niewierny?</text>
+	</string>
+	<string id="greh_prisoner_dialog_331">
+		<text>Pytań? A czemu miałbym odpowiadać na jakiekolwiek pytania padające z ust ohydnego bezwstydnika? Chyba, że szuka on oświecenia?</text>
+	</string>
+	<string id="greh_prisoner_dialog_332">
+		<text>Nie uciszysz głosu Zony!</text>
+	</string>
+	<string id="greh_prisoner_dialog_4">
+		<text>Dobrze walczysz, ale widać, że nie masz zbyt wiele doświadczenia. Nie pozwól tym szaleńcom z Grzechu cię kontrolować. Masz jeszcze szansę. Powiedz mi, co planują, zdradź ich kolejny krok, a darujemy ci życie.</text>
+	</string>
+	<string id="greh_prisoner_dialog_441">
+		<text>Ujawnij mi następny krok waszego planu. Może darujemy ci życie, jeśli będziesz współpracował.</text>
+	</string>
+	<string id="greh_prisoner_dialog_442">
+		<text>Słuchaj, śmieciu! Gadaj, co planują twoi dowódcy, a wyślę cię na tamten świat szybko i bezboleśnie. Jeśli nic nie powiesz, będę cię kroił kawałek po kawałeczku i sypał solą, przysięgam. To jak?!</text>
+	</string>
+	<string id="greh_prisoner_dialog_5">
+		<text>Grzech mnie nie kontroluje! Oni... oni mnie przekonali! Po co walczyć samotnie i nic nie osiągnąć, skoro możesz do nich dołączyć... i... i... i uczynić świat lepszym! Tak... tak mi się... wydaje.</text>
+	</string>
+	<string id="greh_prisoner_dialog_551">
+		<text>Współpracować?! Nie pójdę na żaden układ z bezbożnikami!</text>
+	</string>
+	<string id="greh_prisoner_dialog_552">
+		<text>Nie boję się ciebie, ani twoich towarzyszy! Wszyscy jesteśmy gotowi na największe poświęcenie dla dobra ludzkości! Ja... ja jestem gotowy!</text>
+	</string>
+	<string id="greh_prisoner_dialog_6">
+		<text>Wiesz co? Wydaje mi się, że jeszcze nie do końca wierzysz w te brednie. Nie ufaj bandzie, której celem jest zagłada ludzkości. To sekta! Twoje życie jest warte znacznie więcej, niż parę informacji. Grzech może to odrzucać, ale ja nie.</text>
+	</string>
+	<string id="greh_prisoner_dialog_661">
+		<text>Na twoim miejscu raczej zastanawiałbym się, ile powiedzieć, a nie czy mówić cokolwiek i jeszcze wyzywać wszystkich wokół.</text>
+	</string>
+	<string id="greh_prisoner_dialog_662">
+		<text>Mam cię dość. Zdychaj.</text>
+	</string>
+	<string id="greh_prisoner_dialog_7">
+		<text>Ja... aaa... moja głowa... Czarnobóg... nasz Ojciec... on był... był... bardzo... przekonujący. Ale... ale im więcej o tym myślę... tym mniej się z nim zgadzam. Obiecaj, że mnie nie zabijecie, a powiem wam wszystko, co wiem. Zgoda?</text>
+	</string>
+	<string id="greh_prisoner_dialog_771">
+		<text>Zastanawiać się?! To wy powinniście się zastanawiać! To wy stoicie na ścieżce rozwoju! To wy próbujecie postawić się czemuś znacznie potężniejszemu, czemuś, o czym nie macie pojęcia! To wy powinniście się poddać!</text>
+	</string>
+	<string id="greh_prisoner_dialog_8">
+		<text>Obiecuję. Zostaniesz jeńcem wojennym. Jeśli będziesz się zachowywał, jak należy, być może zostaniesz uwolniony, gdy wygramy ten konflikt.</text>
+	</string>
+	<string id="greh_prisoner_dialog_881">
+		<text>Widzę, że jednak się nie dogadamy.</text>
+	</string>
+	<string id="greh_prisoner_dialog_9">
+		<text>Dobrze, ufam ci. Powiem wam... Czarnobóg zbiera siły na zachodzie Zony, szykując się do miażdżącej ofensywy. Ta okolica jest przecież chroniona dużo słabiej, niż Bariera. Wtedy Grzech rozleje się po całym południu i będzie wykańczać frakcje, jedna po drugiej.</text>
+	</string>
+	<string id="greh_prisoner_dialog_991">
+		<text>I masz rację! Nic ci nie powiem! Nie narażę naszej misji! Nie splamię nieskazitelności naszej sprawy!</text>
+	</string>
+	<string id="greh_prisoner_dialog_10">
+		<text>Widzisz, nie było tak trudno. Dzięki za pomoc. Mam nadzieję, że wkrótce poczujesz się lepiej.</text>
+	</string>
+	<string id="greh_prisoner_dialog_1001">
+		<text>Ech, to bez sensu.</text>
+	</string>
+	
+	<string id="lazarus_greeting_0">
+		<text>Co tam, brachu?</text>
+	</string>
+	
+	<string id="lazarus_story_0">
+		<text>Czekaj, to ciebie Łotrzyk pojmał w Limańsku, co nie? Przypomnij, jak ci na imię?</text>
+	</string>
+	<string id="lazarus_story_1">
+		<text>Tak, to ja. A imię... nie pamiętam mojego prawdziwego imienia, ale Grzech zwał mnie Psogłowem, więc... chyba tak już zostanie.</text>
+	</string>
+	<string id="lazarus_story_2">
+		<text>Nie pamiętasz? Ciekawe. Czemu w ogóle dołączyłeś do Powinności?</text>
+	</string>
+	<string id="lazarus_story_21">
+		<text>Nie pamiętasz? Ciekawe. Czemu w ogóle zostałeś najemnikiem?</text>
+	</string>
+	<string id="lazarus_story_22">
+		<text>Nie pamiętasz? Ciekawe. Widzę, że wybrałeś sobie życie wolnego stalkera.</text>
+	</string>
+	<string id="lazarus_story_23">
+		<text>Nie pamiętasz? Ciekawe. Czemu w ogóle dołączyłeś do Czystego Nieba?</text>
+	</string>
+	<string id="lazarus_story_24">
+		<text>Nie pamiętasz? Ciekawe. Czemu w ogóle dołączyłeś do Wolności?</text>
+	</string>
+	<string id="lazarus_story_25">
+		<text>Nie pamiętasz? Ciekawe. Czemu w ogóle dołączyłeś do Ekologów?</text>
+	</string>
+	<string id="lazarus_story_3">
+		<text>Pomogłeś mi otrząsnąć się z tego, co włożył mi do głowy Czarnobóg, ale pamięć dalej mam zamgloną. Łotrzyk mnie uwolnił, a przez to, że byłeś wobec mnie uprzejmy uznałem, że oddam ten gest i dołączę do Powinności.\n \nJeśli chcesz, mogę ci pomóc. Nie pamiętam, czy byłem mechanikiem, ale dalej umiem naprawiać rzeczy, ciekawe.</text>
+	</string>
+	<string id="lazarus_story_31">
+		<text>Pomogłeś mi otrząsnąć się z tego, co włożył mi do głowy Czarnobóg, ale pamięć dalej mam zamgloną. Łotrzyk mnie uwolnił, a przez to, że byłeś wobec mnie uprzejmy uznałem, że spróbuję swoich sił jako najemnik. Miałem nadzieję, że się spotkamy.\n \nJeśli chcesz, mogę ci pomóc. Nie pamiętam, czy byłem mechanikiem, ale dalej umiem naprawiać rzeczy, ciekawe.</text>
+	</string>
+	<string id="lazarus_story_32">
+		<text>Tak. Pomogłeś mi otrząsnąć się z tego, co włożył mi do głowy Czarnobóg, ale pamięć dalej mam zamgloną. Łotrzyk mnie uwolnił, a przez to, że byłeś wobec mnie uprzejmy uznałem, że pora zacząć żyć jako zwyczajny stalker.\n \nJeśli chcesz, mogę ci pomóc. Nie pamiętam, czy byłem mechanikiem, ale dalej umiem naprawiać rzeczy, ciekawe.</text>
+	</string>
+	<string id="lazarus_story_33">
+		<text>Pomogłeś mi otrząsnąć się z tego, co włożył mi do głowy Czarnobóg, ale pamięć dalej mam zamgloną. Łotrzyk mnie uwolnił, a przez to, że byłeś wobec mnie uprzejmy uznałem, że oddam ten gest i dołączę do Czystego Nieba.\n \nJeśli chcesz, mogę ci pomóc. Nie pamiętam, czy byłem mechanikiem, ale dalej umiem naprawiać rzeczy, ciekawe.</text>
+	</string>
+	<string id="lazarus_story_34">
+		<text>Pomogłeś mi otrząsnąć się z tego, co włożył mi do głowy Czarnobóg, ale pamięć dalej mam zamgloną. Łotrzyk mnie uwolnił, a przez to, że byłeś wobec mnie uprzejmy uznałem, że chcę żyć w Wolności.\n \nJeśli chcesz, mogę ci pomóc. Nie pamiętam, czy byłem mechanikiem, ale dalej umiem naprawiać rzeczy, ciekawe.</text>
+	</string>
+	<string id="lazarus_story_35">
+		<text>Pomogłeś mi otrząsnąć się z tego, co włożył mi do głowy Czarnobóg, ale pamięć dalej mam zamgloną. Łotrzyk mnie uwolnił, a przez to, że byłeś wobec mnie uprzejmy uznałem, że Ekolodzy to dobrzy ludzie, a ich praca ma sens.\n \nJeśli chcesz, mogę ci pomóc. Nie pamiętam, czy byłem mechanikiem, ale dalej umiem naprawiać rzeczy, ciekawe.</text>
+	</string>
+	<string id="lazarus_story_4">
+		<text>Będę miał to na uwadze. Chwila! Chcesz mi powiedzieć, że całą drogę z Limańska przeszedłeś tylko z pistoletem?!</text>
+	</string>
+	<string id="lazarus_story_5">
+		<text>No, tak wyszło. Jakoś mi się udało. Kiedy zwerbował mnie Grzech, oni... coś... coś mi zrobili, "usprawnili" mnie. Wiesz, skóra ze stali i tak dalej, haha.</text>
+	</string>
+	<string id="lazarus_story_6">
+		<text>Nieźle. Zapamiętam to, że chcesz pomóc.</text>
+	</string>
+	
+	<string id="lazarus_repair_0">
+		<text>Cześć, stary, dasz radę połatać mi rzeczy?</text>
+	</string>
+	
+	<string id="lim_stalker_scout_dialog_0">
+		<text>O... kurwa...</text>
+	</string>
+	<string id="lim_stalker_scout_dialog_1">
+		<text>Ty jesteś zwiadowcą Łotrzyka? Co się stało?!</text>
+	</string>
+	<string id="lim_stalker_scout_dialog_2">
+		<text>Tak... pijawki... zaatakowały... były.... szybko... Pe... PDA... niedaleko... stąd...</text>
+	</string>
+	<string id="lim_stalker_scout_dialog_3">
+		<text>Już dobrze. Spokojnie. Pozwól sobie pomóc.</text>
+	</string>
+	<string id="lim_stalker_scout_dialog_4">
+		<text>Za... za późno... znajdź Pe... PDA... u... uważaj...</text>
+	</string>
+	<string id="lim_stalker_scout_dialog_5">
+		<text>Na co?</text>
+	</string>
+	
+	<string id="greh_sabaoth_start_0">
+		<text>Oczekiwałem cię.</text>
+	</string>
+	
+	<string id="kat_greh_sabaoth_mortal_sin_0">
+		<text>Przebyłeś długą drogę.</text>
+	</string>
+	<string id="kat_greh_sabaoth_mortal_sin_1">
+		<text>O, komitet powitalny, jak miło. Dobrze, że pana po prostu nie zastrzeliłem, panie...?</text>
+	</string>
+	<string id="kat_greh_sabaoth_mortal_sin_111">
+		<text>Coś ty za jeden?</text>
+	</string>
+	<string id="kat_greh_sabaoth_mortal_sin_121">
+		<text>Kim ty, kurwa, jesteś?</text>
+	</string>
+	<string id="kat_greh_sabaoth_mortal_sin_2">
+		<text>Moi pobratymcy jęli zwać mnie Czarnobogiem. Ujrzałem odległą łunę Wyraju i przyrzekam... sprowadzę jego blask temu zepsutemu światu.</text>
+	</string>
+	<string id="kat_greh_sabaoth_mortal_sin_3">
+		<text>...?!</text>
+	</string>
+	<string id="kat_greh_sabaoth_mortal_sin_4">
+		<text>Tak... Przyjrzyj się, pojmij, czym jest Zona - to synteza noosfery i biosfery. Dostrzeż, jak niszczycielska, jak... nienasycona jest noosfera. To proste odbicie ludzkiej natury. Zaś Zona... Zona to remedium na wszystkie przewinienia ludzkości.\n \nGdybyśmy rozciągnęli ją na cały świat, każdy miałby szansę poznać siebie takim, jakim naprawdę jest. Żadnej ułudy, żadnych urojeń, żadnych zwodzeń i zakusów. Wtedy wszyscy zostaliby uzdrowieni. Musisz przestać zabijać moje dzieci. Musisz pozwolić im nieść ład i mir temu niespokojnemu światu.</text>
+	</string>
+	<string id="kat_greh_sabaoth_mortal_sin_5">
+		<text>Nie, żeby coś, ale zdaje mi się, że to twoja wesoła kompania zaczęła strzelać jako pierwsza.</text>
+	</string>
+	<string id="kat_greh_sabaoth_mortal_sin_551">
+		<text>Świadomość-Z już próbowała uzdrowić ludzkość, korzystając z bardzo podobnych metod i jedyne, co im z tego wyszło, to wielka katastrofa.</text>
+	</string>
+	<string id="kat_greh_sabaoth_mortal_sin_561">
+		<text>"Ład i mir"? Wymuszony bronią, anomaliami i brakiem szacunku?! W dupie mam wyssane z palca dyrdymały jakiegoś szarlatana.</text>
+	</string>
+	<string id="kat_greh_sabaoth_mortal_sin_6">
+		<text>Nie sądzę, byś zdołał pojąć tę wielką wizję... choć zdaję sobie sprawę, jak rozległą wiedzę posiadasz o Zonie, akurat to brzemię spoczywa na moich barkach.\n \nSam wymierzałem karę niesprawiedliwym, choć nie rozumiano moich wysiłków. Zostałem przez to skazany na śmierć... ale Mistrzowie mnie ocalili, zabrali od ludzi, którzy tego nie pojmowali i uczynili mnie silniejszym. Mistrzowie dali mi nowy cel. I znów, tym razem to oni w swojej bezradności zostali skazani na śmierć przez kogoś, kto nie pojmował ich czynów. Czy ty jeszcze tego nie dostrzegasz?\n \nStalkerzy stanowią zagrożenie dla nadchodzącego, doskonałego świata. Większość z nich pochłania strach lub chciwość. Nie możemy pozwolić im na to, by przeszkodzili naszej misji.</text>
+	</string>
+	<string id="kat_greh_sabaoth_mortal_sin_7">
+		<text>Jak na kogoś, kto właściwie już poniósł klęskę, jesteś zadziwiająco spokojny. Pogodziłeś się już ze swoim losem?</text>
+	</string>
+	<string id="kat_greh_sabaoth_mortal_sin_8">
+		<text>Swój los przyjąłem i zaakceptowałem ponad dekadę temu, kiedy po raz pierwszy zostałem upoważniony przez Mistrzów. Zostałem ulepszony, by świat uczynić lepszym. Moim przeznaczeniem jest triumf. Nie mogę zawieść. Ty za to, tak właściwie...</text>
+	</string>
+	<string id="kat_greh_sabaoth_mortal_sin_9">
+		<text>Doooobra, wystarczy.</text>
+	</string>
+	<string id="kat_greh_sabaoth_mortal_sin_10">
+		<text>...nie powinieneś wykonać ani jednego kroku dalej.</text>
+	</string>
+	<string id="kat_greh_sabaoth_mortal_sin_11">
+		<text>Uch... co... to... do kurwy... jest?!</text>
+	</string>
+	<string id="kat_greh_sabaoth_mortal_sin_12">
+		<text>Ten żałosny hełm psioniczny, który nosisz nie ocali cię przede mną i mocą nadaną mi przez samą Zonę. Albo przyjdziecie po prawdę płynącą z moich ust, albo zginiecie tu i teraz. Wszyscy.</text>
+	</string>
+	<string id="kat_greh_sabaoth_mortal_sin_13">
+		<text>Nie... pozwolę ci...!</text>
+	</string>
+	<string id="kat_greh_sabaoth_mortal_sin_14">
+		<text>Miotaj się do woli, jak miliony dusz, który przyszły tu przed tobą. Zmiana nadejdzie... uparci... martwi... to już od nich nie zależy. To już nie zależy od ciebie.</text>
+	</string>
+	<string id="kat_greh_sabaoth_mortal_sin_15">
+		<text>W dupie... mam... ciebie i... uch... twoje... zmiany!</text>
+	</string>
+	<string id="kat_greh_sabaoth_mortal_sin_1551">
+		<text>Nie... pozwolę na to...! Nie... nie mogę...</text>
+	</string>
+	<string id="kat_greh_sabaoth_mortal_sin_1552">
+		<text>Aaa... moja głowa... aaaargh!</text>
+	</string>
+	<string id="kat_greh_sabaoth_mortal_sin_16">
+		<text>Hmm... Imponujące, doprawdy. Cóż za silny opór. Naprawdę chciałbym, byś od nas dołączył. Fakt, że jesteśmy wrogami niezwykle mnie zasmuca.</text>
+	</string>
+	<string id="kat_greh_sabaoth_mortal_sin_17">
+		<text>Niedługo zakończę twój smutek, obiecuję.</text>
+	</string>
+	
+	<string id="gen_greh_sabaoth_mortal_sin_generators_0">
+		<text>Oto jest, pełen furii, lecz nic nieznaczący. Nie będzie dla ciebie miejsca... w naszym świecie pokoju.</text>
+	</string>
+	<string id="gen_greh_sabaoth_mortal_sin_generators_1">
+		<text>Twoi ludzie są martwi,  a ty jesteś tu sam. Striełok przejrzał twój plan, tak samo, jak przejrzał zamiary Świadomości-Z.</text>
+	</string>
+	<string id="gen_greh_sabaoth_mortal_sin_generators_2">
+		<text>Cóż powiedziałeś?</text>
+	</string>
+	<string id="gen_greh_sabaoth_mortal_sin_generators_3">
+		<text>Maszyny, dzięki którym miałeś posiąść władzę nad emisjami zostały zniszczone. Nie uda ci się rozciągnąć Zony na cały świat.</text>
+	</string>
+	<string id="gen_greh_sabaoth_mortal_sin_generators_4">
+		<text>Lata przygotowań... na marne. Moje dzieci, martwe. Nie dopuszczę, by ich poświęcenie poszło na marne. Nie pozwolę ci... skazać świata na zagładę. Nie poddam się! Inna opcja... jest niedopuszczalna.</text>
+	</string>
+	<string id="gen_greh_sabaoth_mortal_sin_generators_5">
+		<text>Dość już. Zawiodłeś. Pogódź się z tym.</text>
+	</string>
+	<string id="gen_greh_sabaoth_mortal_sin_generators_6">
+		<text>Nie mogę zawieść! Wciąż jest szansa! Muszę porozumieć się ze Spełniaczem Życzeń. Powinien ocalić mi życie, a wtedy zaprowadzę pokój na świecie... Wyraj... objawia się... tak, jak chcieli tego Mistrzowie. Żegnaj, stalkerze.</text>
+	</string>
+	<string id="gen_greh_sabaoth_mortal_sin_generators_7">
+		<text>Nie uda ci się wymusić pokoju siłą. Wkrótce znów się spotkamy!</text>
+	</string>
+</string_table>

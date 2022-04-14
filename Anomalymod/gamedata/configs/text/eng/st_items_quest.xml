@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!--===========================================================
+<
+< QUEST ITEMS TEXT  STRINGS
+<	CoC 1.4.07 - DoctorX Questlines 1.6
+<
+<	Modified by: DoctorX
+<	Last revised: October 06, 2016
+<
+<===========================================================-->
+
+
+<string_table>
+
+	<!-- DRX Storyline Documents Quest Item -->
+	<string id="drx_sl_quest_item_1_name">
+		<text>Dokumenty</text>
+	</string>
+	<string id="drx_sl_quest_item_1_desc">
+		<text>Opieczętowany plik z dokumentami. Możesz tylko przypuszczać, jak straszna, lub kluczowa dla losów świata jest zapisana w nich treść. Niestety, nigdy się tego nie dowiesz. Zwróć je, komu trzeba, by otrzymać nagrodę.</text>
+	</string>
+
+	<!-- DRX Storyline Locked Case Quest Item -->
+	<string id="drx_sl_quest_item_2_name">
+		<text>Zamknięta waliza</text>
+	</string>
+	<string id="drx_sl_quest_item_2_desc">
+		<text>Nie jesteś pewien, co jest w środku, ale czujesz jej ciężar. Lepiej, żeby targanie jej ze sobą się opłaciło.</text>
+	</string>
+
+	<!-- DRX Storyline PDA Quest Item -->
+	<string id="drx_sl_quest_item_3_name">
+		<text>PDA</text>
+	</string>
+	<string id="drx_sl_quest_item_3_desc">
+		<text>Zaszyfrowane PDA. Obiecano ci nagrodę za zwrócenie go.</text>
+	</string>
+
+	<string id="bad_psy_helmet_desc">
+		<text>Prototyp opracowany przez naukowców do ochrony przed promieniowaniem psionicznym. Wymaga kalibracji.</text>
+	</string>
+	<string id="bad_psy_helmet_name">
+		<text>Naukowy hełm psioniczny (nieskalibrowany)</text>
+	</string>
+
+	<string id="good_psy_helmet_desc">
+		<text>Prototyp opracowany przez naukowców do ochrony przed promieniowaniem psionicznym.</text>
+	</string>
+	<string id="good_psy_helmet_name">
+		<text>Naukowy hełm psioniczny</text>
+	</string>
+
+	<string id="cit_doctors_key_short_desc">
+		<text>Klucz Doktora do schowka w Prypeci</text>
+	</string>
+	<string id="cit_doctors_key_name">
+		<text>Klucz Doktora</text>
+	</string>
+	<string id="cit_doctors_key_desc">
+		<text>Klucz z wygrawerowanym z boku napisem "Hotel Polesie - Pokój 26".</text>
+	</string>
+
+	<string id="item_docs_hiden_pri_name">
+		<text>Rękopis Striełoka</text>
+	</string>
+	<string id="item_docs_hiden_pri_desc">
+		<text>Wytarty manuskrypt w skórzanej oprawie. Napisany osobiście przez Striełoka.\n \nSądząc po nagłówku, może wyjaśniać niektóre sekrety Zony.</text>
+	</string>
+
+	<string id="cit_doctors_pda_name">
+		<text>Notatki Doktora</text>
+	</string>
+	<string id="cit_doctors_pda_desc">
+		<text>Notatki sporządzone przez sędziwego stalkera. Brzmią trochę jak teorie spiskowe.\n \n"Istnieją przesłanki, jakoby Instytut Agroprom był tylko przykrywką dla nieoficjalnego laboratorium działającego w latach poprzedzających wypadek z 2006 roku. W laboratorium przeprowadzano dziesiątki niestandardowych eksperymentów. Handlarze dotarli do wielu wartościowych informacji na ich temat.\n \nSpotkałem się z Barmanem. Powiedział, że Powinność wysłała zwiadowców celem dostania się do podziemi w Dolinie Mroku, zwanych X-18. Zaginęli w akcji.\n \nPojawiły się kolejne plotki o urządzeniu zwanym "mózgiem psionicznym". Cała okolica Jantaru jest pod wpływem tego cholerstwa - zamienia w zombie każdego, kto za bardzo się zbliży.\n \nKolejny mechanizm istnieje w podziemiach radaru w Czerwonym Lesie. Laboratorium nosi numer X-19 i to chyba tam znajduje się sterownia Mózgozwęglacza. Plotki sugerują, że to on blokuje dostępu do dróg na północ, ale nikt nie wie dokładnie, jak działa.\n \nBarman uważa, że Mózgozwęglacz jest dziełem człowieka i nie zawsze działa z pełną mocą. Uważa, że są takie okresy, kiedy urządzenie się schładza i emituje mniej fal. To chyba czas, żeby odwiedzić te laboratoria i poznać ich sekrety. Szkoda, że jestem już na to za stary. Gdyby był tu Striełok... Ech, nie widziałem go od lat."</text>
+	</string>
+
+	<string id="item_decoder_desc">
+		<text>Rodzaj elektronicznego wytrycha. Co zastanawiające, nie wygląda jakby był uniwersalnym narzędziem włamu. Wydaje się, że został stworzony w celu odblokowania specyficznego typu zamka i nie zadziała w innych przypadkach.</text>
+	</string>
+	<string id="item_decoder_name">
+		<text>Dekoder</text>
+	</string>
+
+	<string id="pri_decoder_docs_conclusion_txt">
+		<text>Rękopis zawiera krótki raport dotyczący wyprawy Striełoka i Kła do Elektrowni. Pojawia się w nim informacja o ukrytym laboratorium, wspominają także o ogromnej liczbie bojowników Monolitu w okolicy. Autorzy sugerują, że coś poważnego kryje się pod betonowym sarkofagiem.\n \nCzytając dalej okazuje się, że odkryli laboratorium jeszcze bardziej na północ, pod generatorami. Bez odpowiedniego dekodera nie mogli jednak wejść do środka.</text>
+	</string>
+
+	<string id="item_quest_case_02_desc">
+		<text>Ognioodporna skrzynka zawierająca wojskowe dokumenty i raporty dochodzeniowe dotyczące Agropromu. Raporty szczegółowo informują, jak z instytutu ginęły urządzenia i wyposażenie oraz w jaki sposób fałszowano śledztwa dotyczące tych zdarzeń.</text>
+	</string>
+	<string id="item_quest_case_02_name">
+		<text>Dokumenty wojskowe</text>
+	</string>
+
+	<string id="item_doc_x18_name">
+		<text>Raport z badań biologicznych</text>
+	</string>
+	<string id="item_doc_x18_desc">
+		<text>Raport szczegółowo przedstawia badanie próbek biologicznych przesłanych z laboratorium X-18. Próbki poddano działaniu pól transferowych o zmiennym natężeniu. Raport drobiazgowo opisuje mutacje istot żywych wywołane oddziaływaniem emisji.</text>
+	</string>
+
+	<string id="item_doc_x16_desc">
+		<text>Te dokumenty dotyczą jednego z odkryć pobocznych, które wykazało, ze istoty żywe są w stanie generować emisje psioniczne. Biologiczny emiter pola, będący właściwie olbrzymim mózgiem, został wyhodowany w laboratorium X-16 w ramach prowadzonych tam badań.</text>
+	</string>
+	<string id="item_doc_x16_name">
+		<text>Raport z badań nad psioniką</text>
+	</string>
+
+	<string id="item_doc_x10_desc">
+		<text>Dokument opisuje właściwości techniczne anten i wskazuje, jak różnią się od zakładanych wartości. Na odwrocie jest notatka, która informuje, że dokumenty te sporządzono w laboratorium X-19.</text>
+	</string>
+	<string id="item_doc_x10_name">
+		<text>Dokumenty emitera Tęcza</text>
+	</string>
+
+	<string id="item_doc_x8_desc">
+		<text>Dokument odnosi się do przeniesienia zespołu badawczego i wszystkich materiałów do innego laboratorium, znajdującego się daleko na północy, w którym będą prowadzone badania dotyczące wpływów noosfery. By wejść do laboratorium, użyj daty wypadku jako kodu (dd.mm.yyyy).\n \nW skład zespołu badawczego wchodzą: N. A. Lebiediew, E. F. Kałańcza i W. I. Susłow.</text>
+	</string>
+	<string id="item_doc_x8_name">
+		<text>Rozkaz przeniesienia</text>
+	</string>
+
+	<string id="item_doc_jup_ug_desc">
+		<text>Notes zawiera dokładny opis eksperymentu związanego z oceną efektu pola psionicznego na obiekty na drugiej półkuli. Grupa naukowców na Karaibach odebrała sygnał, ale był on zniekształcony. Zmiana sygnału była niezwykła, zupełnie, jakby ktoś go skorygował. Możliwe jest wyjaśnienie mówiące, że teoria noosfery jest słuszna i że zmiany zostały wprowadzone przez samą noosferę.</text>
+	</string>
+	<string id="item_doc_jup_ug_name">
+		<text>Notes z opisem eksperymentu</text>
+	</string>
+
+	<string id="item_doc_mon_con_name">
+		<text>Raport dotyczący prototypowej broni</text>
+	</string>
+	<string id="item_doc_mon_con_name_desc">
+		<text>Dokumenty opisujące mechanizm i główne właściwości techniczne urządzenia elektromagnetycznego.\n \nPośród dokumentów znajduje się następująca notatka: "Dokumenty muszą zostać zwrócone do X-8, do laboratorium centralnego. Ja będę zajęty, więc dostarcz je sam. - N. Lebiediew".</text>
+	</string>
+
+	<string id="quest_package_name">
+		<text>Pakunek</text>
+	</string>
+	<string id="quest_package_desc">
+		<text>Zawartość nieznana.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot osobisty\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		</text>
+	</string>
+	
+	<string id="st_jup_b32_scanner_device_name">
+		<text>Skaner Aktywności Anomalnej</text>
+	</string>
+	<string id="st_jup_b32_scanner_device_desc">
+		<text>Ten pojemnik zawiera detektor artefaktów, baterię i silny transmiter danych. Urządzenie będzie skanowało anomalie, określało ilość i rodzaje stworzonych w nich artefaktów, a dane zostaną automatycznie wysłane do bunkra naukowców.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		</text>
+	</string>
+	
+
+	<!-- MLR -->
+	<string id="mlr_strelok_item_01">
+		<text>Zużyty notes</text>
+	</string>
+	<string id="mlr_strelok_item_01_desc">
+		<text>Prawdopodobnie należał do samego Striełoka. Szczegółowo opisuje, jak dostać się do podziemnego kompleksu zwanego X-18.</text>
+	</string>
+	
+	<string id="blackbox_mlr">
+		<text>Rejestrator lotu</text>
+	</string>
+	<string id="blackbox_mlr_descr">
+		<text>Rejestrator parametrów lotu, potocznie "czarna skrzynka". Używa się ich w lotnictwie do zapisywania stanu systemów pokładowych i rozmów załogi. Po wypadku mogą dostarczyć istotnych informacji na temat jego przyczyn. W Zonie interesują się nimi i wojskowi, i stalkerzy.</text>
+	</string>
+	
+	<string id="item_pda_map_mlr_name">
+		<text>PDA</text>
+	</string>
+	<string id="item_pda_map_mlr_descr">
+		<text>PDA zawierające informacje o ścieżkach między sąsiednimi obszarami.</text>
+	</string>
+	
+	
+	<!-- Strelok notes -->
+	<string id="strelok_notes_name">
+		<text>Notatnik Striełoka</text>
+	</string>
+	<string id="strelok_notes_desc">
+		<text>Ten notatnik należał do Striełoka. Po szybkim przekartkowaniu okazuje się, że zawiera raczej niepołączone ze sobą i trudne do zrozumienia bez kontekstu zapiski. Wydaje się, że legendarny stalker przeżywał kryzys związany z jakąś ważną decyzją, którą podjął kilka lat temu i chciał zweryfikować swoje wybory, szukając odpowiedzi na północy Zony.</text>
+	</string>
+	
+	
+	<!-- DRX -->
+	<string id="drx_x8_documents_name">
+		<text>Dokumenty o antenach</text>
+	</string>
+	<string id="drx_x8_documents_desc">
+		<text>Dokumenty odnoszą się do czegoś, co wygląda jak ogromna instalacja radarowa. Prawdopodobnie opisują struktury i sposób działania Mózgozwęglacza.</text>
+	</string>
+	
+	<string id="drx_x16_documents_name">
+		<text>Badania biologiczne</text>
+	</string>
+	<string id="drx_x16_documents_desc">
+		<text>Plik starych papierów odnoszących się do eksperymentów przeprowadzanych na szczurach i innych zwierzętach.</text>
+	</string>
+	
+	<string id="drx_x18_documents_name">
+		<text>Raport z eksperymentu B0-D4</text>
+	</string>
+	<string id="drx_x18_documents_desc">
+		<text>Stare dokumenty odnoszące się do eksperymentu powiązanego z rezonansem i emisją fal psionicznych.</text>
+	</string>
+	
+	<string id="drx_x19_documents_name">
+		<text>Dziennik komunikacji / 21.03.2006</text>
+	</string>
+	<string id="drx_x19_documents_desc">
+		<text>Wydruk transkrypcji transmisji radiowej między grupami naukowców z instytutu.</text>
+	</string>
+	
+	<string id="drx_agr_u_documents_name">
+		<text>Dokumentacja Instytutu Agroprom</text>
+	</string>
+	<string id="drx_agr_u_documents_desc">
+		<text>Plik notatek, zdjęć i mapa z zaznaczonym Instytutem. Prawdopodobnie spisał je Striełok, kiedy przebywał w okolicy.</text>
+	</string>
+	
+	<string id="drx_jup_u_documents_name">
+		<text>Dokumenty transportowe</text>
+	</string>
+	<string id="drx_jup_u_documents_desc">
+		<text>Te dokumenty zawierają zapisy transportowe dotyczące dostaw sprzętu i narzędzi do fabryki Jupiter. Zawierają również schematyczne rysunki tuneli prowadzących na wschód.</text>
+	</string>
+	
+	<string id="lx8_history_documents_name">
+		<text>Eksperyment (11.04.2005)</text>
+	</string>
+	<string id="lx8_history_documents_desc">
+		<text>Zapis dokumentuje rezultat prowadzonego przed laty eksperymentu dotyczącego nowych typów emiterów psionicznych.</text>
+	</string>
+	<string id="lx8_history_2_documents_name">
+		<text>Eksperyment (24.09.2005)</text>
+	</string>
+	<string id="lx8_history_2_documents_desc">
+		<text>Zapis dokumentuje rezultat prowadzonego przed laty eksperymentu dotyczącego zastosowań fal psionicznych.</text>
+	</string>
+	<string id="lx8_history_3_documents_name">
+		<text>Eksperyment (02.05.2006)</text>
+	</string>
+	<string id="lx8_history_3_documents_desc">
+		<text>Zapis dokumentuje rezultat eksperymentu biologicznego.</text>
+	</string>
+</string_table>

@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+<!-- Griffith (Mercs leader in the Bookstore) -->
+	<string id="grifon_meet_dialog_0">
+		<text>Dostałem twoją wiadomość. Od kiedy współpracujecie z innymi?</text>
+	</string>
+	<string id="grifon_meet_dialog_1">
+		<text>Ty nie bądź taki kozak, dobra? Stoisz tu tylko i wyłącznie dlatego, że wszystko inne chuj strzelił. Przez pieprzonych wojskowych straciliśmy paru dobrych ludzi. Bez nich nie byliśmy w stanie dotrzeć do informacji, po które tu przyszliśmy.\n \nJeśli wrócimy do Duszmana z pustymi łapami, poucina nam jaja i każe je zeżreć. Dlatego tu garujemy i dlatego nie widzę sensu napieprzania się z randomami.</text>
+	</string>
+	<string id="grifon_meet_dialog_2">
+		<text>Potrzebujecie jakiejś pomocy?</text>
+	</string>
+	<string id="grifon_meet_dialog_3">
+		<text>Każdej. Nie mamy ani zapasów, ani standardowego wyposażenia - lecimy na tym, co udało nam się znaleźć dzięki dobrze przeprowadzonym operacjom. Pogadaj z naszym zaopatrzeniowcem -  za drobną opłatą opyli ci niepotrzebne nadwyżki sprzętu, z którego i tak nie skorzystamy.</text>
+	</string>
+
+	<string id="task_find_inf_inx_8_mlr_1_0">
+		<text>Masz jakieś specjalne zadania?</text>
+	</string>
+	<string id="task_find_inf_inx_8_mlr_1_1">
+		<text>Właściwie przybyliśmy tu, żeby odzyskać informacje z laboratorium X-8, zlokalizowanego w okolicy Jubilejnego, na północ stąd. W środku znaleźliśmy windę na minus jeden, ale zanim zjechaliśmy na dół, wlecieli w nas jebani Monoliciarze. To przez nich teraz jesteśmy po uszy w gównie.\n \nDuszman pewnie i tak nas zabije, ale musimy mu przynieść cokolwiek użytecznego. Niewielu nas zostało i raczej nie dostaniemy wsparcia, żeby wydostać się z pierdolonego centrum jebanej Zony. Może mógłbyś spróbować zjechać do labu? A nuż zostało tam coś ciekawego... Możesz zarobić sporo kasy, wiesz?</text>
+	</string>
+	<string id="task_find_inf_inx_8_mlr_1_2">
+		<text>Brzmi zachęcająco, pójdę.</text>
+	</string>
+	<string id="task_find_inf_inx_8_mlr_1_3">
+		<text>Nie, dzięki.</text>
+	</string>
+	
+	<string id="task_find_inf_inx_8_mlr_2_0">
+		<text>Patrz, co udało mi się znaleźć.</text>
+	</string>
+	<string id="task_find_inf_inx_8_mlr_2_1">
+		<text>Za wiele to tego nie ma... ale na pewno będzie tu coś interesującego. Myślę, że znajdziemy kogoś, kto będzie zainteresowany tymi papierami. Trzymaj swoją działkę.</text>
+	</string>
+	
+<!-- Trunk (Merc Mechanic in the Bookstore) -->
+	<string id="tech_a18_meet_dialog_0">
+		<text>Jesteś technikiem, zgadza się? Jakie usługi oferujesz?</text>
+	</string>
+	<string id="tech_a18_meet_dialog_1">
+		<text>Tak jest. Jestem w stanie połatać ci szpej i naprawić broń. Poza tym wymieniam amunicję, którą chłopaki od czasu do czasu znajdują podczas swoich wypadów na naboje mniej popularnych kalibrów. Jeśli znajdziesz nietypowe pestki, przynoś je tutaj, zobaczymy, co da się zrobić. Wszystko, oprócz pocisków do RPG wymieniam jeden do jednego.\n \nPoza tym mam na stanie trochę oręża - giwery, które dostajemy od firmy to naprawdę najwyższa liga, ale mając do wyboru broń z górnej półki bez amunicji i kałacha, do którego naboje walają się dosłownie wszędzie, każdy rozsądny wybierze AK... Mam też trochę głowic do RPG i granaty do podlufek 40 mm... bo nie dali nam zbyt wielu granatników M203.\n \nOprócz tego, z braku laku mogę cię poskładać do kupy, jak wpakujesz się w tarapaty.</text>
+	</string>
+
+	<string id="tech_a18_meet_dialog_1_0">
+		<text>Jaką amunicję możesz wymienić?</text>
+	</string>
+	<string id="tech_a18_meet_dialog_1_1">
+		<text>Mam dwieście pocisków 9x19, które mogę wymienić za tyle samo pestek 9x18 +P+, koło trzystu pocisków 5.56x45 mm w zamian za 5.45x39 mm, dwadzieścia granatów F1 za tą samą ilość granatów M203 i dziesięć granatów RGD-5 w zamian za trzy głowice bojowe do RPG.</text>
+	</string>
+	
+	<string id="tech_a18_meet_dialog_2_0">
+		<text>Myślę, że się wymienimy.</text>
+	</string>
+	<string id="tech_a18_meet_dialog_2_1">
+		<text>Świetnie. Co tam masz?</text>
+	</string>
+	<string id="tech_a18_meet_dialog_2_2">
+		<text>Wezmę sto pocisków 9x19 w zamian za sto pocisków 9x18 +P+.</text>
+	</string>
+	<string id="tech_a18_meet_dialog_2_3">
+		<text>Wezmę sto pocisków 5.56x45 mm w zamian za sto pocisków 5.45x39 mm.</text>
+	</string>
+	<string id="tech_a18_meet_dialog_2_4">
+		<text>Wezmę dwadzieścia granatów F1 w zamian za dwadzieścia granatów M203.</text>
+	</string>
+	<string id="tech_a18_meet_dialog_2_5">
+		<text>Wezmę dziesięć granatów RGD-5 w zamian za trzy głowice bojowe do RPG.</text>
+	</string>
+	<string id="tech_a18_meet_dialog_2_6">
+		<text>Zmieniłem zdanie.</text>
+	</string>
+
+	
+<!-- Meeker (Special trader  in the Bookstore, substituting Nimble as special orders trader) -->
+	<string id="pri_special_trader_mlr1_0">
+		<text>Kim jesteś?</text>
+	</string>
+	<string id="pri_special_trader_mlr1_1">
+		<text>O, nowy klient... Przede wszystkim - nie interesuje mnie, coś za jeden, ani skąd żeś się urwał. Przychodzisz, wybierasz z listy to, czego potrzebujesz i czekasz dokładnie jeden dzień, aż zdobędę towar. Nie akceptuję zwrotów, rezygnacji i zaliczek - nie mam czasu na takie pierdoły. Ode mnie wszystko dostajesz na czas, ale nie możesz zamówić więcej niż jednej rzeczy naraz.</text>
+	</string>
+
+	<string id="pri_special_trader_mlr4_0">
+		<text>Jak udaje ci się współpracować z Monolitem i skąd bierzesz takie unikaty?</text>
+	</string>
+	<string id="pri_special_trader_mlr4_1">
+		<text>Słuchaj, skoro mnie nie interesuje, kim jesteś, to wydaje mi się, że w drugą stronę powinno działać tak samo, zgadza się? Jeśli tak bardzo chcesz wiedzieć - jestem tylko pośrednikiem. I ciesz się, że w ogóle z tobą gadam - w tym biznesie to ja wybieram, z kim będę współpracował.</text>
+	</string>
+
+	<string id="pri_special_trader_mlr2_0">
+		<text>Chciałbym złożyć zamówienie.</text>
+	</string>
+	<string id="pri_special_trader_mlr2_1">
+		<text>Wybierz, co cię interesuje.</text>
+	</string>
+		<string id="pri_special_trader_mlr2_2">
+			<text>Pistolety.</text>
+		</string>
+		<string id="pri_special_trader_mlr2_7">
+			<text>Pamiętaj, możesz wybrać tylko jeden. Zerknij.</text>
+		</string>
+		<string id="pri_special_trader_mlr2_8">
+			<text>Orzeł Stepowy - ręcznie wykonany pistolet oparty o Desert Eagle. Doprecyzowane elementy zapewniają niezwykłą celność. Cena: 8.000 RU.</text>
+		</string>
+		<string id="pri_special_trader_mlr2_11">
+			<text>Dokładnie za dwadzieścia cztery godziny otrzymasz ode mnie wiadomość na PDA.</text>
+		</string>
+		<string id="pri_special_trader_mlr2_9">
+			<text>Alpine - zmodyfikowany SIG P220 z powiększonym magazynkiem. Cena: 6.500 RU.</text>
+		</string>
+		<string id="pri_special_trader_mlr2_10">
+			<text>Marsz - zmodyfikowany USP Compact. Większy kaliber, większa szybkostrzelność. Cena: 7.000 RU.</text>
+		</string>
+		<string id="pri_special_trader_mlr2_3">
+			<text>Strzelby i pistolety maszynowe.</text>
+		</string>
+		<string id="pri_special_trader_mlr2_28">
+			<text>Dobra. Wybierz jeden z nich.</text>
+		</string>
+		<string id="pri_special_trader_mlr2_12">
+			<text>Frasier - wykonany na zamówienie w oparciu o MP5. Zwiększony kaliber, poprawione charakterystyki, wzmocnione elementy. Cena: 9.500 RU.</text>
+		</string>
+		<string id="pri_special_trader_mlr2_13">
+			<text>Karabiner - zmodyfikowany na potrzeby armii SPAS-12. Mniejszy odrzut, automatyczny tryb ognia. Cena: 11.000 RU.</text>
+		</string>
+		<string id="pri_special_trader_mlr2_14">
+			<text>Armsel Protecta - strzelba wykonana w oparciu o Strikera. Cena: 17.000 RU.</text>
+		</string>
+		<string id="pri_special_trader_mlr2_15">
+			<text>Nie ma tu nic, co by mnie zainteresowało.</text>
+		</string>
+		<string id="pri_special_trader_mlr2_4">
+			<text>Karabiny szturmowe i snajperskie.</text>
+		</string>
+		<string id="pri_special_trader_mlr2_29">
+			<text>Oto co mam - wybierz coś dla siebie.</text>
+		</string>
+		<string id="pri_special_trader_mlr2_16">
+			<text>Burza - zmodyfikowana OC-14 Groza, wyprodukowana dla Specnazu. Jedną ze zmian wartych odnotowania jest zwiększona pojemność magazynka. Cena: 19.000 RU.</text>
+		</string>
+		<string id="pri_special_trader_mlr2_17">
+			<text>H&amp;K G36 - rzadki widok w Zonie. Cena: 14.000 RU.</text>
+		</string>
+		<string id="pri_special_trader_mlr2_18">
+			<text>FN F2000. Belgijski rarytas i przyzwoity karabin szturmowy. Cena: 17.000 RU.</text>
+		</string>
+		<string id="pri_special_trader_mlr2_19">
+			<text>Przypływ - ekskluzywna modyfikacja WSS Wintorieza. Mniejsza szybkostrzelność w zamian za większą moc obalającą. Cena: 20.000 RU.</text>
+		</string>
+		<string id="pri_special_trader_mlr2_20">
+			<text>SWU2-A - ewolucja karabinu snajperskiego SWUmk-2. Dawniej broń należała do Maksa, legendarnego strażnika Wolności. Cena: 24.000 RU.</text>
+		</string>
+		<string id="pri_special_trader_mlr2_21">
+			<text>Ryś - wojskowa modyfikacja SWD zwiększająca celność i moc obalającą. Cena: 18.000 RU.</text>
+		</string>
+		<string id="pri_special_trader_mlr2_27">
+			<text>Karabin Gaussa - Broń-trofeum. Na palcach jednej ręki można policzyć, ile sprawnych sztuk tej broni znajduje się w Zonie. Absolutna celność i obrażenia, niemal bez odrzutu. Cena: 150.000 RU.</text>
+		</string>
+		<string id="pri_special_trader_mlr2_5">
+			<text>Kombinezony.</text>
+		</string>
+		<string id="pri_special_trader_mlr2_30">
+			<text>Dobra, wybierz któryś.</text>
+		</string>
+		<string id="pri_special_trader_mlr2_22">
+			<text>Egzoszkielet Monolitu - najlepsza kombinacja statystyk ochronnych. W dodatku, nie zdobędziesz go w inny sposób, chyba że staniesz się przedstawicielem ich bractwa. Cena: 100.000 RU.</text>
+		</string>
+		<string id="pri_special_trader_mlr2_23">
+			<text>Egzoszkielet Najemników - być może jeden z najbardziej niezawodnych w kwestii ochrony. Cena: 75.000 RU.</text>
+		</string>
+		<string id="pri_special_trader_mlr2_24">
+			<text>Egzoszkielet Bandytów. Ekskluzywność w najczystszej postaci. Cena: 65.000 RU.</text>
+		</string>
+		<string id="pri_special_trader_mlr2_25">
+			<text>Kombinezon Monolitu z zamkniętym obiegiem powietrza - podobnie jak ich egzoszkieletu, raczej nie znajdziesz go nigdzie indziej. Cena: 70.000 RU.</text>
+		</string>
+		<string id="pri_special_trader_mlr2_26">
+			<text>Kombinezon najemników z zamkniętym obiegiem powietrza - doskonała ochrona przed anomaliami i prawdziwa gratka dla przeciętnego stalkera. Cena: 50.000 RU.</text>
+		</string>
+	<string id="pri_special_trader_mlr2_6">
+		<text>Zmieniłem zdanie.</text>
+	</string>
+
+	<string id="pri_special_trader_mlr3_0">
+		<text>Dostałem twoją wiadomość, moje zamówienie jest gotowe?</text>
+	</string>
+	<string id="pri_special_trader_mlr3_1">
+		<text>Tak, mam nadzieję, że masz ze sobą kasę. [%s RU], jeśli zapomniałeś.</text>
+	</string>
+		<string id="pri_special_trader_mlr3_2">
+			<text>Tak, daj mi Orła Stepowego. Oto twoja zapłata.</text>
+		</string>
+		<string id="pri_special_trader_mlr3_20">
+			<text>Zapraszam ponownie.</text>
+		</string>
+		<string id="pri_special_trader_mlr3_3">
+			<text>Wezmę SIG-220 Alpine. Trzymaj kasę.</text>
+		</string>
+		<string id="pri_special_trader_mlr3_4">
+			<text>Daj mi USP Marsz. Oto twoja kasa.</text>
+		</string>
+		<string id="pri_special_trader_mlr3_5">
+			<text>Chciałbym MP5 Frasier. Trzymaj kasę.</text>
+		</string>
+		<string id="pri_special_trader_mlr3_6">
+			<text>Daj mi Karabinera. Oto kasa.</text>
+		</string>
+		<string id="pri_special_trader_mlr3_7">
+			<text>Wezmę Protectę. Oto twoja zapłata.</text>
+		</string>
+		<string id="pri_special_trader_mlr3_8">
+			<text>Chcę OC-14 Burzę. Oto pieniądze.</text>
+		</string>
+		<string id="pri_special_trader_mlr3_9">
+			<text>Daj mi H&amp;K G36. Oto kasa.</text>
+		</string>
+		<string id="pri_special_trader_mlr3_10">
+			<text>FN-2000 brzmi jak dobry wybór. Oto twoje pieniądze.</text>
+		</string>
+		<string id="pri_special_trader_mlr3_11">
+			<text>Zdecydowanie chcę Przypływ, tego Wintorieza. Trzymaj kasę.</text>
+		</string>
+		<string id="pri_special_trader_mlr3_12">
+			<text>SWU2-A. Oto pieniądze dla ciebie.</text>
+		</string>
+		<string id="pri_special_trader_mlr3_13">
+			<text>Wezmę SWD Ryś. Oto pieniądze.</text>
+		</string>
+		<string id="pri_special_trader_mlr3_14">
+			<text>Wezmę egzoszkielet Monolitu. Trzymaj kasę.</text>
+		</string>
+		<string id="pri_special_trader_mlr3_15">
+			<text>Daj mi egzoszkielet najemników. Oto pieniądze.</text>
+		</string>
+		<string id="pri_special_trader_mlr3_16">
+			<text>Wezmę egzoszkielet bandytów. Oto pieniądze.</text>
+		</string>
+		<string id="pri_special_trader_mlr3_17">
+			<text>Potrzebowałem właśnie SEVY Monolitu. Oto gotówka.</text>
+		</string>
+		<string id="pri_special_trader_mlr3_18">
+			<text>Daj mi kombinezon SEVA najemnika. Oto twoje pieniądze.</text>
+		</string>
+		<string id="pri_special_trader_mlr3_19">
+			<text>Karabin Gaussa. Teraz. Trzymaj kasę.</text>
+		</string>
+	<string id="pri_special_trader_mlr3_21">
+		<text>Uch... Jeszcze nie. pracuję nad tym.</text>
+	</string>
+
+
+<!-- Monolith Mechanic in the Yubileiny service center -->
+	<string id="mechanic_monolith_kbo_start_0">
+		<text>Witaj, bracie. Wypełniam Jego wolę, dbając o wyposażenie braci naszych.</text>
+	</string>
+
+	
+<!-- Monolith trader in the Yubileiny service center -->
+	<string id="meet_guid_prikbo_mon_0">
+		<text>Dokąd możesz mnie zaprowadzić, bracie?</text>
+	</string>
+	<string id="meet_guid_prikbo_mon_1">
+		<text>Nie mogę eskortować cię osobiście, ale nasi bracia za drobną ofiarą mogą wskazać ci drogę. Mamy swoje posterunki w Czerwonym Lesie, Jupiterze i Prypeci. Chętnie pomożemy ci w każdej chwili.</text>
+	</string>
+
+	<string id="meet_guid_prikbo_mon_list_0">
+		<text>Dokąd mogą zaprowadzić mnie przewodnicy?</text>
+	</string>
+	<string id="meet_guid_prikbo_mon_list_1">
+		<text>Do Czerwonego Lasu za pięć tysięcy rubli, do Jupitera za dwa tysiące i do Prypeci za tysiąc.</text>
+	</string>
+
+	<string id="travel_guid_prikbo_mon_mon_0">
+		<text>Chciałbym dostać się w pewne miejsce.</text>
+	</string>
+	<string id="travel_guid_prikbo_mon_mon_1">
+		<text>Naturalnie. Dokąd chcesz nieść światło Monolitu?</text>
+	</string>
+	<string id="travel_guid_prikbo_mon_mon_2">
+		<text>Do Czerwonego Lasu. %c[d_orange][5.000 RU]</text>
+	</string>
+	<string id="travel_guid_prikbo_mon_mon_3">
+		<text>Do Jupitera. %c[d_orange][2.000 RU]</text>
+	</string>
+	<string id="travel_guid_prikbo_mon_mon_4">
+		<text>Do Prypeci. %c[d_orange][1.000 RU]</text>
+	</string>
+	<string id="travel_guid_prikbo_mon_mon_5">
+		<text>Zmieniłem zdanie.</text>
+	</string>
+
+	
+<!---- Charon, in the basement of the Palace of Culture --->
+	<string id="meet_guid_l11pri_mon_haron_0">
+		<text>Czy mogę wyruszyć gdzieś w podróż, bracie?</text>
+	</string>
+	<string id="meet_guid_l11pri_mon_haron_1">
+		<text>Naturalnie. Mogę poprosić braci, by cię poprowadzili - w zamian za drobne wsparcie finansowe dla naszego bractwa. Możesz zostać zaprowadzony na Przedmieścia Prypeci na wschód stąd, do Jupitera na zachód i do Czerwonego Lasu na południowym zachodzie.</text>
+	</string>
+
+	<string id="meet_guid_l11pri_mon_haron_list_0">
+		<text>Do jakich miejsc mogę się wybrać, bracie?</text>
+	</string>
+	<string id="meet_guid_l11pri_mon_haron_list_1">
+		<text>Znamy szlaki do wschodniej części Prypeci, do Jupitera na zachodzie i do Czerwonego Lasu zlokalizowanego na południowy zachód stąd.</text>
+	</string>
+
+	<string id="travel_guid_l11pri_mon_haron_0">
+		<text>Chciałbym udać się w pewne miejsce.</text>
+	</string>
+	<string id="travel_guid_l11pri_mon_haron_1">
+		<text>Dokąd pragniesz się dostać, bracie?</text>
+	</string>
+	<string id="travel_guid_l11pri_mon_haron_2">
+		<text>Na Przedmieścia Prypeci. %c[d_orange][1.000 RU]</text>
+	</string>
+	<string id="travel_guid_l11pri_mon_haron_3">
+		<text>Do Jupitera. %c[d_orange][1.000 RU]</text>
+	</string>
+	<string id="travel_guid_l11pri_mon_haron_4">
+		<text>Do Czerwonego Lasu. %c[d_orange][5.000 RU]</text>
+	</string>
+	<string id="travel_guid_l11pri_mon_haron_5">
+		<text>Zmieniłem zdanie.</text>
+	</string>
+
+	<string id="find_blackbox_mlr_reward_haron_0">
+		<text>Bracie, pod wrakiem śmigłowca znalazłem rejestrator lotu.</text>
+	</string>
+	<string id="find_blackbox_mlr_reward_haron_1">
+		<text>Chwała Monolitu! Dzięki zawartym w nim informacjom będziemy mogli przynieść śmierć niewiernym. Sprawimy, że ich nieczyste dusze zapłoną.</text>
+	</string>
+
+	
+
+<!-- Guide in eastern Pripyat -->
+	<string id="meet_guid_pri_stalker_0">
+		<text>Jesteś przewodnikiem, zgadza się?</text>
+	</string>
+	<string id="meet_guid_pri_stalker_1">
+		<text>Tak, nazywają mnie Turysta. Lubię badać kompletnie nieznane tereny. Dzięki temu często znajduję przejścia, o których nie wie nikt inny.\n \nMogę cię poprowadzić do Elektrowni za dwanaście tysięcy rubli, do Prypeci za trzy tysiące, na stację Janów w Jupiterze za cztery tysiące, na Radar za osiem tysięcy, do podziemi Jupitera za tysiąc i do Zatonu, przez Garriego, za cztery tysiące.</text>
+	</string>
+
+	<string id="meet_guid_pri_stalker_list_0">
+		<text>Możesz powtórzyć, dokąd możesz mnie zaprowadzić?</text>
+	</string>
+	<string id="meet_guid_pri_stalker_list_1">
+		<text>Do Elektrowni za dwanaście tysięcy rubli, do Prypeci za trzy tysiące, na stację Janów w Jupiterze za cztery tysiące, na Radar za osiem tysięcy, do podziemi Jupitera za tysiąc i do Zatonu, przez Garriego, za cztery tysiące.</text>
+	</string>
+
+	<string id="travel_guid_pri_stalker_0">
+		<text>Prowadź.</text>
+	</string>
+	<string id="travel_guid_pri_stalker_1">
+		<text>Dokąd?</text>
+	</string>
+	<string id="travel_guid_pri_stalker_2">
+		<text>Do Elektrowni Jądrowej. %c[d_orange][12.000 RU]</text>
+	</string>
+	<string id="travel_guid_pri_stalker_3">
+		<text>Do Prypeci. %c[d_orange][3.000 RU]</text>
+	</string>
+	<string id="travel_guid_pri_stalker_4">
+		<text>Na Radar. %c[d_orange][8.000 RU]</text>
+	</string>
+	<string id="travel_guid_pri_stalker_5">
+		<text>Do Jupitera. %c[d_orange][4.000 RU]</text>
+	</string>
+	<string id="travel_guid_pri_stalker_6">
+		<text>Do podziemi Jupitera. %c[d_orange][1.000 RU]</text>
+	</string>
+	<string id="travel_guid_pri_stalker_7">
+		<text>Na Zaton. %c[d_orange][4.000 RU]</text>
+	</string>
+	<string id="travel_guid_pri_stalker_8">
+		<text>Zmieniłem zdanie.</text>
+	</string>
+
+<!-- Eidolon -->
+	<string id="monolith_eidolon_st_1">
+		<text>Jam jest Eidolon. Wybraniec Monolitu.\nJam ten, który przywrócił Mózgozwęglacz.\nJam prowadzony przez Monolit.\nPosłuchu szukałem i otrzymałem go.\nObdarzony zostałem darem.\nJasnością umysłu i widzenia, krystalicznie czystą.\nBy chronić. By karać.\nBy służyć najwyższej sprawie.\n \nPrzetrząsam Zonę poszukując niewiernych.\nNieświadomych głupców, pragnących nas zniszczyć.\nPragnących zniszczyć wszechmocny Monolit.\nJam ich nauczycielem głoszącym prawdę.\n \nZ moim orężem. Z błogosławionym umysłem.\nWyczuwam, że pierzchną do kryjówek. Na marne.\nBezskutecznie, gdyż ja ich dostrzegam.\nŚcigam.\nNiszczę, by chronić.\n \nW imię. I dla chwały.\nWszechmogącego.\nMonolitu.</text>
+	</string>
+
+</string_table>

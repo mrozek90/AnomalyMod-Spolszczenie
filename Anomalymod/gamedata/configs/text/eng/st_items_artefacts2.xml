@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	New Artefacts
+-->
+
+<string_table>
+	<string id="st_af_cocoon_name">
+		<text>Kokon</text>
+	</string>
+	<string id="st_af_cocoon_descr">
+		<text>Twór natury grawitacyjnej. Bezużyteczny bibelot, chociaż budzi zainteresowanie kolekcjonerów i jubilerów. Nie emituje promieniowania.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	<string id="st_af_cell_name">
+		<text>Komórka</text>
+	</string>
+	<string id="st_af_cell_descr">
+		<text>Twór natury grawitacyjnej. Bezużyteczny bibelot, chociaż wartościowy dla kolekcjonerów i jubilerów. Nie emituje promieniowania.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	<string id="st_af_fountain_name">
+		<text>Fontanna</text>
+	</string>
+	<string id="st_af_fountain_descr">
+		<text>Artefakt prawdopodobnie pochodzenia grawitacyjnego. Nie posiada żadnych użytecznych właściwości, ale ze względu na swój dziwaczny kształt stanowi gratkę dla kolekcjonerów. Nie emituje promieniowania.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	<string id="st_af_spaika_name">
+		<text>Kołek</text>
+	</string>
+	<string id="st_af_spaika_descr">
+		<text>Przypomina skamielinę. Najprawdopodobniej ma pochodzenie grawitacyjne. Nie posiada użytecznych właściwości, nie emituje promieniowania.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	<string id="st_af_signet_name">
+		<text>Sygnet</text>
+	</string>
+	<string id="st_af_signet_descr">
+		<text>Część stalkerów nazywa go Amuletem. Raczej bezużyteczny, choć według niektórych przynosi szczęście. Nie emituje promieniowania.\n \n
+		%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	<string id="st_af_repei_name">
+		<text>Oset</text>
+	</string>
+	<string id="st_af_repei_descr">
+		<text>Dosyć często tworzy się w anomaliach grawitacyjnych. Nie posiada użytecznych właściwości, ani cech szkodliwych. Wielu stalkerów - nie wiedzieć czemu - nie wyobraża sobie wyjścia w Zonę bez tego tworu. Jest lekki i ceniony przez jubilerów oraz kolekcjonerów. Nie emituje promieniowania.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	<string id="st_af_bat_name">
+		<text>Nietoperz</text>
+	</string>
+	<string id="st_af_bat_descr">
+		<text>Bardzo estetyczna formacja anomalna. Nie posiada użytecznych właściwości ani nie emituje promieniowania, ale jest dosyć ciężki. Ceniony przez kolekcjonerów.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	<string id="st_af_sun_name">
+		<text>Słońce</text>
+	</string>
+	<string id="st_af_sun_descr">
+		<text>Dosyć rzadki twór, niezwykle ceniony przez kolekcjonerów. Poza tym, że jest niewyczerpanym źródłem światła, nie ma użytecznych właściwości. Bardzo ciężki. Nie emituje promieniowania.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	<string id="st_af_ear_name">
+		<text>Serce</text>
+	</string>
+	<string id="st_af_ear_descr">
+		<text>Artefakt o dziwnym kształcie. Struktura jego rdzenia przypomina ludzkie ciało. Nie ma użytecznych właściwości. Nie emituje promieniowania. Ceniony przez kolekcjonerów spoza Zony.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	<string id="st_af_chelust_name">
+		<text>Łańcuch</text>
+	</string>
+	<string id="st_af_chelust_descr">
+		<text>Bardzo dziwny artefakt. Generuje silne pole grawitacyjne, o ile z niczym się nie styka. Nie ma użytecznych właściwości. Bardzo ciężki. Ceniony przez kolekcjonerów spoza Zony.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	<string id="st_af_atom_name">
+		<text>Atom</text>
+	</string>
+	<string id="st_af_atom_descr">
+		<text>Dosyć rzadka i piękna forma artefaktu. Nazwę zawdzięcza swojemu wyglądowi. Stanowi słabe źródło ciepła. Nie ma innych użytecznych właściwości ani nie emituje promieniowania. Bardzo ceniony przez kolekcjonerów.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	<string id="st_af_lighthouse_name">
+		<text>Świecznik</text>
+	</string>
+	<string id="st_af_lighthouse_descr">
+		<text>Grudka niezwykle gęstej substancji zbudowanej z cennych pierwiastków wykorzystywanych w przemyśle. Nie emituje promieniowania, nie ma użytecznych właściwości.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	<string id="st_af_fire_loop_name">
+		<text>Pętla</text>
+	</string>
+	<string id="st_af_fire_loop_descr">
+		<text>Warunkiem do powstania tego artefaktu jest gwałtowny wzrost temperatury wewnątrz anomalii termicznej. Posiada dość dziwny kształt, dzięki któremu ceniony jest przez kolekcjonerów. Nie emituje promieniowania i nie ma użytecznych właściwości.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	<string id="st_af_zhelch_name">
+		<text>Blizna</text>
+	</string>
+	<string id="st_af_zhelch_descr">
+		<text>Artefakt działa uspokajająco na ludzki układ nerwowy. Tworzy wokół siebie bardzo słabe pole grawitacyjne i elektryczne. Oprócz tego nie ma użytecznych właściwości. Bardzo ceniony przez jubilerów. Nie emituje promieniowania.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	<string id="st_af_sandstone_name">
+		<text>Piaskowiec</text>
+	</string>
+	<string id="st_af_sandstone_descr">
+		<text>Artefakt tworzy się w strefach niezwykle wysokiej temperatury. Nie emituje promieniowania i nie ma użytecznych właściwości. Z powodu wyglądu nie interesują się nim kolekcjonerzy, aczkolwiek zawiera w sobie niewielką ilość złota, co nieznacznie podnosi jego wartość.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	<string id="st_af_kislushka_name">
+		<text>Kwaskula</text>
+	</string>
+	<string id="st_af_kislushka_descr">
+		<text>Pusta, kulista formacja przypominająca pewnego rodzaju półprzezroczysty pergamin. Pokryta cienką, przyjemną w dotyku błoną. Nie emituje promieniowania i nie ma użytecznych właściwości. Ceniona przez kolekcjonerów.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	<string id="st_af_black_angel_name">
+		<text>Czarny Anioł</text>
+	</string>
+	<string id="st_af_black_angel_descr">
+		<text>Artefakt przypominający korzeń. Jego powierzchnia zdaje się parować, o ile niczego nie dotyka. Bardzo ceniony przez kolekcjonerów. Nie ma użytecznych właściwości. Nie emituje promieniowania.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	<string id="st_af_grapes_name">
+		<text>Winogrona</text>
+	</string>
+	<string id="st_af_grapes_descr">
+		<text>Substancja podobna do bursztynu o lekkim, zielonkawym odcieniu. Powstaje tylko w najpotężniejszych anomaliach. Z tego powodu jest dosyć ciężki. Bardzo ceniony przez kolekcjonerów. Nie ma użytecznych właściwości. Nie emituje promieniowania.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	
+	<string id="st_af_skull_miser_name">
+		<text>Czerep Chciwca</text>
+	</string>
+	<string id="st_af_skull_miser_descr">
+		<text>Bardzo lekki i delikatny artefakt. Nie ma absolutnie żadnych właściwości. Nie emituje promieniowania.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	<string id="st_af_star_phantom_name">
+		<text>Widmogwiazda</text>
+	</string>
+	<string id="st_af_star_phantom_descr">
+		<text>Stworzona w Anomalii. To podobna do plazmy substancja w przeźroczystej, pulsującej skorupie. Generuje słabe pole grawitacyjne. Nie posiada użytecznych właściwości. Nie emituje promieniowania.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	<string id="st_af_medallion_name">
+		<text>Medal</text>
+	</string>
+	<string id="st_af_medallion_descr">
+		<text>Niewielkie koło z czterema uczepionymi po bokach elementami w kształcie zaokrąglonych trójkątów. Ceniony przez kolekcjonerów. Nie ma użytecznych właściwości. Nie emituje promieniowania.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	
+	<string id="st_af_peas_name">
+		<text>Księżyc</text>
+	</string>
+	<string id="st_af_peas_descr">
+		<text>Artefakt kształtem przypominający sierp. Wytwarza przyciemnione, niezbyt silne światło. Nie ma użytecznych właściwości. Nie emituje promieniowania. Ceniony przez kolekcjonerów i jubilerów.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	
+	<string id="st_af_generator_name">
+		<text>Generator</text>
+	</string>
+	<string id="st_af_generator_descr">
+		<text>Artefakt wytwarza prąd elektryczny o niewielkim napięciu i słabe pole elektromagnetyczne. Stanowi źródło energii i z tego względu jest bardzo ceniony za Kordonem. Poza tym, nie ma użytecznych właściwości. Nie emituje promieniowania.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	
+	<string id="st_af_ball_name">
+		<text>Piłka</text>
+	</string>
+	<string id="st_af_ball_descr">
+		<text>Nie ma żadnych informacji na temat warunków, w jakich powstaje się ten okrągły artefakt, ale najczęściej znajdowany jest w okolicy stref zwiększonej elektryczności. Bardzo żwawy i skoczny twór. Nie ma użytecznych właściwości. Nie emituje promieniowania.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	
+	<string id="st_af_fonar_name">
+		<text>Lampa</text>
+	</string>
+	<string id="st_af_fonar_descr">
+		<text>Artefakt posiada właściwości elektryczne - generuje niezbyt wysokie napięcie elektryczne i lekką poświatę. Nie ma użytecznych właściwości. Nie emituje promieniowania. Kolekcjonerzy raczej rzadko okazują nimi zainteresowanie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	<string id="st_af_tapeworm_name">
+		<text>Tasiemiec</text>
+	</string>
+	<string id="st_af_tapeworm_descr">
+		<text>Czysty dwutlenek krzemu, przynajmniej według masy cząsteczkowej. Wykazuje dziwne zachowania. Nie ma użytecznych właściwości. Nie emituje promieniowania.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	<string id="st_af_moh_name">
+		<text>Mech</text>
+	</string>
+	<string id="st_af_moh_descr">
+		<text>Artefakt elektryczny. Nie ma użytecznych właściwości. Nie emituje promieniowania. Bezwartościowy.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	<string id="st_af_serofim_name">
+		<text>Serafin</text>
+	</string>
+	<string id="st_af_serofim_descr">
+		<text>Artefakt elektryczny. Generuje chwilowe pola grawitacyjne. Nie ma użytecznych właściwości. Nie emituje promieniowania.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	<string id="st_af_elektron_name">
+		<text>Elektron</text>
+	</string>
+	<string id="st_af_elektron_descr">
+		<text>Artefakt jest produktem anomalii elektrycznych. Bardzo ciężki. Nie ma użytecznych właściwości, nie emituje promieniowania. Niezwykle ceniony za Kordonem.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	
+	<string id="st_af_kogot_name">
+		<text>Pazur</text>
+	</string>
+	<string id="st_af_kogot_descr">
+		<text>Piękny, przypominający szkło twór anomalii elektrostatycznej. Nie ma użytecznych właściwości. Nie emituje promieniowania. Nie wzbudza zainteresowania poza Zoną.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	
+	<string id="st_af_vaselisk_name">
+		<text>Bazyliszek</text>
+	</string>
+	<string id="st_af_vaselisk_descr">
+		<text>Jeden z niewielu artefaktów, który zabezpiecza posiadacza przed każdym działającym na niego czynnikiem fizycznym.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	<string id="st_af_geliy_name">
+		<text>Hel</text>
+	</string>
+	<string id="st_af_geliy_descr">
+		<text>Jasny (dosłownie) reprezentant artefaktów pochodzących z anomalii elektrostatycznych. Wydziela gazową substancję mającą pozytywny wpływ na ciało posiadacza. Ze względu na wysoką wydajność, popyt na niego utrzymuje się na wysokim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	<string id="st_af_gimlet_name">
+		<text>Świderek</text>
+	</string>
+	<string id="st_af_gimlet_descr">
+		<text>Płatki artefaktu w kształcie misy uwalniają potężny, gazowy stymulant. Ma bardzo pozytywny wpływ na na gospodarkę hormonalną człowieka.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	<string id="st_af_dragon_eye_name">
+		<text>Smocze Oko</text>
+	</string>
+	<string id="st_af_dragon_eye_descr">
+		<text>Artefakt zwykle powstaje w anomaliach ogniowych i przyjmuje wygląd gadziego oka. Nie ma użytecznych właściwości. Nie emituje promieniowania.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[ui_gray_2] rupieć\n%c[d_cyan] • %c[ui_gray_2] nie można umieścić w pojemniku na artefakty</text>
+	</string>
+	
+	<string id="st_arty_save">
+		<text>Oko Noosfery</text>
+	</string>
+	<string id="st_arty_save_descr">
+		<text>Jeden z najbardziej tajemniczych artefaktów w Zonie. Oko Noosfery potrafi swego użytkownika cofać w czasie, pozwalając nawet wyrwać się śmierci. Lekkie ściśnięcie artefaktu aktywuje jego zdolność, tworząc "punkt przywracania" po ponownym ściśnięciu lub po zgonie. Częste użycie może powodować zmianę koloru tworu, a zbyt częste korzystanie z mocy może sprawić, że całkowicie przestanie działać.\n \nOko Noosfery z biegiem czasu odnawia swoje właściwości, co sugeruje, że może być napędzane przez energię anomalną Zony.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[ui_white] • %c[0,255,215,0] nadartefakt</text>
+	</string>
+</string_table>

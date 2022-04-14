@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Upgrading Parts
+-->
+
+<string_table>
+
+<!-- Outfits -->
+	<string id="st_upgr_o_health">
+		<text>Prototypowy system podtrzymywania życia</text>
+	</string>
+	<string id="st_upgr_o_health_desc">
+		<text>Prototyp, który monitoruje zdrowie użytkownika i w razie potrzeby dostarcza witaminy, adrenalinę lub substancje anaboliczne.\n \n
+		</text>
+	</string>
+	
+	<string id="st_upgr_o_bleed">
+		<text>Prototypowy system regeneracji ran</text>
+	</string>
+	<string id="st_upgr_o_bleed_desc">
+		<text>Prototyp urządzenia do automatycznej, polowej iniekcji medykamentów.\n \n
+		</text>
+	</string>
+	
+	<string id="st_upgr_o_armor">
+		<text>Wzmocnione wkładki balistyczne</text>
+	</string>
+	<string id="st_upgr_o_armor_desc">
+		<text>Ten pakiet zawiera różne rodzaje płyt i matryc z kevlaru, tytanu, berylu, aluminium i węgla. Posiada wysoką lepkość i doskonałe działanie hamujące.\n \n</text>
+	</string>
+	
+	<string id="st_upgr_o_damage">
+		<text>Kompensujące warstwy pancerza</text>
+	</string>
+	<string id="st_upgr_o_damage_desc">
+		<text>Pakiet ten zawiera specjalnie wykonane płyty pancerne z różnych materiałów. Nieznacznie zwiększa odporność na pociski.\n \n</text>
+	</string>
+	
+	<string id="st_upgr_o_durability">
+		<text>Trwałe płyty i tkaniny</text>
+	</string>
+	<string id="st_upgr_o_durability_desc">
+		<text>Ten pakiet zawiera trwałe płyty pancerne z tytanu i stopu aluminium do ciężkiego wyposażenia oraz polimerowe wkładki do wyposażenia lekkiego.\n \n</text>
+	</string>
+	
+	<string id="st_upgr_o_power">
+		<text>Części plastikowe i syntetyczne</text>
+	</string>
+	<string id="st_upgr_o_power_desc">
+		<text>Ten pakiet zawiera części syntetyczne i plastikowe z różnych kombinezonów opancerzonych. Zaprojektowany w celu zmniejszenia ciężaru pancerza, oraz zwiększenia mobilności i wytrzymałości.\n \n</text>
+	</string>
+	
+	<string id="st_upgr_o_chem">
+		<text>Chemiczne wkładki ogniotrwałe</text>
+	</string>
+	<string id="st_upgr_o_chem_desc">
+		<text>Pakiet zawiera zestaw tkanin i materiałów, które mogą poprawić właściwości ochronne kombinezonów przed działaniem środków chemicznych. Mogą one przerwać reakcję chemiczną w fazie gazowej spalania, podczas gdy niektóre zawierają substancje chemiczne powodujące pęcznienie za warstwą ochronną, zapewniając jeszcze lepszą izolację.\n \n</text>
+	</string>
+	
+	<string id="st_upgr_o_burn">
+		<text>Ogniotrwałe wkładki i tkaniny</text>
+	</string>
+	<string id="st_upgr_o_burn_desc">
+		<text>Pakiet ten zawiera zestaw tkanin i materiałów ochronnych o właściwościach niesymetrycznych, które spowalniają lub powstrzymują rozprzestrzenianie się ognia oraz zmniejszają jego intensywność. Niektóre z nich to materiały ognioodporne zawierające pierwiastki magnezu o różnej długości, szerokości, grubości i kształcie.\n \n</text>
+	</string>
+	
+	<string id="st_upgr_o_shock">
+		<text>Wkładki i tekstylia elektroizolacyjne</text>
+	</string>
+	<string id="st_upgr_o_shock_desc">
+		<text>Pakiet ten zawiera zestaw wkładek ochronnych z konstantanu, magnezu i silikonu, zaprojektowanych w celu zmniejszenia wpływu ładunków elektrycznych na pancerz.\n \n</text>
+	</string>
+	
+	<string id="st_upgr_o_psi">
+		<text>Warstwy tkanin z powłoką ochronną</text>
+	</string>
+	<string id="st_upgr_o_psi_desc">
+		<text>Ten pakiet zawiera zestaw gumowanych wkładek i aluminiowanych warstw ekranujących do hełmów i kombinezonów, odbijających fale psioniczne.\n \n</text>
+	</string>
+	
+	<string id="st_upgr_o_rad">
+		<text>Filtry aktywne i materiały osłaniające przed promieniowaniem</text>
+	</string>
+	<string id="st_upgr_o_rad_desc">
+		<text>Zestaw filtrów ochronnych, zapobiegających przedostawaniu się różnych trucizn i chemikaliów do organizmu przez układ oddechowy. Dodatkowo zawiera materiały o wysokiej gęstości, by filtrować cząsteczki alfa i gamma.\n \n</text>
+	</string>
+	
+	<string id="st_upgr_o_carry">
+		<text>System mocowania do rozłożenia obciążenia</text>
+	</string>
+	<string id="st_upgr_o_carry_desc">
+		<text>Ten pakiet zawiera zestaw różnych elementów mocujących do rozkładania obciążenia.\n \n</text>
+	</string>
+	
+	<string id="st_upgr_o_arty">
+		<text>Dodatkowe mocowania</text>
+	</string>
+	<string id="st_upgr_o_arty_desc">
+		<text>Ten pakiet zawiera pas mocujący do kombinezonu, aby zwiększyć liczbę jednocześnie używanych modułów i pojemników na artefakty.\n \n</text>
+	</string>
+	
+	<string id="st_upgr_o_run">
+		<text>Hydrauliczny system wzmacniania serwomotorów</text>
+	</string>
+	<string id="st_upgr_o_run_desc">
+		<text>Pakiet ten zawiera udoskonalone, prototypowe serwomotory dla egzoszkieletów I i II generacji, umożliwiając użytkownikowi bieganie.\n \n</text>
+	</string>
+	
+	<string id="st_upgr_o_weight">
+		<text>Lekkie materiały</text>
+	</string>
+	<string id="st_upgr_o_weight_desc">
+		<text>Pakiet ten zawiera zestaw lekkich materiałów polimerowych o różnej długości, szerokości, grubości i kształcie oraz różnych właściwościach.\n \n</text>
+	</string>
+
+<!-- Weapons -->
+	<string id="st_upgr_w_weight">
+		<text>Ruchome elementy przeciwwagi</text>
+	</string>
+	<string id="st_upgr_w_weight_desc">
+		<text>Ten pakiet zawiera zestaw lekkich komponentów polimerowych do różnych rodzajów broni. Moda na komponenty polimerowe nie tylko jest opłacalna, ale stała się również dość popularnym ulepszeniem.\n \n</text>
+	</string>
+	
+	<string id="st_upgr_w_muffle">
+		<text>Zewnętrzne gwintowanie lufy</text>
+	</string>
+	<string id="st_upgr_w_muffle_desc">
+		<text>Ten pakiet zawiera zestaw zewnętrznych elementów do gwintowania dla różnych rodzajów broni. Gwint zewnętrzny pozwala na montaż tłumika.\n \n</text>
+	</string>
+	
+	<string id="st_upgr_w_grenade_mount">
+		<text>Mocowanie granatnika podlufowego</text>
+	</string>
+	<string id="st_upgr_w_grenade_mount_desc">
+		<text>Ten pakiet zawiera zestaw zewnętrznych mocowań granatnika podlufowego do różnych rodzajów broni.\n \n</text>
+	</string>
+	
+	<string id="st_upgr_w_reliability">
+		<text>Automatyczne regulatory gazu</text>
+	</string>
+	<string id="st_upgr_w_reliability_desc">
+		<text>Pakiet ten zawiera zestaw specjalnych mechanizmów regulacyjnych dla różnych typów broni. Chroni broń przed brudem.\n \n</text>
+	</string>
+	
+	<string id="st_upgr_w_speed">
+		<text>Zagęszczenie gwintowania</text>
+	</string>
+	<string id="st_upgr_w_speed_desc">
+		<text>Ten pakiet pozwala wygnieść wewnątrz lufy dodatkowe gwinty. Instalacja lufy z dodatkowymi kanałami poprawia prędkość pocisku i celność broni kosztem znacznego wzrostu odrzutu.\n \n</text>
+	</string>
+	
+	<string id="st_upgr_w_recoil">
+		<text>Dodatkowe tłoki gazowe</text>
+	</string>
+	<string id="st_upgr_w_recoil_desc">
+		<text>Ten pakiet zawiera zestaw dodatkowych tłoków gazowych do różnych rodzajów broni. Drugi tłok porusza przeciwwagę, kompensując impuls ruchu mechanizmu ryglowego.\n \n</text>
+	</string>
+	
+	<string id="st_upgr_w_magazine">
+		<text>Zestaw magazynków o większej pojemności</text>
+	</string>
+	<string id="st_upgr_w_magazine_desc">
+		<text>Ten pakiet zawiera zestaw magazynków o większej pojemności do różnych rodzajów broni.\n \n</text>
+	</string>
+	
+	<string id="st_upgr_w_scope">
+		<text>Zestaw do montażu lunet optycznych</text>
+	</string>
+	<string id="st_upgr_w_scope_desc">
+		<text>Pakiet ten umożliwia montaż lunety do walki na bliskim, średnim i długim dystansie do różnych rodzajów broni.\n \n</text>
+	</string>
+	
+	<string id="st_upgr_w_dispersion">
+		<text>Elementy równoważące</text>
+	</string>
+	<string id="st_upgr_w_dispersion_desc">
+		<text>Pakiet ten zawiera zestaw elementów balansujących dla różnych typów broni. Syntetyczne elementy montowane na prowadnicach zapewniają ich przesuwanie zgodnie z przeznaczeniem, co zwiększa dokładność.\n \n</text>
+	</string>
+	
+	<string id="st_upgr_w_calibre">
+		<text>Wymiana elementów kalibru</text>
+	</string>
+	<string id="st_upgr_w_calibre_desc">
+		<text>Kompleksowa wymiana części mechanicznych i zautomatyzowanych broni, która pozwala na zmianę jej kalibru kosztem niezawodności.\n \n</text>
+	</string>
+	
+	<string id="st_upgr_w_inertion">
+		<text>Ergonomiczne odbijaki różnych kształtów</text>
+	</string>
+	<string id="st_upgr_w_inertion_desc">
+		<text>Zawiera zestaw odbijaków do różnych typów broni. Modyfikacja przeznaczona jedynie do broni w układzie bullpup (bezkolbowym). Ułatwia czyszczenie broni.\n \n</text>
+	</string>
+	
+	<string id="st_upgr_w_rpm">
+		<text>Tytanowe pręty mechanizmu powrotnego</text>
+	</string>
+	<string id="st_upgr_w_rpm_desc">
+		<text>Zawiera zestaw tytanowych prętów do różnych rodzajów broni. Tytanowe pręty mogą wytrzymać znacznie większe natężenie ognia niż zwykłe.\n \n</text>
+	</string>
+	
+	<string id="st_upgr_w_scope_mount">
+		<text>Zestaw do montażu optycznego</text>
+	</string>
+	<string id="st_upgr_w_scope_mount_desc">
+		<text>Zestaw uchwytów do montażu optyki do różnych rodzajów broni. Umożliwia instalację uchwytu do zamocowania lunety optycznej.\n \n</text>
+	</string>
+	
+	<string id="st_upgr_w_firemode">
+		<text>Zestaw mechanizmu spustowego</text>
+	</string>
+	<string id="st_upgr_w_firemode_desc">
+		<text>Ten pakiet zawiera zestaw mechanizmów spustowych dla różnych rodzajów broni. Odpowiada za ulepszenie elementów automatyki odpowiednich do różnych trybów ognia.\n \n</text>
+	</string>
+
+</string_table>

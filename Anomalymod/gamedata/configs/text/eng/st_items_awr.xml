@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="windows-1250 "?>
+<!--
+	Advanced Weapon Repair Mod 0.3 by Faustle (2017)
+-->
+
+<string_table>
+	<!--
+		Interface
+	-->
+	<string id="st_current_condition">
+		<text>Obecny stan: </text>
+	</string>
+	<string id="st_detail_success">
+		<text>+++ Udało się zamontować część [%s]</text>
+	</string>
+	<string id="st_detail_fail">
+		<text>--- Część [%s] została uszkodzona podczas wymiany</text>
+	</string>
+	<string id="st_quality_worn">
+		<text>++++ Co najmniej jedna część została wymieniona na zużytą. Jakość broni została zmieniona na zużyty.</text>
+	</string>
+	<string id="st_quality_good">
+		<text>++++ Wszystkie części zostały wymienione na użyteczne. Jakość broni została poprawiona.</text>
+	</string>
+	<string id="st_quality_wgood">
+		<text>++++ Wszystkie części zostały wymienione. Jakość broni się nie zmieniła.</text>
+	</string>
+	<string id="st_already_repair">
+		<text>--- Procedura wymiany części została zakończona. By podnieść jakość broni, części muszą być w 100% sprawne</text>
+	</string>
+	<string id="st_no_barrel">
+		<text>--- Nie można wymienić części przed wymianą lufy</text>
+	</string>
+	<string id="st_bar_no_need_new">
+		<text>--- Lufa nie wymaga wymiany</text>
+	</string>
+	<string id="st_part_no_need_new">
+		<text>--- Części broni nie wymagają wymiany</text>
+	</string>
+	<string id="st_bar_no_need_old">
+		<text>--- Lufa tej broni nie wymaga wymiany. By podnieść jakość broni, części muszą być w 100% sprawne</text>
+	</string>
+	<string id="st_part_no_need_old">
+		<text>--- Części broni nie wymagają wymiany. By podnieść jakość broni, części muszą być w 100% sprawne</text>
+	</string>
+	<string id="st_no_barrel_to_kit">
+		<text>--- Nie ma żadnych kompatybilnych luf kalibru [%s]</text>
+	</string>
+	<string id="st_no_details">
+		<text>--- Nie ma żadnych dostępnych części dla [%s]</text>
+	</string>
+	<string id="st_selected_worn">
+		<text>--- Wybrano %s: [%s] Szansa udanej naprawy: %i%% Musisz odnowić część, by móc naprawić</text>
+	</string>
+	<string id="st_selected_good">
+		<text>--- Wybrano %s: [%s] Szansa udanej naprawy: %i%%</text>
+	</string>
+	<string id="st_selected_r_kit">
+		<text>--- Wybrano: [%s]</text>
+	</string>
+	<string id="st_sel_detail">
+		<text>--- Kliknij ikonę odpowiedniej części, by rozpocząć wymianę</text>
+	</string>
+	<string id="st_cond_grow">
+		<text>Stan: %i%%</text>
+	</string>
+	<string id="st_awr_back">
+		<text>Wstecz</text>
+	</string>
+	<string id="st_awr_exit">
+		<text>Wyjdź</text>
+	</string>
+	<string id="st_awr_ctrl">
+		<text>%sBy nie dopuścić do niechcianego demontażu przedmiotów,\nczynność należy wykonać, wciskając wcześniej ALT.%s</text>
+	</string>
+	<string id="st_unload">
+		<text>Broń musi być rozładowana, a wszystkie jej dodatki zdjęte</text>
+	</string>
+	<string id="st_no_weap">
+		<text>Wyciągnij broń, by użyć imadła</text>
+	</string>
+	<string id="st_handsfree">
+		<text>Masz zajęte ręce</text>
+	</string>
+	<string id="st_stolen_1">
+		<text>Podczas twojej nieobecności skradziono mechanizm spustowy. Jakość broni się pogorszyła</text>
+	</string>
+	<string id="st_stolen_2">
+		<text>Podczas twojej nieobecności skradziono komorę ładowania. Jakość broni się pogorszyła</text>
+	</string>
+	<string id="st_stolen_3">
+		<text>Podczas twojej nieobecności skradziono blokadę zamka. Jakość broni się pogorszyła</text>
+	</string>
+	<string id="st_not_in_list">
+		<text>Nie masz odpowiedniej wiedzy, by naprawić tę broń</text>
+	</string>
+	<string id="st_awr_timer_msg_on">
+		<text>%sMasz pięć minut%s</text>
+	</string>
+	<string id="st_awr_timer_msg_off">
+		<text>%sCzas minął%s</text>
+	</string>
+	<string id="st_awr_dead_mechanic">
+		<text>%sTechnik %s został zabity przez: %s %s. \nDostęp do jego imadła jest darmowy.</text>
+	</string>
+	<string id="st_by_unknown">
+		<text>nieznane</text>
+	</string>
+	<string id="st_mech_tiski">
+		<text>imadło technika\n</text>
+	</string>
+	<string id="st_mech_tiski_w">
+		<text>Imadło technika z %s</text>
+	</string>
+	<!-- ListBox status texts -->
+	<string id="st_ending_1">
+		<text>y</text>
+	</string>
+	<string id="st_ending_2">
+		<text>a</text>
+	</string>
+	<string id="st_ending_3">
+		<text>o</text>
+	</string>
+	<string id="st_text_status">
+		<text>[STAN]:%s%s%%</text>
+	</string>
+	<string id="st_text_wpn">
+		<text>[BROŃ]:%s%s</text>
+	</string>
+	<string id="st_text_mode">
+		<text>[TRYB]:%s%s</text>
+	</string>
+	<string id="st_text_mode_1">
+		<text>ODNAWIANIE</text>
+	</string>
+	<string id="st_text_mode_2">
+		<text>NAPRAWA Z MOŻLIWOŚCIĄ ODNOWIENIA</text>
+	</string>
+	<string id="st_text_mode_3">
+		<text>NIEDOSTĘPNE</text>
+	</string>
+	<string id="st_text_warning_mode_1_4">
+		<text>%sPo ulepszeniu, stan broni będzie miał %s%%, a jakość - nowa</text>
+	</string>
+	<string id="st_text_warning_mode_1_3">
+		<text>%sW czasie ulepszenia można korzystać tylko z użytecznych części</text>
+	</string>
+	<string id="st_text_warning_mode_1_1">
+		<text>[Uwaga]: W tym trybie można ulepszać tylko zardzewiałe i zużyte bronie</text>
+	</string>
+	<string id="st_text_warning_mode_2_5">
+		<text>%sPo ukończeniu napraw z ulepszeniami: %i%% na zużyte %i%% na nowe</text>
+	</string>
+	<string id="st_text_warning_mode_2_4">
+		<text>%sPo ukończeniu napraw bez ulepszania, stan broni będzie równy %i%%</text>
+	</string>
+	<string id="st_text_warning_mode_2_3">
+		<text>%sStan broni będzie odpowiadał stanowi części w najgorszym stanie</text>
+	</string>
+	<string id="st_text_warning_mode_2_1">
+		<text>[Uwaga]: W tym trybie broń można naprawiać i ulepszać</text>
+	</string>
+	<string id="st_text_warning_mode_3_3">
+		<text>%sUlepszenie niemożliwe, póki stan nie osiągnie 100%%</text>
+	</string>
+	<string id="st_text_warning_mode_3_2">
+		<text>[OSTRZEŻENIE]: Naprawa tej broni jest niemożliwa. Jakość broni najwyższa z możliwych.</text>
+	</string>
+	<string id="st_text_warning_mode_3_1">
+		<text>[OSTRZEŻENIE]: Jakość broni jest już najwyższa z możliwych. Dalsze odnawianie jest niemożliwe.</text>
+	</string>
+	<string id="st_text_warning_mode_help">
+		<text>Żeby uzyskać pomoc, wciśnij F1</text>
+	</string>
+	<!-- Disassembly -->
+	<string id="st_dis_news">
+		<text>[AWR]</text>
+	</string>
+	<string id="st_dis_count">
+		<text>szt.</text>
+	</string>
+	<string id="st_dis_text_1">
+		<text>%s %s %s %s \nzostały rozmontowane</text>
+	</string>
+	<string id="st_dis_text_2">
+		<text>%sPróbowano rozmontować %s, %sale nie udało się uzyskać żadnych części.</text>
+	</string>
+	<string id="st_dis_text_3">
+		<text>%sNie masz odpowiedniego narzędzia. %s %s</text>
+	</string>
+	<string id="st_dis_text_4">
+		<text>\nUzyskano naboje: %i szt. typu %s\nUzyskano przedmioty: </text>
+	</string>
+	<string id="st_dis_text_5">
+		<text>%sUdało się odnowić część %s\n%s</text>
+	</string>
+	<string id="st_dis_text_6">
+		<text>%sNie udało się odnowić części %s</text>
+	</string>
+	<string id="st_dis_text_7">
+		<text>%s %s %s %s %s</text> <!--text>%s %s %s %s has been disassembled</text-->
+	</string>
+	<string id="st_dis_text_8">
+		<text>%s %s %s %s %s</text> <!--text>%s %s %s %s has been cut</text-->
+	</string>
+	<string id="st_dis_text_9">
+		<text>\nUzyskano części: </text>
+	</string>
+	<string id="st_dis_text_10">
+		<text>%sPróbowałeś rozmontować %s, %sale nie udało się uzyskać żadnych części.</text>
+	</string>
+	<string id="st_dis_text_11">
+		<text>%s %s %s %s %s</text>
+	</string>
+	<!-- Dialogues -->
+	<string id="st_awr_dialog_1">
+		<text>Mogę skorzystać z twojego warsztatu? Muszę dokręcić parę śrubek.</text>
+	</string>
+	<string id="st_awr_dialog_2">
+		<text>No dobra... Jest twoje za tysiąc rubli.</text>
+	</string>
+	<string id="st_awr_dialog_3">
+		<text>Trzymaj.</text>
+	</string>
+	<string id="st_awr_dialog_4">
+		<text>Świetnie. Kipnę sobie chwilkę, a ty rób, co musisz i spadaj. Mam dziś jeszcze kupę roboty.</text>
+	</string>
+	<string id="st_awr_dialog_5">
+		<text>Nie mam tyle.</text>
+	</string>
+	<string id="st_awr_dialog_6">
+		<text>Ta, jasne.</text>
+	</string>
+	<string id="st_awr_dialog_7">
+		<text>Pomogłeś mi, więc i ja pomogę tobie. Działaj śmiało, ale zrób to szybko, mam jeszcze sporo pracy.</text>
+	</string>
+
+	<!-- Sell dialog -->
+	<string id="st_awr_sell_dialog_1">
+		<text>Mam parę części zamiennych. Nie wiesz, kto chciałby je kupić?</text>
+	</string>
+	<string id="st_awr_sell_dialog_2">
+		<text>Technicy tacy jak ja zawsze zbierają wszelakie badziewie. Mogę odkupić, co tam masz. Za rozsądną cenę, oczywiście.</text>
+	</string>
+	<string id="st_awr_sell_dialog_3">
+		<text>Co proponujesz?</text>
+	</string>
+	<string id="st_awr_sell_dialog_4">
+		<text>Hmm... Za sprawne części dam ci 300 RU od sztuki. Za zużyte - 150 RU. Za całą resztę barachła mogę dać 250 RU za nowe i 125 RU za zużyte. No dobra, odpalę ci po 60 RU nawet za ten zardzewiały złom. Nie są aż tak potrzebne.</text>
+	</string>
+	<string id="st_awr_sell_dialog_5">
+		<text>Kiepska oferta, ale nie mam pomysłu na te graty. Bierz i dawaj kasę.</text>
+	</string>
+	<string id="st_awr_sell_dialog_6">
+		<text>Trochę za mało, jak dla mnie. Przemyślę to jeszcze.</text>
+	</string>
+	<string id="st_awr_sell_dialog_7">
+		<text>Miło się z tobą robi interesy. Znajdziesz coś jeszcze - wiesz, gdzie mnie szukać.</text>
+	</string>
+	<string id="st_awr_sell_dialog_8">
+		<text>Dobra, zapamiętam. Dzięki.</text>
+	</string>
+
+	<!-- Help -->
+	<string id="st_awr_help_0">
+		<text>Instrukcje</text>
+	</string>
+	<string id="st_awr_help_1">
+		<text>Na procedurę naprawy wpływa ogólna jakość broni (nowa, zużyta, zardzewiała) i jej aktualny stan. Ponadto stan 0–65, 0–75 i 0–85 określa status broni dla każdego stopnia jakości: 0–65% dla broni zardzewiałej, 0–75% dla broni zużytej i 0–85% dla nowej broni.</text>
+	</string>
+	<string id="st_awr_help_2">
+		<text>Procedura naprawy i ulepszenia (broń w stanie od 0–65 / 0–75 / 0–85):</text>
+	</string>
+	<string id="st_awr_help_3">
+		<text>1. Wybierz zestaw naprawczy, aby wymienić lufę broni na inną lufę tego samego kalibru ze stanem broni 0–20/0–25/0–30% lub używając zestawu do ulepszania broni w stanie 20–65/25– 75/30–85%, klikając dwukrotnie nazwę zestawu z listą.\n2. Wybierz część z listy jednym kliknięciem myszy. Wymiana części podczas naprawy broni w stanie niskim następuje w określonej kolejności:\n\nW stanie 0–20/0–25/0–30%: Wymiana lufy\nW stanie 20–35/25–45/30–55 %: Wymiana spustu (mechanizm spustowy)\nW warunkach 35–45/45–60/55–70%: wymiana główki zamka\nW stanie 45–55/60–70/70–80%: wymiana rurki gazowej\nW warunkach 55–65/70–75/80–85%: Wymiana bloku zamka\n\n3. Kliknij obraz części, która jest aktualnie wymieniana (część wybrana do wymiany, która jest dostępna do wymiany jest oznaczona zielonym kolorem). Próba wymiany jednej części zużywa jeden ładunek paska.\n4. W przypadku pomyślnej wymiany procedura ta jest powtarzana dla wszystkich części w określonej kolejności\n5. Jeśli część została uszkodzona, spróbuj ponownie, jeśli posiadasz zestaw naprawczy i inne części broni.\n6. Wszystkie wymienione części są zachowane do czasu obniżenia stanu broni. W takim przypadku, aby poprawić jakość, części trzeba będzie wymienić od nowa.\n7. Po wymianie wszystkich pięciu części jakość broni zostanie zmieniona na odpowiednią. W związku z tym, jeśli przynajmniej jeden z wymienionych elementów zostanie zużyty, stan broni zostanie zmieniony na "zużyta", nawet jeśli inne części broni zostaną wymienione na nowe.</text>
+	</string>
+	<string id="st_awr_help_4">
+		<text>Z góry określona kolejność wymiany części broni wynika z potrzeby dopasowania części do stanu broni, ponieważ wszystkie wymienione części dla każdej broni, które zostały kiedykolwiek częściowo naprawione w imadle, są przechowywane w pamięci gry. Pozwala to na kontynuowanie napraw z tego samego miejsca bez konieczności wymiany części, pod warunkiem, że stan broni nie został obniżony po naprawie.</text>
+	</string>
+	<string id="st_awr_help_5">
+		<text>Procedura ulepszania broni jest dostępna tylko w stanie 95–100% dla broni zardzewiałej lub zniszczonej:</text>
+	</string>
+	<string id="st_awr_help_6">
+		<text>1. Wybierz z listy zestaw naprawczy do wymiany lufy lub zestaw ulepszający broń, klikając dwukrotnie nazwę zestawu na liście. Kolejność wymiany nie jest dostępna dla ulepszeń.\n2. Wybierz część odpowiadającą zestawowi naprawczemu z listy jednym kliknięciem myszy. Podczas ulepszania można używać tylko działających części.\n3. Kliknij obrazek części, która jest obecnie wymieniana.\n4. W przypadku pomyślnej wymiany procedura pozostaje taka sama dla wszystkich innych części broni.\n5. Jeśli część została uszkodzona, spróbuj ponownie, jeśli posiadasz zestaw naprawczy i inne części broni.\n6. Wszystkie wymienione części pozostają zachowane do czasu obniżenia stanu broni. W takim przypadku, aby poprawić jakość, części będą wymagały dalszej wymiany.\n7. Kiedy wszystkie pięć części zostanie wymienione na nowe, stan broni zostanie zmieniony na "nowy".</text>
+	</string>
+</string_table>

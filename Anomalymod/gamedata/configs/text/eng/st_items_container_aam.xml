@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Artefacts Containers (AAM)
+-->
+
+<string_table>
+	<string id="st_af_itcher_af_aam_name">
+		<text>MMA z art. Świerzb</text>
+	</string>  
+	<string id="st_af_itcher_af_aam_descr">
+		<text>Twór pochodzenia termicznego. Składa się z dwóch osobnych warstw. Górną stanowi twarda, metamorficzna skała o gęstej strukturze, z głębokimi pęknięciami pokrywającymi całą powierzchnię. Wydaje się całkowicie nieaktywna i nie wykazuje żadnych specjalnych właściwości.\n \nZ kolei miękki, żółty rdzeń o naturze organicznej pochłania ciepło, samemu utrzymując stałą, niezbyt wysoką temperaturę.\n \nNie zaleca się zbliżać ze Świerzbem do anomalii chemicznych i kwasowych, gdyż wzmacnia niekorzystne działanie kwasów i toksyn w krwiobiegu użytkownika.\n \nWedług skali promieniowania artefaktów plasuje się na niskim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string> 
+
+	<string id="st_af_pin_af_aam_name">
+		<text>MMA z art. Agrafka</text>
+	</string>  
+	<string id="st_af_pin_af_aam_descr">
+		<text>Niewielki artefakt uformowany w anomalii termicznej pod wpływem ekstremalnie wysokich temperatur. Wygląd sugeruje, że wcześniej mógł być elementem rośliny naczyniowej. Badania zdają się to potwierdzać wskazując, że wewnątrz tworu zatopione są tkanki organiczne.\n \nŁodyga nie przejawia żadnych użytecznych właściwości, za to małe kulki obniżają temperaturę ciała i wszystkich obiektów będących w pobliżu.\n \nAgrafka daje niewielką ochronę psioniczną. Pod wpływem fal tego typu zaczyna rezonować. Z drugiej strony, nie zaleca się zbliżać do anomalii chemicznych i kwasowych, jako że zwiększa niekorzystne działanie kwasów i toksyn w krwiobiegu użytkownika.\n \nWedług skali promieniowania artefaktów plasuje się na średnim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>  
+	
+	<string id="st_af_cristall_af_aam_name">
+		<text>MMA z art. Kryształ</text>
+	</string>
+	<string id="st_af_cristall_af_aam_descr">
+		<text>Artefakt stworzony w anomalnej strefie podwyższonego promieniowania cieplnego. Aktywnie pochłania nadmiar ciepła, choć sam pozostaje zimny w dotyku. Kryształ chroni użytkownika także przed elektrycznością. Z drugiej strony, długa ekspozycja na źródło prądu zwiększa jego przewodnictwo. Mechanizm, który za tym stoi, pozostaje nieznany. Z tego względu należy dobrze przemyśleć wkraczanie w strefy o wielu źródłach elektrycznych.\n \nArtefakt jest bardzo ceniony przez jubilerów, ponieważ jego nieradioaktywny rdzeń po oszlifowaniu i wypolerowaniu posiada niepospolite walory estetyczne. Tylko pierwszy centymetr warstwy zewnętrznej emituje promieniowanie. Zaleca się jednak szczególną ostrożność podczas wprowadzania artefaktu do obiegu handlowego, bowiem wchłonięcie nawet małej dawki promieniowania może doprowadzić do śmierci.\n \nBardzo twardy i względnie ciężki ze względu na dużą gęstość.\n \nWedług skali promieniowania artefaktów plasuje się na średnim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>
+	
+	<string id="st_af_fireball_af_aam_name">
+		<text>MMA z art. Kula Ognista</text>
+	</string>
+	<string id="st_af_fireball_af_aam_descr">
+		<text>Kulisty artefakt, którego budulcem jest czerwony kryształ, powstały w anomalii Spalacz.\n \nJego unikalną właściwością jest zdolność utrzymywania stałej temperatury na poziomie około 24 stopni Celsjusza niezależnie od panujących wokół warunków zewnętrznych. Pozwala to na absorbowanie ciepła z otoczenia oraz tworzy swego rodzaju bańkę wokół użytkownika, chroniącą jego ciało przed płomieniami.\n \nNiebezpieczeństwa płynące ze stosowania Kuli Ognistej dotyczą jej dużej przewodności elektrycznej. Prawdopodobieństwo porażenia prądem jest więc znacznie wyższe w trakcie korzystania z artefaktu, zwłaszcza podczas burzy i w okolicy anomalii elektrycznych.\n \nJest dosyć ciężki ze względu na dużą gęstość kryształopodobnego budulca.\n \nWedług skali promieniowania artefaktów plasuje się na wysokim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>
+	
+	<string id="st_af_blood_af_aam_name">
+		<text>MMA z art. Krewkamień</text>
+	</string>
+	<string id="st_af_blood_af_aam_descr">
+		<text>Czerwonawy twór składający się ze skamieniałych roślin, gleby i szczątków zwierząt. Może częściowo neutralizować zatrucia chemiczne, absorbując toksyny i obniżając w ten sposób ich stężenie w krwiobiegu. Dość powszechnie spotykany i niezbyt skuteczny, ponieważ powoduje, że rany od poparzeń chemicznych zaczynają się jątrzyć i ropieć. Wystawiony na bezpośrednie działanie płomieni przeważnie zajmuje się ogniem, zdarza się także, że ulega samozapłonowi.\n \nInnym pozytywnym efektem jest przyspieszenie gojenia się ran, o ile artefakt znajdzie się w ich pobliżu. Nie zaleca się jednak trzymać go blisko ciała przez dłuższy okres ze względu na możliwość wystąpienia niebezpiecznych dla zdrowia zakrzepów.\n \nWedług skali promieniowania artefaktów plasuje się na niskim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>
+	
+	<string id="st_af_mincer_meat_af_aam_name">
+		<text>MMA z art. Kotlet</text>
+	</string>
+	<string id="st_af_mincer_meat_af_aam_descr">
+		<text>Artefakt jest miękki, porowaty, przypomina w dotyku skórę i można go ściskać. Wystawiony na odpowiednie warunki zewnętrzne zachowuje się jak gąbka.\n \nDzięki tym właściwościom pory na jego powierzchni są w stanie zaabsorbować niewielkie ilości toksyn z najbliższego otoczenia.\n \nPodczas kontaktu z anomaliami psionicznymi i falami wytwarzanymi przez niektóre mutanty, artefakt zwiększa siłę oddziaływania psionicznego, ponieważ po krótkim czasie absorbowania fal sam zaczyna je emitować. Co więcej, Kotlet przewodzi prąd w stopniu porównywalnym do ciała żywej istoty.\n \nWedług skali promieniowania artefaktów plasuje się na średnim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>
+	
+	<string id="st_af_bracelet_af_aam_name">
+		<text>MMA z art. Bransoletka</text>
+	</string>  
+	<string id="st_af_bracelet_af_aam_descr">
+		<text>Bransoletka uformowała się z często spotykanych gatunków mszaków wystawionych na ogromne dawki promieniowania i wpływ anomalii chemicznych. To tłumaczy jej organiczne pochodzenie.\n \nZapewnia znaczną ochronę przeciw wszystkim typom kwasów, stopniowo podnosząc poziom ich pH do poziomu wody (pH=7). Noszenie artefaktu daje też niewielką ochronę przed szkodliwym działaniem anomalii psionicznych i fal generowanych przez niektóre mutanty.\n \nWedług skali promieniowania artefaktów plasuje się na średnim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>  
+	
+	<string id="st_af_baloon_af_aam_name">
+		<text>MMA z art. Bąbel</text>
+	</string>
+	<string id="st_af_baloon_af_aam_descr">
+		<text>Bąbel powstał z połączenia różnego rodzaju materiałów organicznych. Emituje gazową substancję, która neutralizuje cząsteczki chemiczne i toksyczne znajdujące się w ciele użytkownika. To znacznie poprawia ochronę przed substancjami żrącymi.\n \nOprócz tego, zachowuje stałą temperaturę niezależnie od otoczenia. To pozwala mu pochłaniać ciepło i tworzyć niewielką kieszeń wokół użytkownika, chroniącą go przed poparzeniem.\n \nPoza tym Bąbel posiada wiele negatywnych cech. Jedną z jego wad jest znaczące wzmocnienie oddziaływania fal i pól psionicznych. Niektórzy stalkerzy opowiadają, że nosząc Bąbel, czuli tak duży wpływ psioniczny, że mieli wrażenie, jakby ich głowy miały pęknąć od środka, a jedyne, co mogą zrobić do krzyczeć z bólu i uciekać, byle dalej, bez żadnego celu i sensu.\n \nWedług skali promieniowania artefaktów plasuje się na wysokim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>
+	
+	<string id="st_af_electra_sparkler_af_aam_name">
+		<text>MMA z art. Świecidełko</text>
+	</string>
+	<string id="st_af_electra_sparkler_af_aam_descr">
+		<text>Artefakt ten wyglądem przypomina półprzezroczystą pajęczą sieć. Tak samo jak pajęczy jedwab, jest lekko lepki i ma właściwości przypominające klej.\n \nTo jeden z najczęściej spotykanych wytworów anomalii elektrycznych, a środowisko, w jakim się formuje, ma niebagatelny wpływ na jego cechy. Łagodzi on wahania pola elektrycznego i działa niczym rezystor, chroniąc tym samym użytkownika przed porażeniem prądem i obniżając obrażenia zadawane przez elektryczność.\n \nZ drugiej strony należy zauważyć, że obecność artefaktu wzmaga właściwości żrące kwasów, prowadząc do szybszego niszczenia wyposażenia i zwiększenia obrażeń zadawanych tkankom organizmu.\n \nWedług skali promieniowania artefaktów plasuje się na niskim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>
+	
+	<string id="st_af_sponge_af_aam_name">
+		<text>MMA z art. Gąbka</text>
+	</string>  
+	<string id="st_af_sponge_af_aam_descr">
+		<text>O Gąbce Ekolodzy do tej pory prowadzą zażarte dyskusje. Niektórzy sugerują, że artefakt pochodzi od najprostszych organizmów, inni zaś twierdzą, że jest to zaawansowana forma życia z samoświadomością odziedziczoną po innych żywych istotach.\n \nAbstrachując od teorii dotyczących Gąbki, wszyscy zgadzają się przynajmniej w jednym: artefakt się rusza. Czasem stara się "złapać" rzecz, która go dotknie. Umieszczenie go w pojemniku może być trudne, jeśli będzie próbował się wymknąć.\n \nGąbka działa jak potężny opornik. Absorbuje nawet śmiertelne dawki prądu elektrycznego. Z drugiej strony, po wystawieniu na działanie płomienia potrafi zająć się ogniem, czasem zdarza się też samozapłon.\n \nWedług skali promieniowania artefaktów plasuje się na średnim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string> 
+	
+	<string id="st_af_ring_af_aam_name">
+		<text>MMA z art. Owak</text>
+	</string>  
+	<string id="st_af_ring_af_aam_descr">
+		<text>Bardzo mały artefakt będący tworem anomalii Elektro. Trudny do wypatrzenia. Składa się z dwóch materiałów organicznego pochodzenia uformowanych w kręgi.\n \nKiedy Owak zacznie się obracać, bez przyłożenia siły zewnętrznej nigdy nie przestaje - łamiąc tym samym pierwsze prawo termodynamiki. Naukowcy sugerują, że artefakt nabył właściwości grawitacyjnych dzięki anomalii Wir i może być prawdziwym perpetuum mobile. Ze względu na te właściwości, stalkerzy czasem nazywają Owaki "wiecznymi akumulatorkami".\n \nKrąg zewnętrzny cechuje się wysokim przewodnictwem. Absorbuje energię elektryczną, którą uziemia do kręgu wewnętrznego. Oprócz podstaw działania, mechanizm rozpraszania elektryczności wewnątrz środkowego pierścienia nie jest znany.\n \nNiestety, Owak jest tworem łatwopalnym. Długotrwałe wystawienie na źródło ciepła jeszcze bardziej zwiększa palność i w odpowiednich warunkach może doprowadzić do zapłonu artefaktu.\n \nWedług skali promieniowania artefaktów plasuje się na średnim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string> 
+	
+	<string id="st_af_electra_flash_af_aam_name">
+		<text>MMA z art. Błysk</text>
+	</string>
+	<string id="st_af_electra_flash_af_aam_descr">
+		<text>Artefakt ten wygląda bardzo podobnie do Blasku Księżyca i dla jednych przypomina kulę, a dla innych lampę plazmową.\n \nBłysk pozwala w niewielkim stopniu przeciwdziałać negatywnym efektom promieniowania psionicznego pochodzącego z anomalii i wytwarzanego przez niektóre mutanty. Jest on również potężnym rezystorem i pochłania nawet śmiertelne dawki energii elektrycznej.\n \nZ drugiej strony spowalnia proces leczenia, dlatego zaleca się ostrożne używanie, jeśli jesteś ranny lub krwawisz. Artefakt jest niezmiernie lekki, a więc bardzo łatwy w przenoszeniu.\n \nWedług skali promieniowania artefaktów plasuje się na wysokim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>
+	
+	<string id="st_af_cristall_flower_af_aam_name">
+		<text>MMA z art. Kamienny Kwiat</text>
+	</string>
+	<string id="st_af_cristall_flower_af_aam_descr">
+		<text>Ten artefakt wygląda jak kawał topionego sera wysadzanego błękitnymi, szafiropodobnymi kamykami. Jedynie zewnętrzna, żółta powłoka emituje promieniowanie, a dzięki odpowiedniej obróbce z artefaktu można wydobyć jego niebieskie elementy, które po odpowiednim oczyszczeniu i oszlifowaniu przypominają szafir. Egzotyka, piękno i wytrzymałość czynią z nich niezwykle wartościowe kamienie szlachetne, których posiadanie jest marzeniem niemal każdego jubilera na świecie.\n \nUżyteczność artefaktu nie jest jednak ograniczona do zastosowań złotniczych. Badania naukowe wskazują, że szafiropodobne kamienie skutecznie chronią przed falami psionicznymi, zaś zewnętrzna powłoka w niewielkim stopniu podnosi odporność na toksyny.\n \nWadą artefaktu jest to, że może powodować nadmierne rozgrzewanie się przedmiotów będących w jego pobliżu, a w niektórych przypadkach powodować ich samozapłon. Można więc uznać, że nie tylko absorbuje ciepło, ale również jest w stanie przenieść je na inne obiekty.\n \nZe względu na gęstość, waga artefaktu jest znacznie większa niż sugerowałaby jego wielkość, przez co stanowi on jeden z najcięższych anomalnych tworów Zony.\n \nWedług skali promieniowania artefaktów plasuje się na niskim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>
+	
+	<string id="st_af_lobster_eyes_af_aam_name">
+		<text>MMA z art. Racze Oczy</text>
+	</string>  
+	<string id="st_af_lobster_eyes_af_aam_descr">
+		<text>Jak sugeruje nazwa, artefakt przyjmuje kształt dwóch połączonych kul. Powierzchnia zewnętrzna jest bardzo gruba, duża gęstość struktury może być również odpowiedzialna za niezwykle głęboki kolor.\n \nArtefakt przejawia nieco większe właściwości ochronne przed promieniowaniem psionicznym, niż tworzący się w zbliżony sposób Kamienny Kwiat. Pod wpływem fal psionicznych zaczyna rezonować i rozprasza ich niebezpieczny wpływ na układ nerwowy.\n \nKolejną pozytywną właściwością jest jego zdolność do pochłaniania ciepła, samemu pozostając zimnym w dotyku.\n \nZe względu na gęstość, Racze Oczy są dosyć ciężkie.\n \nWedług skali promieniowania artefaktów plasuje się na średnim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string> 
+	
+	<string id="st_af_electra_moonlight_af_aam_name">
+		<text>MMA z art. Blask Księżyca</text>
+	</string>
+	<string id="st_af_electra_moonlight_af_aam_descr">
+		<text>Ten unikalny artefakt elektrostatyczny rezonuje pod wpływem fal psionicznych. Stalkerzy potrafią dostosować częstotliwość jego oddziaływania tak, iż neutralizuje główne źródła emisji psionicznych, znacząco niwelując ich negatywne oddziaływania. Ta przepiękna kula zwiększa również oporność właściwą ciała, gdy znajdzie się pod wpływem prądu o dużym natężeniu, przez co zapewnia pewien stopień ochrony przed porażeniem elektrycznym.\n \nWarto zauważyć, że Blask Księżyca może zająć się ogniem podczas wystawiania go na bezpośredni kontakt z płomieniem. Czasem zdarza się, że dochodzi do samozapłonu.\n \nWedług skali promieniowania artefaktów plasuje się na średnim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>
+	
+	<string id="st_af_black_spray_af_aam_name">
+		<text>MMA z art. Czarne Bryzgi</text>
+	</string>  
+	<string id="st_af_black_spray_af_aam_descr">
+		<text>Jest rzadkim artefaktem, niewiele wiadomo o jego właściwościach i pochodzeniu.\n \nCzarne Bryzgi przyjmują kształty zbliżone do innych szafiropodobnych tworów. Jednakże, organiczna natura łodygi (dzieląca, notabene, właściwości z Agrafką) sugeruje, że uformował się z roślin naczyniowych pod wpływem niebezpiecznych pól psionicznych i fal elektromagnetycznych.\n \nKolejną niezwykłą właściwością Czarnych Bryzg jest zdolność do opóźniania przepuszczanego przez nie promienia światła. Mówi się, że mechanizm ten związany jest z otaczającymi artefakt falami psionicznymi. Z tego powodu Czarne Bryzgi dobrze neutralizują interferencje psioniczne w dość dużym promieniu od użytkownika.\n \nTe właściwości mają jednak swoją cenę. Artefakt staje się niezwykle niebezpieczny po wystawieniu go na działanie toksyn - wzmacnia ich efekty i zwiększa właściwości żrące. Eksplorując strefy skażone chemikaliami zaleca się pozostawienie Czarnych Bryzg w plecaku.\n \nDzięki pięknej, błękitnej aurze, którą roztacza, jest ceniony przez jubilerów na całym świecie.\n \nWedług skali promieniowania artefaktów plasuje się na wysokim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>  
+	
+	<string id="st_af_medusa_af_aam_name">
+		<text>MMA z art. Meduza</text>
+	</string>
+	<string id="st_af_medusa_af_aam_descr">
+		<text>Bardzo częste znalezisko. Ten grawitacyjny artefakt potrafi minimalnie ochronić ciało i przedmioty przed uderzeniami.\n \nNieznacznie zwiększa ochronę przed niezwykle wysoką temperaturą wytwarzaną w anomaliach ogniowych.\n \nMeduzy zwykle są dosyć ciężkie - prawdopodobnie pole grawitacyjne zawyża jego rzeczywistą masę. Innym minusem artefaktu jest to, że zwiększa wpływ fal psionicznych i jest skutecznym przewodnikiem elektrycznym.\n \nWedług skali promieniowania artefaktów plasuje się na niskim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>
+	
+	<string id="st_af_vyvert_af_aam_name">
+		<text>MMA z art. Skrętak</text>
+	</string>
+	<string id="st_af_vyvert_af_aam_descr">
+		<text>Ten dziwacznie ukształtowany artefakt powstaje w miejscach o zwiększonej anomalnej aktywności grawitacyjnej. Z wyglądu przypomina materiał organiczny, jednakże znacznie bliżej mu do koralowca.\n \nPoprzez swoje grawitacyjne pochodzenie, zwiększa ochronę przed uderzeniami i zmniejsza tarcie powodowane przez szybko poruszające się przedmioty. Oprócz tego działa jak swego rodzaju gąbka wchłaniająca toksyny i chemikalia - chroni użytkownika zarówno przed zewnętrznymi substancjami toksycznymi, jak i związkami chemicznymi, które dostały się już do krwiobiegu.\n \nSkrętak może generować niewielkie, kierowane pola grawitacyjne zwiększające jego masę. Z tego powodu waga artefaktu jest dosyć duża.\n \nWedług skali promieniowania artefaktów plasuje się na średnim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>
+	
+	<string id="st_af_empty_af_aam_name">
+		<text>MMA z art. Pustak</text>
+	</string>  
+	<string id="st_af_empty_af_aam_descr">
+		<text>Dwa organiczne dyski (składające się z lipidów, celulozy i ligniny) z pustą przestrzenią wewnątrz. Stała odległość utrzymywana jest dzięki niezwykłemu polu grawitacyjnemu wewnątrz artefaktu.\n \nJakiekolwiek próby ściśnięcia, czy oderwania od siebie dysków kończą się niepowodzeniem. Dzieje się tak przez gwałtownie dodatnie/ujemne zmiany środka masy w polu grawitacyjnym. Pustaki zdają się reagować w ten sposób na wszystkie siły fizyczne próbujące zaburzyć ich równowagę.\n \nZe względu na ten tajemniczy mechanizm, poruszanie się z Pustakiem jest trudnym zadaniem. Wzmożona grawitacja powoduje zagęszczenie cząstek powietrza wokół użytkownika i spowalnia jego ruchy.\n \nZ drugiej jednak strony, dzięki tym cechom artefakt posiada zdolność do zmniejszania tarcia - może zwiększać odporność na uderzenia.\n \nWedług skali promieniowania artefaktów plasuje się na średnim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string> 
+ 	
+	<string id="st_af_full_empty_af_aam_name">
+		<text>MMA z art. Pełny Pustak</text>
+	</string>  
+	<string id="st_af_full_empty_af_aam_descr">
+		<text>Podobnie do Pustaków, artefakty te składają się z dwóch organicznych dysków połączonych niezwykłym polem grawitacyjnym.\n \nPrzestrzeń wewnętrzna Pełnego Pustaka jest zadziwiająca: wszystkie atomy doń trafiające - niezależnie od ich natury - reagują z nieznanym mechanizmem pola, w efekcie uwalniając fotony (czyli emitując światło). Naukowcy zwykle nazywają to zjawisko "efektem galaktyki". Daje on niezwykłe, rozchodzące się dookoła promienie świetlne.\n \nPowietrze w przypadku tego artefaktu zwiększa gęstość dużo szybciej, niż w przypadku zwykłego Pustaka, co przekłada się na znaczne spowolnienie ruchów jego użytkownika.\n \nPełny Pustak - będący niejako "lepszą wersją" Pustaka - znacznie zwiększa odporność na uderzenia. Niektórzy twierdzą, że potrafi zatrzymać bezpośredni ostrzał z broni kalibru 9 mm.\n \nWedług skali promieniowania artefaktów plasuje się na wysokim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string> 
+	
+	<string id="st_af_night_star_af_aam_name">
+		<text>MMA z art. Gwiazda Wieczorna</text>
+	</string>
+	<string id="st_af_night_star_af_aam_descr">
+		<text>Ten świecący artefakt wytwarza ukierunkowane pola zmniejszonej grawitacji. Stalkerzy często korzystają z jego charakterystyk, łącząc je z Grawi, dzięki czemu mogą unieść więcej przedmiotów.\n \nZ racji walorów estetycznych swojego rdzenia jest poszukiwany przez jubilerów z całego świata. Podczas szlifowania zaleca się jednak zachować szczególną ostrożność, gdyż najmniejszy błąd może spowodować eksplozję zdolną zrównać z ziemią mały budynek. W związku z tym wszelkiej obróbki najlepiej dokonywać przy użyciu wyspecjalizowanej maszynerii, co znacząco obniży prawdopodobieństwo wybuchu. Ponadto artefakt charakteryzuje się tym, że tylko jego zewnętrzna warstwa wydziela promieniowanie.\n \nGwiazda Wieczorna absorbuje toksyny i związki chemiczne, co czyni ją wartościowym nabytkiem dla łowców artefaktów, jednak z drugiej strony pochłania tylko niewielkie ilości tych szkodliwych substancji. Cena artefaktu na rynku nie jest zbyt wysoka dzięki czemu nawet niezbyt majętni stalkerzy są w stanie go nabyć.\n \nMawia się, że artefakt po zbliżeniu do źródła ciepła zaczyna wydzielać smród podobny do palonego ciała. Długa ekspozycja na wysoką temperaturę może zwiększyć jego palność i spowodować zapłon.\n \nWedług skali promieniowania artefaktów plasuje się na niskim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>
+	
+	<string id="st_af_gravi_af_aam_name">
+		<text>MMA z art. Grawi</text>
+	</string>
+	<string id="st_af_gravi_af_aam_descr">
+		<text>Grawi składa się z metalicznych cząstek, które bardzo długo były wystawione na wzmożone oddziaływanie grawitacji. Posiada niezwykłe właściwości, między innymi zdolność do zmniejszania wagi przedmiotów znajdujących się w jego pobliżu. \n \nPrzez długi czas artefakt ten stanowił wielką zagadkę, dopóki profesor Sacharow nie odkrył, że co trzydzieści minut wytwarza on niewielkie pole anty grawitacyjne utrzymujące się przez około minutę.\n \nNiebezpieczeństwa płynące ze stosowania Grawi dotyczą jego dużej przewodności elektrycznej. Prawdopodobieństwo porażenia prądem jest więc dużo wyższe w trakcie korzystania z artefaktu, zwłaszcza podczas burzy i w okolicy anomalii elektrycznych. Inną jego wadą jest wzmocnienie działania fal psionicznych.\n \nWedług skali promieniowania artefaktów plasuje się na średnim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>
+	
+	<string id="st_af_gold_fish_af_aam_name">
+		<text>MMA z art. Złota Rybka</text>
+	</string>
+	<string id="st_af_gold_fish_af_aam_descr">
+		<text>"Mocniejsza wersja" artefaktu Grawi. Podobnie jak w jego przypadku, niezwykłe właściwości Złotej Rybki odkrył profesor Sacharow po jednej z potężnych emisji.\n \nDzięki drobiazgowemu przebadaniu okazało się, że artefakt ten powstaje w momencie, kiedy trzy Grawi zostaną wessane w swoje pola grawitacyjne. Proces ten ma miejsce niezwykle rzadko, co przekłada się na wysoką cenę artefaktu.\n \nW kręgach związanych z ukraińskim Specnazem krążą plotki, że w Zonie przebywają agenci rosyjskiego Ministerstwa Obrony, których głównym zadaniem jest wywożenie Złotej Rybki do specjalnie przystosowanych laboratoriów poza granicami państwa.\n \nArtefakt wytwarza stałe pole anty grawitacyjne oddziałujące jedynie na najbliższe otoczenie - drastycznie zwiększa szybkość obiektów znajdujących się w jego zasięgu, co może powodować niebezpieczne kolizje z otoczeniem, włączając użytkownika.\n \nWedług skali promieniowania artefaktów plasuje się bardzo wysokim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>
+	
+	<string id="st_af_dummy_glassbeads_af_aam_name">
+		<text>MMA z art. Korale Mamy</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_af_aam_descr">
+		<text>Korale Mamy, które kształtem przypominają helisę DNA, powstają w anomalii zwanej Spalaczem. Jedną z ich najbardziej charakterystycznych cech jest ciągłe pulsowanie, pozytywnie wpływające na ludzki organizm.\n \nDziałanie Korali polega na przyspieszaniu metabolizmu u każdego żywego organizmu znajdującego się w pobliżu, zwiększaniu krzepliwości krwi oraz wspomaganiu gojenia się ran, choć stojący za tym mechanizm pozostaje nieznany.\n \nArtefakt posiada także silne właściwości ochronne. Jest w stanie osłonić ciało przed szkodliwym oddziaływaniem wysokich temperatur.\n \nZ drugiej strony należy pamiętać, że artefakt wzmaga przewodność elektryczną. Prawdopodobieństwo porażenia prądem jest więc dużo wyższe w trakcie korzystania z artefaktu, zwłaszcza podczas burzy i w okolicy anomalii elektrycznych.\n \nWaga artefaktu jest nieproporcjonalne duża jak na obiekt tej wielkości, co sugeruje, że odznacza się on dużą gęstością.\n \nWedług skali promieniowania artefaktów plasuje się na niskim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>
+	
+	<string id="st_af_eye_af_aam_name">
+		<text>MMA z art. Oko</text>
+	</string>
+	<string id="st_af_eye_af_aam_descr">
+		<text>Artefakt ten swym kształtem przypominający ludzkie oko, znacząco przyspiesza ludzki metabolizm i gojenie się ran. Dla niektórych doświadczonych stalkerów Oko pełni funkcję szczęśliwego amuletu. Niezależnie od opowiadanych plotek, pozytywne właściwości artefaktu są niepodważalne.\n \nŁagodzi ból i jest bardzo przydatny przy leczeniu ran. Te zalety mają jednak swoją cenę. Używanie artefaktu w pobliżu anomalii chemicznych jest śmiertelnie niebezpieczne, gdyż zwiększa on ich siłę i toksyczność. Zaleca się więc, żeby trzymać go w plecaku podczas eksplorowania terenów skażonych chemicznie - chyba, że planuje się samobójstwo.\n \nCzasem można usłyszeć, jak stalkerzy nazywają go "miedziakiem", gdyż podobnie do miedzi, dobrze przewodzi prąd.\n \nWedług skali promieniowania artefaktów plasuje się na średnim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>
+	
+	<string id="st_af_fire_af_aam_name">
+		<text>MMA z art. Płomień</text>
+	</string>
+	<string id="st_af_fire_af_aam_descr">
+		<text>Artefakt powstaje na obszarach o dużej aktywności termicznej. Wytwarza silne emisje podczerwieni przyspieszające metabolizm użytkownika, dzięki czemu bardzo szybko leczy rany.\n \nPod względem swoich właściwości jest silniejszy od artefaktu Oko - wielu stalkerów donosi, że używanie Płomienia pozwoliło im przeżyć nawet spotkanie z chimerą. Przez te opowieści panuje przekonanie, że Płomień czyni cuda.\n \nMnóstwo ludzi zawdzięcza życie użyciu artefaktu w odpowiednim momencie, a najbardziej doświadczeni łowcy mutantów zwykle nie ruszają bez niego na polowanie.\n \nZ drugiej strony artefakt posiada poważne wady. Wejście w pole psioniczne z Płomieniem przy pasie może skończyć się szybką i nieprzyjemną śmiercią. Dzieje się tak, gdyż artefakt pochłania energię psioniczną i sam emituje znaczną jej część.\n \nPodobnie należy zachować szczególną ostrożność, przenosząc artefakt. Długa ekspozycja nawet na niewielkie ilości promieniowania również może spowodować zgon użytkownika.\n \nPłomień może służyć przede wszystkim jako przenośna, wielorazowa apteczka, gdyż bardzo szybko leczy rany.\n \nWedług skali promieniowania artefaktów plasuje się na wysokim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>
+	
+	<string id="st_af_dummy_battery_af_aam_name">
+		<text>MMA z art. Bateria</text>
+	</string>
+	<string id="st_af_dummy_battery_af_aam_descr">
+		<text>Bateria jest dość popularnym w Zonie artefaktem, zarówno wśród stalkerów, jak i turystów ze względu na swoje energetyzujące działanie, chociaż jego stosowanie przez dłuższy przynosi zupełnie odwrotny efekt.\n \nJako silny opornik jest również szeroko znana ze swej zdolności do chronienia użytkownika przed - często śmiertelnym w Zonie - porażeniem prądem elektrycznym. Należy pamiętać, że artefakt obniża krzepliwość krwi, przez co zwiększa tempo krwawienia z otwartych ran. Poza tym Bateria absorbuje ciepło i potrafi przenosić je na inne przedmioty.\n \nArtefakt jest bardzo lekki, a co za tym idzie, łatwy do przenoszenia.\n \nWedług skali promieniowania artefaktów plasuje się na niskim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>
+	
+	<string id="st_af_dummy_dummy_af_aam_name">
+		<text>MMA z art. Muszla</text>
+	</string>
+	<string id="st_af_dummy_dummy_af_aam_descr">
+		<text>Muszla składa się z dwóch niebieskawych dysków połączonych półprzezroczystym materiałem nieznanego pochodzenia.\n \nPrzez długi czas społeczność naukowa była przekonana, że artefakt ten pozbawiony jest jakichkolwiek użytecznych właściwości. Dopiero niedawno odkryto, że w gruncie rzeczy jego działanie może być bardzo korzystne dla użytkownika.\n \nMuszla ma bardzo odświeżający wpływ na ciało i przyspiesza regenerację kondycji. Jego użytkownik może poczuć się jak nowo narodzony, chociaż u niektórych stalkerów artefakt powodował nadpobudliwość psychoruchową. Ponadto, zapewnia solidną ochronę psioniczną, absorbując interferencje elektromagnetyczne.\n \nMuszla po wystawieniu na działanie płomienia może zająć się ogniem lub ulec samozapłonowi. Zbliżając się do źródeł ciepła należy zachować szczególną ostrożność.\n \nArtefakt jest niezwykle lekki i bardzo łatwy do przenoszenia.\n \nWedług skali promieniowania artefaktów plasuje się na średnim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>
+	
+	<string id="st_af_ice_af_aam_name">
+		<text>MMA z art. Śnieżynka</text>
+	</string>
+	<string id="st_af_ice_af_aam_descr">
+		<text>Niektórzy uważają, że jest to biała odmiana Kulebiaka, która przejęła właściwości anomalii, w której się uformowała.\n \nZe względu na swoje niezwykłe właściwości, zwiększa napięcie mięśniowe użytkownika, przez co podnosi szybkość regeneracji wytrzymałości. Z racji wysokiej ilości emitowanego promieniowania oddziałującego na użytkującą go osobę, stalkerzy, którzy posiadają ten artefakt, często są żartobliwie określani jako "promienne śnieżki".\n \nZastanawiając się, czy zabrać go ze sobą na wyprawę, warto rozważyć wszystkie za i przeciw - czy na pewno opłacalne będzie zwiększenie wytrzymałości i ochrona przed elektrycznością kosztem wystawiania się na stałą, śmiertelną dawkę promieniowania? Nawet jeśli zdecydujesz się wziąć artefakt, warto zauważyć, że nie powinien być noszony na pasie przez cały czas.\n \nOprócz tego, Śnieżynka posiada inną, bardzo dużą wadę. Reaguje na zewnętrzne źródła energii, wchłaniając i potęgując ich efekty. Z tego względu zbliżanie się do źródeł ciepła, stref toksycznych i pól psionicznych z tym artefaktem może spowodować śmierć.\n \nArtefakt jest bardzo lekki - niemal dosłownie jak śnieżynka - dzięki czemu przenoszenie go nie jest uciążliwe.\n \nWedług skali promieniowania artefaktów plasuje się na wysokim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>
+	
+	<string id="st_af_soul_af_aam_name">
+		<text>MMA z art. Dusza</text>
+	</string>
+	<string id="st_af_soul_af_aam_descr">
+		<text>Dusza to niezwykły artefakt pochodzenia organicznego z równie niezwykłymi właściwościami - tajemniczy, produkowany przez nią śluz po nałożeniu na rany uśmierza ból i przyspiesza proces gojenia. Ponadto redukuje efekty działania fal psionicznych i powodowane nimi uszkodzenia mózgu. Warto jednak zauważyć, że Dusza wysysa z użytkownika energię.\n \nDzięki rozsądnej cenie na rynku, popyt na ten artefakt wśród kolekcjonerów utrzymuje się na stałym, dość wysokim poziomie. Gęstość jego struktury nie jest zbyt duża, jest raczej lekki.\n \nWedług skali promieniowania artefaktów plasuje się na niskim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>
+	
+	<string id="st_af_fuzz_kolobok_af_aam_name">
+		<text>MMA z art. Kulebiak</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_af_aam_descr">
+		<text>Dość rzadko występujący artefakt, powstający na obszarach o wysokim stężeniu substancji chemicznych. Kulebiak jest bardzo ceniony za to, że potrafi wyleczyć większość ran i powstrzymać obfite krwawienie w przeciągu kilku minut.\n \nNaukowcy rozpowszechniają wśród stalkerów przekonanie, że artefakt modyfikuje kod genetyczny użytkownika. Na to twierdzenie nie ma jednak żadnych dowodów i należy je traktować jako próbę zmonopolizowania jego dostaw przez środowisko naukowe. Nie oznacza to wszakże, że artefakt jest całkowicie nieszkodliwy.\n \nJedną z jego głównych wad jest reakcja na cząsteczki promieniotwórcze - posiadając go lepiej całkowicie unikać źródeł promieniowania. Tym bardziej, że efekty negatywne są dużo gorsze dla organizmu, niż pozytywny wpływ artefaktu na ciało.\n \nKulebiak zmniejsza również wytrzymałość użytkownika - wynika to z kształtu artefaktu, który jest kulą otoczoną drobnymi, wbijającymi się w ciało igiełkami. I choć ranki szybko się goją, w kontakcie z potem zaczynają niemiłosiernie swędzieć, utrudniając ruch.\n \nDosyć lekki, nie ma większych trudności w przenoszeniu go.\n \nWedług skali promieniowania artefaktów plasuje się na średnim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>
+	
+	<string id="st_af_glass_af_aam_name">
+		<text>MMA z art. Świetlik</text>
+	</string>
+	<string id="st_af_glass_af_aam_descr">
+		<text>Świetlik to niezwykle rzadki artefakt. Oddziałuje z nieznanymi nauce polami energii, przyspieszając regenerację tkanek organizmów żywych i normalizując ich procesy metaboliczne.\n \nPotrafi postawić na nogi nawet poważnie rannego stalkera dosłownie w ciągu kilku minut, choć jeśli zostanie wystawiony na długotrwałe działanie promieniowania, może samoczynnie zająć się ogniem.\n \nInną jego wadą jest to, że osłabia ciało i w trakcie procesu leczenia zmniejsza ilość płytek krwi, co zwiększa tempo krwawienia. Zdaje się także zmniejszać kondycję i obniżać tempo jej odzyskiwania. Niektórzy stalkerzy korzystający ze Świetlików skarżyli się, że choć dzięki artefaktowi nie odczuwali otrzymanych obrażeń, przez kilka godzin nie mieli siły chodzić, ani nawet stać.\n \nWedług skali promieniowania artefaktów plasuje się na wysokim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>
+	
+	<string id="st_af_compass_af_aam_name">
+		<text>MMA z art. Kompas</text>
+	</string>
+	<string id="st_af_compass_af_aam_descr">
+		<text>Niezmiernie rzadko spotykany artefakt - minęło kilka lat od ostatniego razu, kiedy znaleziono jeden z nich. Umożliwia zlokalizowanie luk w polach anomalii.\n \nUważa się, że pozwala właścicielowi na przebycie bez szwanku nawet najbardziej złożonych pól anomalii. Niewiele osób wie jednak, jak się z nim prawidłowo obchodzić.\n \nKompas podczas ostatnich eksperymentów ukazał kilka niezwykłych właściwości. Okazało się, że może wpływać na poruszające się obiekty. Kilka z nich całkowicie zniknęło. A może zostały teleportowane?\n \nUdowodniono też, że osłabia ciało użytkownika, zmniejszając jego kondycję i zwiększając tempo krwawienia. Największym problemem jednak jest bardzo wysoki poziom emitowanego promieniowania, znacznie przekraczający emisję pochodzącą z innych artefaktów znajdujących się na skali porównawczej.\n \nKompas umieszczony w pobliżu ciała może doprowadzić do śmierci w ciągu zaledwie kilku minut.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>
+	
+	<string id="st_af_oasis_heart_af_aam_name">
+		<text>MMA z art. Serce Oazy</text>
+	</string>
+	<string id="st_af_oasis_heart_af_aam_descr">
+		<text>Artefakt ten został znaleziony w samym sercu legendarnej Oazy. Wydaje się, że Serce to skrystalizowana roślina, która nabyła część leczniczych właściwości Oazy.\n \nNie tylko zwiększa szybkość gojenia się ran i leczenia, ale zapewnia użytkownikowi silne źródło dodatkowej energii. Zjawisko nawet przez naukowców uznawane jest za niezbadany cud.\n \nMawia się, że Serce jest bardzo wrażliwe na zewnętrzne źródła energii i otoczenie. Z tego powodu zbliżanie się do pól anomalii może spowodować śmierć posiadacza tego niezwykłego artefaktu.\n \nWedług skali promieniowania artefaktów plasuje się na bardzo wysokim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>
+	
+	<string id="st_af_death_lamp_af_aam_name">
+		<text>MMA z art. Lampa Śmierci</text>
+	</string>  
+	<string id="st_af_death_lamp_af_aam_descr">
+		<text>"Wielka, czerwona i przeklęta" - tak zwykle opowiadają ci, którzy ją widzieli. Niektórzy nazywają artefakt "Diabelskim Nasieniem". Handlarze wierzą w plotki o tym tworze i nie są zainteresowani skupem.\n \nNiewiele wiadomo o jego pochodzeniu. Do tej pory nie odkryto żadnych korzyści płynących z Lampy Śmierci.\n \nPierwszy raz artefakt odnalazła grupa trzech doświadczonych stalkerów. Niedługo po dostarczeniu go Ekologom w Jantarze, dwóch z nich znaleziono martwych, z twarzą wyrażającą nieskończone przerażenie. Co stało się z trzecim z nich, po dziś dzień nie wiadomo.\n \nOprócz tego incydentu, członkowie zespołu naukowego prowadzącego badania nad artefaktem zgłaszali powtarzające się co noc koszmary, których nie doświadczali przed wystawieniem się na działanie Lampy.\n \nPoza tymi zagadkowymi efektami, udokumentowaną i potwierdzoną cechą artefaktu jest to, że wysysa witalność i chęć życia z użytkownika, szybko doprowadzając do zmęczenia i senności, a w niektórych przypadkach powodując nawet omdlenia.\n \nWedług skali promieniowania artefaktów plasuje się na bardzo wysokim poziomie. \n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string> 
+	
+	<string id="st_af_misery_bread_af_aam_name">
+		<text>MMA z art. Anomalny chleb</text>
+	</string>
+	<string id="st_af_misery_bread_af_aam_descr">
+		<text>Kawałek chleba tak mrocznego, jak dusza osoby, która go zostawiła.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dop. poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pełny\n
+		</text>
+	</string>
+	
+</string_table>

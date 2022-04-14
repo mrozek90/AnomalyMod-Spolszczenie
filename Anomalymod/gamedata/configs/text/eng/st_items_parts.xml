@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Advanced Weapon Repair Mod 0.3 by Faustle (2017)
+-->
+
+<string_table>
+
+<!--
+ITEMS
+-->
+
+	<string id="st_prt_i_ammo">
+		<text>Elementy amunicji</text>
+	</string>
+	<string id="st_prt_i_ammo_descr">
+		<text>Nawet zaufanym dostawcom zdarza się wtopa w postaci sprzedania "złej" amunicji. Tak się po prostu zdarza. Najgorzej, jeśli uszkodzona amunicja powoduje zacięcie się broni w momencie, kiedy ta jest najbardziej potrzebna. Na szczęście, elementów amunicji można użyć do naprawiania pocisków i sprawiania, że staną się bezpieczne w użytkowaniu. Z tego względu niektórzy stalkerzy zbierają takie resztki.\n \n
+		</text>
+	</string>
+	
+	<string id="st_prt_i_paper">
+		<text>Arkusze papieru</text>
+	</string>
+	<string id="st_prt_i_paper_descr">
+		<text>Porwane kartki błyszczącego papieru. Nawet w Zonie można ich użyć do wielu celów. Najtańszy sposób pakowania żywności i czyszczenia brudu.\n \n
+		</text>
+	</string>
+	
+	<string id="st_prt_i_textolite">
+		<text>Tekstolit</text>
+	</string>
+	<string id="st_prt_i_textolite_descr">
+		<text>Materiał kompozytowy zazwyczaj wykonany z kilku warstw tkanin szklanych, włókniny szklanej oraz papieru połączonych żywicą epoksydową. Pomocny przy naprawach dla kogoś, kto wie, jak z niego skorzystać.\n \n
+		</text>
+	</string>
+	
+	<string id="st_textile_patch_b">
+		<text>Arkusz tkaniny</text>
+	</string>
+	<string id="st_textile_patch_b_descr">
+		<text>Kawałek tkaniny, zwykle wykorzystywany do łatania ubrań albo rozprowadzania smarów i rozpuszczalników wewnątrz mechanizmów. Można stosować ze wszystkimi typami igieł i klejów.\n \n
+		</text>
+	</string>
+	
+	<string id="st_textile_patch_m">
+		<text>Arkusz materiału</text>
+	</string>
+	<string id="st_textile_patch_m_descr">
+		<text>Arkusz wojskowego materiału, użyteczny do polowych napraw odzieży lub lekkich pancerzy. Ceniony przez stalkerów głównie za niską wartość, dużą dostępność i wszechstronność zastosowań. By w pełni z niego skorzystać, niezbędne są zaawansowane przybory krawieckie i kleje. Nadaje się również do rozprowadzania smarów i rozpuszczalników wewnątrz mechanizmów broni.\n \n
+		</text>
+	</string>
+	
+	<string id="st_textile_patch_e">
+		<text>Wzmocniony arkusz materiału</text>
+	</string>
+	<string id="st_textile_patch_e_descr">
+		<text>Gruba łata materiału wzmocniona kevlarową podszewką. Można użyć do naprawy średnich i ciężkich pancerzy. Wystarczająco duży, by przykryć kilka uszkodzonych miejsc jednocześnie. Wymaga profesjonalnych zestawów do szycia i klejów. Nadaje się do smarowania i czyszczenia broni - ze względu na ogólną twardość materiału, może docierać również do trudno dostępnych zakamarków w mechanizmach broni.\n \n
+		</text>
+	</string>
+	
+	<string id="st_prt_i_capacitors">
+		<text>Paczka kondensatorów</text>
+	</string>
+	<string id="st_prt_i_capacitors_descr">
+		<text>Kondensator zbudowany jest z dwóch metalowych płytek (przewodników) rozdzielonych dielektrykiem. Stanowi główny element większości urządzeń elektrycznych i elektronicznych. Do jego funkcji należą m.in. prostowanie prądu przemiennego, magazynowanie energii elektrycznej i redukcja zakłóceń. W Zonie są raczej rzadkie, ale mimo tego mogą być bardzo użyteczne.\n \n
+		</text>
+	</string>
+	
+	<string id="st_prt_i_transistors">
+		<text>Pudełko tranzystorów</text>
+	</string>
+	<string id="st_prt_i_transistors_descr">
+		<text>Pudełko wysokiej jakości tranzystorów bipolarnych. Tranzystor zbudowany jest z trzech warstw półprzewodnika: bazy, emitera i kolektora. Jego celem jest generowanie, konwersja i wzmacnianie sygnału elektrycznego. Ich zdobycie pozostaje w sferze marzeń większości domorosłych elektryków i elektroników przebywających w Zonie.\n \n
+		</text>
+	</string>
+	
+	<string id="st_prt_i_resistors">
+		<text>Paczka oporników</text>
+	</string>
+	<string id="st_prt_i_resistors_descr">
+		<text>Oporniki (inaczej rezystory) to najczęściej wykorzystywane, najprostsze elementy bierne obwodu elektrycznego. Służą do ograniczenia prądu w nich płynącego i stosowane są do zapewnienia właściwego napięcia innym elementom układu. W tej paczce znajdują się oporniki o różnej rezystancji - sięgającej od 12 omów do 82 milionów omów - i tolerancji.\n \n
+		</text>
+	</string>
+	
+	<string id="st_prt_i_copper">
+		<text>Miedziany drut</text>
+	</string>
+	<string id="st_prt_i_copper_descr">
+		<text>Miedziane druty elektrotechniczne używane są praktycznie w wszystkich urządzeniach, instalacjach i maszynach, w których wytwarza się, używa, lub transportuje energię elektryczną. Nowe nie są zbyt łatwo dostępne, ale w razie potrzebny nietrudno znaleźć je w urządzeniach elektrycznych - starych radiach, zepsutych krótkofalówkach i wszelkiej maści sprzęcie działającym na prąd.\n \n
+		</text>
+	</string>
+	
+	<string id="st_prt_i_wood">
+		<text>Elementy drewniane</text>
+	</string>
+	<string id="st_prt_i_wood_descr">
+		<text>Fragmenty szorstkiego, lekkiego drewna cedrowego. Najczęściej stosowane do użytku zewnętrznego - cedr wykorzystywany jest do produkcji mebli, podłóg i narzędzi. Choć w Zonie nie jest zbyt przydany, może posłużyć do tworzenia przedmiotów.\n \n
+		</text>
+	</string>
+	
+	<string id="st_prt_i_scrap">
+		<text>Metalowe odpadki</text>
+	</string>
+	<string id="st_prt_i_scrap_descr">
+		<text>Fragmenty metalowego złomu i pojedyncze elementy ekwipunku. Znajdziesz tu różnorakie stopy stali i aluminium, których można użyć do tymczasowych, polowych napraw wyposażenia, a nawet do stworzenia czegoś nowego.\n \n
+		</text>
+	</string>
+	
+	<string id="st_prt_i_fasteners">
+		<text>Łączniki</text>
+	</string>
+	<string id="st_prt_i_fasteners_descr">
+		<text>Śrubki, podkładki, nakrętki, gwoździe i niewielkie metalowe płytki, wszystkich możliwych typów i rozmiarów. Można ich użyć do tymczasowych, polowych napraw wyposażenia, a nawet do stworzenia czegoś nowego.\n \n
+		</text>
+	</string>
+	
+	<string id="st_prt_i_plastic">
+		<text>Folia</text>
+	</string>
+	<string id="st_prt_i_plastic_descr">
+		<text>Niewielki arkusz folii z polietylentu o małej gęstości. Cienkiej, plastikowej membrany można użyć do dzielenia stref i wydzielania objętości, przechowywania przedmiotów, czy po prostu w formie osłony. Pomijając, że tu i ówdzie widać niewielkie zadry, w ten kawałek folii bezpiecznie spakujesz i odizolujesz od siebie wszystko, co zechcesz - głównie jedzenie i lekarstwa.\n \n
+		</text>
+	</string>
+	
+	<string id="st_prt_i_glass">
+		<text>Kawałki szkła</text>
+	</string>
+	<string id="st_prt_i_glass_descr">
+		<text>[brak opisu]</text>
+	</string>
+	
+	<string id="st_prt_i_ceramic">
+		<text>Baza ceramiczna</text>
+	</string>
+	<string id="st_prt_i_ceramic_descr">
+		<text>[brak opisu]</text>
+	</string>
+	
+	<string id="st_prt_i_leather">
+		<text>Skórzana rolka</text>
+	</string>
+	<string id="st_prt_i_leather_descr">
+		<text>[brak opisu]</text>
+	</string>
+	
+	
+	
+	<string id="st_prt_i_rubber">
+		<text>Guma</text>
+	</string>
+	<string id="st_prt_i_rubber_descr">
+		<text>[brak opisu]</text>
+	</string>
+	
+	<string id="st_prt_i_triggermechanism">
+		<text>Mechanizm spustowy</text>
+	</string>
+	<string id="st_prt_i_triggermechanism_descr">
+		<text>Mechanizm spustowy i elementy do jego montażu pochodzące z nieznanej broni. Większość systemów spustu jest do siebie bardzo podobna, ten również pewnie można spiłować tak, by pasował do niemal każdej broni.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] materiał podstawowy\n
+		</text>
+	</string>
+	
+	<string id="st_prt_i_spring">
+		<text>Sprężyna</text>
+	</string>
+	<string id="st_prt_i_spring_descr">
+		<text>Niewielka sprężyna pochodząca z mechanizmu spustowego, lub innego mechanizmu broni. Prawdopodobnie można jej użyć do wymiany prawie każdej uszkodzonej sprężyny.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] materiał podstawowy\n
+		</text>
+	</string>
+	
+	<string id="st_prt_i_pistolgrip">
+		<text>Rękojeść</text>
+	</string>
+	<string id="st_prt_i_pistolgrip_descr">
+		<text>Rękojeść pochodząca z nieznanej broni. Gumowany uchwyt prawdopodobnie można dopasować do niemal każdej broni.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] materiał podstawowy\n
+		</text>
+	</string>
+	
+
+
+<!--
+WEAPONS (rifles)
+-->
+
+<!-- Barrels-->
+	<string id="st_barrel_1">
+		<text>Lufa kalibru 12 [R]</text>
+	</string>
+	<string id="st_barrel_1_descr">
+		<text>Lufa pochodząca ze strzelby z lufami w układzie pionowym (tzw. bok) kalibru 12.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_barrel_2">
+		<text>Lufa kalibru 12 [R]</text>
+	</string>
+	<string id="st_barrel_2_descr">
+		<text>Lufa pochodząca ze strzelby z lufami w układzie poziomym kalibru 12.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_barrel_3">
+		<text>Lufa kalibru 12 [K]</text>
+	</string>
+	<string id="st_barrel_3_descr">
+		<text>Lufa pochodząca ze strzelby gładkolufowej kalibru 12.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_barrel_4">
+		<text>Lufa kalibru 7.62 mm [W]</text>
+	</string>
+	<string id="st_barrel_4_descr">
+		<text>Lufa pochodząca z karabinu kalibru 7.62 mm.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_barrel_5">
+		<text>Lufa kalibru 7.92 mm [W]</text>
+	</string>
+	<string id="st_barrel_5_descr">
+		<text>Lufa pochodząca z karabinu niemieckiego kalibru 7.92 mm.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_barrel_6">
+		<text>Lufa kalibru 9 mm ze zintegrowanym tłumikiem [AS/PP]</text>
+	</string>
+	<string id="st_barrel_6_descr">
+		<text>Lufa ze zintergrowanym tłumikiem pochodząca z automatycznego karabinka specjalnego kalibru 9 mm.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_barrel_7">
+		<text>Lufa kalibru 7.62 mm [A|W]</text>
+	</string>
+	<string id="st_barrel_7_descr">
+		<text>Lufa pochodząca z półautomatycznego lub automatycznego karabinu kalibru 7.62 mm.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_barrel_8">
+		<text>Lufa kalibru 5.45 mm [A]</text>
+	</string>
+	<string id="st_barrel_8_descr">
+		<text>Lufa pochodząca z automatycznego karabinka kalibru 5.45 mm.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_barrel_9">
+		<text>Lufa kalibru 5.56 mm [A]</text>
+	</string>
+	<string id="st_barrel_9_descr">
+		<text>Lufa pochodząca z automatycznego karabinka kalibru 5.56 mm.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_barrel_10">
+		<text>Lufa kalibru 7.62 mm [P]</text>
+	</string>
+	<string id="st_barrel_10_descr">
+		<text>Lufa pochodząca z karabinu kalibru 7.62 mm z regulatorem gazowym.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_barrel_11">
+		<text>Lufa kalibru 9 mm [AS/PP]</text>
+	</string>
+	<string id="st_barrel_11_descr">
+		<text>Lufa pochodząca z automatycznego karabinka specjalnego lub pistoletu automatycznego kalibru 9mm.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_barrel_12">
+		<text>Lufa kalibru 7.62 mm [PP]</text>
+	</string>
+	<string id="st_barrel_12_descr">
+		<text>Lufa pochodząca z niesławnej broni maszynowej typu PPSz.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_barrel_13">
+		<text>Lufa kalibru 12.7x55 mm</text>
+	</string>
+	<string id="st_barrel_13_descr">
+		<text>Lufa pochodząca z automatycznego karabinka kalibru 12.7x55 mm.\n \n
+		</text>
+	</string>
+
+
+<!-- Trigger mechanisms -->
+	<string id="st_trigger_components_1">
+		<text>Spust kurkowy z jednym trybem ognia</text>
+	</string>
+	<string id="st_trigger_components_1_descr">
+		<text>Kurkowy mechanizm uderzeniowy z pojedynczym trybem ognia.\n \n
+		</text>
+	</string>
+
+	<string id="st_trigger_components_2">
+		<text>Spust kurkowy z dwoma trybami ognia</text>
+	</string>
+	<string id="st_trigger_components_2_descr">
+		<text>Kurkowy mechanizm uderzeniowy działający w dwóch trybach. Przeznaczony do prowadzenia ognia ciągłego i pojedynczego.\n \n
+		</text>
+	</string>
+
+	<string id="st_trigger_components_3">
+		<text>Spust kurkowy z trzema trybami ognia</text>
+	</string>
+	<string id="st_trigger_components_3_descr">
+		<text>Kurkowy mechanizm uderzeniowy działający w trzech trybach. Przeznaczony do prowadzenia ognia ciągłego, pojedynczego i dwustrzałowej serii. Ściśle związany z konstrukcją broni.\n \n
+		</text>
+	</string>
+
+	<string id="st_trigger_components_4">
+		<text>Spust bijnikowy z jednym trybem ognia</text>
+	</string>
+	<string id="st_trigger_components_4_descr">
+		<text>Bijnikowy mechanizm uderzeniowy z pojedynczym trybem ognia.\n \n
+		</text>
+	</string>
+
+	<string id="st_trigger_components_5">
+		<text>Spust bijnikowy z dwoma trybami ognia</text>
+	</string>
+	<string id="st_trigger_components_5_descr">
+		<text>Bijnikowy mechanizm uderzeniowy działający w dwóch trybach. Przeznaczony do prowadzenia ognia ciągłego i pojedynczego.\n \n
+		</text>
+	</string>
+
+	<string id="st_trigger_components_6">
+		<text>Spust kurkowy [R]</text>
+	</string>
+	<string id="st_trigger_components_6_descr">
+		<text>Kurkowy mechanizm spustowy przeznaczony do dubeltówek.\n \n
+		</text>
+	</string>
+
+
+<!-- Breech blocks -->
+	<string id="st_bolt_carrier_1">
+		<text>Mechanizm ryglowy z obrotem zamka [typ rosyjski]</text>
+	</string>
+	<string id="st_bolt_carrier_1_descr">
+		<text>Mechanizm ryglowy z obrotem zamka, produkowany przez wschodnie zakłady zbrojeniowe.\n \n
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_2">
+		<text>Mechanizm ryglowy z obrotem zamka [typ rosyjski]</text>
+	</string>
+	<string id="st_bolt_carrier_2_descr">
+		<text>Mechanizm ryglowy z obrotem zamka, produkowany przez wschodnie zakłady zbrojeniowe do automatycznych karabinków specjalnych.\n \n
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_3">
+		<text>Mechanizm ryglowy z obrotem zamka [typ NATO]</text>
+	</string>
+	<string id="st_bolt_carrier_3_descr">
+		<text>Mechanizm ryglowy z obrotem zamka, produkowany przez NATO do karabinków automatycznych zasilanych amunicją pośredniego kalibru.\n \n
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_4">
+		<text>Mechanizm ryglowy z przekoszeniem zamka</text>
+	</string>
+	<string id="st_bolt_carrier_4_descr">
+		<text>Mechanizm ryglowy z przekoszeniem zamka.\n \n
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_5">
+		<text>Zamek półswobodny</text>
+	</string>
+	<string id="st_bolt_carrier_5_descr">
+		<text>Zamek półswobodny z hamulcem rolkowym.\n \n
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_6">
+		<text>Mechanizmy ryglowy</text>
+	</string>
+	<string id="st_bolt_carrier_6_descr">
+		<text>Mechanizmy ryglowy.\n \n
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_7">
+		<text>Zamek czterotaktowy</text>
+	</string>
+	<string id="st_bolt_carrier_7_descr">
+		<text>Czterotaktowy zamek ślizgowo-obrotowy.\n \n
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_8">
+		<text>Czok do dubeltówki [R]</text>
+	</string>
+	<string id="st_bolt_carrier_8_descr">
+		<text>Czok do strzelby z lufami w układzie pionowym (tzw. bok).\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_9">
+		<text>Czok do dubeltówki [R]</text>
+	</string>
+	<string id="st_bolt_carrier_9_descr">
+		<text>Czok do strzelby z lufami w układzie poziomym.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_10">
+		<text>Mechanizm ryglowy z obrotem zamka [typ NATO]</text>
+	</string>
+	<string id="st_bolt_carrier_10_descr">
+		<text>Mechanizm ryglowy z obrotem zamka, produkowany przez państwa członkowskie NATO do karabinów automatycznych zasilanych amunicją dużego kalibru.\n \n
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_11">
+		<text>Zamek swobodny [PP]</text>
+	</string>
+	<string id="st_bolt_carrier_11_descr">
+		<text>Zamek swobodny do pistoletu maszynowego.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+
+<!-- Breech heads -->
+	<string id="st_bolt_1">
+		<text>Zamek klinowy [R]</text>
+	</string>
+	<string id="st_bolt_1_descr">
+		<text>Klin ze strzelby gładkolufowej lub karabinu z zamkiem czterotaktowym. Wygląda na to, że krawędzie są w dobrym stanie, nie posiadają widocznych uszkodzeń.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_bolt_2">
+		<text>Zamek ryglowany przez obrót [2 rygle][P]</text>
+	</string>
+	<string id="st_bolt_2_descr">
+		<text>Dwuryglowa blokada obrotowa zamka ryglowanego poprzeczno-suwliwego. Wygląda na to, że krawędzie są w dobrym stanie, nie posiadają widocznych uszkodzeń.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_bolt_3">
+		<text>Zamek ryglowany przez obrót [2 rygle][K]</text>
+	</string>
+	<string id="st_bolt_3_descr">
+		<text>Dwuryglowa blokada obrotowa zamka ryglowanego poprzeczno-suwliwego do karabinka automatycznego lub strzelby półautomatycznej.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_bolt_4">
+		<text>Zamek ryglowany przez obrót [2 rygle][W]</text>
+	</string>
+	<string id="st_bolt_4_descr">
+		<text>Dwuryglowa blokada obrotowa zamka ryglowanego z przekoszeniem.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_bolt_5">
+		<text>Zamek ryglowany przez obrót [3 rygle][W]</text>
+	</string>
+	<string id="st_bolt_5_descr">
+		<text>Trzyryglowa blokada obrotowa zamka ryglowanego poprzeczno-suwliwego do karabinu.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_bolt_6">
+		<text>Zamek ryglowany przez obrót [2 rygle][A]</text>
+	</string>
+	<string id="st_bolt_6_descr">
+		<text>Dwuryglowa blokada obrotowa zamka ryglowanego poprzeczno-suwliwego do karabinu maszynowego.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_bolt_7">
+		<text>Zamek ryglowany przez obrót [4 rygle][AS]</text>
+	</string>
+	<string id="st_bolt_7_descr">
+		<text>Czteroryglowa blokada obrotowa do automatycznego karabinka specjalnego z zamkiem ryglowanym.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_bolt_8">
+		<text>Zamek ryglowany przez obrót [6 rygli][A]</text>
+	</string>
+	<string id="st_bolt_8_descr">
+		<text>Sześcioryglowa blokada obrotowa do karabinu maszynowego z zamkiem ryglowanym.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_bolt_9">
+		<text>Zamek ryglowany przez obrót [7 rygli][A]</text>
+	</string>
+	<string id="st_bolt_9_descr">
+		<text>Siedmioryglowa blokada obrotowa do karabinu maszynowego z zamkiem ryglowanym.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_bolt_10">
+		<text>Zamek ryglowany przez obrót [8 rygli][A]</text>
+	</string>
+	<string id="st_bolt_10_descr">
+		<text>Ośmioryglowa blokada obrotowa do karabinu maszynowego z zamkiem ryglowanym.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_bolt_11">
+		<text>Kurki do strzelby [R]</text>
+	</string>
+	<string id="st_bolt_11_descr">
+		<text>Prawy i lewy kurek i panewki do strzelby z lufami w układzie pionowym.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_bolt_12">
+		<text>Kurki do strzelby [R]</text>
+	</string>
+	<string id="st_bolt_12_descr">
+		<text>Prawy i lewy kurek do strzelby z lufami w układzie poziomym.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_bolt_13">
+		<text>Zamek ryglowany przez obrót [2 rygle][A] [typ NATO]</text>
+	</string>
+	<string id="st_bolt_13_descr">
+		<text>Dwuryglowa blokada obrotowa zamka ryglowanego poprzeczno-suwliwego do karabinu dużego kalibru produkcji NATO.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_bolt_14">
+		<text>Zamek ryglowany przez obrót [A/PP]</text>
+	</string>
+	<string id="st_bolt_14_descr">
+		<text>Blokada obrotowa do automatycznego karabinka lub pistoletu mechanicznego z zamkiem ryglowym.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_bolt_15">
+		<text>Sprężyna zamka bębenkowego [PP]</text>
+	</string>
+	<string id="st_bolt_15_descr">
+		<text>Bębenek ze sprężyną pochodzący z pistoletu maszynowego z zamkiem swobodnym krajowej produkcji.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_bolt_16">
+		<text>Sprężyna zamka bębenkowego [PP] [typ NATO]</text>
+	</string>
+	<string id="st_bolt_16_descr">
+		<text>Bębenek ze sprężyną pochodzący z pistoletu maszynowego z zamkiem swobodnym produkcji zachodniej.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_bolt_17">
+		<text>Sprężyna zamka bębenkowego [PP] [PPSz]</text>
+	</string>
+	<string id="st_bolt_17_descr">
+		<text>Bębenek ze sprężyną pochodzący z sowieckiego pistoletu maszynowego z zamkiem swobodnym. Kształtem przypomina mechanizm z pistoletu PPSz.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+
+<!-- Gas tubes, etc -->
+	<string id="st_gas_tube_1">
+		<text>Rurka gazowa [K]</text>
+	</string>
+	<string id="st_gas_tube_1_descr">
+		<text>Rurka gazowa do strzelby gładkolufowej.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_gas_tube_2">
+		<text>Łoże [R]</text>
+	</string>
+	<string id="st_gas_tube_2_descr">
+		<text>Ruchome łoże strzelby pump-action.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_gas_tube_3">
+		<text>Rurka gazowa [W]</text>
+	</string>
+	<string id="st_gas_tube_3_descr">
+		<text>Rurka gazowa do karabinu powtarzalnego.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_gas_tube_4">
+		<text>Rurka gazowa [AS/PP]</text>
+	</string>
+	<string id="st_gas_tube_4_descr">
+		<text>Rurka gazowa do automatycznego karabinka specjalnego. Kaliber 9mm.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_gas_tube_5">
+		<text>Rurka gazowa [A|W] [typ rosyjski]</text>
+	</string>
+	<string id="st_gas_tube_5_descr">
+		<text>Rurka gazowa do półautomatycznego lub automatycznego karabinu produkcji rosyjskiej.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_gas_tube_6">
+		<text>Rurka gazowa [A|W] [typ NATO]</text>
+	</string>
+	<string id="st_gas_tube_6_descr">
+		<text>Rurka gazowa do półautomatycznego lub automatycznego karabinu produkcji NATO.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_gas_tube_7">
+		<text>Rurka gazowa [P]</text>
+	</string>
+	<string id="st_gas_tube_7_descr">
+		<text>Rurka gazowa do karabinu.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_gas_tube_8">
+		<text>Wyrzutnik [W]</text>
+	</string>
+	<string id="st_gas_tube_8_descr">
+		<text>Wyrzutnik łuski do karabinu z zamkiem ryglowym.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_gas_tube_9">
+		<text>Wyrzutnik do strzelby [R]</text>
+	</string>
+	<string id="st_gas_tube_9_descr">
+		<text>Wyrzutnik (ekstraktor) do strzelby z lufami w układzie pionowym.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_gas_tube_10">
+		<text>Wyrzutnik do strzelby [R]</text>
+	</string>
+	<string id="st_gas_tube_10_descr">
+		<text>Wyrzutnik (ekstraktor) do strzelby z lufami w układzie poziomym.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+	<string id="st_gas_tube_11">
+		<text>Rurka gazowa [PP]</text>
+	</string>
+	<string id="st_gas_tube_11_descr">
+		<text>Rurka gazowa z karabinka MP5 z uchwytem.\n \nOZNACZENIA ELEMENTÓW BRONI:\n
+		\n[R] - rużje - strzelby jednostrzałowe, dubeltówki
+		\n[K] - karabin - gładkolufowe strzelby powtarzalne
+		\n[W] - wintowka - broń posiadająca gwintowaną lufę
+		\n[AS] - awtomat specjalnyj - automatyczne karabinki specjalne
+		\n[PP] - pistolet pulemiot - pistolety maszynowe
+		\n[A] - awtomat - karabinki automatyczne/półautomatyczne
+		\n[P] - pulemiot - karabiny maszynowe\n \n
+		</text>
+	</string>
+
+
+<!--
+WEAPONS (pistols)
+-->
+
+<!-- barrels -->
+	<string id="st_prt_w_p_barrel_1">
+		<text>Lufa 9x18 mm</text>
+	</string>
+	<string id="st_prt_w_p_barrel_1_descr">
+		<text>[brak opisu]</text>
+	</string>
+
+	<string id="st_prt_w_p_barrel_2">
+		<text>Lufa 9x19 mm</text>
+	</string>
+	<string id="st_prt_w_p_barrel_2_descr">
+		<text>[brak opisu]</text>
+	</string>
+
+	<string id="st_prt_w_p_barrel_3">
+		<text>Lufa .45</text>
+	</string>
+	<string id="st_prt_w_p_barrel_3_descr">
+		<text>[brak opisu]</text>
+	</string>
+
+	<string id="st_prt_w_p_barrel_4">
+		<text>Lufa 5.7 mm</text>
+	</string>
+	<string id="st_prt_w_p_barrel_4_descr">
+		<text>[brak opisu]</text>
+	</string>
+
+	<string id="st_prt_w_p_barrel_5">
+		<text>Lufa 7.62 mm</text>
+	</string>
+	<string id="st_prt_w_p_barrel_5_descr">
+		<text>[brak opisu]</text>
+	</string>
+
+	<string id="st_prt_w_p_barrel_6">
+		<text>Lufa 9x18mm (zamknięta)</text>
+	</string>
+	<string id="st_prt_w_p_barrel_6_descr">
+		<text>[brak opisu]</text>
+	</string>
+
+	<string id="st_prt_w_p_barrel_7">
+		<text>Lufa .357</text>
+	</string>
+	<string id="st_prt_w_p_barrel_7_descr">
+		<text>[brak opisu]</text>
+	</string>
+
+<!-- trigger mechanism -->
+	<string id="st_prt_w_p_trigger_1">
+		<text>Mechanizm spustowy z jednym trybem ognia</text>
+	</string>
+	<string id="st_prt_w_p_trigger_1_descr">
+		<text>[brak opisu]</text>
+	</string>
+	
+	<string id="st_prt_w_p_trigger_2">
+		<text>Mechanizm spustowy z dwoma trybami ognia</text>
+	</string>
+	<string id="st_prt_w_p_trigger_2_descr">
+		<text>[brak opisu]</text>
+	</string>
+	
+	<string id="st_prt_w_p_trigger_3">
+		<text>Mechanizm spustowy z dwoma (DA/SA) trybami ognia</text>
+	</string>
+	<string id="st_prt_w_p_trigger_3_descr">
+		<text>[brak opisu]</text>
+	</string>
+	
+	<string id="st_prt_w_p_trigger_4">
+		<text>Mechanizm spustowy z dwoma trybami ognia "MP412"</text>
+	</string>
+	<string id="st_prt_w_p_trigger_4_descr">
+		<text>[brak opisu]</text>
+	</string>
+	
+	
+<!---->
+	<string id="st_prt_w_p_spring_1">
+		<text>Sprężyna powrotna kal. 9 mm [sowiecka]</text>
+	</string>
+	<string id="st_prt_w_p_spring_1_descr">
+		<text>[brak opisu]</text>
+	</string>
+	
+	<string id="st_prt_w_p_spring_2">
+		<text>Sprężyna powrotna kal. 9 mm [rosyjska]</text>
+	</string>
+	<string id="st_prt_w_p_spring_2_descr">
+		<text>[brak opisu]</text>
+	</string>
+	
+	<string id="st_prt_w_p_spring_3">
+		<text>Sprężyna powrotna kal. .45</text>
+	</string>
+	<string id="st_prt_w_p_spring_3_descr">
+		<text>[brak opisu]</text>
+	</string>
+	
+	<string id="st_prt_w_p_spring_4">
+		<text>Sprężyna powrotna kal. 9 mm [zachodnia]</text>
+	</string>
+	<string id="st_prt_w_p_spring_4_descr">
+		<text>[brak opisu]</text>
+	</string>
+	
+	<string id="st_prt_w_p_spring_5">
+		<text>Sprężyna powrotna kal. 7.62 mm</text>
+	</string>
+	<string id="st_prt_w_p_spring_5_descr">
+		<text>[brak opisu]</text>
+	</string>
+	
+	<string id="st_prt_w_p_spring_6">
+		<text>Sprężyna powrotna kal. (R1 DE 6")</text>
+	</string>
+	<string id="st_prt_w_p_spring_6_descr">
+		<text>[brak opisu]</text>
+	</string>
+	
+	
+<!--
+OUTFITS
+-->
+
+<!-- Fabrics and hardware -->
+	<string id="st_prt_o_fabrics_1">
+		<text>Arkusze tkaniny</text>
+	</string>
+	<string id="st_prt_o_fabrics_1_descr">
+		<text>Podstawa każdego stroju. Tkaniny te wykonane są z materiałów wytrzymałych i komfortowych: bawełny, bawełny z dodatkiem poliestru, wełny czy skóry. Warstwy ochronne - również te osłaniające stawy - zwykle wykonane są z gumy i nylonu balistycznego. Ponadto znajdują się tu niezbędne elementy metalowe i zamki błyskawiczne.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_fabrics_2">
+		<text>Arkusze tkaniny (syntetyczne)</text>
+	</string>
+	<string id="st_prt_o_fabrics_2_descr">
+		<text>Podstawa każdego stroju. Do tkanin dodano syntetyczne materiały takie, jak poliester i lycra, w celu zwiększenia ich wytrzymałości i wszechstronności. Warstwy ochronne - również te osłaniające stawy - zwykle wykonane są z gumy i nylonu balistycznego. Ponadto znajdują się tu niezbędne elementy metalowe i zamki błyskawiczne.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_fabrics_3">
+		<text>Tekstylia trwałe</text>
+	</string>
+	<string id="st_prt_o_fabrics_3_descr">
+		<text>Te arkusze wykonano z różnych materiałów takich, jak poliester, skóra czy płótno. Zawiera elementy metalowe i zamki błyskawiczne. Takie tkaniny są bardzo odporne na trudne warunki środowiskowe, dzięki czemu zwiększają bezpieczeństwo użytkownika w trakcie wędrówek przez Zonę.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_fabrics_4">
+		<text>Tekstylia wojskowe</text>
+	</string>
+	<string id="st_prt_o_fabrics_4_descr">
+		<text>Arkusz wojskowego materiału, użyteczny do polowych napraw odzieży lub lekkich pancerzy. Ceniony przez stalkerów głównie za niską wartość, dużą dostępność i wszechstronność zastosowań. Warstwy ochronne - również te osłaniające stawy - zwykle wykonane są z gumy i nylonu balistycznego. Ponadto znajdują się tu niezbędne elementy metalowe i zamki błyskawiczne.\n \n</text>
+	</string>
+	
+<!-- Retardants / Protective textiles -->
+	<string id="st_prt_o_retardant_1">
+		<text>Warstwowe tkaniny ogniotrwałe</text>
+	</string>
+	<string id="st_prt_o_retardant_1_descr">
+		<text>Te tkaniny posiadają większą odporność na wysokie temperatury dzięki nasączeniu odpowiednimi chemikaliami lub użyciu ogniotrwałych włókien. W Zonie tego typu materiałów zwykle używa się do ochrony przed niebezpiecznym środowiskiem i anomaliami ogniowymi, takimi jak Spalacz, czy Kometa.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_2">
+		<text>Warstwowe tkaniny p.elektr./p.chem.</text>
+	</string>
+	<string id="st_prt_o_retardant_2_descr">
+		<text>Te tkaniny posiadają większą elektroizolację i odporność na szkodliwe związki chemiczne dzięki nasączeniu odpowiednimi chemikaliami lub użyciu odpowiednich włókien. W Zonie tego typu materiałów zwykle używa się do ochrony przed niebezpiecznym środowiskiem i anomaliami elektrycznymi/chemicznymi, takimi jak Elektro, czy Galareta.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_3">
+		<text>Tkaniny poddane obróbce RPVC klasy B</text>
+	</string>
+	<string id="st_prt_o_retardant_3_descr">
+		<text>Sztywny polichlorek winylu (RPVC) to niepalny materiał przejawiający dużą odporność na warunki atmosferyczne. RPVC można ustabilizować za pomocą naświetlania UV, by zwiększyć ochronę przed anomaliami.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_4">
+		<text>Tkaniny winylowe RPVC klasy A</text>
+	</string>
+	<string id="st_prt_o_retardant_4_descr">
+		<text>Sztywny polichlorek winylu (RPVC) to niepalny materiał przejawiający dużą odporność na warunki atmosferyczne. RPVC można ustabilizować za pomocą naświetlania UV, by zwiększyć ochronę przed anomaliami.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_5">
+		<text>Tkaniny powlekane PCV / gumą</text>
+	</string>
+	<string id="st_prt_o_retardant_5_descr">
+		<text>Wytrzymały, powlekany gumą i PVC poliester opracowano, by zwiększał ochronę przed zagrożeniami. Można je szyć, kleić i zgrzewać.\n \nTwardy rdzeń z gumowanego poliestru jest powleczony PVC obustronnie.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_6">
+		<text>Tkaniny powlekane PCV / włóknem węglowym</text>
+	</string>
+	<string id="st_prt_o_retardant_6_descr">
+		<text>Wytrzymały, powlekany włóknem węglowym i PVC poliester opracowano, by zwiększał ochronę przed zagrożeniami. Można je szyć, kleić i zgrzewać.\n \nTwardy rdzeń z gumowanego poliestru jest powleczony PVC obustronnie.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_7">
+		<text>Izolująca siatka i wkładki magnezowe</text>
+	</string>
+	<string id="st_prt_o_retardant_7_descr">
+		<text>Siatka magnezowa służy jako warstwa izolacyjna, by w pewnym stopniu chronić strój i jego użytkownika przed porażeniem elektrycznym i falami psionicznymi. Poprawia ochronę również przed innymi zagrożeniami.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_8">
+		<text>Wzmacniana izolująca siatka z tlenku magnezu</text>
+	</string>
+	<string id="st_prt_o_retardant_8_descr">
+		<text>Siatka magnezowa służy jako warstwa izolacyjna by w pewnym stopniu chronić strój i jego użytkownika przed porażeniem elektrycznym i falami psionicznymi. Poprawia ochronę również przed innymi zagrożeniami.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_9">
+		<text>Tkaniny polimerowe (powlekane siarczanem bizmutu)</text>
+	</string>
+	<string id="st_prt_o_retardant_9_descr">
+		<text>Niewielki wpływ wysokich temperatur na siarczan bizmutu sprawia, że związek ten jest doskonałym wyborem jako jedna z warstw kombinezonów używanych w Zonie. Tkaniny polimerowe zwykle powlekane są siarczanem bizmutu tak, by objąć całą powierzchnię stroju. Poprawia ochronę również przed innymi zagrożeniami.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_10">
+		<text>Arkusze polimerowe (powlekane siarczanem baru)</text>
+	</string>
+	<string id="st_prt_o_retardant_10_descr">
+		<text>Niewielki wpływ wysokich temperatur na siarczan baru sprawia, że związek ten jest doskonałym wyborem jako jedna z warstw kombinezonów używanych w Zonie. Tkaniny polimerowe zwykle powlekane są siarczanem baru tak, by objąć całą powierzchnię stroju. Poprawia ochronę również przed innymi zagrożeniami.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_11">
+		<text>Tkaniny ochronne powlekane aluminium</text>
+	</string>
+	<string id="st_prt_o_retardant_11_descr">
+		<text>Aluminiowane, wielowarstwowe tkaniny przeznaczone są do odzieży ochronnej i osłon używanych w środowiskach o dużym zagrożeniu pożarowym, w strefach wysokiego promieniowania cieplnego i przy dużych stężeniach substancji chemicznych. Dodatkowo ich stosowanie zwiększa ochronę przed skutkami fal psionicznych.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_12">
+		<text>Tkaniny z włókna szklanego powlekane aluminium</text>
+	</string>
+	<string id="st_prt_o_retardant_12_descr">
+		<text>Aluminiowane, wielowarstwowe tkaniny z włókna szklanego przeznaczone są do odzieży ochronnej i osłon używanych w środowiskach o dużym zagrożeniu porażeniem elektrycznym, w strefach wysokiego promieniowania cieplnego i przy dużych stężeniach substancji chemicznych. Dodatkowo ich stosowanie zwiększa ochronę przed skutkami fal psionicznych.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_13">
+		<text>Tkaniny z PBI</text>
+	</string>
+	<string id="st_prt_o_retardant_13_descr">
+		<text>Tkaniny z PBI (polibenzimidazolem) zdobyły uznanie służb pożarniczych na całym świecie. Obecnie znajdują się w czołówce tkanin ogniotrwałych. Z tego powodu stalkerzy chętnie modyfikują swoje kombinezony z użyciem PBI.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_14">
+		<text>Tkaniny poliestrowe z PBI</text>
+	</string>
+	<string id="st_prt_o_retardant_14_descr">
+		<text>Tkaniny z PBI (polibenzimidazolem) zdobyły uznanie służb pożarniczych na całym świecie. Obecnie znajdują się w czołówce tkanin ogniotrwałych. Z tego powodu stalkerzy chętnie modyfikują swoje kombinezony z użyciem PBI.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_15">
+		<text>Tkaniny z ACC</text>
+	</string>
+	<string id="st_prt_o_retardant_15_descr">
+		<text>Opracowane z myślą o wojnie chemicznej. Tkaniny z zawartością węgla aktywnego (ACC - Activated Carbon Cloth) obecnie mają zastosowanie w ochronie, przemyśle i medycynie. Wydatnie zwiększają skuteczność zarówno zaawansowanych, jak i aktywnych opatrunków na rany, a także zapewnia doskonałą ochronę przed promieniowaniem.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_16">
+		<text>Włókniny z ACC</text>
+	</string>
+	<string id="st_prt_o_retardant_16_descr">
+		<text>Opracowane z myślą o wojnie chemicznej. Tkaniny z zawartością węgla aktywnego (ACC - Activated Carbon Cloth) obecnie mają zastosowanie w ochronie, przemyśle i medycynie. Wydatnie zwiększają skuteczność zarówno zaawansowanych, jak i aktywnych opatrunków na rany, a także zapewnia doskonałą ochronę przed promieniowaniem.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_17">
+		<text>Konstantanowe wkładki izolacyjne</text>
+	</string>
+	<string id="st_prt_o_retardant_17_descr">
+		<text>Wkładki wykonane z konstantanu. Służą jako warstwa izolacyjna w pewnym stopniu chroniąca strój i jego użytkownika przed porażeniem elektrycznym, falami psionicznymi i wpływem promieniowania jonizującego. Poprawiają ochronę również przed innymi zagrożeniami, dzięki czemu są często wykorzystywane w Zonie.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_18">
+		<text>Konstantanowe wkładki powlekane włóknem szklanym</text>
+	</string>
+	<string id="st_prt_o_retardant_18_descr">
+		<text>Wkładki wykonane z konstantanu i tkanin powlekanych włóknem szklanym. Służą jako warstwa izolacyjna w pewnym stopniu chroniąca strój i jego użytkownika przed porażeniem elektrycznym, falami psionicznymi i wpływem promieniowania jonizującego. Poprawiają ochronę również przed innymi zagrożeniami, dzięki czemu są często wykorzystywane w Zonie.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_19">
+		<text>Izolacyjne tkaniny z włókna szklanego "Poliester"</text>
+	</string>
+	<string id="st_prt_o_retardant_19_descr">
+		<text>Wysoce ogniotrwałe tkaniny z borokrzemowego (żaroodpornego) włókna szklanego typu "E", powleczone folią na bazie wermikulitu zapewniają ochronę przed temperaturą sięgającą 800°C i izolacją zabezpieczającą przed porażeniem prądem o napięciu do 20 kilowoltów. W miejscu takim, jak Zona, takie tkaniny przydają się do ochrony przed anomaliami.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_20">
+		<text>Izolacyjne tkaniny z włókna szklanego "Splot Atłasowy"</text>
+	</string>
+	<string id="st_prt_o_retardant_20_descr">
+		<text>Wysoce ogniotrwałe tkaniny z borokrzemowego (żaroodpornego) włókna szklanego typu "E", powleczone folią na bazie wermikulitu zapewniają ochronę przed temperaturą sięgającą 950°C i izolacją zabezpieczającą przed porażeniem prądem o napięciu do 25 kilowoltów. W miejscu takim, jak Zona, takie tkaniny przydają się do ochrony przed anomaliami.\n \n</text>
+	</string>
+	
+<!-- Ballistic inserts -->
+	<string id="st_prt_o_ballistic_1">
+		<text>Wkładki kevlarowe K129 ze wzmocnioną ceramiką</text>
+	</string>
+	<string id="st_prt_o_ballistic_1_descr">
+		<text>Wkładki kevlarowe są znane ze swoich właściwości ochronnych i bardzo z tego względu cenione. Spełniają wiele funkcji, z których najważniejszą jest przejmowanie i rozpraszanie siły uderzenia pocisku, głównie z przodu i tyłu tułowia. Stanowią lżejszą alternatywę dla cięższych płyt stalowych. Wszystkie rodzaje płyt pancerzowych pomagają utrzymać stroje i kombinezony w dobrym stanie, zmniejszając ryzyko rozdarć i przetarć materiału. Kevlar stosowany jest przez jednostki wojskowe na całym świecie.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_2">
+		<text>Wkładki kevlarowe Protera ze wzmocnioną ceramiką</text>
+	</string>
+	<string id="st_prt_o_ballistic_2_descr">
+		<text>Wkładki kevlarowe są znane ze swoich właściwości ochronnych i bardzo z tego względu cenione. Spełniają wiele funkcji, z których najważniejszą jest przejmowanie i rozpraszanie siły uderzenia pocisku, głównie z przodu i tyłu tułowia. Stanowią lżejszą alternatywę dla cięższych płyt stalowych. Wszystkie rodzaje płyt pancerzowych pomagają utrzymać stroje i kombinezony w dobrym stanie, zmniejszając ryzyko rozdarć i przetarć materiału. Kevlar stosowany jest przez jednostki wojskowe na całym świecie.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_3">
+		<text>Wkładki kevlarowe K129 z kompozytem poliwęglanowym</text>
+	</string>
+	<string id="st_prt_o_ballistic_3_descr">
+		<text>Wkładki kevlarowe są znane ze swoich właściwości ochronnych i bardzo z tego względu cenione. Spełniają wiele funkcji, z których najważniejszą jest przejmowanie i rozpraszanie siły uderzenia pocisku, głównie z przodu i tyłu tułowia. Stanowią lżejszą alternatywę dla cięższych płyt stalowych. Wszystkie rodzaje płyt pancerzowych pomagają utrzymać stroje i kombinezony w dobrym stanie, zmniejszając ryzyko rozdarć i przetarć materiału. Kevlar stosowany jest przez jednostki wojskowe na całym świecie.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_4">
+		<text>Wkładki kevlarowe K129 z kompozytem z włókna węglowego</text>
+	</string>
+	<string id="st_prt_o_ballistic_4_descr">
+		<text>Wkładki kevlarowe są znane ze swoich właściwości ochronnych i bardzo z tego względu cenione. Spełniają wiele funkcji, z których najważniejszą jest przejmowanie i rozpraszanie siły uderzenia pocisku, głównie z przodu i tyłu tułowia. Stanowią lżejszą alternatywę dla cięższych płyt stalowych. Wszystkie rodzaje płyt pancerzowych pomagają utrzymać stroje i kombinezony w dobrym stanie, zmniejszając ryzyko rozdarć i przetarć materiału. Kevlar stosowany jest przez jednostki wojskowe na całym świecie.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_5">
+		<text>Płyty balistyczne z kevlaru i stali</text>
+	</string>
+	<string id="st_prt_o_ballistic_5_descr">
+		<text>Wkładki kevlarowe są znane ze swoich właściwości ochronnych i bardzo z tego względu cenione. Spełniają wiele funkcji, z których najważniejszą jest przejmowanie i rozpraszanie siły uderzenia pocisku, głównie z przodu i tyłu tułowia. Stanowią lżejszą alternatywę dla cięższych płyt stalowych. Wszystkie rodzaje płyt pancerzowych pomagają utrzymać stroje i kombinezony w dobrym stanie, zmniejszając ryzyko rozdarć i przetarć materiału. Kevlar stosowany jest przez jednostki wojskowe na całym świecie.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_6">
+		<text>Balistyczne płyty kevlarowe z kompozytem tytanowym</text>
+	</string>
+	<string id="st_prt_o_ballistic_6_descr">
+		<text>Wkładki kevlarowe są znane ze swoich właściwości ochronnych i bardzo z tego względu cenione. Spełniają wiele funkcji, z których najważniejszą jest przejmowanie i rozpraszanie siły uderzenia pocisku, głównie z przodu i tyłu tułowia. Stanowią lżejszą alternatywę dla cięższych płyt stalowych. Wszystkie rodzaje płyt pancerzowych pomagają utrzymać stroje i kombinezony w dobrym stanie, zmniejszając ryzyko rozdarć i przetarć materiału. Kevlar stosowany jest przez jednostki wojskowe na całym świecie.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_7">
+		<text>Balistyczne płyty kevlarowe K119 z wkładką poliwęglanową</text>
+	</string>
+	<string id="st_prt_o_ballistic_7_descr">
+		<text>Wkładki kevlarowe są znane ze swoich właściwości ochronnych i bardzo z tego względu cenione. Spełniają wiele funkcji, z których najważniejszą jest przejmowanie i rozpraszanie siły uderzenia pocisku, głównie z przodu i tyłu tułowia. Stanowią lżejszą alternatywę dla cięższych płyt stalowych. Wszystkie rodzaje płyt pancerzowych pomagają utrzymać stroje i kombinezony w dobrym stanie, zmniejszając ryzyko rozdarć i przetarć materiału. Kevlar stosowany jest przez jednostki wojskowe na całym świecie.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_8">
+		<text>Balistyczne płyty kevlarowe K119 z wkładką z wł. węglowego</text>
+	</string>
+	<string id="st_prt_o_ballistic_8_descr">
+		<text>Wkładki kevlarowe są znane ze swoich właściwości ochronnych i bardzo z tego względu cenione. Spełniają wiele funkcji, z których najważniejszą jest przejmowanie i rozpraszanie siły uderzenia pocisku, głównie z przodu i tyłu tułowia. Stanowią lżejszą alternatywę dla cięższych płyt stalowych. Wszystkie rodzaje płyt pancerzowych pomagają utrzymać stroje i kombinezony w dobrym stanie, zmniejszając ryzyko rozdarć i przetarć materiału. Kevlar stosowany jest przez jednostki wojskowe na całym świecie.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_9">
+		<text>Wkładki polietylenowe klasy B</text>
+	</string>
+	<string id="st_prt_o_ballistic_9_descr">
+		<text>Płyty polietylenowe poprawiają ochronę kluczowych obszarów ciała. Te twarde wkładki są skuteczne przeciwko wszystkim pociskom pistoletowym i niektórym pociskom karabinowym. Kamizelki kuloodporne z tymi wkładkami stały się powszechnym elementem wyposażenia wojskowego, wypierając inne rodzaje pancerza osobistego, niechroniącego użytkownika przed ostrzałem z broni automatycznej.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_10">
+		<text>Wkładki polietylenowe klasy A</text>
+	</string>
+	<string id="st_prt_o_ballistic_10_descr">
+		<text>Płyty polietylenowe poprawiają ochronę kluczowych obszarów ciała. Te twarde wkładki są skuteczne przeciwko wszystkim pociskom pistoletowym i niektórym pociskom karabinowym. Kamizelki kuloodporne z tymi wkładkami stały się powszechnym elementem wyposażenia wojskowego, wypierając inne rodzaje pancerza osobistego, niechroniącego użytkownika przed ostrzałem z broni automatycznej.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_11">
+		<text>Balistyczne płyty kevlarowe K119</text>
+	</string>
+	<string id="st_prt_o_ballistic_11_descr">
+		<text>Wkładki kevlarowe są znane ze swoich właściwości ochronnych i bardzo z tego względu cenione. Spełniają wiele funkcji, z których najważniejszą jest przejmowanie i rozpraszanie siły uderzenia pocisku, głównie z przodu i tyłu tułowia. Stanowią lżejszą alternatywę dla cięższych płyt stalowych. Wszystkie rodzaje płyt pancerzowych pomagają utrzymać stroje i kombinezony w dobrym stanie, zmniejszając ryzyko rozdarć i przetarć materiału. Kevlar stosowany jest przez jednostki wojskowe na całym świecie.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_12">
+		<text>Wzmocnione płyty kevlarowe K119</text>
+	</string>
+	<string id="st_prt_o_ballistic_12_descr">
+		<text>Wkładki kevlarowe są znane ze swoich właściwości ochronnych i bardzo z tego względu cenione. Spełniają wiele funkcji, z których najważniejszą jest przejmowanie i rozpraszanie siły uderzenia pocisku, głównie z przodu i tyłu tułowia. Stanowią lżejszą alternatywę dla cięższych płyt stalowych. Wszystkie rodzaje płyt pancerzowych pomagają utrzymać stroje i kombinezony w dobrym stanie, zmniejszając ryzyko rozdarć i przetarć materiału. Kevlar stosowany jest przez jednostki wojskowe na całym świecie.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_13">
+		<text>Lekkie wkładki polietylenowe</text>
+	</string>
+	<string id="st_prt_o_ballistic_13_descr">
+		<text>Płyty polietylenowe poprawiają ochronę kluczowych obszarów ciała. Te twarde wkładki są skuteczne przeciwko wszystkim pociskom pistoletowym i niektórym pociskom karabinowym. Kamizelki kuloodporne z tymi wkładkami stały się powszechnym elementem wyposażenia wojskowego, wypierając inne rodzaje pancerza osobistego, niechroniącego użytkownika przed ostrzałem z broni automatycznej.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_14">
+		<text>Prowizoryczne wkładki polietylenowe</text>
+	</string>
+	<string id="st_prt_o_ballistic_14_descr">
+		<text>Płyty polietylenowe poprawiają ochronę kluczowych obszarów ciała. Te twarde wkładki są skuteczne przeciwko wszystkim pociskom pistoletowym i niektórym pociskom karabinowym. Kamizelki kuloodporne z tymi wkładkami stały się powszechnym elementem wyposażenia wojskowego, wypierając inne rodzaje pancerza osobistego, niechroniącego użytkownika przed ostrzałem z broni automatycznej.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_15">
+		<text>Włókna kevlaru-49 z warstwą CNT</text>
+	</string>
+	<string id="st_prt_o_ballistic_15_descr">
+		<text>Nanorurki węglowe (CNT) wykazują ogromny potencjał dla zastosowań balistyczno-ochronnych. Nadzwyczajne właściwości CNT sprawiają, że są one idealne do wzmacniania polimerów i innych materiałów używanych w kamizelkach kuloodpornych.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_16">
+		<text>Wzmocnione włókna kevlaru-29 z warstwą CNT</text>
+	</string>
+	<string id="st_prt_o_ballistic_16_descr">
+		<text>Nanorurki węglowe (CNT) wykazują ogromny potencjał dla zastosowań balistyczno-ochronnych. Nadzwyczajne właściwości CNT sprawiają, że są one idealne do wzmacniania polimerów i innych materiałów używanych w kamizelkach kuloodpornych.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_17">
+		<text>Włókna polietylenowe z wkładkami poliwęglanowymi</text>
+	</string>
+	<string id="st_prt_o_ballistic_17_descr">
+		<text>Płyty polietylenowe poprawiają ochronę kluczowych obszarów ciała. Te twarde wkładki są skuteczne przeciwko wszystkim pociskom pistoletowym i niektórym pociskom karabinowym. Kamizelki kuloodporne z tymi wkładkami stały się powszechnym elementem wyposażenia wojskowego, wypierając inne rodzaje pancerza osobistego, niechroniącego użytkownika przed ostrzałem z broni automatycznej.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_18">
+		<text>Wzmocnione warstwy włókien polietylenowych</text>
+	</string>
+	<string id="st_prt_o_ballistic_18_descr">
+		<text>Płyty polietylenowe poprawiają ochronę kluczowych obszarów ciała. Te twarde wkładki są skuteczne przeciwko wszystkim pociskom pistoletowym i niektórym pociskom karabinowym. Kamizelki kuloodporne z tymi wkładkami stały się powszechnym elementem wyposażenia wojskowego, wypierając inne rodzaje pancerza osobistego, niechroniącego użytkownika przed ostrzałem z broni automatycznej.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_19">
+		<text>Warstwy z włókna węglowego</text>
+	</string>
+	<string id="st_prt_o_ballistic_19_descr">
+		<text>Włókno węglowe zachowuje się nieco inaczej niż kevlar i nie jest tak efektywne przeciwko ostrym narzędziom. Zyskuje za to przewagę w czasie wystawiania go na działanie wysokiej temperatury. Materiały z włókna węglowego są lżejsze i bardziej elastyczne.\n \n</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_20">
+		<text>Wzmocnione warstwy z włókna węglowego</text>
+	</string>
+	<string id="st_prt_o_ballistic_20_descr">
+		<text>Włókno węglowe zachowuje się nieco inaczej niż kevlar i nie jest tak efektywne przeciwko ostrym narzędziom. Zyskuje za to przewagę w czasie wystawiania go na działanie wysokiej temperatury. Materiały z włókna węglowego są lżejsze i bardziej elastyczne.\n \n</text>
+	</string>
+
+<!-- Supportive installations -->
+	<string id="st_prt_o_support_1">
+		<text>Rama egzoszkieletu</text>
+	</string>
+	<string id="st_prt_o_support_1_descr">
+		<text>Mechaniczna rama napędzana za pomocą silników elektrycznych, pneumatyki i hydrauliki. Daje użytkownikowi doskonałą ochronę i zwiększa jego siłę fizyczną.\n \n</text>
+	</string>
+	
+
+</string_table>

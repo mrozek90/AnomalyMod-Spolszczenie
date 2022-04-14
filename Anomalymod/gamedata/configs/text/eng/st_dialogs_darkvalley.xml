@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+<!-- Olivius (Bandit Trader) -->
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_start_dialog_1">
+		<text>Co jest, mordo? Mam trochę towaru do spylenia, a i robotę mogę ci podkręcić, jakbyś szukał. To do mnie przychodzą chłopaki żeby opróżnić kieszenie, kiedy skroją paru frajerów.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_start_dialog_2">
+		<text>Siemasz, mordeczko. Co ci trzeba? Roboty szukasz?</text>
+	</string>
+	
+	<string id="information_about_stash_7_4_bandit_trader_0">
+		<text>Szukam namiarów na schowki. Masz coś?</text>
+	</string>
+	<string id="information_about_stash_7_4_bandit_trader_1">
+		<text>Ej, byczku, skąd wiedziałeś? Dopiero co dostałem cynk. No nic, siedem patoli i jest twój.</text>
+	</string>
+
+	<string id="information_about_stash_7_4_bandit_trader1_0">
+		<text>Biorę. %c[d_orange][7.000 RU]</text>
+	</string>
+	<string id="information_about_stash_7_4_bandit_trader1_1">
+		<text>Ta, częstuj się.</text>
+	</string>
+
+	<string id="bandit_trader_st_0">
+		<text>Czemu masz taką chujową ksywę?</text>
+	</string>
+	<string id="bandit_trader_st_1">
+		<text>I kto to mówi? Pieprzone kocury, przyłażą, kozaczą... Jak im nie przytrzymasz, to nawet lać prosto nie potrafią. A jak ich weźmiesz w obroty, to z chujami na mózgi się zamieniają, że tak po twojemu powiem!</text>
+	</string>
+	<string id="bandit_trader_st_2">
+		<text>Hej, byku, luzik! Nie chciałem cię obrazić, tylko, no wiesz, zagaić...</text>
+	</string>
+	<string id="bandit_trader_st_3">
+		<text>A co ja, kurwa, gajowy, żeby do mnie zagaić? Dobra, nieważne. Ech, wszystko jest inaczej, niż było. Jeszcze jak cię bierze starość i ciągle ktoś ci wypierdala styki. Łeb siada i nerwy puszczają momentalnie.</text>
+	</string>
+	<string id="bandit_trader_st_4">
+		<text>Czaję. To powiedz, skąd masz taką ksywę?</text>
+	</string>
+	<string id="bandit_trader_st_5">
+		<text>Powiem ci to tylko po to, żebyś się ode mnie odpierdolił, dobra? Moja historia zaczęła się jeszcze za czasów Sojuza, kiedy pierwszy raz wylądowałem w pierdlu. Chciałem trochę sobie poprawić życie i machnąłem małą handlową bajerę, ale w końcu mnie dorwali.\n \nJak odsiedziałem swoje, zacząłem zbierać kontakty i sprzedawać kradziony towar. Trzy lata i znowu wylądowałem w ciupie. Jak wyszedłem, to Sojuza już nie było... Wiesz, co mnie najbardziej wtedy wkurzyło?</text>
+	</string>
+	<string id="bandit_trader_st_6">
+		<text>Skąd mam wiedzieć, urodziłem się po upadku ZSRR.</text>
+	</string>
+	<string id="bandit_trader_st_7">
+		<text>Za pierwszym razem kiedy wylądowałem za kratami, byłem "przedsiębiorczy" albo "cwany", jak to nazywali po staremu. A teraz? Teraz jak tylko ci się powodzi, to prawie na pewno wylądujesz w pierdlu. Dosłownie czujesz, jak pali ci się koło dupy.</text>
+	</string>
+	<string id="bandit_trader_st_8">
+		<text>[dalej...]</text>
+	</string>
+	<string id="bandit_trader_st_9">
+		<text>Kiedy wyszedłem po drugiej odsiadce, wszystko szlag trafił. Żadnej kasy, dochodu, roboty - nic. Do tego takich jak ja było od cholery. Więc kiedy usłyszałem o Zonie, postanowiłem sprawdzić na własne oczy.</text>
+	</string>
+	<string id="bandit_trader_st_10">
+		<text>[dalej...]</text>
+	</string>
+	<string id="bandit_trader_st_11">
+		<text>A mówią na mnie Dziurawy, bo kiedyś zarobiłem kosę pod żebro. To za małolata jeszcze było i wiesz co? Nauczyłem się wtedy nie pyskować do kozaków większych ode mnie i nie pakować nochala w biznesy, które mnie nie dotyczą.</text>
+	</string>
+	<string id="bandit_trader_st_12">
+		<text>Dobra, dzięki za lekcję historii i jeszcze raz sorki.</text>
+	</string>
+
+	
+<!-- (Bandits Mechanic) -->
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_start_dialog_1">
+		<text>Co ci trzeba, ziomeczku? Dawaj swój szajs, wszystko ładnie naprawimy. A, i przy okazji, jak znajdziesz jakieś PDA - zakodowane też - to chętnie je od ciebie kupię.</text>
+	</string>
+	
+	<string id="bandit_mechanic_st_0">
+		<text>Jaka jest twoja historia, mordo?</text>
+	</string>
+	<string id="bandit_mechanic_st_1">
+		<text>A ty co, akt oskarżenia dla proroka składasz? Haha, świruję. Dobra, uwal się gdzieś i słuchaj.</text>
+	</string>
+	<string id="bandit_mechanic_st_2">
+		<text>[dalej...]</text>
+	</string>
+	<string id="bandit_mechanic_st_3">
+		<text>Swego czasu żyło mi się słodko, jak w piździe u sąsiadki małolatki - pasmo niekończących się sukcesów, mówię ci... Arbajtowałem jako inżynier w fabryce i firma uznała mnie za najlepszego specjalistę w moim fachu. Nagrody, certyfikaty, szkolenia - wszystko miałem, mordo.</text>
+	</string>
+	<string id="bandit_mechanic_st_4">
+		<text>I jak to wszystko straciłeś? Za mało ci było, czy co?</text>
+	</string>
+	<string id="bandit_mechanic_st_5">
+		<text>No, prywatnych lekcji jogi z maniurami to mi brakuje, kumasz, hehe! Ale nie, nie w tym rzecz.</text>
+	</string>
+	<string id="bandit_mechanic_st_6">
+		<text>To w czym? Zaczęli wołać cię Czysty, bo taki byłeś nieskazitelny, czy jak?</text>
+	</string>
+	<string id="bandit_mechanic_st_7">
+		<text>Ale z ciebie, kurwa, żartowniś, co? Było tak: po którejś cholernie długiej zmianie jedyne na co miałem smaka, to wpaść z chłopakami do baru, jak to się mówi, na jednego. Skurwiłem się wtedy jak szmata. Przyszedłem rano jeszcze na bombie, szef nas wyczaił i wypieprzył mnie z roboty. Czaisz? Wylał mnie, jak jakiegoś szeregowego lamusa! Nie było dyskusji.</text>
+	</string>
+	<string id="bandit_mechanic_st_8">
+		<text>Przejebane.</text>
+	</string>
+	<string id="bandit_mechanic_st_9">
+		<text>No co ty nie powiesz? Ale jakoś się z tego wykręciłem, w miarę szybko podłapałem fuchę jako bieda ślusarz i poznałem tam takiego jednego typka. Wicia się nazywał. Robota nie dość, że była nudna, jak flaki z olejem, to nie szło tam zgarnąć żadnej floty. Fart, że z fabryki coś tam sobie odłożyłem, więc nie musiałem garować od pierwszego do pierwszego.\n \nKtóregoś razu poszliśmy w tango i to na grubo. Nie pamiętam już czym, ale czymś mnie ten Wicia ostro wkurwił, a że miałem w kielni jakiś wkrętak, czy coś podobnego, to zajechałem mu parę razy sznyta w kichy. No, kostecki się do niego nie pofatygował, więc jakoś chłopa w końcu poskładali. A mnie od razu w dyby i pod celę. Nikt mnie, kurwa, nie odwiedzał.\n \nJak spadłem na wolkę, okazało się, że moja stara opchnęła cały mój dobytek i spierdoliła z jakimś fagasem. Przejebałem cały hajs na chlanie i skończyłem z totalnymi mętami. Wiesz, jak to jest, tak się, kurwa, upodlić? Jak dostałem cynk o Zonie, od razu zgarnąłem bety i wio.\n \nTutaj wszyscy są równi, tu każdy jest jebanym wyrzutkiem i nikt, oprócz takich, jak ty, nie wypytuje o dawne dzieje. Na Wysypichu poznałem paru zacnych kolesi - obczaili mój dryg do szpeju i pozwolili tam zostać. Mordo, najlepsze chwile mojego życia - lufy i lufy, haha. Broń i wóda, broń i wóda, i tak bez końca.\n \nU mnie zawsze wszystko było prima sort - giwera nasmarowana perfekt, ale wytarta ze smarów na cacy, białą rękawiczką można było jechać. Wóda - też tylko kryształ, nasza czyścioszka, nic innego. Te kolorowe berbeluchy nigdy mi nie wchodziły, trucizny pierdolone. I z tego się wzięło mianko Czysty.</text>
+	</string>
+	<string id="bandit_mechanic_st_10">
+		<text>A więc to tak... No ale to nie Wysypisko.</text>
+	</string>
+	<string id="bandit_mechanic_st_11">
+		<text>Patrzcie go, jaki wytrawny obserwator! Ty wiesz, że do tej pory myślałem, że jesteś, kurwa, ślepy? Aż mi kapcie z butów normalnie pospadały z wrażenia. Nie wtryniaj się, bo jeszcze nie doszliśmy do sedna.\n \nKtóregoś razu zakurwiło taką emką, żeśmy się wszyscy obsrali. No powaga, jak wolność kocham, żaden tam wtedy nie zgrywał kozaka, każdy ryjem w glebę i oby jak najgłębiej pod ziemię. Po wszystkim, zaczęliśmy kminić, co dalej - od razu było jasne, że nam się po prostu fartnęło i na Wysypisku nie znajdziemy miejscówki, w której będzie można się zamelinować przed takim rozpierdolem.\n \nKoniec końców jakoś małymi grupkami i z dala od głównych szlaków udało nam się dociągnąć do tej fabryczki. Miejsca jest w ciul, warsztat był, piwnice głębokie, jak styja u kartoflarza, no żyć, nie umierać. Zajęliśmy te budynki i wróciliśmy do krojenia frajerów. I taka to moja historia, mordo.</text>
+	</string>
+	<string id="bandit_mechanic_st_12">
+		<text>Przeostry jesteś gość.</text>
+	</string>
+
+
+<!-- Sultan -->
+	<string id="zat_b7_bandit_boss_sultan_intro_0">
+		<text>Jestem Sułtan i lepiej, żebyś to sobie dobrze zapamiętał. Wszystko, co się tu dzieje zależy, albo wkrótce będzie zależeć ode mnie. Chcesz żyć jak król? Pracuj dla mnie. Inaczej skończysz w przydrożnym rowie jak bezdomny kundel. Tak to tutaj wygląda, koleżko.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_0">
+		<text>Powiedz mi, jak tu żyjecie.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1">
+		<text>Spacer po parku to to nie jest, na pewno. Co dokładnie chcesz wiedzieć?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1111">
+		<text>Czym się tutaj zajmujesz?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11111">
+		<text>Pilnuję, żeby stalkerzy nie robili sobie za dużo kuku. Nie zaprzeczysz chyba, że większość z was to gnojki z mlekiem pod wąsem, a nie prawdziwi faceci? Przyłazicie do Zony omamieni jakimiś wizjami bogactwa, marzy wam się bohaterstwo... albo dostajecie po dupie od życia tam, po drugiej stronie Kordonu i szukacie nowego startu. Mało który ze świeżaków rozumie, że tu nie jest lepiej - w Zonie zamiast zebrania wpierdolu po prostu zabiera was kostecki i cześć.\n \nWłaśnie takich ludzi szukamy. Wychodzisz na Wysypisko, widzisz, że małolat ledwo stoi na nogach, beczy, łapie go trzęsawica. Zabierasz mu szpej i kopiesz w dupę, żeby wypierdalał z powrotem tam, skąd przylazł. Część z nich łapie i wywija z powrotem za Kordon, ale są i tacy, którzy mają jaja większe, niż łby i dalej próbują leźć w Zonę. Tych bierzemy pod nasze skrzydła i narzucamy myto. Mówię ci, nikt nie pcha się na nasze rewiry - nie zagląda tu wojo, najmusy, nawet mutanty trzymają się z dala.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1112">
+		<text>Co sprawiło, że trafiliście do Zony?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11121">
+		<text>Nasze nogi, ot. Przyszliśmy tu dla stalkerki, a po co innego? Bez nas pilnujących porządku zaraz mieliby tu pieprzony kocioł. Jasne, zgarniasz chabar, więc jest twój, ale kto ściągnie z tego podatek? Wiesz, pokojowy i od bezpieczeństwa. W końcu kiedy ty rzucałeś śrubami w anosy, ktoś stał obok i pilnował, żeby żadna bestyjka nie odgryzła ci w tym czasie dupy. Taka pomoc swoje kosztuje, nie ma nic za darmo na tym świecie. Nic ci się nie stało? Bogu niech będą dziengi, bo gdyby nie my, leżałbyś w rowie i zalewał się juchą. To chyba uczciwy układ, nie?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1113">
+		<text>Jak zostałeś największym watażką w tej okolicy?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11131">
+		<text>Nie określałbym mojej pozycji w ten sposób, kolego, zwłaszcza będąc na twoim miejscu... Od czego tu zacząć... taa, pierwsze awantury zaliczyłem jeszcze w szkole. Miałem tam takiego jednego koleżkę. Razem lataliśmy, razem łoiliśmy tanią gorzałę, razem jaraliśmy biełamory za garażami i co nie tylko. Tylko, że jemu było ciągle mało.\n \nPoleciał w dragi - najpierw maria, potem helenka i na końcu wjechał koks. Myślał, że ukręci na tym jakieś lody, ale ja tego nie widziałem. Mówię mu: Tolik, kończ z tym, zanim będzie za późno, a on dalej swoje. W końcu zjadł jakiegoś syfa, wykręciło go i umarł.\n \nZnalazłem gości, którzy wcisnęli mu to gówno i poszedłem się za niego rozliczyć. Młody byłem i głupi. No cóż, powinęła się noga. Dali bransoletki, cyknęli fotkę i pod celę. Wtedy zaczęło się na dobre. Poznałem gitów, cięliśmy frajerów na peronach, tłukliśmy się z innymi ekipami. W końcu wyszedłem i zacząłem rozkręcać biznes, ale jakoś niedługo znów mnie powinęli, już nie pamiętam nawet, za co.\n \nWypuścili za jakiś czas, a ja uznałem, że dosyć takiego garowania. Zostawiłem to towarzystwo i zacząłem myśleć nad Zoną. Parę miesięcy się zbierałem, ale w końcu załatwiłem sobie przejście. I teraz jestem tu, gdzie jestem, pilnując porządku.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1114">
+		<text>Co sądzisz o stalkerach?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11141">
+		<text>Każdy jest inny. Widzisz, są szczawie, którzy nie wytrzymują tu nawet tygodnia, są zarobasy gotowi własną matkę za chabar sprzedać, ale są i wporzo goście, których życie przekopało za Kordonem i kopie tutaj. Tych pierwszych golimy do czysta, na drugich nakładamy myto, a z tymi ostatnimi... no, staramy się nie wchodzić sobie w drogę. Szkoda, że nie zawsze można ich odróżnić od reszty.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1115">
+		<text>Czemu siedzisz... tutaj?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11151">
+		<text>Ja pierdolę, facet... Żebyś się, kurwa, zapytał. Co to w ogóle za pytanie?!</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1116">
+		<text>Dobra, nieważne. Zapomnij o tym.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11161">
+		<text>Pilnuj się.</text>
+	</string>
+	
+	<string id="sultan_st_0">
+		<text>Kim jesteś?</text>
+	</string>
+	<string id="sultan_st_1">
+		<text>No, no, gratuluję... Z takim łbem będzie z ciebie drugi Striełok, jak nic. Słuchaj i to uważnie. Ja tu rozdaję karty, więc na pewno poznasz moje imię. Przyszedłem tu ze swoimi ludźmi z Zatonu, kawał czasu temu. Rozjebaliśmy po drodze wszystkie mutanty, wygnaliśmy je stąd, ogarnęliśmy tę fabryczkę i działamy. Na marginesie, Dziurawy dalej ma u mnie dług, że ocaliłem mu wtedy dupę.\n \nMoże ktoś ci bajał, czemu musieliśmy zwinąć się z północy, ale tylko ja powiem ci, jak było - typ, który się z nami kręcił, jadł, pił i korzystał któregoś razu wystawił nas ludziom Brodacza. Daliśmy się wtedy podejść, drugi razy takiego błędu nie popełnimy.</text>
+	</string>
+	<string id="sultan_st_2">
+		<text>Taa, słyszałem... Frajerzy nie znają reguł, szpącą i myślą, że są panami świata. Jakkolwiek ten typ się nazywa, rozjebię go.</text>
+	</string>
+	<string id="sultan_st_3">
+		<text>Nazywa się Aleksander, czy coś takiego i trzymaj się od niego z dala. Za cienki w uszach na to jesteś.</text>
+	</string>
+	<string id="sultan_st_4">
+		<text>Czaję. Podkręcisz mi coś na temat Zony?</text>
+	</string>
+	<string id="sultan_st_5">
+		<text>Krótka piłka. Nie ufaj nikomu oprócz kolesi z czaszkami na rękawach. Wszyscy inny jak cię zobaczą, od razu będą próbowali cię odjebać. Albo zgrywać kumpli i wsadzić kosę w plecy, kiedy nie będziesz się tego spodziewał. A reszta - sam ogarniesz. Jeśli tylko poczujesz, że coś ci nie pasuje, na momencie zawijasz do najbliższej meliny i tyle.</text>
+	</string>
+	<string id="sultan_st_6">
+		<text>Kumam. Znasz jakieś spoko miejsca, gdzie można się przyczaić?</text>
+	</string>
+	<string id="sultan_st_7">
+		<text>W Zonie nie ma takich miejsc, gościu, chociaż mamy w okolicy kilka punktów. Na północ stąd jest Cmentarzysko Pojazdów. Paru dziarskich chłopaków trzyma tam stary punkt kontrolny przy wejściu na Magazyny Wojskowe. Pamiętaj, żeby nie szwendać się tam po nocy i trzymać się z dala od wozów - ciągnie od nich tak, że w parę minut zaczynasz świecić w ciemnościach. A nie wspomniałem słowem o mutasach i anosach, tego tałatajstwa też jest tam całkiem sporo.\n \nNa zachód stąd jest Wysypisko - totalny bajzel. Na północy tego burdelu Powinni mają swoją bramę na Rostok i to tyle, co mogę ci powiedzieć o tym kurwidole. Rzadko tam kogoś wysyłam.\n \nNa południe stąd, za świniarnią przy szosie zaczyna się Mroczny Wąwóz, tak go przynajmniej nazywają. Dla mnie on wcale nie mroczny, a pusty i nudny, ale niech będzie. Nie ma tam zbyt wiele do roboty - ot, kręci się tam paru stalkerów i zakute pały czasem wpadną helką narobić hałasu, że niby oczyszczają Zonę z mutantów. Proszę cię, totalny bulszit.\n \nJedyny plus tej kichy jest taki, że przejdziesz nią prosto na Kordon, gdzie paru naszych filuje na stacji pojazdów i goli szczawików. A, zapomniałem, tę świniarnię zostawiamy siuśmajtkom Sidorowicza. Niech mają jakiś punkt zaczepienia tutaj, chętniej wpadają i nie trzeba się za daleko ruszać, żeby zgarniać myto.</text>
+	</string>
+	<string id="sultan_st_8">
+		<text>Nie brzmi to zbyt kolorowo.</text>
+	</string>
+	<string id="sultan_st_9">
+		<text>A czego żeś się spodziewał, synek? Myślałeś, że będziesz siedział na dupie, a hajs sam zacznie wpadać do kieszeni? Nie ma tak lekko. Zamiast w chmurach, łeb trzymaj jak najbliżej ziemi, to może jakoś tu wyżyjesz.</text>
+	</string>
+	<string id="sultan_st_10">
+		<text>Dobra, cokolwiek. Dzięki za rady, szefie.</text>
+	</string>
+
+	
+<!-- (Bandit guide) -->
+	<string id="meet_guid_dv_bandit_0">
+		<text>Co tu obrabiasz, mordeczko?</text>
+	</string>
+	<string id="meet_guid_dv_bandit_1">
+		<text>A ty co, ślepy? Czy kulawy? Ciebie mogę obrobić, jak takiś dowciapny. Za przewodnika robię, a bo co? Łażę sobie w tę i we w tę, z tymi czy innymi. Ciebie też mogę przerzucić - wolisz naszą miejscówkę na Cmentarzysku Pojazdów, czy melinę w magazynach na Jupiterze? Rzucasz flotę i idziemy.</text>
+	</string>
+
+	<string id="travel_guid_dv_bandit_0">
+		<text>Wyfrunąłbym stąd.</text>
+	</string>
+	<string id="travel_guid_dv_bandit_1">
+		<text>Dokąd jaśnie pan życzy?</text>
+	</string>
+	<string id="travel_guid_dv_bandit_2">
+		<text>Na Cmentarzysko Pojazdów. %c[d_orange][1.500 RU]</text>
+	</string>
+	<string id="travel_guid_dv_bandit_3">
+		<text>Do magazynu kontenerów w Jupiterze. %c[d_orange][8.000 RU]</text>
+	</string>
+	<string id="travel_guid_dv_bandit_4">
+		<text>Wiesz co? Odwidziało mi się.</text>
+	</string>
+
+</string_table>

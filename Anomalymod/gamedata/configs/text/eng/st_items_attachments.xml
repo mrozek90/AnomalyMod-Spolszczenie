@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="st_af_surge_up_name">
+		<text>Udoskonalony pochłaniacz wyładowań</text>
+	</string>
+	<string id="st_af_surge_up_descr">
+		<text>Niezwykłe urządzenie absorbujące energię elektryczną z otoczenia. Część uzyskanej energii transformuje na użytkownika, zwiększając jego wytrzymałość. Nadwyżki energii wykorzystuje do przyspieszenia regeneracji uszkodzonych tkanek. Służy jako swego rodzaju filtrująca warstwa ochronna, znacząco zmniejszając ilość energii elektrycznej, która ostancznie dociera do ciała użytkownika.\n \nPochłaniacz wyładowań elektrycznych jest w gruncie rzeczy bardzo złożonym układem oporników, który w zależności od napięcia prądu całkowicie blokuje jego przepływ lub na wzór warystorów w ogranicznikach przepięć przekierowuje jego nadmiar do ziemi.\n \nW ten sposób napięcie prądu docierającego do ciała jest minimalizowane, co w efekcie znacząco zwiększa odporność użytkownika na obrażenia elektryczne. Dzięki temu jest on w stanie przetrwać porażenie prądem, które w innym wypadku okazałoby się śmiertelne. Zaleca się zatem zakładanie pochłaniaczy, kiedy znajdujesz się w pobliżu anomalii elektrycznych lub innych źródeł prądu w Zonie.\n \nJak każdy metalowy przedmiot, urządzenie może być również wykorzystane jako źródło materiału do napraw pod warunkiem, że posiadasz odpowiedni sprzęt i umiejętności.\n \n%c[d_red]UWAGA:%c[ui_gray_2] \n%c[default]Warto zauważyć, że moduł nie będzie działał prawidłowo i zapewniał odpowiedniej ochrony jeśli kombinezon ochronny użytkownika nie będzie spełniał minimalnych wymagań dotyczących ochrony elektrycznej.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wydajność kilku sztuk kumuluje się\n
+		</text>
+	</string>
+	
+	<string id="st_af_frames_up_name">
+		<text>Wzmocniona rama aluminiowa</text>
+	</string>
+	<string id="st_af_frames_up_descr">
+		<text>Zamiast nosić plecak na ramionach, możesz przymocować go do kombinezonu za pomocą specjalnej ramy, dzięki której będziesz mógł wygodnie unieść większy ciężar.\n \nKluczowe elementy ramy zrobione są z aluminium ze względu na jego niewielką wagę i dużą trwałość, zaś niektóre części zewnętrzne wykonano z plastiku, który zapewnia niezbędną podczas biegu elastyczność. Cała konstrukcja wyposażona jest w system troków i taśm nośnych, dzięki którym ramę można bardzo łatwo dostosować do rozmiarów ciała, by optymalnie rozkładała przenoszony ciężar.\n \nW efekcie noszenie plecaka będzie niezmiernie wygodne, nawet przy większym niż zazwyczaj obciążeniu. Pojedyncza rama zastępuje jedynie główny szkielet plecaka, lecz można skorzystać z większej ich liczby, aby jeszcze bardziej zwiększyć możliwy do uniesienia ciężar.\n \nMimo że rama wykonana jest z miękkiego metalu, jakim jest aluminium, część materiału można wykorzystać do niewielkich napraw kombinezonów.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot codziennego użytku\n
+		%c[d_cyan] • %c[ui_gray_2] wydajność kilku sztuk kumuluje się\n
+		</text>
+	</string>
+	
+	<string id="st_af_grid_up_name">
+		<text>Wzmocniony stelaż z tytanu</text>
+	</string>
+	<string id="st_af_grid_up_descr">
+		<text>Zamiast nosić plecak na ramionach, możesz przymocować go do kombinezonu za pomocą tytanowego stelaża, dzięki któremu będziesz mógł wygodnie unieść większy ciężar.\n \nKluczowe elementy stelaża zrobione są z tytanu ze względu na jego niewielką wagę i dużą trwałość, zaś niektóre elementy zewnętrzne wykonano z plastiku, który zapewnia niezbędną podczas ruchu elastyczność. Cała konstrukcja wyposażona jest w system troków i taśm nośnych, dzięki którym stelaż można bardzo łatwo dostosować do rozmiarów ciała, by optymalnie rozkładał przenoszony ciężar.\n \nW efekcie noszenie plecaka będzie niezmiernie wygodne, nawet przy większym niż zazwyczaj obciążeniu. Pojedynczy stelaż zastępuje jedynie główny szkielet plecaka, lecz można skorzystać z większej ich liczby, aby jeszcze bardziej zwiększyć możliwy do uniesienia ciężar.\n \nStelaże wykonane są z bardzo wysokiej jakości tytanu, w związku z czym część materiału może posłużyć jako skuteczny dodatek do napraw kombinezonów i hełmów.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot codziennego użytku\n
+		%c[d_cyan] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_cyan] • %c[ui_gray_2] wydajność kilku sztuk kumuluje się\n
+		</text>
+	</string>
+	
+	<string id="st_af_freon_up_name">
+		<text>Udoskonalony moduł emisji freonu</text>
+	</string>
+	<string id="st_af_freon_up_descr">
+		<text>Udoskonalony moduł emisji freonu to urządzenie zaprojektowane z myślą o utrzymywaniu wokół użytkownika stałej temperatury na poziomie 20 stopni Celsjusza. Z tego względu jest on niezwykle przydatny w sytuacjach wymagających dodatkowej ochrony termicznej.\n \nMinimalizuje skutki wysokiej temperatury zewnętrznej, emitując grubą warstwę powietrza chłodzonego freonem. Tworzy ona niewielką próżnię absorbującą nadmiar ciepła i w ograniczonym stopniu obniżającą temperaturę wokół użytkownika. Co więcej, urządzenie umiarkowanie zwiększa odporność na obrażenia elektryczne.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wydajność kilku sztuk kumuluje się\n</text>
+	</string>
+	
+	<string id="st_af_cooler_up_name">
+		<text>Udoskonalony ochładzacz</text>
+	</string>
+	<string id="st_af_cooler_up_descr">
+		<text>Udoskonalony ochładzacz to urządzenie elektryczne zaprojektowane z myślą o utrzymywaniu wokół użytkownika stałej temperatury na poziomie 15 stopni Celsjusza. Z tego względu jest ono niezwykle przydatne w sytuacjach wymagających dodatkowej ochrony termicznej.\n \nMinimalizuje skutki wysokiej temperatury zewnętrznej, emitując z dużą częstotliwością słabe impulsy elektryczne. Tworzą one niewielką próżnię absorbującą nadmiar ciepła i w niewielkim stopniu obniżającą temperaturę wokół użytkownika. Do działania nie wymaga wody.\n \nCo więcej, urządzenie umiarkowanie zwiększa odporność na obrażenia elektryczne, zaś gdy się je rozłoży na części za pomocą zestawu narzędzi, metal, z jakiego go wykonano, może posłużyć do naprawy kombinezonów.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_cyan] • %c[ui_gray_2] wydajność kilku sztuk kumuluje się\n
+		</text>
+	</string>
+	
+	<string id="st_af_kevlar_up_name">
+		<text>Wzmocnione płyty kevlarowe</text>
+	</string>
+	<string id="st_af_kevlar_up_descr">
+		<text>Płyty kevlarowe są szeroko znane i bardzo cenione ze względu na swoje właściwości ochronne. Spełniają szereg funkcji, lecz najważniejszą z nich jest absorbowanie i rozpraszanie energii uderzeń pocisków na tułowiu i na plecach. Stanowią one lżejszą alternatywę wobec cięższych płyt stalowych. Stosowane są przez jednostki wojskowe na całym świecie.\n \nCo więcej, wykorzystywanie dodatkowych powłok ochronnych pomaga w utrzymywaniu kombinezonu w dobrym stanie, przeciwdziałając uszkodzeniom wynikającym z użytkowania.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot wojskowy\n
+		%c[d_cyan] • %c[ui_gray_2] 30 warstw kevlaru\n
+		%c[d_cyan] • %c[ui_gray_2] równowartość jednej warstwy pancerza klasy III\n
+		%c[d_cyan] • %c[ui_gray_2] wydajność kilku sztuk kumuluje się\n
+		</text>
+	</string>
+	
+	<string id="st_af_plates_up_name">
+		<text>Wzmocnione płyty ze stali węglowej</text>
+	</string>
+	<string id="st_af_plates_up_descr">
+		<text>Płyty stalowe opracowano z myślą o ochronie balistycznej. Podczas produkcji zostały poddane obróbce termicznej i ukształtowane w taki sposób, by jak najskuteczniej absorbować i rozpraszać energię kinetyczną mniejszych pocisków na tułowiu i plecach. Mają jednak poważną wadę, mianowicie są bardzo ciężkie, przez co znacząco ograniczają mobilność.\n \nZ drugiej strony, wykorzystywanie dodatkowych powłok ochronnych pomaga w utrzymywaniu kombinezonu w dobrym stanie, przeciwdziałając uszkodzeniom wynikającym z użytkowania. Bardzo często używane przez siły Specnazu.\n \n%c[d_red]UWAGA:%c[ui_gray_2] \n%c[default]Stal jest przewodnikiem elektrycznym. Jako, że założone płyty znajdują się blisko ciała, w efekcie podnoszą one podatność na porażenie prądem. Z tego powodu podczas korzystania z płyt zaleca się zachowanie ostrożności w pobliżu anomalii elektrycznych i innych źródeł prądu.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot wojskowy\n
+		%c[d_cyan] • %c[ui_gray_2] jedna warstwa stalowej płyty\n
+		%c[d_cyan] • %c[ui_gray_2] wydajność kilku sztuk kumuluje się\n
+		</text>
+	</string>
+	
+	<string id="st_af_camelbak_up_name">
+		<text>Udoskonalony kamelbak</text>
+	</string>
+	<string id="st_af_camelbak_up_descr">
+		<text>Kamelbak (camelbak, kamel) jest przenoszonym na plecach lub przytroczonym do pasa bukłakiem na wodę, z którego wyprowadzona jest elastyczna rurka sięgająca do ust użytkownika. Swoją nazwą nawiązuje do rozpowszechnionego błędnego przekonania, że wielbłądy przenoszą w swoich garbach wodę.\n \nTen model jest pokryty kamuflażem i zintegrowany z kombinezonem, żeby uniknąć fizycznych uszkodzeń ze strony anomalii, kul czy kłów mutantów. Ponieważ kamel jest wykonany z wysokiej jakości tkaniny, doświadczeni stalkerzy często wykorzystują podziurawione bukłaki jako źródło mocnych tkanin do łatania odzieży ochronnej. Można go również rozłożyć na części w celu odzyskania tkaniny.\n \n%c[d_red]UWAGA:%c[ui_gray_2] \n%c[default]Pomimo tego, że woda cechuje się dość niską przewodnością elektryczną, jej bliskość przy ciele może sprawić, że będziesz bardziej podatny na porażenie prądem. Z tego powodu podczas korzystania z camelbaka zaleca się zwracanie szczególnej uwagi na otoczenie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot wojskowy\n
+		%c[d_cyan] • %c[ui_gray_2] wydajność kilku sztuk kumuluje się\n
+		</text>
+	</string>
+	
+	<string id="st_af_surge_name">
+		<text>Pochłaniacz wyładowań elektrycznych</text>
+	</string>
+	<string id="st_af_surge_descr">
+		<text>Niewielkie, lecz zaawansowane urządzenie, które pochłania energię wyładowań elektrycznych z najbliższego otoczenia. Służy jako swego rodzaju filtrująca warstwa ochronna, znacząco zmniejszając ilość energii elektrycznej, która ostancznie dociera do ciała użytkownika.\n \nPochłaniacz wyładowań elektrycznych jest w gruncie rzeczy bardzo złożonym układem oporników, który w zależności od napięcia prądu całkowicie blokuje jego przepływ lub na wzór warystorów w ogranicznikach przepięć przekierowuje jego nadmiar do ziemi.\n \nW ten sposób napięcie prądu docierającego do ciała jest minimalizowane, co w efekcie znacząco zwiększa odporność użytkownika na obrażenia elektryczne. Dzięki temu jest on w stanie przetrwać porażenie prądem, które w przeciwnym wypadku okazałoby się śmiertelne. Zaleca się zatem zakładanie pochłaniaczy, kiedy znajdujesz się w pobliżu anomalii elektrycznych lub innych źródeł prądu w Zonie.\n \nJak każdy metalowy przedmiot, urządzenie może być również wykorzystane jako źródło materiału do napraw pod warunkiem, że posiadasz odpowiedni sprzęt i umiejętności.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wydajność kilku sztuk kumuluje się\n
+		</text>
+	</string>
+	
+	<string id="st_af_frames_name">
+		<text>Rama aluminiowa</text>
+	</string>
+	<string id="st_af_frames_descr">
+		<text>Zamiast nosić plecak na ramionach, możesz przymocować go do kombinezonu za pomocą specjalnej ramy, dzięki której będziesz mógł wygodnie unieść większy ciężar.\n \nKluczowe elementy ramy zrobione są z aluminium ze względu na jego niewielką wagę i dużą trwałość, zaś niektóre elementy zewnętrzne wykonano z plastiku, który zapewnia niezbędną podczas ruchu elastyczność. Cała konstrukcja wyposażona jest w system troków i taśm nośnych, dzięki którym ramę można bardzo łatwo dostosować do rozmiarów ciała, by optymalnie rozkładała przenoszony ciężar.\n \nW efekcie noszenie plecaka będzie niezmiernie wygodne, nawet przy większym niż zazwyczaj obciążeniu. Pojedyncza rama zastępuje jedynie główny szkielet plecaka, lecz można skorzystać z większej ich liczby, aby jeszcze bardziej zwiększyć możliwy do uniesienia ciężar.\n \nMimo że rama wykonana jest z miękkiego metalu, jakim jest aluminium, część materiału można wykorzystać do niewielkich napraw kombinezonów.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot codziennego użytku\n
+		%c[d_cyan] • %c[ui_gray_2] wydajność kilku sztuk kumuluje się\n
+		</text>
+	</string>
+	
+	<string id="st_af_grid_name">
+		<text>Stelaż z tytanu</text>
+	</string>
+	<string id="st_af_grid_descr">
+		<text>Zamiast nosić plecak na ramionach, możesz przymocować go do kombinezonu za pomocą tytanowego stelaża, dzięki któremu będziesz mógł wygodnie unieść większy ciężar.\n \nKluczowe elementy stelaża zrobione są z tytanu ze względu na jego niewielką wagę i dużą trwałość, zaś niektóre elementy zewnętrzne wykonano z plastiku, który zapewnia niezbędną podczas ruchu elastyczność. Cała konstrukcja wyposażona jest w system troków i taśm nośnych, dzięki którym stelaż można bardzo łatwo dostosować do rozmiarów ciała, by optymalnie rozkładał przenoszony ciężar.\n \nW efekcie noszenie plecaka będzie niezmiernie wygodne, nawet przy większym niż zazwyczaj obciążeniu. Pojedynczy stelaż zastępuje jedynie główny szkielet plecaka, lecz można skorzystać z większej ich liczby, aby jeszcze bardziej zwiększyć możliwy do uniesienia ciężar.\n \nStelaże wykonane są z bardzo wysokiej jakości tytanu, w związku z czym część materiału może posłużyć jako skuteczny dodatek do napraw kombinezonów i hełmów.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot codziennego użytku\n
+		%c[d_cyan] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_cyan] • %c[ui_gray_2] wydajność kilku sztuk kumuluje się\n
+		</text>
+	</string>
+	
+	<string id="st_af_freon_name">
+		<text>Moduł emisji freonu</text>
+	</string>
+	<string id="st_af_freon_descr">
+		<text>Moduł emisji freonu to urządzenie zaprojektowane z myślą o utrzymywaniu wokół użytkownika stałej temperatury na poziomie 20 stopni Celsjusza. Z tego względu jest on niezwykle przydatny w sytuacjach wymagających dodatkowej ochrony termicznej.\n \nMinimalizuje skutki wysokiej temperatury zewnętrznej, emitując grubą warstwę powietrza chłodzonego freonem. Tworzy ona niewielką próżnię absorbującą nadmiar ciepła i w ograniczonym stopniu obniżającą temperaturę wokół użytkownika. Co więcej, urządzenie umiarkowanie zwiększa odporność na obrażenia elektryczne. Przy odrobinie szczęścia będziesz też w stanie odzyskać baterie zasilające urządzenie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wydajność kilku sztuk kumuluje się\n</text>
+	</string>
+	
+	<string id="st_af_cooler_name">
+		<text>Kompaktowy ochładzacz</text>
+	</string>
+	<string id="st_af_cooler_descr">
+		<text>Kompaktowy ochładzacz to urządzenie elektryczne zaprojektowane z myślą o utrzymywaniu wokół użytkownika stałej temperatury na poziomie 15 stopni Celsjusza. Z tego względu jest ono niezwykle przydatne w sytuacjach wymagających dodatkowej ochrony termicznej.\n \nMinimalizuje skutki wysokiej temperatury zewnętrznej, emitując z dużą częstotliwością słabe impulsy elektryczne. Tworzą one niewielką próżnię absorbującą nadmiar ciepła i w niewielkim stopniu obniżającą temperaturę wokół użytkownika. Do działania nie wymaga wody.\n \nCo więcej, urządzenie umiarkowanie zwiększa odporność na obrażenia elektryczne, zaś gdy się je rozłoży na części za pomocą zestawu narzędzi, metal, z jakiego go wykonano, może posłużyć do naprawy kombinezonów.\n \n
+		%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_cyan] • %c[ui_gray_2] wydajność kilku sztuk kumuluje się\n
+		</text>
+	</string>
+	
+	<string id="st_af_kevlar_name">
+		<text>Płyty kevlarowe</text>
+	</string>
+	<string id="st_af_kevlar_descr">
+		<text>Płyty kevlarowe są szeroko znane i bardzo cenione ze względu na swoje właściwości ochronne. Spełniają szereg funkcji, lecz najważniejszą z nich jest absorbowanie i rozpraszanie energii uderzeń pocisków na tułowiu i na plecach. Stanowią one lżejszą alternatywę wobec cięższych płyt stalowych. Stosowane sąprzez jednostki wojskowe na całym świecie.\n \nCo więcej, wykorzystywanie dodatkowych powłok ochronnych pomaga w utrzymywaniu kombinezonu w dobrym stanie, przeciwdziałając uszkodzeniom wynikającym z użytkowania.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot wojskowy\n
+		%c[d_cyan] • %c[ui_gray_2] 22 warstwy kevlaru\n
+		%c[d_cyan] • %c[ui_gray_2] równowartość jednej warstwy pancerza klasy IIA\n
+		%c[d_cyan] • %c[ui_gray_2] wydajność kilku sztuk kumuluje się\n
+		</text>
+	</string>
+	
+	<string id="st_af_plates_name">
+		<text>Płyty ze stali węglowej</text>
+	</string>
+	<string id="st_af_plates_descr">
+		<text>Płyty stalowe opracowano z myślą o ochronie balistycznej. Podczas produkcji zostały poddane obróbce termicznej i ukształtowane w taki sposób, by jak najskuteczniej absorbować i rozpraszać energię kinetyczną mniejszych pocisków na tułowiu i plecach. Mają jednak poważną wadę, mianowicie są bardzo ciężkie, przez co znacząco ograniczają mobilność. Z drugiej strony, wykorzystywanie dodatkowych powłok ochronnych pomaga w utrzymywaniu kombinezonu w dobrym stanie, przeciwdziałając uszkodzeniom wynikającym z użytkowania. Bardzo często używane przez siły Specnazu.\n \n%c[d_red]UWAGA:%c[ui_gray_2] \n%c[default]Stal jest przewodnikiem elektrycznym. Jako, że założone płyty znajdują się blisko ciała, w efekcie podnoszą one podatność na porażenie prądem. Z tego powodu podczas korzystania z płyt zaleca się zachowanie ostrożności w pobliżu anomalii elektrycznych i innych źródeł prądu.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot wojskowy\n
+		%c[d_cyan] • %c[ui_gray_2] jedna warstwa stalowej płyty\n
+		%c[d_cyan] • %c[ui_gray_2] wydajność kilku sztuk kumuluje się\n
+		</text>
+	</string>
+	
+	<string id="st_af_camelbak_name">
+		<text>Kamelbak</text>
+	</string>
+	<string id="st_af_camelbak_descr">
+		<text>Kamelbak (camelbak, kamel) jest przenoszonym na plecach lub przytroczonym do pasa bukłakiem na wodę, z którego wyprowadzona jest elastyczna rurka sięgająca do ust użytkownika. Swoją nazwą nawiązuje do rozpowszechnionego błędnego przekonania, że wielbłądy przenoszą w swoich garbach wodę. Stosowane przez jednostki wojskowe na całym świecie.Ten model jest pokryty kamuflażem i zintegrowany z kombinezonem, żeby uniknąć fizycznych uszkodzeń ze strony anomalii, kul czy kłów mutantów. Ponieważ kamel jest wykonany z wysokiej jakości tkaniny, doświadczeni stalkerzy często wykorzystują podziurawione bukłaki jako źródło mocnych tkanin do łatania odzieży ochronnej. Można go również rozłożyć na części w celu odzyskania tkaniny.\n \n%c[d_red]UWAGA:%c[ui_gray_2] \n%c[default]Pomimo tego, że woda cechuje się dość niską przewodnością elektryczną, jej bliskość przy ciele może sprawić, że będziesz bardziej podatny na porażenie prądem. Z tego powodu podczas korzystania z kamelbaka zaleca się zwracanie szczególnej uwagi na otoczenie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot wojskowy\n
+		%c[d_cyan] • %c[ui_gray_2] wydajność kilku sztuk kumuluje się\n
+		</text>
+	</string>
+	
+	<string id="st_af_iam_name">
+		<text>Prowizoryczny Moduł Aplikacji (pusty)</text>
+	</string>
+	<string id="st_af_iam_descr">
+		<text>Prowizoryczny Moduł Aplikacji (PMA) filtruje niewielką ilość cząstek radioaktywnych emitowanych przez artefakty. Ten metalowy pojemnik to najtańsze dostępne urządzenie umożliwiające użytkownikowi wykorzystanie najsłabszych artefaktów.\n \nFiltr zbudowany jest z wielu głównie ołowianych warstw ekranujących promieniowanie. Stanowi tanią alternatywę dla bardziej solidnych ZAA i MAA.\n \nW szczególnych przypadkach, lub kiedy nie jest dłużej potrzebny, moduł można wykorzystać do naprawy hełmów i strojów. W tej chwili nieużywany.\n \nUmieść w środku artefakt, by móc zawiesić PMA na pasie. Jego statystyki (oprócz poziomu emitowanego promieniowania) zostaną zachowane.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[ui_white] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] maksymalna pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dopuszczalny poziom promieniowania:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pusty\n
+		</text>
+	</string>
+	
+	<string id="st_af_aac_name">
+		<text>Zasobnik Aplikacji Artefaktów (pusty)</text>
+	</string>
+	<string id="st_af_aac_descr">
+		<text>Zasobnik Aplikacji Artefaktów (ZAA) filtruje średnią ilość cząstek radioaktywnych emitowanych przez artefakty. Ten mechaniczny, aluminiowy pojemnik jest najbardziej opłacalnym i najpopularniejszym sposobem umożliwiającym użytkownikowi wykorzystanie większości artefaktów.\n \nFiltr zbudowany jest z wielu głównie ołowianych warstw ekranujących z dodatkową warstwą toru, który ma właściwości blokujące promieniowanie. To urządzenie zostało stworzone przez naukowców w wojskowych bunkrach znajdujących się w Zonie.\n \nW szczególnych przypadkach, lub kiedy nie jest dłużej potrzebny, zasobnik można wykorzystać do naprawy hełmów i strojów. W tej chwili nieużywany.\n \nUmieść w środku artefakt, by móc zawiesić ZAA na pasie. Jego statystyki (oprócz poziomu emitowanego promieniowania) zostaną zachowane.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] maksymalna pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dopuszczalny poziom promieniowania:%c[ui_gray_1] 12 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pusty\n
+		</text>
+	</string>
+	
+	<string id="st_af_aam_name">
+		<text>Moduł Aplikacji Artefaktów (pusty)</text>
+	</string>
+	<string id="st_af_aam_descr">
+		<text>Moduł Aplikacji Artefaktów (MAA) filtruje znaczną ilość cząstek radioaktywnych emitowanych przez artefakty. Ten zaawansowany, mechaniczny moduł jest najbardziej efektywnym sposobem umożliwiającym użytkownikowi wykorzystanie nawet najpotężniejszych artefaktów.\n \nFiltr zbudowany jest z wielu warstw grafenu. Dzięki temu ma najlepsze właściwości ekranujące promieniowanie ze wszystkich tego typu urządzeń, zachowując przy tym stosunkowo niewielką wagę. Uważany w Zonie za znak zamożności.\n \nNajczęściej używany przez naukowców do zminimalizowania szkodliwego wpływu artefaktów. Zaprojektowany i opracowany na Ukrainie przez rządowy instytut produkujący wyposażenie naukowe dla pracowników działających w Strefie Wykluczenia.\n \nW szczególnych przypadkach, lub kiedy nie jest dłużej potrzebny, zasobnik można wykorzystać do naprawy hełmów i strojów. W tej chwili nieużywany.\n \nUmieść w środku artefakt, by móc zawiesić MAA na pasie. Jego statystyki (oprócz poziomu emitowanego promieniowania) zostaną zachowane.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] maksymalna pojemność:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] najwyższy dopuszczalny poziom promieniowania:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] stan:%c[ui_gray_1] pusty\n
+		</text>
+	</string>
+	
+<!------------------------ Mutant Hide ------------------------>
+	<string id="st_hide_flesh_name">
+		<text>Skóra mięsacza</text>
+	</string>
+	<string id="st_hide_flesh_descr">
+		<text>Skóra zdjęta z powszechnie występującej w Zonie zmutowanej świni zwanej mięsaczem. W tkance podskórnej mięsaczy, pod dość miękką i cienką skórą właściwą, składowane są duże pokłady tłuszczu, przez co całość jest wyjątkowo ciężka.\n \nOferuje słabą ochronę przed czynnikami fizycznymi, natomiast znacząco zmniejsza szkodliwe efekty działania anomalii chemicznych, termicznych i elektrycznych. Żeby skóry możny było użyć przy konserwacji sprzętu, trzeba najpierw pozbyć się tłustej tkanki podskórnej. Po jej odcięciu pozostaje dość cienka łata ze skóry właściwej i nabłonka.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] lekka skóra mutanta\n
+		%c[d_purple] • %c[ui_gray_2] niewielkie zwiększenie odporności\n
+		%c[d_cyan] • %c[ui_gray_2] wydajność kilku sztuk kumuluje się\n
+		</text>
+	</string>
+	
+	<string id="st_hide_boar_name">
+		<text>Skóra dzika</text>
+	</string>
+	<string id="st_hide_boar_descr">
+		<text>Niemal całkowicie pokryta grubym futrem skóra zdjęta z bardzo powszechnie występującego w Zonie zmutowanego dzika. Zwierzęta te są bardzo odporne na urazy fizyczne i potrafią wytrzymać solidne cięgi, głównie za sprawą dużej masy mięśniowej oraz niemalże niełamliwych, nad wyraz twardych kości.\n \nSama skóra jest jednak dość cienka, prawdopodobnie na potrzeby skutecznej termoregulacji mutanta, przez co raczej kiepsko nadaje się do ulepszenia pancerza. Z kolei obecność gęstego futra sprawia, że skóra jest dość dobrym izolatorem ciepła.\n \nMożna ją również wykorzystać do lekkich napraw. Niestety zakładanie skóry dzika na pancerz powoduje zmniejszenie odporności na promieniowanie jonizujące oraz toksyczność, ponieważ szkodliwe cząstki łatwo zbierają się między włosami futra.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] lekka skóra mutanta \n
+		%c[d_cyan] • %c[ui_gray_2] wydajność kilku sztuk kumuluje się\n
+		</text>
+	</string>
+	
+	<string id="st_hide_bloodsucker_name">
+		<text>Skóra pijawki</text>
+	</string>
+	<string id="st_hide_bloodsucker_descr">
+		<text>Pijawki są istotami, które wyewoluowały z ludzi i związek ten nadal jest widoczny, między innymi w budowie ich skóry. Najbardziej zwraca uwagę, że skóra jest bardzo miękka i przyjemna w dotyku, niemal jak u niemowlaka. Dotyczy to jednak tylko zewnętrznej warstwy naskórka, ponieważ pod spodem pijawki wykształciły silnie rozwinięte, rozległe grupy mięśni, tworzące rodzaj powłoki ochronnej.\n \nW efekcie skóra jest bardzo skuteczna jako ochrona przed obrażeniami fizycznymi, w szczególności przed uderzeniami. To sprawia, że doświadczeni myśliwi chętnie po nie sięgają, a przy okazji podkreślają jej posiadaniem swoje umiejętności.\n \nUnikalną cechą tej skóry, a jednocześnie jej główną wadą, jest jej gwałtowna reaktywność na zmiany temperatury. Sama tkanka płonie dopiero w bardzo wysokich temperaturach, jednak potrafi się bardzo mocno rozgrzać, a wtedy staje się coraz bardziej szkodliwa zarówno dla noszącego, jak i dla jego sprzętu.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] średnia skóra mutanta\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy \n
+		%c[d_cyan] • %c[ui_gray_2] wydajność kilku sztuk kumuluje się\n
+		</text>
+	</string>
+	
+	<string id="st_hide_psysucker_name">
+		<text>Skóra pijawki psionicznej</text>
+	</string>
+	<string id="st_hide_psysucker_descr">
+		<text>Pijawki psioniczne wyewoluowały z pijawek i związek ten nadal jest widoczny, między innymi w budowie ich skóry. Najbardziej zwraca uwagę, że skóra jest bardzo miękka i przyjemna w dotyku, niemal jak u niemowlaka. Dotyczy to jednak tylko zewnętrznej warstwy naskórka, ponieważ pod spodem pijawki - również psioniczne - wykształciły silnie rozwinięte, rozległe grupy mięśni, tworzące rodzaj powłoki ochronnej.\n \nW efekcie skóra jest bardzo skuteczna jako ochrona przed obrażeniami fizycznymi, w szczególności przed uderzeniami. To sprawia, że doświadczeni myśliwi chętnie po nią sięgają, a przy okazji podkreślają jej posiadaniem swoje umiejętności.\n \nUnikalną cechą tej skóry, a jednocześnie jej główną wadą, jest jej gwałtowna reaktywność na zmiany temperatury. Sama tkanka płonie dopiero w bardzo wysokich temperaturach, jednak potrafi się bardzo mocno rozgrzać, a wtedy staje się coraz bardziej szkodliwa zarówno dla noszącego, jak i dla jego sprzętu.\n \nWedług opowieści użytkowników, choć skóra pijawki psionicznej nie daje zbyt dobrej ochrony fizycznej, potrafi absorbować i rozpraszać znaczne ilości fal psionicznych, jeśli zakłada się ją na głowe.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] średnia skóra mutanta\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy \n
+		%c[d_cyan] • %c[ui_gray_2] wydajność kilku sztuk kumuluje się\n
+		</text>
+	</string>
+	
+	<string id="st_hide_lurker_name">
+		<text>Skóra lurkera</text>
+	</string>
+	<string id="st_hide_lurker_descr">
+		<text>Gruba skóra zdjęta z lurkera, niemal całkowicie pokryta futrem. Mutanty te są dosyć odporne na obrażenia i potrafią przyjąć solidne obrażenia. Odpowiedzialna za to jest duża masa mięśniowa tych mutantów i bogate w wapń, bardzo odporne na złamanie kości.\n \nSkóry lurkerów znane są ze swojej wytrzymałości, dzięki której mogą poprawić właściwości pancerza. Duża ilość futra z kolei zapewnia dobrą izolację cieplną. Można jej także użyć do lekkich napraw.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] lekka skóra mutanta \n
+		%c[d_cyan] • %c[ui_gray_2] wydajność kilku sztuk kumuluje się\n
+		</text>
+	</string>
+	
+	<string id="st_hide_burer_name">
+		<text>Skóra burera</text>
+	</string>
+	<string id="st_hide_burer_descr">
+		<text>Skórowanie burera przypomina skórowanie pokracznego karła. Jeśli dodać do tego okrutny fetor, przypominający smród zgniłych jaj, można zrozumieć, dlaczego stalkerzy naprawdę rzadko podejmują się tego wyzwania.\n \nPraktyka pokazuje, że skóra zapewnia raczej słabą ochronę fizyczną, jednak założona na głowę potrafi absorbować i rozpraszać spore ilości promieniowania psionicznego. Co więcej, jako że burery są endemicznie występującym i rzadko spotykanym w Zonie gatunkiem, ich skóra jest bardzo pożądanym przez naukowców obiektem badań, przez co stanowi wartościowy towar handlowy. \n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] lekka skóra mutanta\n
+		%c[d_cyan] • %c[ui_gray_2] rzadka próbka doświadczalna\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[d_cyan] • %c[ui_gray_2] wydajność kilku sztuk kumuluje się\n
+		</text>
+	</string>
+	
+	<string id="st_hide_chimera_name">
+		<text>Skóra chimery</text>
+	</string>
+	<string id="st_hide_chimera_descr">
+		<text>Chimera, jeden z najsilniejszych mutantów w Zonie, jest dla stalkerów nie tylko zagrożeniem, ale przy odrobinie szczęścia także źródłem dobrego zarobku. Wszystkie części ciała chimery można odsprzedać z zyskiem, ale zdecydowanie najbardziej wartościowym materiałem jest skóra.\n \nJest ona jedną z najcenniejszych próbek naukowych w Zonie, toteż naukowcy są skłonni słono za nie zapłacić, zaś dzięki wytrzymałości i lekkości jest też niezwykle ceniona jako wzmocnienie pancerza. Najbardziej niezwykłą właściwością skóry jest obecność we wszystkich jej warstwach włókien charakteryzujących się bardzo wysoką przewodnością elektryczną.\n \nPotwierdzałoby to doniesienia niektórych jednostek rozpoznawczych (zwłaszcza działających w pobliżu Kompleksu Przemysłowego AMK) o obecności w Zonie szczególnego gatunku chimery, której ciało otoczone jest swego rodzaju anomalią elektryczną, rażącą wrogów wyładowaniami elektrycznymi o dużym natężeniu. Niestety żaden z tych oddziałów nie wrócił, więc do tej pory nie zebrano konkretnych dowodów na istnienia takiego mutanta.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] ciężka skóra mutanta\n
+		%c[d_cyan] • %c[ui_gray_2] bardzo rzadka próbka doświadczalna\n
+		%c[d_cyan] • %c[ui_gray_2] niezwykle wartościowy\n
+		%c[d_cyan] • %c[ui_gray_2] wydajność kilku sztuk kumuluje się\n
+		</text>
+	</string>
+	
+	<string id="st_hide_pseudogiant_name">
+		<text>Skóra nibyolbrzyma</text>
+	</string>
+	<string id="st_hide_pseudogiant_descr">
+		<text>Skóra nibyolbrzyma jest pod wieloma względami podobna do skóry słonia. Jest gruba i twarda w dotyku, jej faktura jest bardzo nieregularna, pełna zgrubień i fałd, które pełnią istotną funkcję przy termoregulacji. Średnia grubość skóry wynosi 2 cm, co czyni ją bardzo wytrzymałą i odporną na uszkodzenia, lecz niestety przekłada się na jej dużą wagę.\n \nJako że nibyolbrzymy występują głównie na terenach o podwyższonej radiacji i toksyczności, ich skóra jest naturalnie dostosowana do takich warunków, co dodatkowo zwiększa jej przydatność. Można nią skutecznie łatać nawet najcięższe pancerze, lecz do jej obróbki wymagane są najbardziej wytrzymałe i najdroższe z dostępnych narzędzi.\n \nSkóra jest cenna nie tylko ze względu na swoją wartość użytkową, ale też jako cenne trofeum łowieckie oraz rzadki materiał badawczy.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] bardzo ciężka skóra mutanta\n
+		%c[d_cyan] • %c[ui_gray_2] próbka doświadczalna\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[d_cyan] • %c[ui_gray_2] wydajność kilku sztuk kumuluje się\n
+		</text>
+	</string>
+	
+	<string id="st_hide_controller_name">
+		<text>Skalp kontrolera</text>
+	</string>
+	<string id="st_hide_controller_descr">
+		<text>Tak jak w przypadku innych humanoidów, oskalpowanie kontrolera jest bardzo obciążającym emocjonalnie zadaniem, tym bardziej że jego twarz zachowuje pewne cechy charakterystyczne człowieka, którym niegdyś był. Z poufnych danych wojskowych wynika również, iż odciski palców zdjęte z rąk kontrolera można odnaleźć w odpowiedniej bazie danych, identyfikując tym samym osobę, która stała się mutantem.\n \nNajnowsze badania wykazały, że to całe ciało kontrolera, a nie - jak uważano dotychczas - wyłącznie jego ręka, uczestniczy w produkcji fal promieniowania psionicznego. Odpowiednio wyprawiony skalp może zatem absorbować energię psioniczną, ale użycie jednej sztuki nie wystarczy, żeby w zadowalającym stopniu ochronić całą głowę. Tak jak w przypadku innych humanoidalnych istot aktywnie używających energii psionicznej, skalp kontrolera jest przewodnikiem elektrycznym.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] lekka skóra mutanta\n
+		%c[d_cyan] • %c[ui_gray_2] rzadka próbka doświadczalna\n
+		%c[d_cyan] • %c[ui_gray_2] bardzo wartościowy\n
+		%c[d_cyan] • %c[ui_gray_2] wydajność kilku sztuk kumuluje się\n
+		</text>
+	</string>
+	
+	<string id="st_hide_pseudodog_name">
+		<text>Futro nibypsa</text>
+	</string>
+	<string id="st_hide_pseudodog_descr">
+		<text>Gęsto pokryta krótką i sztywną sierścią skóra nibypsa jest jedną z najbardziej przydatnych i najpowszechniej spotykanych w Zonie skór mutantów. Nawet za pomocą najsłabszych narzędzi bardzo łatwo przyczepia się ją do pancerzy, a jednocześnie jest dość wytrzymała, przez co nadaje się do napraw kombinezonów średniej klasy.\n \nJeśli użyć jej w całości, pozwala na pokrycie większości powierzchni ciała, tworząc osłonę zwiększającą odporność na obrażenia fizyczne oraz termiczne, a także będącą skutecznym izolatorem elektrycznym. Z drugiej strony - jak wszystkie futra - łatwo zbiera radioaktywne i toksyczne cząstki, dlatego zaleca się jego zdjęcie przed wejściem na skażone tereny.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] średnia skóra mutanta\n
+		%c[d_cyan] • %c[ui_gray_2] wydajność kilku sztuk kumuluje się\n
+		</text>
+	</string>
+	
+	<string id="st_hide_psy_dog_name">
+		<text>Futro nibypsa psionicznego</text>
+	</string>
+	<string id="st_hide_psy_dog_descr">
+		<text>Futro nibypsa psionicznego jest bezsprzecznie jednym z najpiękniejszych i najrzadszych materiałów kuśnierskich na świecie. Przeważnie śnieżnobiałe lub szare, zrobiło zawrotną karierę w świecie mody. Zawdzięcza ją najprawdopodobniej tej części przemytników, którzy w ostatnim czasie dostrzegli swoją szansę w polowaniach na mutanty.Futro cieszy się ogromnym popytem, dzięki czemu można za nie dostać konkretne pieniądze.\n \nStalkerom wewnątrz Zony służy jako okrycie podczas chłodnych nocy i zapewnia skuteczną ochronę przed zadrapaniami, a także w niewielkim stopniu zmniejsza podatność na promieniowanie psioniczne. Z drugiej strony - jak wszystkie futra - łatwo zbiera radioaktywne i toksyczne cząstki, dlatego zaleca się jego zdjęcie przed wejściem na skażone tereny. Myśliwi z dumą noszą je jako trofeum, lecz jedynie pod warunkiem, że zdobyli je własnoręcznie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] średnia skóra mutanta\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		%c[d_cyan] • %c[ui_gray_2] wydajność kilku sztuk kumuluje się\n
+		</text>
+	</string>
+	
+	<string id="st_powder_poltergeist">
+		<text>Proszek diamentowy</text>
+	</string>
+	<string id="st_powder_poltergeist_descr">
+		<text>Proszkiem diamentowym nazywa się substancję o konsystencji kryształów, czasem znajdowaną w trzewiach mutantów psionicznych. Do tej pory nie ustalono, jakie procesy metaboliczne odpowiadają za krystalizację. Z tego powodu naukowcy gotowi są zapłacić duże kwoty za dostarczenie im próbek.\n \nProszek nie ma zbyt wielu praktycznych zastosowań, chociaż niektórzy łowcy osypują nim krawędzie ulubionych noży, co podobno znacznie ułatwia ich ostrzenie. Ponadto sprawia, że są one bardziej błyszczące i wyglądają na dobrze utrzymywane.\n \n
+		%c[d_cyan] • %c[ui_gray_2] produkt metabolizmu mutantów psionicznych\n
+		%c[d_cyan] • %c[ui_gray_2] bardzo rzadka próbka doświadczalna\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n
+		</text>
+	</string>
+	
+</string_table>

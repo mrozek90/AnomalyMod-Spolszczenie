@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Upgrading Parts
+-->
+
+<string_table>
+
+	<string id="st_broneplastina_seva">
+		<text>Płyty pancerne SEVA (ulepszenie)</text>
+	</string>
+	<string id="st_broneplastina_seva_descr">
+		<text>Pancerna płyta poprawiająca właściwości kombinezonu SEVA.\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_01_name">
+		<text>Stalowe płyty</text>
+	</string>
+	<string id="upgr_1_01_description">
+		<text>Zestaw stalowych płyt o różnej długości, szerokości, grubości i kształcie.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] stal\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości lekkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_01_name">
+		<text>Grube ramy</text>
+	</string>
+	<string id="upgr_2_01_description">
+		<text>Zestaw różnych ram i urządzeń do poprawy właściwości ochronnych kombinezonu.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] metal i plastiki\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości lekkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_01_name">
+		<text>Kolczuga</text>
+	</string>
+	<string id="upgr_3_01_description">
+		<text>Ręcznie robiona kolczuga wykonana z małych stalowych pierścieni.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] stal\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości lekkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_02_name">
+		<text>Gumowana wkładka</text>
+	</string>
+	<string id="upgr_1_02_description">
+		<text>Arkusz trwałej, gumowanej tkaniny przemysłowej.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] guma\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości lekkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_02_name">
+		<text>Brezent</text>
+	</string>
+	<string id="upgr_2_02_description">
+		<text>Duży kawałek wytrzymałej przemysłowej tkaniny.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] tkanina\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości lekkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_03_name">
+		<text>Tkanina ogniotrwała</text>
+	</string>
+	<string id="upgr_2_03_description">
+		<text>Rolka tkaniny ogniotrwałej, zdolnej przez krótki czas wytrzymać wysokie temperatury.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] tkanina\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości lekkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_03_name">
+		<text>Kamizelka taktyczna</text>
+	</string>
+	<string id="upgr_1_03_description">
+		<text>Kamizelka z dodatkową podszewką, wyposażona w kilka pojemnych kieszeni.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] tkanina\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości lekkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_04_name">
+		<text>Płyty poliwęglanowe</text>
+	</string>
+	<string id="upgr_1_04_description">
+		<text>Zestaw płyt poliwęglanowych o różnej długości, szerokości, grubości i kształcie.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] poliwęglany\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości lekkich i średnich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_04_name">
+		<text>Poliwęglanowa warstwa pancerza</text>
+	</string>
+	<string id="upgr_2_04_description">
+		<text>Dodatkowa warstwa pancerza z elementami ochronnymi, przeznaczona do użycia w pancerzach osobistych.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] poliwęglany\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości lekkich i średnich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_02_name">
+		<text>Płyty ceramiczne</text>
+	</string>
+	<string id="upgr_3_02_description">
+		<text>Zestaw płyt ceramicznych o różnej długości, szerokości, grubości i kształcie.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] ceramika\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości lekkich i średnich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_05_name">
+		<text>Lekkie materiały polimerowe</text>
+	</string>
+	<string id="upgr_1_05_description">
+		<text>Zestaw lekkich polimerów o różnej długości, szerokości, grubości i kształcie, a także o różnych właściwościach.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] polimery\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości lekkich i średnich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_05_name">
+		<text>Wkładki magnezowe</text>
+	</string>
+	<string id="upgr_2_05_description">
+		<text>Zestaw ogniotrwałych, zawierających magnez materiałów  o różnej długości, szerokości, grubości i kształcie.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] zawiera magnez\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości lekkich i średnich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_06_name">
+		<text>Wkładki plastikowe</text>
+	</string>
+	<string id="upgr_2_06_description">
+		<text>Zestaw elementów z tworzyw sztucznych o różnej długości, szerokości, grubości i kształcie.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] plastik\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości lekkich i średnich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_03_name">
+		<text>Materiały do obróbki tkanin</text>
+	</string>
+	<string id="upgr_3_03_description">
+		<text>Związki chemiczne do obróbki tkanin, mogące poprawić właściwości ochronne kombinezonu przed zagrożeniem chemicznym.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] chemikalia\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości lekkich i średnich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_04_name">
+		<text>Gumowana tkanina</text>
+	</string>
+	<string id="upgr_3_04_description">
+		<text>Rolka wytrzymałej, gumowanej tkaniny.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] tkanina\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości lekkich i średnich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_06_name">
+		<text>Butla tlenowa</text>
+	</string>
+	<string id="upgr_1_06_description">
+		<text>Butla wypełniona tlenem. Jest przeznaczona do oddychania w środowiskach toksycznych, a także w miejscach o rozrzedzonym powietrzu, na przykład w wysokich górach.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] specjalne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości lekkich i średnich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_07_name">
+		<text>Zintegrowany system ochrony zdrowia</text>
+	</string>
+	<string id="upgr_2_07_description">
+		<text>Złożone urządzenie medyczne zaprojektowane do automatycznego podawania niezbędnych leków.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] skomplikowany produkt medyczny\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości lekkich i średnich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] wartościowe\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_08_name">
+		<text>Mocownia rozkładające obciążenie</text>
+	</string>
+	<string id="upgr_2_08_description">
+		<text>Zestaw różnych elementów mocujących do rozłożenia obciążenia.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] techniczne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_05_name">
+		<text>Mocowania uchwytów (wzmocnione)</text>
+	</string>
+	<string id="upgr_3_05_description">
+		<text>Dodatkowe uchwyty do umieszczenia na pasie większej liczby jednocześnie używanych modułów i pojemników na artefakty. \n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] techniczne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_07_name">
+		<text>Wzmocnione serwomotory (prototyp, wer. 1)</text>
+	</string>
+	<string id="upgr_1_07_description">
+		<text>Udoskonalone, prototypowe serwomotory dla egzoszkieletów I i II generacji, pozwalające użytkownikowi na bieganie.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] techniczne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] wartościowe\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_06_name">
+		<text>Zestaw tkanin Suweren</text>
+	</string>
+	<string id="upgr_3_06_description">
+		<text>Specjalne wzmacniane tkaniny, zaprojektowane w celu zwiększenia wytrzymałości i trwałości. \n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] chemiczne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] wartościowe\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_09_name">
+		<text>Mocowania uchwytów (standardowe)</text>
+	</string>
+	<string id="upgr_2_09_description">
+		<text>Dodatkowe uchwyty do umieszczenia na pasie większej liczby jednocześnie używanych modułów i pojemników na artefakty. \n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] techniczne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_08_name">
+		<text>Płyty kevlarowe</text>
+	</string>
+	<string id="upgr_1_08_description">
+		<text>Zestaw płyt kevlarowych o różnej długości, szerokości, grubości i kształcie.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] kevlar\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości lekkich i średnich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_10_name">
+		<text>Druga warstwa pancerza</text>
+	</string>
+	<string id="upgr_2_10_description">
+		<text>Specjalnie wyłożona warstwa pancerza z dodatkowymi elementami ochronnymi, przeznaczona do użycia w pancerzach osobistych.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] płyty pancerne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości lekkich i średnich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_09_name">
+		<text>Gumowe wstawki</text>
+	</string>
+	<string id="upgr_1_09_description">
+		<text>Specjalnie wyłożone gumowe wstawki do kamizelek kuloodpornych.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] guma\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości lekkich i średnich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_11_name">
+		<text>Gumowa podszewka</text>
+	</string>
+	<string id="upgr_2_11_description">
+		<text>Specjalna, gumowa podszewka zapewniająca odporność na działanie promieniowania i chemikaliów, przeznaczona do montażu w kombinezonach w celu poprawy ich właściwości ochronnych.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] guma\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości lekkich i średnich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_07_name">
+		<text>Rama ochronna</text>
+	</string>
+	<string id="upgr_3_07_description">
+		<text>Rama dopasowana do obwodu kamizelki kuloodpornej, zaprojektowana w celu poprawy właściwości ochronnych kombinezonów opancerzonych. \n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] polimery\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] wartościowe\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_08_name">
+		<text>System podtrzymywania życia Wariag</text>
+	</string>
+	<string id="upgr_3_08_description">
+		<text>Złożone urządzenie medyczne przeznaczone do automatycznego podawania leków. \n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] polimery\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] wartościowe\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_09_name">
+		<text>Polimerowe wstawki z bizmutu</text>
+	</string>
+	<string id="upgr_3_09_description">
+		<text>Polimerowe materiały ochronne wykonane z bizmutu o podwyższonej odporności na działania chemikaliów i wysokich temperatur. \n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] polimery\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_10_name">
+		<text>Siatka ołowiana</text>
+	</string>
+	<string id="upgr_3_10_description">
+		<text>Zwykła ołowiowa siatka.  \n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] ołów\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_10_name">
+		<text>Kompensacyjna warstwa pancerza</text>
+	</string>
+	<string id="upgr_1_10_description">
+		<text>Specjalnie wykonane płyty pancerne, nieznacznie zwiększające odporność na ostrzał.  \n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] metal\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_12_name">
+		<text>Rama aluminiowa</text>
+	</string>
+	<string id="upgr_2_12_description">
+		<text>Uniwersalna aluminiowa rama do wmontowania w średnie pancerze. Zastępuje ramy stalowe i tytanowe. Pozwala zmniejszyć ciężar pancerza, jednak kosztem obniżonej wytrzymałości. \n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] aluminium\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_11_name">
+		<text>Matryce tytanowe i berylowe</text>
+	</string>
+	<string id="upgr_3_11_description">
+		<text>Zestaw matryc tytanowych i berylowych połączonych z solidną płytą pancerną wysokiej jakości.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] wzmocnione płyty pancerne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_11_name">
+		<text>Wstawki polimerowe</text>
+	</string>
+	<string id="upgr_1_11_description">
+		<text>Specjalne polimerowe wstawki do zamontowania w lekkich i średnich kombinezonach opancerzonych zamiast tkaniny. Zwiększa wytrzymałość i żywotność kombinezonu. \n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] polimery\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_13_name">
+		<text>Izolacja termiczna z konstantanu</text>
+	</string>
+	<string id="upgr_2_13_description">
+		<text>Specjalna warstwa izolacji termicznej z konstantanu.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] konstantan\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_12_name">
+		<text>Zestaw ochronny SBK</text>
+	</string>
+	<string id="upgr_3_12_description">
+		<text>Specjalny zestaw zwiększający odporność na działanie chemikaliów i promieniowania.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] guma\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_12_name">
+		<text>System gojenia ran Doktor</text>
+	</string>
+	<string id="upgr_1_12_description">
+		<text>Urządzenie medyczne przeznaczone do ciągłego podawania leków w warunkach bojowych. \n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] urządzenie medyczne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] wartościowe\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_13_name">
+		<text>Włókno węglowe</text>
+	</string>
+	<string id="upgr_3_13_description">
+		<text>Lekkie płyty pancerne z włókna węglowego o wysokiej lepkości i doskonałym działaniu hamującym.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] polimery\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_14_name">
+		<text>Pleksiglas</text>
+	</string>
+	<string id="upgr_2_14_description">
+		<text>Zestaw płyt z pleksiglasu o różnych długościach, szerokościach, grubościach i kształtach\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] polimery\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_15_name">
+		<text>Elastyczne wkładki plastikowe</text>
+	</string>
+	<string id="upgr_2_15_description">
+		<text>Zestaw elastycznych, plastikowych elementów o różnej długości, szerokości, grubości i kształcie.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] polimery\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_14_name">
+		<text>Ogniotrwałe wkładki niklowe</text>
+	</string>
+	<string id="upgr_3_14_description">
+		<text>Lekkie, ognioodporne wkładki wykonane z niklu.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] nikiel\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_13_name">
+		<text>Complex Marathoner</text>
+	</string>
+	<string id="upgr_1_13_description">
+		<text>Urządzenie medyczne przeznaczone do ciągłego podawania leków w warunkach bojowych.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] urządzenie medyczne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] wartościowe\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_16_name">
+		<text>Elektrostatyczny system ochrony Skat</text>
+	</string>
+	<string id="upgr_2_16_description">
+		<text>Specjalne urządzenie mierzące napięcie i natężenie prądu. Zwiększa ochronę przed porażeniem elektrycznym.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot naukowy\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_14_name">
+		<text>Hemostymulator</text>
+	</string>
+	<string id="upgr_1_14_description">
+		<text>Urządzenie medyczne przeznaczone do ciągłego podawania leków w warunkach bojowych. \n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] urządzenie medyczne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] wartościowe\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_17_name">
+		<text>Biostymulator Solar</text>
+	</string>
+	<string id="upgr_2_17_description">
+		<text>Urządzenie medyczne wyposażone w ogniwa słoneczne do ciągłego podawania leków w warunkach bojowych. \n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] urządzenie medyczne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] wartościowe\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_15_name">
+		<text>Neuroemiter</text>
+	</string>
+	<string id="upgr_3_15_description">
+		<text>Przenośne urządzenie badawcze, mierzące wpływ fal psionicznych na organizmy żywe.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot naukowy\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] wartościowe\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_15_name">
+		<text>Płyty tytanowo-aluminiowe</text>
+	</string>
+	<string id="upgr_1_15_description">
+		<text>Trwałe płyty pancerne ze stopu tytanu i aluminium. \n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] stop metali\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_16_name">
+		<text>Lokalizator artefaktów</text>
+	</string>
+	<string id="upgr_1_16_description">
+		<text>Przenośne urządzenie naukowe do trójwymiarowego pomiaru położenia artefaktów\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot naukowy\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] wartościowe\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_16_name">
+		<text>Magnezowe wkładki izolacyjne</text>
+	</string>
+	<string id="upgr_3_16_description">
+		<text>Zestaw ochronnych wkładek magnezowych, zaprojektowanych w celu zmniejszenia wpływu ładunków elektrycznych na pancerz.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] zawiera magnez\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_17_name">
+		<text>Wkładki polimerowe</text>
+	</string>
+	<string id="upgr_1_17_description">
+		<text>Specjalne lekkie wkładki wykonane z organicznego polimeru.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] polimery\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_18_name">
+		<text>Ochrona segmentowa</text>
+	</string>
+	<string id="upgr_2_18_description">
+		<text>Zestaw ochronnych płyt pancernych, które można ze sobą łączyć w celu zwiększenia powierzchni. \n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] polimery\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_19_name">
+		<text>Płyty aluminiowo-tytanowe</text>
+	</string>
+	<string id="upgr_2_19_description">
+		<text>Zestaw ochronnych płyt pancernych wykonanych z tytanu i aluminium. \n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] metal\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_17_name">
+		<text>Szafirowe kryształy</text>
+	</string>
+	<string id="upgr_3_17_description">
+		<text>Syntetyczne kryształy wykonane z szafiru. Bardzo wytrzymałe.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] zawiera magnez\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_20_name">
+		<text>Izolacja konstantanowa</text>
+	</string>
+	<string id="upgr_2_20_description">
+		<text>Zestaw płytek wykonanych z konstantanu, zwiększający ochronę przed porażeniem elektrycznym.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] polimery\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_21_name">
+		<text>Izolacja termiczna z włókna szklanego</text>
+	</string>
+	<string id="upgr_2_21_description">
+		<text>Zestaw płytek wykonanych z włókna szklanego, zwiększający ochronę przed wysoką temperaturą.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] polimery\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_22_name">
+		<text>System filtracji toksyn</text>
+	</string>
+	<string id="upgr_2_22_description">
+		<text>Przenośne urządzenie medyczne do filtrowania toksyn z ludzkiego organizmu.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] urządzenie medyczne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] wartościowe\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_18_name">
+		<text>Iniektor Furia</text>
+	</string>
+	<string id="upgr_1_18_description">
+		<text>Przenośne urządzenie medyczne do iniekcji dożylnych w warunkach bojowych.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] urządzenie medyczne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] wartościowe\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_23_name">
+		<text>Iniektor Furia</text>
+	</string>
+	<string id="upgr_2_23_description">
+		<text>Przenośne urządzenie medyczne do iniekcji dożylnych w warunkach bojowych.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] urządzenie medyczne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] wartościowe\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_18_name">
+		<text>System uzdrawiania Feniks</text>
+	</string>
+	<string id="upgr_3_18_description">
+		<text>Przenośne urządzenie medyczne do iniekcji dożylnych w warunkach bojowych.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] urządzenie medyczne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] wartościowe\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_24_name">
+		<text>Wkładki ołowiane</text>
+	</string>
+	<string id="upgr_2_24_description">
+		<text>Bardzo ciężkie płyty z ołowiu.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] ołów\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_25_name">
+		<text>Kamizelka Druga Skóra</text>
+	</string>
+	<string id="upgr_2_25_description">
+		<text>Pancerna podszewka kamizelki, zapewniająca dodatkową ochronę przed pociskami.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] podszewka\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_26_name">
+		<text>Zapasowa warstwa pancerza</text>
+	</string>
+	<string id="upgr_2_26_description">
+		<text>Kevlarowe płyty pancerza, zainstalowane jako dodatkowe lub rezerwowe opancerzenie dla średnich i ciężkich kombinezonów.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] płyty pancerne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_19_name">
+		<text>Wzmocnione płyty ceramiczne</text>
+	</string>
+	<string id="upgr_3_19_description">
+		<text>Grube i wzmocnione płyty ceramiczne do umieszczenia w ciężkich kombinezonach.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] ceramika\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_20_name">
+		<text>Części plastikowe i syntetyczne</text>
+	</string>
+	<string id="upgr_3_20_description">
+		<text>Syntetyczne i plastikowe części z różnych kombinezonów, opracowane w celu zmniejszenia ciężaru pancerza oraz zwiększenia mobilności i wytrzymałości.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] polimery\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_19_name">
+		<text>Warstwa syntetyczna (płótno)</text>
+	</string>
+	<string id="upgr_1_19_description">
+		<text>Mocna tkanina syntetyczna do wszywania w stroje i pancerze.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] polimery\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_27_name">
+		<text>Urządzenie rozkładające ciężar</text>
+	</string>
+	<string id="upgr_2_27_description">
+		<text>Urządzenie do montażu w kombinezonach opancerzonych, mające na celu zwiększenie udźwigu.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] techniczne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_20_name">
+		<text>System ochrony przeciwpyłowej</text>
+	</string>
+	<string id="upgr_1_20_description">
+		<text>Wbudowany system ochrony przeciwpyłowej z wymiennymi filtrami.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] techniczne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_28_name">
+		<text>Stymulator psioniczny Wyrocznia</text>
+	</string>
+	<string id="upgr_2_28_description">
+		<text>Urządzenie naukowe, który nieznacznie zmniejsza wrażliwość na oddziaływania psioniczne.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot naukowy\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] wartościowe\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_21_name">
+		<text>System podtrzymywania życia</text>
+	</string>
+	<string id="upgr_3_21_description">
+		<text>Przenośny system podtrzymywania życia do stabilizacji stanów krytycznych.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] urządzenie medyczne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] wartościowe\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_21_name">
+		<text>Filtry aktywne</text>
+	</string>
+	<string id="upgr_1_21_description">
+		<text>Wbudowany system filtrów aktywnych.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] techniczne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_29_name">
+		<text>Powłoka ochronna</text>
+	</string>
+	<string id="upgr_2_29_description">
+		<text>Osłona ekranująca do hełmów i kombinezonów opancerzonych, nieznacznie zmniejszająca efekty działania fal psionicznych.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] specjalne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] wartościowe\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_30_name">
+		<text>Analogowe gogle noktowizyjne 1PN93-1</text>
+	</string>
+	<string id="upgr_2_30_description">
+		<text>Wojskowe urządzenie noktowizyjne do prowadzenia działań w ciemności.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wojskowy\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] wartościowe\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_22_name">
+		<text>Powłoka ochronna</text>
+	</string>
+	<string id="upgr_3_22_description">
+		<text>Specjalna podszewka do hełmu, zmniejszająca efekty działania fal psionicznych \n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot naukowy\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] wartościowe\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_23_name">
+		<text>System chłodzenia Wiatr Jonowy</text>
+	</string>
+	<string id="upgr_3_23_description">
+		<text>System chłodzenia do stosowania w średnich i ciężkich kombinezonach pancerza, zwiększający wytrzymałość.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] wyposażenie naukowe\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] wartościowe\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_31_name">
+		<text>Gogle noktowizyjne PN21KL</text>
+	</string>
+	<string id="upgr_2_31_description">
+		<text>Cyfrowy noktowizor wojskowy do prowadzenia działań w ciemności. Generuje obraz w odcieniach szarości.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wojskowy\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] wartościowe\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_32_name">
+		<text>Gogle noktowizyjne PN2KL</text>
+	</string>
+	<string id="upgr_2_32_description">
+		<text>Cyfrowy noktowizor wojskowy do prowadzenia działań w ciemności. Podświetla obraz na fioletowo.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wojskowy\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] wartościowe\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_22_name">
+		<text>System oczyszczania maski oddechowej</text>
+	</string>
+	<string id="upgr_1_22_description">
+		<text>Zintegrowany system oczyszczania masek przeciwgazowych oraz hełmów.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] techniczne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości hełmów\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_33_name">
+		<text>Filtr węglowy</text>
+	</string>
+	<string id="upgr_2_33_description">
+		<text>Dodatkowy, wymienny filtr węglowy.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] techniczne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości hełmów\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_24_name">
+		<text>Antena ochronna</text>
+	</string>
+	<string id="upgr_3_24_description">
+		<text>Antena ochronna przeznaczona do montażu w maskach gazowych i hełmach. Zapewnia niewielką ochronę przed wpływem fal psionicznych. \n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] wyposażenie naukowe\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości średnich i ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_23_name">
+		<text>Respirator przeznaczony do dwóch filtrów</text>
+	</string>
+	<string id="upgr_1_23_description">
+		<text>Element maski zastępujący jeden filtr dwoma.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] techniczne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości hełmów\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_24_name">
+		<text>Filtr cząstek stałych</text>
+	</string>
+	<string id="upgr_1_24_description">
+		<text>Filtr ochronny, zapobiegający przedostawaniu się do organizmu szkodliwych cząstek przez układ oddechowy.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] techniczne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości hełmów\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_34_name">
+		<text>Filtr toksyn</text>
+	</string>
+	<string id="upgr_2_34_description">
+		<text>Filtr ochronny, zapobiegający przedostawaniu się do organizmu toksyn i chemikaliów przez układ oddechowy.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] techniczne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości hełmów\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_35_name">
+		<text>Maska z konstantanu</text>
+	</string>
+	<string id="upgr_2_35_description">
+		<text>Maska ochronna wykonana z konstantanu, zwiększająca odporność na chemikalia i wysokie temperatury.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] konstantan\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości hełmów\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_25_name">
+		<text>Usprawniony filtr toksyn</text>
+	</string>
+	<string id="upgr_1_25_description">
+		<text>Filtr z dodatkową powłoką ochronną, zapobiegający przedostawaniu się do organizmu toksyn i chemikaliów przez układ oddechowy.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] techniczne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości hełmów\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_36_name">
+		<text>Urządzenie SPB-VPZ.m.IV</text>
+	</string>
+	<string id="upgr_2_36_description">
+		<text>Nowoczesny system ochrony, zwiększający ochronę przed wpływem fal psionicznych.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] wyposażenie naukowe\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości hełmów\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_26_name">
+		<text>Wzmocnione części tytanowe</text>
+	</string>
+	<string id="upgr_1_26_description">
+		<text>Wzmacniane części egzoszkieletu wykonane z tytanu i jego stopów.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] tytanowe\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_37_name">
+		<text>Płyty ruchome</text>
+	</string>
+	<string id="upgr_2_37_description">
+		<text>Dodatkowe, stalowe płyty ochronne przeznaczone do egzoszkieletów i ciężkich pancerzy.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] stal\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_38_name">
+		<text>Ochrona segmentowa</text>
+	</string>
+	<string id="upgr_2_38_description">
+		<text>Zestaw cienkich płyt pancernych o różnej długości, szerokości i kształcie do umieszczenia w egzoszkieletach i ciężkich kombinezonach opancerzonych.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] stal\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_25_name">
+		<text>Pancerz tytanowy</text>
+	</string>
+	<string id="upgr_3_25_description">
+		<text>Wzmocnione tytanowe płyty pancerza o różnych długościach, szerokościach i kształtach do umieszczenia w egzoszkieletach i ciężkich kombinezonach opancerzonych. \n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] tytanowe\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_26_name">
+		<text>Wielowarstwowa ochrona</text>
+	</string>
+	<string id="upgr_3_26_description">
+		<text>Wielowarstwowe polimerowo-ceramiczne płyty pancerne o różnych długościach, szerokościach i kształtach do umieszczenia w egzoszkieletach i ciężkich kombinezonach opancerzonych. \n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] ceramika\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_27_name">
+		<text>Silikonowe amortyzatory</text>
+	</string>
+	<string id="upgr_1_27_description">
+		<text>Wzmocnione amortyzatory silikonowe, przeznaczone do zastąpienia amortyzatorów gumowych.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] polimery\n
+		%c[d_blue] • %c[ui_gray_2] używany do ulepszenia ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_27_name">
+		<text>Zestaw polimerowy z wstawkami z bizmutu</text>
+	</string>
+	<string id="upgr_3_27_description">
+		<text>Ochronna podszewka kombinezonu wykonana z materiałów polimerowych z dużą ilością bizmutu. \n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] polimery\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_28_name">
+		<text>Wkładki aluminiowe</text>
+	</string>
+	<string id="upgr_3_28_description">
+		<text>Aluminiowe odpowiedniki kilku części z tworzyw sztucznych, przeznaczone do egzoszkieletów i ciężkich kombinezonów opancerzonych. \n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] aluminium\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_28_name">
+		<text>Zintegrowany system kontroli temperatury</text>
+	</string>
+	<string id="upgr_1_28_description">
+		<text>Zintegrowany system kontroli temperatury do montażu w systemach podtrzymywania życia egzoszkieletów i ciężkich kombinezonów opancerzonych.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] urządzenie medyczne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_39_name">
+		<text>System ochrony elementów ruchomych</text>
+	</string>
+	<string id="upgr_2_39_description">
+		<text>Zestaw ochronnych płyt pancernych o różnych długościach, szerokościach i kształtach do wstawiania w ruchome elementy egzoszkieletów i ciężkich kombinezonów opancerzonych.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] stal\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_29_name">
+		<text>System ruchowy Piechur</text>
+	</string>
+	<string id="upgr_3_29_description">
+		<text>System z dodatkowymi sprężynami i ruchomymi częściami do egzoszkieletów i ciężkich kombinezonów opancerzonych. \n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] stal\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości ciężkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_30_name">
+		<text>Hydrauliczny system wzmacniania serwomotorów</text>
+	</string>
+	<string id="upgr_3_30_description">
+		<text>Hydrauliczny system wspomagający dla serwomotorów egzoszkieletów i ciężkich kombinezonów opancerzonych. \n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] techniczne\n
+		%c[d_blue] • %c[ui_gray_2] używany do poprawy właściwości ciężkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] wartościowe\n
+		</text>
+	</string>
+	
+</string_table>

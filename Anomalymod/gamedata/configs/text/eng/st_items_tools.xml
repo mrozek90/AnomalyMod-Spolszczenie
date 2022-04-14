@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Usable Items (Special Purposes)
+-->
+
+<string_table>
+	
+	<string id="st_itm_repairkit_tier_1_name">
+		<text>Narzędzia podstawowe</text>
+	</string>
+	<string id="st_itm_basickit_name">
+		<text>Narzędzia podstawowe</text>
+	</string>
+	<string id="st_itm_basickit_descr">
+		<text>Podstawowy zestaw naprawczy. Narzędzia raczej nie nadają się do specjalistycznych napraw, ale w rękach przyzwyczajonego do oszczędności technika mogą okazać się bardzo przydatne. Zestaw zawiera różne rodzaje i rozmiary szczypiec, śrub i wkrętów, a także spoiwa i pomieszane złączki. Z odpowiednią wiedzą i doświadczeniem zestawu można użyć do tworzenia podstawowego wyposażenia.\n \n%c[ui_gray_3]UWAGI:\n%c[0,250,250,0] • %c[ui_gray_2] Technik może ich użyć do modyfikacji broni i pancerza.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_purple] • %c[ui_gray_2] można użyć w warsztacie technika do tworzenia\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		%c[d_red] • %c[ui_gray_2] wymaga odpowiednich materiałów\n</text>
+	</string>
+
+	<string id="st_itm_repairkit_tier_2_name">
+		<text>Narzędzia zaawansowane</text>
+	</string>
+	<string id="st_itm_advancedkit_name">
+		<text>Narzędzia zaawansowane</text>
+	</string>
+	<string id="st_itm_advancedkit_descr">
+		<text>Przyzwoity zestaw nieco podstarzałych narzędzi. Pomimo wieku wydają się być w niezłym stanie. Zawierają zestaw cążków, kilka pęset z różnymi końcówkami, sondę i zestaw hakowato zakończonych dźwigni ślusarskich. Z odpowiednią wiedzą i doświadczeniem zestawu można użyć do tworzenia solidnego wyposażenia.\n \n%c[ui_gray_3]UWAGI:\n%c[0,250,250,0] • %c[ui_gray_2] Technik może ich użyć do modyfikacji broni i pancerza.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_purple] • %c[ui_gray_2] można użyć w warsztacie technika do tworzenia\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		%c[d_red] • %c[ui_gray_2] wymaga odpowiednich materiałów\n</text>
+	</string>
+	
+	<string id="st_itm_repairkit_tier_3_name">
+		<text>Narzędzia precyzyjne</text>
+	</string>
+	<string id="st_itm_expertkit_name">
+		<text>Narzędzia precyzyjne</text>
+	</string>
+	<string id="st_itm_expertkit_descr">
+		<text>Profesjonalny zestaw narzędzi wysokiej jakości do precyzyjnego dostosowywania elementów wyposażenia. Zawiera komplet wierteł, precyzyjne pęsety, lutownicę, końcówkę wkrętaka 4 mm i miernik uniwersalny. Z odpowiednią wiedzą i doświadczeniem zestawu można użyć do tworzenia zaawansowanego wyposażenia.\n \n%c[ui_gray_3]UWAGI:\n%c[0,250,250,0] • %c[ui_gray_2] Technik może ich użyć do modyfikacji broni i pancerza.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_purple] • %c[ui_gray_2] można użyć w warsztacie technika do tworzenia\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		%c[d_red] • %c[ui_gray_2] wymaga odpowiednich materiałów\n</text>
+	</string>
+	
+	<string id="st_itm_drugkit">
+		<text>Zestaw do wytwarzania leków</text>
+	</string>
+	<string id="st_itm_drugkit_descr">
+		<text>W skład tego zestawu wchodzi kilka małych pudełek i metalowych narzędzi do produkcji wyrobów medycznych. Zawiera plastikowe osłonki, pastylki i niewielkie ampułki.\n \n%c[ui_gray_3]UWAGI:\n%c[0,250,250,0] • %c[ui_gray_2] Medyk może użyć go do tworzenia różnych używek i lekarstw.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_purple] • %c[ui_gray_2] można użyć w warsztacie technika do tworzenia\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		%c[d_red] • %c[ui_gray_2] wymaga odpowiednich materiałów\n</text>
+	</string>
+	
+	<string id="st_itm_ammokit">
+		<text>Narzędzia rusznikarskie</text>
+	</string>
+	<string id="st_itm_ammokit_descr">
+		<text>Porządny zestaw starych narzędzi i akcesoriów rusznikarskich. Zawiera zestaw wybijaków, młotek rusznikarski, prasę i zestaw miarek do czarnego prochu. Z odpowiednią wiedzą i doświadczeniem zestawu można użyć do recyklingu uszkodzonej amuniji i tworzenia z nich wersji nadających się do użytku.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n%c[d_purple] • %c[ui_gray_2] można użyć w warsztacie technika do tworzenia\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		%c[d_red] • %c[ui_gray_2] wymaga odpowiednich materiałów\n</text>
+	</string>
+	
+	<string id="st_binocular_name">
+		<text>Lornetka wojskowa</text>
+	</string>
+	<string id="st_binocular_descr">
+		<text>Standardowa lornetka wojskowa. Jej użyteczność w Zonie wynika z faktu, że pozwala właścicielowi obserwować otoczenie z bezpiecznego dystansu. Bardzo trwała.\n</text>
+	</string>
+	
+	<string id="st_con_checker_name">
+		<text>Notatka "stan ekwipunku"</text>
+	</string>
+	<string id="st_con_checker_descr">
+		<text>Kartka papieru, na której skrupulatnie notujesz stan swojego ekwipunku.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot codziennego użytku\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do: %c[ui_gray_1]sprawdzania stanu ekwipunku\n</text>
+	</string>
+	
+	<string id="st_container_tool_name">
+		<text>Narzędzie do obsługi artefaktów</text>
+	</string>
+	<string id="st_container_tool_descr">
+		<text>Proste, przypominające obcęgi narzędzie, wykonane z utwardzonej stali i przeznaczone do obsługi artefaktów. Ze względu na szczególną budowę pojemniki i zasobniki otwierać można wyłącznie przy pomocy tego narzędzia. Dzięki obcęgom unikniesz również oparzeń wynikających z obsługi artefaktów gołymi rękami, nie ochronią cię one jednak przed szkodliwym wpływem artefaktów na twoją psychikę i układ nerwowy. Żaden prawdziwy łowca artefaktów nie opuszcza bazy bez tego narzędzia.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[ui_white] • %c[ui_gray_2] można użyć do przenoszenia artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] niezbędne do obsługi zawartości zasobników na artefakty\n</text>
+	</string>
+	
+	<string id="st_lead_box_name">
+		<text>Obudowany ołowiem metalowy pojemnik (pusty)</text>
+	</string>
+	<string id="st_lead_box_descr">
+		<text>Obudowany ołowiem metalowy pojemnik (OOMP) jest bardzo prostą metalową puszką z grubymi ściankami, wewnątrz wyłożoną pianką i zamkniętą atmosferycznie dzięki ciężkiej pokrywie. Specjalnie opracowany do transportowania materiałów radioaktywnych, w Zonie pojemnik służy jako narzędzie do magazynowania i przenoszenia artefaktów. Zapewnia względne bezpieczeństwo użytkownika przed artefaktami znajdującymi się w ekwipunku i zatrzymuje całe emitowane przez nie promieniowanie. Nie można go jednakże umieścić na pasie, co oznacza, że żaden artefakt umieszczony w nim nie będzie oddziaływał na użytkownika.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność: %c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] stan: %c[ui_gray_1] pusty\n \n%c[d_red]UWAGA:\n
+		%c[default]Przed sprzedażą artefaktów musisz wyjąć je z pojemnika.\n \n</text>
+	</string>
+	
+	<string id="st_lead_box_half_name">
+		<text>Obudowany ołowiem metalowy pojemnik (pełny do połowy)</text>
+	</string>
+	<string id="st_lead_box_half_descr">
+		<text>Obudowany ołowiem metalowy pojemnik (OOMP) jest bardzo prostą metalową puszką z grubymi ściankami, wewnątrz wyłożoną pianką i zamkniętą atmosferycznie dzięki ciężkiej pokrywie. Specjalnie opracowany do transportowania materiałów radioaktywnych, w Zonie pojemnik służy jako narzędzie do magazynowania i przenoszenia artefaktów. Zapewnia względne bezpieczeństwo użytkownika przed artefaktami znajdującymi się w ekwipunku i zatrzymuje całe emitowane przez nie promieniowanie. Nie można go jednakże umieścić na pasie, co oznacza, że żaden artefakt umieszczony w nim nie będzie oddziaływał na użytkownika.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność: %c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] stan: %c[ui_gray_1] do połowy pełny\n \n%c[d_red]UWAGA:\n
+		%c[default]Przed sprzedażą artefaktów musisz wyjąć je z pojemnika.\n \n</text>
+	</string>
+	
+	<string id="st_lead_box_closed_name">
+		<text>Obudowany ołowiem metalowy pojemnik (pełny)</text>
+	</string>
+	<string id="st_lead_box_closed_descr">
+		<text>Obudowany ołowiem metalowy pojemnik (OOMP) jest bardzo prostą metalową puszką z grubymi ściankami, wewnątrz wyłożoną pianką i zamkniętą atmosferycznie dzięki ciężkiej pokrywie. Specjalnie opracowany do transportowania materiałów radioaktywnych, w Zonie pojemnik służy jako narzędzie do magazynowania i przenoszenia artefaktów. Zapewnia względne bezpieczeństwo użytkownika przed artefaktami znajdującymi się w ekwipunku i zatrzymuje całe emitowane przez nie promieniowanie. Nie można go jednakże umieścić na pasie, co oznacza, że żaden artefakt umieszczony w nim nie będzie oddziaływał na użytkownika.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[ui_white] • %c[ui_gray_2] urządzenie do przechowywania artefaktów\n
+		%c[ui_white] • %c[ui_gray_2] pojemność: %c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] stan: %c[ui_gray_1] pełny\n \n%c[d_red]UWAGA:\n
+		%c[default]Przed sprzedażą artefaktów musisz wyjąć je z pojemnika.\n \n</text>
+	</string>
+	
+	<string id="st_crowbar">
+		<text>Łom (wielokrotnego użytku)</text>
+	</string>
+	<string id="st_crowbar_descr">
+		<text>Niezawodne i praktycznie niezniszczalne narzędzie. Doskonale nadaje się do otwierania zamków i zdejmowania drzwi z zawiasów. Popularne znalezisko w strefach przemysłowych. Niektórzy stalkerzy zabierają łomy do Zony pomimo ich sporej wagi.\n \nWśród stalkerów krążą legendy o nieznajomym, który zawsze miał przy sobie unikatowy łom z napisem "Własność Black Mesa". Niektórzy poszukują go bardziej zapalczywie, niż najrzadszych artefaktów.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot codziennego użytku\n
+		%c[d_orange] • %c[ui_gray_2] narzędzie wielokrotnego użytku</text>
+	</string>
+	
+	<string id="st_bolts_pack">
+		<text>Paczka śrub</text>
+	</string>
+	<string id="st_bolts_pack_descr">
+		<text>Ze względu na cenę i dostępność śruby wykorzystywane są jako tani sposób na poszukiwanie przejść między anomaliami. Handlarze zawsze mają małe, poręczne paczuszki metalowych nakrętek, mutr i pustych łusek po pociskach.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot codziennego użytku\n
+		%c[d_orange] • %c[ui_gray_2] zawiera od 20 do 30 śrub\n</text>
+	</string>
+	
+	
+	<string id="st_swiss">
+		<text>Szwajcarski scyzoryk</text>
+	</string>
+	<string id="st_swiss_descr">
+		<text>Chcesz otworzyć puszkę, po dokręcać śrubki, odciąć kawałek liny, czy zaostrzyć garść nabojów? Użyj uniwersalnego i eleganckiego szwajcarskiego scyzoryka w kieszonkowym rozmiarze. Bardzo popularne w Zonie narzędzie, a co za tym idzie, niezbyt wartościowe. Można go użyć jako przedmiotu pomocniczego przy naprawach broni i strojów.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot codziennego użytku\n
+		%c[d_purple] • %c[ui_gray_2] narzędzie do demontażu\n
+		</text>
+	</string>
+	
+	<string id="st_grooming">
+		<text>Zestaw do golenia</text>
+	</string>
+	<string id="st_grooming_descr">
+		<text>Zestaw do golenia zapakowany w podróżne etui z nylonu balistycznego. W jego skład wchodzą: grzebień do brody i wąsów, małe nożyczki z dużymi uszami, maszynki do golenia ze stali nierdzewnej, powleczone antypoślizgową gumą i precyzyjny trymer.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot codziennego użytku\n
+		%c[d_purple] • %c[ui_gray_2] narzędzie do demontażu\n
+		</text>
+	</string>
+	
+	<string id="st_drugs_kit">
+		<text>Mały zestaw do narkotyków</text>
+	</string>
+	<string id="st_drugs_kit_descr">
+		<text>Małe pojemniczki i różne metalowe przedmioty stanowią zestaw do produkcji i dzielenia narkotyków. Niektóre woreczki zawierają jakieś tabletki i trudne do zidentyfikowania zioła.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		%c[d_red] • %c[ui_gray_2] bezużyteczny\n</text>
+	</string>
+	
+	<string id="st_itm_sleepbag_name">
+		<text>Śpiwór</text>
+	</string>
+	<string id="st_itm_sleepbag_descr">
+		<text>Lekki śpiwór. Zapewni ci ciepło i ochroni przed wilgocią, kiedy będziesz chciał się zdrzemnąć. Zanim rozłożysz, upewnij się, że wybrałeś bezpieczne miejsce z możliwą drogą ucieczki. Użyj worka kompresyjnego by spakować śpiwór, będąc w jego pobliżu.\n \n%c[d_cyan]UWAGA:\n%c[ui_gray_1]Spanie na otwartej przestrzeni może przyciągnąć drapieżniki. Śpiwór nie chroni przed promieniowaniem\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przenośne miejsce snu\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wielokrotnego użytku\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot codziennego użytku\n</text>
+	</string>
+	
+	<string id="st_compression_bag">
+		<text>Worek kompresyjny</text>
+	</string>
+	<string id="st_compression_bag_descr">
+		<text>Do pakowania śpiwora lub niewielkiej ilości ciuchów na zmianę.\n \n%c[ui_gray_2] WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] użyj w pobliżu rozłożonego śpiwora, by go spakować\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot codziennego użytku\n</text>
+	</string>
+	
+	<string id="st_itm_tent_bag">
+		<text>Pusty worek po namiocie</text>
+	</string>
+	<string id="st_itm_tent_bag_descr">
+		<text>Worek przeznaczony do przechowywania i transportu namiotu kempingowego. Składanie namiotu zajmuje sporo czasu.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot codziennego użytku\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do złożenia namiotu\n
+		%c[d_blue] • %c[ui_gray_2] narzędzie wielokrotnego użytku\n</text>
+	</string>
+
+	<string id="st_itm_tent_name">
+		<text>Namiot kempingowy</text>
+	</string>
+	<string id="st_itm_tent_descr">
+		<text>Worek zawierający namiot kempingowy, chroniący od deszczu i wiatru. Rozbijanie namiotu zajmuje sporo czasu. W Zonie najlepiej rozkładać namiot w miejscach zapewniających drogę ucieczki w przypadku niebezpieczeństwa.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot codziennego użytku\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do rozłożenia namiotu\n
+		%c[d_blue] • %c[ui_gray_2] narzędzie wielokrotnego użytku\n</text>
+	</string>
+	
+	<string id="st_lighter">
+		<text>Zapalniczka</text>
+	</string>
+	<string id="st_lighter_descr">
+		<text>Niezawodna, odporna na zużycie i surową aurę panującą w Zonie zapalniczka to podstawa wyposażenia każdego stalkera. Ogień jest niezbędny do smażenia posiłków, a także przypalenia sobie fajki lub czegoś mocniejszego po - odpukać - spotkaniu sam na sam z kontrolerem. Ta wytrzymała zapalniczka gazowa sprawdza się w tutejszych warunkach doskonale.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI: \n
+		%c[d_orange] • %c[ui_gray_2] można użyć do: %c[ui_gray_1] gotowania, palenia\n</text>
+	</string>
+	
+	<string id="st_lighter_refillers_descr">
+		<text>Nie ma sensu dźwigać ze sobą zapalniczki, nawet lekkiej, kiedy nie możesz szybko i sprawnie wykrzesać z niej ognia. Doświadczeni stalkerzy przed wyruszeniem na dłużej w głąb Zony zawsze nabijają swoje zapalniczki do pełna. Powszechnie dostępne paliwo "Carcinoleum" jest względnie tanie i jak najbardziej nadaje się do tego celu.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n 
+		%c[d_orange] • %c[ui_gray_2] można użyć do: %c[ui_gray_1]  ładowania zapalniczki (+100%)\n</text>
+	</string>
+	
+	<string id="st_lighter_refiller5">
+		<text>Gaz do zapalniczki (133 ml)</text>
+	</string>
+	<string id="st_lighter_refiller4">
+		<text>Gaz do zapalniczki (107 ml)</text>
+	</string>
+	<string id="st_lighter_refiller3">
+		<text>Gaz do zapalniczki (80 ml)</text>
+	</string>
+	<string id="st_lighter_refiller2">
+		<text>Gaz do zapalniczki (54 ml)</text>
+	</string>
+	<string id="st_lighter_refiller1">
+		<text>Gaz do zapalniczki (27 ml)</text>
+	</string>
+	
+	<string id="st_itm_mapkit">
+		<text>Mapa anomalii</text>
+	</string>
+	<string id="st_itm_mapkit_descr">
+		<text>Dokument bez tytułu, zawiera plik ręcznie sporządzonych notatek i osobiste fotografie. Nie ma w nim nic ciekawego oprócz dużej, drukowanej mapy z naniesionymi oznaczeniami. Najwyraźniej właściciel był łowcą artefaktów.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot osobisty\n
+		%c[d_green] • %c[ui_gray_2] pouczający\n
+		</text>
+	</string>
+	<string id="st_itm_mapkit_1">
+		<text>Mapa anomalii (Magazyny Wojskowe)</text>
+	</string>
+	<string id="st_itm_mapkit_2">
+		<text>Mapa anomalii (Jantar)</text>
+	</string>
+	<string id="st_itm_mapkit_3">
+		<text>Mapa anomalii (Czerwony Las)</text>
+	</string>
+	<string id="st_itm_mapkit_4">
+		<text>Mapa anomalii (Martwe Miasto)</text>
+	</string>
+	<string id="st_itm_mapkit_5">
+		<text>Mapa anomalii (Cmentarzysko Pojazdów)</text>
+	</string>
+	<string id="st_itm_mapkit_6">
+		<text>Mapa anomalii (Jupiter)</text>
+	</string>
+	<string id="st_itm_mapkit_7">
+		<text>Mapa anomalii (Zaton)</text>
+	</string>
+	<string id="st_itm_mapkit_8">
+		<text>Mapa anomalii (Wysypisko)</text>
+	</string>
+	<string id="st_itm_mapkit_9">
+		<text>Mapa anomalii (Agroprom)</text>
+	</string>
+	
+	<string id="st_ammo_box">
+		<text>Paczka amunicji</text>
+	</string>
+	<string id="st_ammo_box_descr">
+		<text>Każdy stalker zdaje sobie sprawę, że niezawodność uzbrojenia może zadecydować o życiu albo śmierci. Z tego powodu warto poświęcić codziennie trochę czasu na dokładną konserwację swojej broni. Stalkerzy często liczą amunicję i czyszczą ją, by zapobiec zacięciu się broni w ogniu walki.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot codziennego użytku\n
+		</text>
+	</string>
+	
+	<string id="st_itm_sleepbag_name">
+		<text>Śpiwór</text>
+	</string>
+	<string id="st_itm_sleepbag_desc">
+		<text>Przenośny śpiwór zaprojektowany, by trzymać ciepło użytkownika i ukrywać go w nocy.\n \n%c[255,255,255,0]Kliknij dwa razy, by rozłożyć na ziemi.\n</text>
+	</string>
+	
+	<string id="st_itm_gunsmith_toolkit">
+		<text>Zestaw rusznikarza </text>
+	</string>
+	<string id="st_itm_gunsmith_toolkit_descr">
+		<text>Zestaw zawierający oleje i narzędzia do podstawowej obsługi broni palnej. Przydatny podczas eksploracji, ale też dość ciężki.\n \n%c[255,255,255,0]Przeciągnij na przedmiot, który chcesz naprawić.\n</text>
+	</string>
+	
+	<string id="st_itm_outfit_toolkit">
+		<text>Zestaw do szycia</text>
+	</string>
+	<string id="st_itm_outfit_toolkit_descr">
+		<text>Prowizoryczny zestaw sprzętu do szycia i zapasowe materiały do konserwacji stroju. Przydatne do naprawy dziur i rozdarć w kombinezonach.\n \n%c[255,255,255,0]Przeciągnij na przedmiot, który chcesz naprawić.\n</text>
+	</string>
+	
+	<string id="st_itm_tent_name">
+		<text>Namiot wojskowy</text>
+	</string>
+	<string id="st_itm_tent_desc">
+		<text>Namiot wojskowy, odporny na trudne warunki pogodowe. Aby postawić namiot, użyj go na otwartej przestrzeni.\n</text>
+	</string>
+	
+	<string id="st_itm_lantern_name">
+		<text>Lampa LED</text>
+	</string>
+	<string id="st_itm_lantern_desc">
+		<text>Nieporęczna, trwała i mocna lampa zasilana bateriami litowo-jonowymi. Do użytku stacjonarnego należy ją postawić na ziemi.\n</text>
+	</string>
+	
+	<string id="st_itm_artefact_container_name">
+		<text>Pojemnik na artefakty</text>
+	</string>
+</string_table>

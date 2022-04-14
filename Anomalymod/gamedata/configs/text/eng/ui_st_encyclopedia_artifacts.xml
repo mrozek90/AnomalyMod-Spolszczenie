@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+
+	<string id="encyclopedia_artefacts">
+		<text>Artefakty</text>
+	</string>
+		<string id="encyclopedia_artifacts">
+		<text>Artefakty</text>
+	</string>
+	
+	<string id="pda_encyclopedia_name">
+		<text>Nazwa</text>
+	</string>
+	<string id="pda_encyclopedia_weight">
+		<text>Waga</text>
+	</string>
+	<string id="pda_encyclopedia_tier">
+		<text>Poziom</text>
+	</string>
+	<string id="pda_encyclopedia_tier_0">
+		<text>-</text>
+	</string>
+	<string id="pda_encyclopedia_tier_1">
+		<text>Niski</text>
+	</string>
+	<string id="pda_encyclopedia_tier_2">
+		<text>Średni</text>
+	</string>
+	<string id="pda_encyclopedia_tier_3">
+		<text>Wysoki</text>
+	</string>
+	
+	<string id="pda_encyclopedia_origin">
+		<text>Pochodzenie</text>
+	</string>
+	
+	<string id="encyclopedia_artefacts__about">
+		<text>Informacje ogólne</text>
+	</string>
+	<string id="encyclopedia_artefacts__about_text">
+		<text>
+		%c[pda_white]Artefakty%c[ui_gray_1] to przedmioty, które uległy przemianom pod wpływem Zony.\n
+		
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nWiększość artefaktów posiada niesamowite i przydatne właściwości. Niektóre z nich, przechowywane blisko ciała, potrafią utworzyć wokół użytkownika pole ochronne zwiększające jego odporność na uszkodzenia. Inne mogę zwiększać wytrzymałość, chronić przed ogniem itd. Artefakty stanowią również wartościowy materiał do badań zewnętrznych, dlatego działające poza Kordonem firmy bez wahania płacą za możliwość uzyskania tych anomalnych tworów Zony duże pieniądze.
+		
+		\n \n%c[pda_blue]Narodziny artefaktu%c[ui_gray_1]
+		\nArtefakty powstają w anomaliach na skutek zaistnienia szeregu czynników: kombinacji zwykłego przedmiotu (lub przedmiotów) i anomalii, stopniowi degeneracji i śmierci anomalii lub tego, jakie warunki zewnętrzne oddziałują na anomalię.\n \nNa przykład Kryształ – by taki artefakt zaistniał, w anomalii Spalacz musi znaleźć się właściwa ilość substancji metalicznych. Z obserwacji wynika, że emisje i burze psioniczne są niejako katalizatorem w procesie tworzenia się artefaktów, choć pracujący w Zonie naukowcy wciąż nie potrafią wyjaśnić takiego fenomenu.
+		
+		\n \n%c[pda_yellow]Aspekt finansowy%c[ui_gray_1]
+		\nArtefakty są bardzo wartościowe, więc stalkerzy często sprzedają je handlarzom, ci zaś wysyłają dalej w świat – wojsku, instytutom naukowym, wielkim korporacjom badawczym, czy prywatnym kolekcjonerom.\n \nNaukowcy, a w szczególności profesor Sacharow bardzo cenią artefakty ze względu na to, że stanowią świetny materiał do badań. Niektórzy z nich twierdzą, że mogą być kluczem do rozwiązania największych problemów współczesnego świata albo że dzięki nim ludzkość dokona kolejnego skoku technologicznego.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_artifacts_baloon_text">
+		<text>%c[d_green]Informacje\n%c[ui_gray_2]Bąbel powstał z połączenia różnego rodzaju materiałów organicznych. Emituje gazową substancję, która neutralizuje cząsteczki chemiczne i toksyczne znajdujące się w ciele użytkownika. Jedną z jego wad jest znaczące wzmocnienie oddziaływania fal i pól psionicznych. Niektórzy stalkerzy opowiadają, że nosząc Bąbel, czuli tak duży wpływ psioniczny, że mieli wrażenie, jakby ich głowy miały pęknąć od środka, a jedyne, co mogą zrobić do krzyczeć z bólu i uciekać, byle dalej, bez żadnego celu i sensu. Podobny mechanizm zdaje się wyzwalać kontakt z anomaliami Elektro: artefakt jest dobrym przewodnikiem i zwiększa napięcie elektryczne w anomaliach. Co więcej, wielu stalkerów zgłasza, że do prawidłowego oddziaływania Bąbel wymaga źródła energii. Takim źródłem może najczęściej jest po prostu ciało: artefakt potrafi wyssać żywotność i siłę woli do tego stopnia, że wywołuje zawroty głowy, a w skrajnych przypadkach omdlenia. Jedyną pozytywną właściwością Bąbla jest to, że znacznie przyspiesza proces leczenia i gojenia się ran. Ogromna skuteczność w tym właśnie zakresie tłumaczy jego wysoką cenę na rynku i popyt, jakim się nieustannie cieszy. Na skali promieniowania artefaktów Bąbel plasuje się na najwyższym poziomie. UWAGA: Ze względu na swoje organiczne pochodzenie i niestabilność, artefakt ulega samozapłonowi częściej, niż jakikolwiek inny artefakt organiczny. Z tego powodu zaleca się nie zbliżać z nim do źródeł ognia i anomalii kwasowych.\n \n%c[0,200,200,200]WŁAŚCIWOŚCI:%c[ui_gray_2]\n \n%c[0,225,225,225] • %c[ui_gray_2] artefakt\n%c[0,100,100,255] • %c[ui_gray_2] można umieścić na pasie</text>
+	</string>
+	<string id="encyclopedia_artifacts_baloon">
+		<text>Bąbel</text>
+	</string>
+	
+	<string id="encyclopedia_artifacts_blood_text">
+		<text>%c[d_green]Informacje\n%c[ui_gray_2]Czerwonawy twór składający się ze skamieniałych roślin, gleby i szczątków zwierząt. Może częściowo neutralizować zatrucia chemiczne, absorbując toksyny i obniżając w ten sposób ich zawartość w krwiobiegu. Dość powszechnie spotykany i niezbyt skuteczny, ponieważ powoduje, że rany od poparzeń chemicznych zaczynają się jątrzyć i ropieć. Wystawiony na bezpośrednie działanie płomieni przeważnie złapie ogień, zdarza się także, że ulega samozapłonowi. Pozostałe jego wady to potęgowanie działania promieniowania psionicznego, silne przewodnictwo elektryczne oraz wysysanie żywotności, skutkujące spadkiem kondycji użytkownika. Ze względu na swoją organiczną naturę Kamienna Krew przyspiesza jednak proces gojenia się ran. Na skali promieniowania artefaktów plasuje się na najniższym poziomie.\n \n%c[0,200,200,200]WŁAŚCIWOŚCI:%c[ui_gray_2]\n \n%c[0,225,225,225] • %c[ui_gray_2] artefakt\n%c[0,100,100,255] • %c[ui_gray_2]można umieścić na pasie</text>
+	</string>
+	<string id="encyclopedia_artifacts_blood">
+		<text>Kamienna Krew</text>
+	</string>
+	
+	<string id="encyclopedia_artifacts_cristall_flower_text">
+		<text>%c[d_green]Informacje\n%c[ui_gray_2]Ten artefakt wygląda jak kawał topionego sera wysadzanego błękitnymi, szafiropodobnymi kamykami. Jedynie zewnętrzna żółta powłoka emituje promieniowanie, a dzięki odpowiedniej obróbce z artefaktu można wydobyć jego niebieskie elementy, które po odpowiednim oczyszczeniu i oszlifowaniu przypominają szafir. Egzotyka, piękno i wytrzymałość czynią z nich niezwykle wartościowe kamienie szlachetne, których posiadanie jest marzeniem każdego jubilera na całym świecie. Użyteczność artefaktu nie jest jednak ograniczona do zastosowań przemysłowych. Badania naukowe wskazują, że szafiropodobne kamienie skutecznie chronią przed toksynami, zaś zewnętrzna powłoka w niewielkim stopniu podnosi odporność na wysokie temperatury. Ze względu na gęstość waga artefaktu jest znacznie większa niż sugerowałaby jego wielkość, przez co stanowi on jeden z najcięższych anomalnych tworów Zony. Na skali promieniowania artefaktów plasuje się na najniższym poziomie.\n \n%c[0,200,200,200]WŁAŚCIWOŚCI:%c[ui_gray_2]\n \n%c[0,225,225,225] • %c[ui_gray_2] artefakt\n%c[0,100,100,255] • %c[ui_gray_2]można umieścić na pasie</text>
+	</string>
+	<string id="encyclopedia_artifacts_cristall_flower">
+		<text>Kamienny Kwiat</text>
+	</string>
+	
+	<string id="encyclopedia_artifacts_cristall_text">
+		<text>%c[d_green]Informacje\n%c[ui_gray_2]Artefakt stworzony w anomalnych strefach podwyższonego promieniowania cieplnego. Aktywnie pochłania nadmiar ciepła, choć sam pozostaje zimny w dotyku. Chroni swojego użytkownika także przed kwasami znajdującymi się w anomaliach toksycznych i chemicznych. Z drugiej strony wystawienie Kryształu na działanie takich czynników sprawi, że z nieznanych przyczyn zawarte w tych anomaliach substancje żrące zwiększają swoje stężenie. Z tego powodu należy dobrze przemyśleć korzystanie z artefaktu w silnie toksycznym środowisku. Działa również jako przewodnik prądu. Kryształ jest również przewodnikiem elektrycznym. Jego przydatną cechą jest to, że zwiększa krzepliwość krwi (uwaga: nie zaleca się jednak korzystać z tego artefaktu przez dłuższy czas ze względu na ryzyko powstania niebezpiecznych dla zdrowia zakrzepów).  Artefakt jest bardzo ceniony przez jubilerów, ponieważ jego nieradioaktywny rdzeń po oszlifowaniu i wypolerowaniu posiada niepospolite walory estetyczne. Tylko pierwszy centymetr warstwy zewnętrznej emituje promieniowanie. Zaleca się jednak szczególną ostrożność podczas wprowadzania artefaktu do obiegu handlowego, bowiem wchłonięcie nawet małej dawki promieniowania może doprowadzić do śmierci. Bardzo twardy i względnie ciężki ze względu na dużą gęstość. Na skali promieniowania artefaktów plasuje się na najniższym poziomie.\n \n%c[0,200,200,200]WŁAŚCIWOŚCI:%c[ui_gray_2]\n \n%c[0,225,225,225] • %c[ui_gray_2] artefakt\n%c[0,100,100,255] • %c[ui_gray_2]można umieścić na pasie</text>
+	</string>
+	<string id="encyclopedia_artifacts_cristall">
+		<text>Kryształ</text>
+	</string>
+	
+	<string id="encyclopedia_artifacts_dummy_battery_text">
+		<text>%c[d_green]Informacje\n%c[ui_gray_2]Artefakt ten zapewnia nieznacznie lepszą ochronę przed promieniowaniem psionicznym niż jego kuzyn, Blask Księżyca. Składa się z elementów wykazujących właściwości elektrostatyczne, lecz poza tym naukowcom nie udało się jeszcze ustalić, w jakich dokładnie warunkach fizycznych powstaje. Bateria jest dość popularnym w Zonie artefaktem, zarówno wśród stalkerów, jak i turystów ze względu na swoje energetyzujące działanie, chociaż jego stosowanie przez dłuższy przynosi zupełnie odwrotny efekt. Należy również pamiętać, że artefakt obniża krzepliwość krwi, przez co zwiększa tempo krwawienia z otwartych ran. Jako silny opornik jest również szeroko znany ze swej zdolności do chronienia użytkownika przed - często śmiertelnym w Zonie - porażeniem prądem elektrycznym. Na skali promieniowania artefaktów plasuje się na niskim poziomie.\n \n%c[0,200,200,200]WŁAŚCIWOŚCI:%c[ui_gray_2]\n \n%c[0,225,225,225] • %c[ui_gray_2] artefakt\n%c[0,100,100,255] • %c[ui_gray_2]można umieścić na pasie</text>
+	</string>
+	<string id="encyclopedia_artifacts_dummy_battery">
+		<text>Bateria</text>
+	</string>
+	
+	<string id="encyclopedia_artifacts_dummy_dummy_text">
+		<text>%c[d_green]Informacje\n%c[ui_gray_2]Muszla składa się z dwóch niebieskawych dysków połączonych półprzezroczystym materiałem nieznanego pochodzenia. Przez długi czas społeczność naukowa była przekonana, że artefakt ten pozbawiony jest jakichkolwiek użytecznych właściwości. Dopiero niedawno odkryto, że w gruncie rzeczy jego działanie może być bardzo korzystne dla użytkownika. Zapewnia on bowiem wysoki poziom ochrony przed promieniowaniem psionicznym dzięki swoim zdolnościom absorpcyjnym, a także niweluje oddziaływania elektromagnetyczne, działając jako odgromnik i uziemienie. Ma również bardzo odświeżający wpływ na ciało i przyspiesza regenerację kondycji. Jego użytkownik może poczuć się jak nowo narodzony, chociaż u niektórych stalkerów Muszla powodowała nadpobudliwość psychoruchową. Artefakt jest również bardzo lekki i poręczny, jedyną jego wadą jest to, że zmniejsza ilość płytek krwi, co przekłada się na zwiększenie tempa krwawienia. Na skali promieniowania artefaktów plasuje się na bardzo wysokim poziomie.\n \n%c[0,200,200,200]WŁAŚCIWOŚCI:%c[ui_gray_2]\n \n%c[0,225,225,225] • %c[ui_gray_2] artefakt\n%c[0,100,100,255] • %c[ui_gray_2]można umieścić na pasie</text>
+	</string>
+	<string id="encyclopedia_artifacts_dummy_dummy">
+		<text>Muszla</text>
+	</string>
+	
+	<string id="encyclopedia_artifacts_dummy_glassbeads_text">
+		<text>%c[d_green]Informacje\n%c[ui_gray_2]Korale Mamy, które kształtem przypominają helisę DNA, powstają w anomalii zwanej Spalaczem. Jedną z ich najbardziej charakterystycznych cech jest ciągłe pulsowanie, pozytywnie wpływające na ludzki organizm. Działanie Korali polega na przyspieszaniu metabolizmu u każdego żywego organizmu w pobliżu, zwiększaniu krzepliwości krwi oraz wspomaganiu gojenia się ran, choć stojący za tym mechanizm pozostaje nieznany. Artefakt posiada także silne właściwości ochronne. Jest w stanie osłonić ciało przed szkodliwym oddziaływaniem wysokich temperatur i kwasów. Z drugiej strony należy pamiętać, że artefakt wzmaga właściwości żrące kwasów, prowadząc do szybszego psucia się sprzętu i odnoszenia większych obrażeń. Zaleca się zachować szczególną ostrożność, przebywając z artefaktem w środowiskach toksycznych i silnie kwasowych. Inną niebezpieczną właściwością tego artefaktu jest zwiększanie przewodności elektrycznej, przez co podczas jego używania prawdopodobieństwo porażenia prądem znacznie wzrasta. Waga artefaktu jest nieproporcjonalne duża jak na obiekt tej wielkości, co sugeruje, że odznacza się on dużą gęstością. Na skali promieniowania artefaktów plasuje się na niskim poziomie.\n \n%c[0,200,200,200]WŁAŚCIWOŚCI:%c[ui_gray_2]\n \n%c[0,225,225,225] • %c[ui_gray_2] artefakt\n%c[0,100,100,255] • %c[ui_gray_2]można umieścić na pasie</text>
+	</string>
+	<string id="encyclopedia_artifacts_dummy_glassbeads">
+		<text>Korale Mamy</text>
+	</string>
+	
+	<string id="encyclopedia_artifacts_electra_flash_text">
+		<text>%c[d_green]Informacje\n%c[ui_gray_2]Artefakt ten wygląda bardzo podobnie do Blasku Księżyca i dla jednych przypomina kulę, a dla drugich lampę plazmową. Błysk pozwala w niewielkim stopniu przeciwdziałać negatywnym efektom promieniowania psionicznego pochodzącego z anomalii i wytwarzanego przez niektóre mutanty. Jest on również potężnym rezystorem i pochłonie nawet śmiertelne dawki energii elektrycznej. Jednakże warto pamiętać, że za każdym razem, gdy artefakt wchodzi w kontakt z prądem, nadmiar energii będzie wysyłać na zewnątrz w postaci prądu stałego. Efekt ten, jakkolwiek nie powinien mieć skutków śmiertelnych, może być odczuwany jak atak paralizatorem. Artefakt posiada również nieznaczne właściwości regenerujące. Z drugiej strony spowalnia proces leczenia, dlatego zaleca się ostrożne używanie, jeśli jesteś ranny lub krwawisz. Artefakt jest niezmiernie lekki, a więc bardzo łatwy w przenoszeniu. Na skali promieniowania artefaktów plasuje się na najniższym poziomie.\n \n%c[0,200,200,200]WŁAŚCIWOŚCI:%c[ui_gray_2]\n \n%c[0,225,225,225] • %c[ui_gray_2] artefakt\n%c[0,100,100,255] • %c[ui_gray_2]można umieścić na pasie</text>
+	</string>
+	<string id="encyclopedia_artifacts_electra_flash">
+		<text>Błysk</text>
+	</string>
+	
+	<string id="encyclopedia_artifacts_electra_moonlight_text">
+		<text>%c[d_green]Informacje\n%c[ui_gray_2]Ten unikalny artefakt elektrostatyczny rezonuje pod wpływem fal psionicznych. Stalkerzy potrafią dostosować frekwencję jego oddziaływania tak, iż neutralizuje główne źródło emisji psionicznych, znacząco niwelując ich negatywne oddziaływanie. Ta przepiękna kula zwiększa również oporność właściwą ciała, gdy znajdzie się pod wpływem prądu o dużym natężeniu, przez co zapewnia pewien stopień ochrony przed porażeniem elektrycznym. Podnosi także wytrzymałość użytkownika, dając poczucie świeżości i niewyczerpanych pokładów energii. Niepożądanym skutkiem ubocznym jest obniżenie szybkości gojenia się ran i krzepnięcia krwi. Niezwykle lekki, a więc łatwy w przenoszeniu. Na skali promieniowania artefaktów plasuje się na niskim poziomie.\n \n%c[0,200,200,200]WŁAŚCIWOŚCI:%c[ui_gray_2]\n \n%c[0,225,225,225] • %c[ui_gray_2] artefakt\n%c[0,100,100,255] • %c[ui_gray_2]można umieścić na pasie</text>
+	</string>
+	<string id="encyclopedia_artifacts_electra_moonlight">
+		<text>Blask Księżyca</text>
+	</string>
+	
+	<string id="encyclopedia_artifacts_electra_sparkler_text">
+		<text>%c[d_green]Informacje\n%c[ui_gray_2]Artefakt ten wyglądem przypomina półprzezroczystą pajęczą sieć. Tak samo jak pajęczy jedwab jest lekko lepki i ma właściwości przypominające klej. Jest jednym z najczęściej spotykanych wytworów anomalii elektrycznych, a środowisko, w jakim się formuje, ma niebagatelny wpływ na jego cechy. Łagodzi on wahania pola elektrycznego i działa niczym rezystor, chroniąc tym samym użytkownika przed porażeniem prądem i obniżając obrażenia zadawane przez elektryczność. Wiadomo również, że jego używanie w niewielkim stopniu zmniejsza szkodliwe oddziaływanie promieniowania psionicznego pochodzącego z anomalii i wytwarzanego przez niektóre mutanty. Z racji elektrycznego pochodzenia zapewnia ciału nieznaczną ilość dodatkowej energii. Nie posiada żadnych właściwości leczących, gdyż wytwarzana przez niego klejąca maź uszkadza żywe tkanki i zmniejsza krzepliwość krwi. Bardzo lekki. Na skali promieniowania artefaktów plasuje się na najniższym poziomie.\n \n%c[0,200,200,200]WŁAŚCIWOŚCI:%c[ui_gray_2]\n \n%c[0,225,225,225] • %c[ui_gray_2] artefakt\n%c[0,100,100,255] • %c[ui_gray_2]można umieścić na pasie</text>
+	</string>
+	<string id="encyclopedia_artifacts_electra_sparkler">
+		<text>Świecidełko</text>
+	</string>
+	
+	<string id="encyclopedia_artifacts_eye_text">
+		<text>%c[d_green]Informacje\n%c[ui_gray_2]Artefakt ten, swym kształtem przypominający ludzkie oko, znacząco przyspiesza ludzki metabolizm i gojenie się ran. Dla niektórych doświadczonych stalkerów Oko pełni rolę szczęśliwego amuletu. Niezależnie od opowiadanych plotek, pozytywne właściwości artefaktu są niepodważalne. Po pierwsze, zmniejsza on temperaturę ciała użytkownika i pobliskich przedmiotów. Po drugie, zapewnia ochronę przed kwasami, stopniowo podnosząc ich pH do poziomu czystej wody (pH równe 7). Po trzecie, łagodzi ból i jest bardzo przydatny przy leczeniu ran. Wszystkie te zalety mają jednak swoją cenę. Używanie tego artefaktu w pobliżu anomalii chemicznych jest śmiertelnie niebezpieczne, gdyż zwiększa on ich siłę i toksyczność. Zaleca się więc, żeby trzymać go w plecaku podczas eksplorowania terenów skażonych chemicznie, chyba że planuje się samobójstwo. Czasem można usłyszeć, jak stalkerzy nazywają go "miedziakiem", gdyż podobnie do miedzi mocno przewodzi prąd. Na skali promieniowania artefaktów plasuje się na bardzo wysokim poziomie.\n \n%c[0,200,200,200]WŁAŚCIWOŚCI:%c[ui_gray_2]\n \n%c[0,225,225,225] • %c[ui_gray_2] artefakt\n%c[0,100,100,255] • %c[ui_gray_2]można umieścić na pasie</text>
+	</string>
+	<string id="encyclopedia_artifacts_eye">
+		<text>Oko</text>
+	</string>
+	
+	<string id="encyclopedia_artifacts_fire_text">
+		<text>%c[d_green]Informacje\n%c[ui_gray_2]Artefakt powstający na obszarach o dużej aktywności termicznej. Wytwarza silne podczerwone emisje zwiększające metabolizm użytkownika, dzięki czemu bardzo szybko leczy rany. Jako że jest rzadkim znaleziskiem, jego cena na rynku jest wysoka. Pod względem swoich właściwości zbliżony jest do artefaktu Oko, mianowicie zmniejsza temperaturę ciała użytkownika, chroniąc tym samym przed poparzeniami. Osłabia również żrące działanie kwasów. Jego właściwości leczące są nawet silniejsze - wielu stalkerów donosi, że używanie tego artefaktu pozwoliło im przeżyć spotkanie z chimerą. Z tego powodu panuje przekonanie, że Płomień może czynić cuda. Mnóstwo ludzi zawdzięcza życie użyciu artefaktu w odpowiednim momencie, a najbardziej doświadczeni łowcy mutantów zwykle nie ruszają bez niego na polowanie. Z drugiej strony artefakt posiada poważne wady. Wejście w anomalię chemiczną lub toksyczną podczas jego użytkowania to pewna śmierć. Potęguje również oddziaływanie szkodliwych toksyn i związków chemicznych w krwiobiegu. Może posłużyć przede wszystkim jako przenośna apteczka, gdyż bardzo szybko leczy rany. Na skali promieniowania artefaktów plasuje się na najwyższym poziomie.\n \n%c[0,200,200,200]WŁAŚCIWOŚCI:%c[ui_gray_2]\n \n%c[0,225,225,225] • %c[ui_gray_2] artefakt\n%c[0,100,100,255] • %c[ui_gray_2]można umieścić na pasie</text>
+	</string>
+	<string id="encyclopedia_artifacts_fire">
+		<text>Płomień</text>
+	</string>
+	
+	<string id="encyclopedia_artifacts_fireball_text">
+		<text>%c[d_green]Informacje\n%c[ui_gray_2]Kulisty artefakt, którego budulcem jest czerwony kryształ, powstały w anomalii Spalacz.  Jego unikalną właściwością jest zdolność utrzymywania stałej temperatury na poziomie około 24 stopni Celsjusza niezależnie od panujących wokół niego warunków zewnętrznych. Pozwala to na absorbowanie temperatury z otoczenia oraz tworzy swego rodzaju bańkę wokół użytkownika, chroniącą jego ciało przed płomieniami oraz przyspieszającą gojenie się ran i zatrzymującą krwawienie. Artefakt chroni również przed oparzeniami kwasem. Z drugiej strony, nie zaleca się korzystać z niego w pobliżu anomalii chemicznych czy obszarów o zwiększonej toksyczności, gdyż potęguje on działanie szkodliwych cząstek w krwiobiegu. Zwiększa również podatność na porażenia elektryczne. Z racji kryształopodobnego materiału oraz dużej gęstości jest bardzo ciężki. Na skali promieniowania artefaktów plasuje się na najniższym poziomie.\n \n%c[0,200,200,200]WŁAŚCIWOŚCI:%c[ui_gray_2]\n \n%c[0,225,225,225] • %c[ui_gray_2] artefakt\n%c[0,100,100,255] • %c[ui_gray_2]można umieścić na pasie</text>
+	</string>
+	<string id="encyclopedia_artifacts_fireball">
+		<text>Kula ognista</text>
+	</string>
+	
+	<string id="encyclopedia_artifacts_fuzz_kolobok_text">
+		<text>%c[d_green]Informacje\n%c[ui_gray_2]Dość rzadko występujący artefakt, powstający na obszarach o wysokim natężeniu substancji chemicznych. Kulebiak jest bardzo ceniony za to, że potrafi wyleczyć większość ran i powstrzymać obfite krwawienie w przeciągu kilku minut. Naukowcy rozpowszechniają wśród stalkerów przekonanie, że artefakt modyfikuje kod genetyczny użytkownika. Na to twierdzenie nie ma jednak żadnych dowodów i należy je traktować jako próbę zmonopolizowania jego dostaw przez środowisko naukowe. Nie oznacza to wszakże, że artefakt jest całkowicie nieszkodliwy. Jedną z jego głównych wad jest wysoka przewodność elektryczna, więc korzystając z niego dobrze jest unikać anomalii typu Elektro. Tym bardziej zważywszy na fakt, że efekty negatywne są dużo gorsze dla organizmu, niż pozytywny wpływ artefaktu na ciało. Kulebiak zmniejsza również wytrzymałość użytkownika - wynika to z kształtu artefaktu, który jest kulą otoczoną drobnymi, wbijającymi się w ciało igiełkami. I choć ranki szybko się goją, w kontakcie z potem zaczynają niemiłosiernie swędzieć. Artefakt osłabia odporność na promieniowanie psioniczne oraz sprawia, że użytkownik jest bardziej podatny na oparzenia. Ze względu na swoją chemiczną naturę skutecznie chroni przed chemikaliami i toksynami. Na skali promieniowania artefaktów plasuje się na bardzo wysokim poziomie.\n \n%c[0,200,200,200]WŁAŚCIWOŚCI:%c[ui_gray_2]\n \n%c[0,225,225,225] • %c[ui_gray_2] artefakt\n%c[0,100,100,255] • %c[ui_gray_2]można umieścić na pasie</text>
+	</string>
+	<string id="encyclopedia_artifacts_fuzz_kolobok">
+		<text>Kulebiak</text>
+	</string>
+	
+	<string id="encyclopedia_artifacts_gold_fish_text">
+		<text>%c[d_green]Informacje\n%c[ui_gray_2]Następca, a zarazem mocniejsza wersja artefaktu Grawi. Podobnie, jak w jego przypadku, niezwykłe właściwości Złotej Rybki odkrył profesor Sacharow po jednej z potężnych emisji. Dzięki drobiazgowemu przebadaniu okazało się, że artefakt ten powstaje w momencie, kiedy trzy Grawi zostaną wessane w swoje pola grawitacyjne. Proces ten ma miejsce niezwykle rzadko, co przekłada się na wysoką cenę artefaktu. W kręgach związanych z ukraińskim Specnazem krążą plotki, że w Zonie przebywają agenci rosyjskiego Ministerstwa Obrony, których głównym zadaniem jest wywożenie Złotej Rybki do specjalnie przystosowanych laboratoriów poza Zoną. Artefakt wytwarza pole grawitacyjne oddziałujące jedynie na najbliższe otoczenie. Zaobserwowano jednak przypadki, że stalker będący w posiadaniu Złotej Rybki znikał bez śladu, zostawiając po sobie jedynie artefakt. Ponadto artefakt zapewnia nadzwyczajną ochronę termiczną, a także osłania przed żrącymi kwasami, tworząc wokół użytkownika cieniutką, ale wyczuwalną, lekko tłustawą warstwę ochronną, która znacząco osłabia działanie gorąca i rozkłada cząsteczki kwasów. Jest niezwykle ciężki, jak na swoje rozmiary i nie zaleca się używać go przez dłuższy czas. Na skali promieniowania artefaktów plasuje się na najwyższym poziomie.\n \n%c[0,200,200,200]WŁAŚCIWOŚCI:%c[ui_gray_2]\n \n%c[0,225,225,225] • %c[ui_gray_2] artefakt\n%c[0,100,100,255] • %c[ui_gray_2]można umieścić na pasie</text>
+	</string>
+	<string id="encyclopedia_artifacts_gold_fish">
+		<text>Złota Rybka</text>
+	</string>
+	
+	<string id="encyclopedia_artifacts_gravi_text">
+		<text>%c[d_green]Informacje\n%c[ui_gray_2]Grawi składa się z metalicznych cząstek, które bardzo długo były wystawione na wzmożone oddziaływanie grawitacji. Posiada niezwykłe właściwości, między innymi zdolność do zwiększania wagi przedmiotów znajdujących się w jego pobliżu. Sam również cechuje się dużą wagą. Przez długi czas artefakt ten stanowił wielką zagadkę, dopóki profesor Sacharow nie odkrył, że w trzydziestominutowych odstępach wytwarza on niewielkie pole grawitacyjne. Może pozytywnie wpłynąć na rozwój medycyny i przemysłu zbrojeniowego, jeśli mechanizm jego funkcjonowania zostanie wykorzystany do celów naukowych. Co bardzo ważne, jego pozytywne właściwości są dużo potężniejsze, niż efekty negatywne. Grawi podnosi wagę okolicznych przedmiotów i wydziela śmiercionośne dawki promieniowania. Z drugiej strony chroni użytkownika przed oddziaływaniem anomalii termicznych, a także przed kwasami i innymi substancjami żrącymi. Zamiast je absorbować, pole grawitacyjne Grawi po prostu rozkłada je na prostsze, nieszkodliwe substancje. Na skali promieniowania artefaktów plasuje się na bardzo wysokim poziomie. Jak powiedziano wyżej, sam jest niezwykle ciężki i nie zaleca się używać go przez dłuższy czas. Na skali promieniowania artefaktów plasuje się na najwyższym poziomie.\n \n%c[0,200,200,200]WŁAŚCIWOŚCI:%c[ui_gray_2]\n \n%c[0,225,225,225] • %c[ui_gray_2] artefakt\n%c[0,100,100,255] • %c[ui_gray_2]można umieścić na pasie</text>
+	</string>
+	<string id="encyclopedia_artifacts_gravi">
+		<text>Grawi</text>
+	</string>
+	
+	<string id="encyclopedia_artifacts_ice_text">
+		<text>%c[d_green]Informacje\n%c[ui_gray_2]Niektórzy uważają, że jest to biała odmiana Kulebiaka, która przejęła właściwości anomalii, w której się uformowała. Na poparcie tej tezy podaje się, że Śnieżynka zwiększa odporność użytkownika na obrażenia elektryczne, absorbując wyładowania o wysokim napięciu. Działanie artefaktu polega również na zwiększaniu wytrzymałości mięśni. Z racji wysokiej ilości emitowanego promieniowania oddziałującego na użytkującą go osobę, stalkerzy, którzy posiadają ten artefakt, często są żartobliwie określani jako "promienne śnieżki" lub "rozpromienione bałwany". Zastanawiając się, czy zabrać go ze sobą na wyprawę, warto rozważyć wszystkie za i przeciw - czy na pewno opłacalne będzie zwiększenie wytrzymałości i ochrona przed elektrycznością kosztem wystawiania się na stałą, śmiertelną dawkę promieniowania? Nawet jeśli zdecydujesz się wziąć artefakt, warto zauważyć, że nie powinien być noszony na pasie przez cały czas. T również pamiętać, że jego użyteczność w trakcie walki jest dyskusyjna, głównie dlatego, że zwiększa tempo krwawienia i utrudnia gojenie się ran. Z drugiej jednak strony artefakt jest bardzo lekki, niemalże jak śnieżynka, dzięki czemu przenoszenie go nie jest uciążliwe. Na skali promieniowania artefaktów plasuje się na najwyższym poziomie\n \n%c[0,200,200,200]WŁAŚCIWOŚCI:%c[ui_gray_2]\n \n%c[0,225,225,225] • %c[ui_gray_2] artefakt\n%c[0,100,100,255] • %c[ui_gray_2]można umieścić na pasie</text>
+	</string>
+	<string id="encyclopedia_artifacts_ice">
+		<text>Śnieżynka</text>
+	</string>
+	
+	<string id="encyclopedia_artifacts_medusa_text">
+		<text>%c[d_green]Informacje\n%c[ui_gray_2]Ten grawitacyjny artefakt przyciąga i absorbuje cząsteczki chemiczne i toksyny, ograniczając tym samym ich negatywne oddziaływanie na ciało użytkownika. Popularny i często spotykany w Zonie, a także niekiedy - nieoficjalnie, rzecz jasna - poza jej granicami, gdzie wykorzystywany jest do leczenia ludzi, którzy zostali wystawieni na szkodliwe działanie związków chemicznych. Jego duży ciężar ma swoje źródło w wytwarzanym polu grawitacyjnym. W niewielkim stopniu chroni także przed wysokimi temperaturami i kwasami, występującymi w anomaliach termicznych i chemicznych. Na skali promieniowania artefaktów plasuje się na najniższym poziomie.\n \n%c[0,200,200,200]WŁAŚCIWOŚCI:%c[ui_gray_2]\n \n%c[0,225,225,225] • %c[ui_gray_2] artefakt\n%c[0,100,100,255] • %c[ui_gray_2]można umieścić na pasie</text>
+	</string>
+	<string id="encyclopedia_artifacts_medusa">
+		<text>Meduza</text>
+	</string>
+	
+	<string id="encyclopedia_artifacts_mincer_meat_text">
+		<text>%c[d_green]Informacje\n%c[ui_gray_2]Artefakt jest miękki, porowaty, przypomina w dotyku skórę i można go ściskać. Wystawiony na odpowiednie warunki zewnętrzne zachowuje się jak gąbka. W wysokiej temperaturze zaczyna wydzielać smród palonego ciała, po dłuższym czasie zaś sam może ulec samozapłonowi. Choć nie wpływa to na artefakt w żaden sposób, może parzyć, a w szczególnych przypadkach nawet podpalić otoczenie, w jakim się znajduje. Według badań, potrafi zaabsorbować ciepło i przekazywać je innym przedmiotom. Kontynuując porównanie do gąbki, pory na jego powierzchni są w stanie zaabsorbować niewielkie ilości toksyn z najbliższego otoczenia. Ponadto podczas kontaktu z anomaliami psionicznymi i falami wytwarzanymi przez niektóre mutanty, artefakt zwiększa siłę oddziaływania psionicznego, ponieważ po krótkim czasie absorbowania fal sam zaczyna je emitować. Co więcej, Kotlet przewodzi prąd w stopniu porównywalnym do ciała żywej istoty. Niektórzy stalkerzy zauważyli, że używanie go nawet przez krótki czas może spowodować wyczerpanie organizmu. Z drugiej strony największą jego zaletą jest zdolność do regenerowania tkanek oraz przyspieszania procesu zamykania się ran. Na skali promieniowania artefaktów plasuje się na najniższym poziomie.\n \n%c[0,200,200,200]WŁAŚCIWOŚCI:%c[ui_gray_2]\n \n%c[0,225,225,225] • %c[ui_gray_2] artefakt\n%c[0,100,100,255] • %c[ui_gray_2]można umieścić na pasie</text>
+	</string>
+	<string id="encyclopedia_artifacts_mincer_meat">
+		<text>Kotlet </text>
+	</string>
+	
+	<string id="encyclopedia_artifacts_night_star_text">
+		<text>%c[d_green]Informacje\n%c[ui_gray_2]Ten świecący artefakt wytwarza ukierunkowane pole grawitacyjne, które zwiększa jego masę. Z tego też powodu Gwiazda Wieczorna jest bardzo ciężka i nieporęczna dla użytkownika. Artefakt chroni przed oddziaływaniami kwasów i wysokiej temperatury. Z racji walorów estetycznych swojego rdzenia jest poszukiwany przez jubilerów z całego świata. Podczas szlifowania zaleca się jednak zachować szczególną ostrożność, gdyż najmniejszy błąd może spowodować eksplozję zdolną zrównać z ziemią mały budynek. W związku z tym wszelkiej obróbki najlepiej dokonywać przy użyciu wyspecjalizowanej maszynerii, co znacząco obniży prawdopodobieństwo wybuchu. Ponadto artefakt charakteryzuje się tym, że tylko jego zewnętrzna warstwa wydziela promieniowanie. Gwiazda Wieczorna absorbuje również toksyny i związki chemiczne, co czyni ją wartościowym nabytkiem dla łowców artefaktów, jednak z drugiej strony pochłania tylko niewielkie ilości szkodliwych substancji. Jest jednak względnie tania, więc nawet niezbyt bogaci stalkerzy są w stanie ją nabyć. Na skali promieniowania artefaktów plasuje się na niskim poziomie.\n \n%c[0,200,200,200]WŁAŚCIWOŚCI:%c[ui_gray_2]\n \n%c[0,225,225,225] • %c[ui_gray_2] artefakt\n%c[0,100,100,255] • %c[ui_gray_2]można umieścić na pasie</text>
+	</string>
+	<string id="encyclopedia_artifacts_night_star">
+		<text>Gwiazda Wieczorna</text>
+	</string>
+	
+	<string id="encyclopedia_artifacts_soul_text">
+		<text>%c[d_green]Informacje\n%c[ui_gray_2]Zwiększa odporność na obrażenia toksyczne i chemiczne, absorbując szkodliwe substancje. Wchłonięte toksyny przekształcane są przez artefakt w czasie produkcji wspomnianego śluzu, który - nałożony na rany - przyspiesza proces gojenia i uśmierza ból. Z drugiej strony, Dusza zwiększa podatność na oddziaływanie promieniowania psionicznego i porażenie prądem. Wiadomo również, że wysysa energię z użytkownika. Charakteryzuje się niewielką gęstością, dzięki czemu jest dość lekka. Na skali promieniowania artefaktów plasuje się na niskim poziomie.\n \n%c[0,200,200,200]WŁAŚCIWOŚCI:%c[ui_gray_2]\n \n%c[0,225,225,225] • %c[ui_gray_2] artefakt\n%c[0,100,100,255] • %c[ui_gray_2]można umieścić na pasie</text>
+	</string>
+	<string id="encyclopedia_artifacts_soul">
+		<text>Dusza</text>
+	</string>
+	
+	<string id="encyclopedia_artifacts_vyvert_text">
+		<text>%c[d_green]Informacje\n%c[ui_gray_2]Ten dziwacznie ukształtowany artefakt powstaje w miejscach o zwiększonej anomalnej aktywności grawitacyjnej. Ponieważ działa jak swego rodzaju gąbka wchłaniająca toksyny i chemikalia, chroni użytkownika zarówno przed zewnętrznymi substancjami toksycznymi, jak i związkami chemicznymi, które weszły już do krwiobiegu. Z wyglądu przypomina materiał organiczny, jednakże znacznie bliżej mu do koralowca. Z racji nieorganicznej budowy jest niepalny. Zapewnia ochronę zarówno przed kwasami, jak i wysokimi temperaturami. Żadna z frakcji nie jest nim szczególnie zainteresowana, więc najczęściej sprzedaje się go naukowcom, którzy przeprowadzają na nim eksperymenty i próbują znaleźć dla niego zastosowanie. Wyróżnia się wysoką gęstością, przez co jest bardzo ciężki. Na skali promieniowania artefaktów plasuje się na niskim poziomie.\n \n%c[0,200,200,200]WŁAŚCIWOŚCI:%c[ui_gray_2]\n \n%c[0,225,225,225] • %c[ui_gray_2] artefakt\n%c[0,100,100,255] • %c[ui_gray_2]można umieścić na pasie</text>
+	</string>
+	<string id="encyclopedia_artifacts_vyvert">
+		<text>Skrętak</text>
+	</string>
+	
+	<string id="encyclopedia_artifacts_compass_text">
+		<text>%c[d_green]Informacje\n%c[ui_gray_2]Niezmiernie rzadko spotykany artefakt - minęło kilka lat od ostatniego razu, kiedy znaleziono jeden z nich. Umożliwia zlokalizowanie przerw w polach anomalii. Uważa się, że pozwala właścicielowi na przebycie bez szwanku nawet najbardziej złożonych pól anomalii. Niewiele osób wie jednak, jak się z nim prawidłowo obchodzić.\n \n%c[0,200,200,200]WŁAŚCIWOŚCI:%c[ui_gray_2]\n \n%c[0,225,225,225] • %c[ui_gray_2] artefakt\n%c[0,100,100,255] • %c[ui_gray_2]można umieścić na pasie</text>
+	</string>
+	<string id="encyclopedia_artifacts_compass">
+		<text>Kompas</text>
+	</string>
+	
+	<string id="encyclopedia_artifacts_oasis_heart_text">
+		<text>%c[d_green]Informacje\n%c[ui_gray_2]Artefakt ten został znaleziony w samym sercu legendarnej Oazy. Wydaje się, że Serce to skrystalizowana roślina, która nabyła część leczniczych właściwości Oazy.\n \n%c[0,200,200,200]WŁAŚCIWOŚCI:%c[ui_gray_2]\n \n%c[0,225,225,225] • %c[ui_gray_2] artefakt\n%c[0,100,100,255] • %c[ui_gray_2]można umieścić na pasie</text>
+	</string>
+	<string id="encyclopedia_artifacts_oasis_heart">
+		<text>Serce Oazy</text>
+	</string>
+	
+	<string id="encyclopedia_artifacts_glass_text">
+		<text>%c[d_green]Informacje\n%c[ui_gray_2]Świetlik oddziałuje z nieznanymi nauce polami energii, przyspieszając regenerację tkanek organizmów żywych i normalizując ich procesy metaboliczne. Artefakt potrafi postawić na nogi poważnie rannego stalkera dosłownie w ciągu kilku minut, choć jeśli zostanie wystawiony na długotrwałe działanie wysokiej temperatury, może dokonać samozapłonu. Potęguje również szkodliwe działanie fal i pól psionicznych, a także anomalii elektrycznych, oraz zdaje się zmniejszać kondycję i obniżać tempo jej odzyskiwania. Z drugiej strony, jest w stanie absorbować każdy szkodliwy związek chemiczny znajdujący się w organizmie użytkownika. Co więcej, świetnie chroni przed toksynami, niwelując ich szkodliwe działanie w krwiobiegu poprzez wydzielanie środków neutralizujących. Z tego powodu, środowiska okołowojskowe spekulują, że z pomocą Świetlików łatwiej będzie przeprowadzić zamachy terrorystyczne oparte o broń chemiczną i biologiczną. Są to jednak niezwykle rzadkie artefakty. Na skali promieniowania artefaktów plasuje się na bardzo wysokim poziomie.\n \n%c[0,200,200,200]WŁAŚCIWOŚCI:%c[ui_gray_2]\n \n%c[0,225,225,225] • %c[ui_gray_2] artefakt\n%c[0,100,100,255] • %c[ui_gray_2]można umieścić na pasie</text>
+	</string>
+	<string id="encyclopedia_artifacts_glass">
+		<text>Świetlik</text>
+	</string>
+		
+</string_table>

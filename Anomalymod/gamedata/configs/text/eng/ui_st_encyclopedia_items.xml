@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	
+	<string id="encyclopedia_items">
+		<text>Przedmioty</text>
+	</string>
+	
+	<string id="encyclopedia_items_pda">
+		<text>PDA</text>
+	</string>
+	<string id="encyclopedia_items_pda_text">
+		<text>
+		%c[pda_white]Osobisty Asystent Cyfrowy%c[ui_gray_1] (ang.: %c[pda_white]Personal Digital Assistant%c[ui_gray_1]), w skrócie %c[pda_white]PDA%c[ui_gray_1] to kieszonkowe urządzenie elektroniczne mające w założeniach obejmować najprostsze i najistotniejsze funkcje komputera.\n		
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nPDA jest niezbędne do dzielenia się codziennymi informacjami. Z tego powodu, w Zonie posiada je prawie każdy stalker. Wbudowany moduł GPS używany jest do podawania lokalizacji i informowania użytkownika o aktualnym czasie.\n \nOprócz podstawowych cech, PDA posiada wiele użytecznych funkcji, wliczając w to dostęp do lokalnej sieci komunikacyjnej. Za jej pośrednictwem stalkerzy mogą komunikować się między sobą. Obecnie produkowane PDA posiadają również odbiornik fal FM, zapewniając dostęp do lokalnych kanałów radiowych.\n \nNiektóre ulepszone wersje PDA posiadają dodatkowy moduł bieżącego pozycjonowania innych urządzeń podłączonych do sieci w promieniu 300 metrów, co czyni je bardzo atrakcyjnymi dla stalkerów.\n
+		\n• PDA zużywa %c[pda_white]0.1 mAh%c[ui_gray_1] na sekundę nieprzerwanego korzystania. Zużycie prądu jest większe przy modelach z ulepszeniami.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_items_itm_upd">
+		<text>Uniwersalny zasilacz</text>
+	</string>
+	<string id="encyclopedia_items_itm_upd_text">
+		<text>
+		%c[pda_white]Uniwersalny zasilacz%c[ui_gray_1], w skrócie %c[pda_white]"UPD"%c[ui_gray_1] (ang.:%c[pda_white]Universal Power Device%c[ui_gray_1]), to przenośna jednostka zasilająca wielkości małego walkie-talkie. Jest kompatybilne z niemal każdym typem baterii. Wykorzystuje każdą jednostkę energii z włożonych baterii do zaopatrywania urządzeń elektronicznych odpowiednio wzmocnionym strumieniem mikrofal. Można je podłączyć do każdego rodzaju wyposażenia, niezależnie od stopnia złożoności czy wieku. Pozwala stalkerom używać wielu urządzeń, nawet jeśli posiadają tylko jedną baterię.\n 
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nMaksymalna pojemność UPD wynosi 3 Ah (amperogodziny).\n \nWszystkie aktywne urządzenia Zużywają energię pochodzącą z UPD. Zużycie zależy od rodzaju podłączonych urządzeń.\n \nKiedy natężenie prądu w UPD spadnie do 0, wszystkie podłączone urządzenia przestaną działać.\n. \nZwracaj uwagę na pozostałą energię. Upewnij się, że posiadasz baterie na zapas.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_items_itm_basickit">
+		<text>Narzędzia podstawowe</text>
+	</string>
+	<string id="encyclopedia_items_itm_basickit_text">
+		<text>
+		%c[pda_white]Narzędzia podstawowe%c[ui_gray_1] mogą być użyte do instalacji podstawowych ulepszeń wyposażenia, urządzeń i elementów stroju.\n
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nRaczej nie nadają się do bardziej wyrafinowanych technik, ale w rękach przyzwyczajonego do oszczędności technika mogą okazać się bardzo przydatne.\n \nZestaw zawiera różne rodzaje i rozmiary szczypiec, śrub i wkrętów, a także spoiwa i pomieszane złączki.\n
+		\n%c[pda_white]Poradniki przetrwania%c[ui_gray_1] zwykle dostarczają informacji o podstawowym wyposażeniu i zestawach surwiwalowych. Z odpowiednią wiedzą wprawiony stalker zrobi z tego zestawu świetny użytek.\n \nDobrym pomysłem jest trzymanie w pobliżu kilku najprostszych materiałów. Koniec końców, nie wyczarujesz niczego z powietrza.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_items_itm_advancedkit">
+		<text>Narzędzia zaawansowane</text>
+	</string>
+	<string id="encyclopedia_items_itm_advancedkit_text">
+		<text>
+		%c[pda_white]Narzędzia zaawansowane%c[ui_gray_1] mogą być użyte do instalacji wielu ulepszeń wyposażenia, urządzeń i elementów stroju.\n
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nPrzyzwoity zestaw nieco podstarzałych narzędzi. Pomimo wieku wydają się być w niezłym stanie.\n \nZawierają zestaw cążków, kilka pęset z różnymi końcówkami, sondę i zestaw hakowato zakończonych dźwigni ślusarskich.\n
+		\n%c[pda_white]Specyfikacje techniczne%c[ui_gray_1] dostarczają informacji inżynieryjnych. Z odpowiednią wiedzą wprawiony stalker zrobi z tego zestawu świetny użytek.\n \nDobrym pomysłem jest trzymanie w pobliżu kilku najprostszych materiałów. Koniec końców, nie wyczarujesz niczego z powietrza.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_items_itm_expertkit">
+		<text>Narzędzia precyzyjne</text>
+	</string>
+	<string id="encyclopedia_items_itm_expertkit_text">
+		<text>
+		%c[pda_white]Narzędzia precyzyjne%c[ui_gray_1] mogą być użyte do instalacji ulepszeń wyposażenia, urządzeń i elementów stroju wymagających niezwykłej dokładności.\n
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nProfesjonalny zestaw narzędzi wysokiej klasy do precyzyjnego dostosowywania elementów wyposażenia.\n
+		\nZawiera komplet wierteł, precyzyjne pęsety, lutownicę, końcówkę wkrętaka 4 mm i miernik uniwersalny.\n
+		\n%c[pda_white]Szczegółowe instrukcje%c[ui_gray_1] dostarczają informacji o inżynierii przemysłowej. Z odpowiednią wiedzą wprawiony stalker zrobi z tego zestawu świetny użytek.\n \nDobrym pomysłem jest trzymanie w pobliżu kilku najprostszych materiałów. Koniec końców, nie wyczarujesz niczego z powietrza.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_items_itm_drugkit">
+		<text>Zestaw do wytwarzania leków</text>
+	</string>
+	<string id="encyclopedia_items_itm_drugkit_text">
+		<text>
+		%c[pda_white]Zestaw do wytwarzania leków%c[ui_gray_1] może być użyty do tworzenia różnych używek i medykamentów.\n		
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nZestaw stanowi kilka małych pudełek i metalowych narzędzi do produkcji wyrobów medycznych. Zawiera plastikowe osłonki, pastylki i niewielkie ampułki.\n \nParę osób z odpowiednią wiedzą na pewno zrobiłoby z takiego zestawu dobry użytek. Zwracaj uwagę na tych, którzy mogą posiadać właściwe %c[pda_white]receptury%c[ui_gray_1].\n \nDobrym pomysłem jest trzymanie w pobliżu kilku najprostszych materiałów. Koniec końców, nie wyczarujesz niczego z powietrza.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_items_itm_ammokit">
+		<text>Zestaw do obróbki amunicji</text>
+	</string>
+	<string id="encyclopedia_items_itm_ammokit_text">
+		<text>
+		%c[pda_white]Narzędzia rusznikarskie%c[ui_gray_1] mogą zostać użyte do recyklingu uszkodzonej amunicji i tworzenia z nich wersji nadających się do użytku.\n		
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nPorządny zestaw starych narzędzi i akcesoriów rusznikarskich.\n \nZawiera zestaw wybijaków, młotek rusznikarski, prasę i zestaw miarek do czarnego prochu.\n
+		\n%c[pda_white]Instrukcje bezpieczeństwa dot. amunicji%c[ui_gray_1] dostarczają informacji na temat różnych typów amunicji wraz z dogłębną analizą elementów pocisku. Z odpowiednią wiedzą wprawiony stalker zrobi z tego zestawu świetny użytek.\n \nDobrze jest zachować sobie parę paczek uszkodzonej amunicji. Koniec końców, nie wyczarujesz niczego z powietrza.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_items_kit_hunt">
+		<text>Plecak myśliwski</text>
+	</string>
+	<string id="encyclopedia_items_kit_hunt_text">
+		<text>
+		%c[ui_gray_1]Korzystanie z %c[pda_white]plecaka myśliwskiego%c[ui_gray_1] zwiększa liczbę części uzyskiwanych dzięki patroszeniu mutantów.\n		
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nCały wór haków, noży i innego wyposażenia przydatnego przy skórowaniu i patroszeniu zwierząt i mutantów.\n \nParu stalkerów nosi profesjonalne wyposażenie do polowania na mutanty. Pewnie dlatego tylu stalkerów cierpi na niestrawność po spożyciu mięs mutantów.\n \nDzięki wielu posiadanym narzędziom, taki plecak może być pomocny w utrzymaniu broni i pancerza.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_items_fieldcooker">
+		<text>Kuchenka wielopaliwowa</text>
+	</string>
+	<string id="encyclopedia_items_fieldcooker_text">
+		<text>
+		%c[pda_white]Kuchenka wielopaliwowa%c[ui_gray_1] pozwala użytkownikowi przyrządzać mięsa mutantów.\n		
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nKuchenki tego typu są od lat poddawane wielu testom, były i nadal są używane w czasie najróżniejszych wypraw. Są niezwykle wytrzymałe i niezawodne - w końcu zostały zaprojektowane, by radzić sobie w wymagających sytuacjach, na ekstremalnych wysokościach i w skrajnych temperaturach.\n \nJest bardzo wydajna, pozwala na zastosowanie niemal każdego rodzaju paliwa, włączając butan, benzynę, olej, naftę, a nawet paliwo lotnicze. Ergonomiczne pokrętło pozwala dostosować intensywność płomienia, nawet jeśli dotykasz go przez rękawice.\n		
+		\n%c[pda_blue]Szczegóły%c[ui_gray_1]
+		\nPonieważ paliwa używane w kuchence wielopaliwowej są bardziej kaloryczne od drewna czy węgla, jej używanie jest na dłuższą metę bardziej opłacalne.\n \nZ drugiej strony, tego typu paliwa zwykle przewożone są w ciężkich, metalowych kanistrach, co ogranicza ich użyteczność raczej do baz i obozów, niż do działań polowych.\n \nMięsa mutantów, które potrzebują niewielkich temperatur do przyrządzenia są określane jako "niższej klasy". Takie, które muszą być wystawione na działanie wysokich temperatur nazywane są "wysokiej klasy".\n
+		\n• Nieograniczona ilość użyć.
+		\n• Na kuchence wielopaliwowej można przyrządzać wszystkie rodzaje mięs.
+		\n• Paliwa nadające się do użytku: %c[pda_white]benzyna, gaz ziemny, nafta%c[ui_gray_1]
+		</text>
+	</string>
+	
+	<string id="encyclopedia_items_cooking">
+		<text>Kuchenka turystyczna</text>
+	</string>
+	<string id="encyclopedia_items_cooking_text">
+		<text>
+		%c[pda_white]Kuchenka turystyczna%c[ui_gray_1] pozwala użytkownikowi przyrządzać mięsa mutantów.\n		
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nZestaw do gotowania w warunkach polowych. Zawiera wszystkie niezbędne akcesoria i sprzęty potrzebne do przyrządzania posiłków w czasie kempingów, czy pieszych wypraw. Generuje mnóstwo hałasu, a przez swoją wagę i ilość elementów jest bardzo nieporęczna. Chętnie korzystają z niej większe grupy przebywających ze sobą stalkerów.\n		
+		\n%c[pda_blue]Szczegóły%c[ui_gray_1]
+		\nChociaż węgiel jest relatywnie tani, jak na warunki Zony, do przyrządzenia pojedynczego posiłku potrzebna jest dosyć duża jego ilość. Z tej przyczyny węgiel nie jest wcale tak efektywny, jak mogłoby się wydawać. Z drugiej strony, sam z siebie jest raczej lekki, dzięki czemu łatwo zabrać go ze sobą na wyprawę.\n \nMięsa mutantów, które potrzebują niewielkich temperatur do przyrządzenia są określane jako "niższej klasy". Takie, które muszą być wystawione na działanie wysokich temperatur nazywane są "wysokiej klasy".\n		
+		\n• Maksymalna ilość użyć: %c[pda_white]3%c[ui_gray_1]
+		\n• %c[pda_white]Węgiel%c[ui_gray_1] jest niezbędny do przyrządzania posiłków na kuchence turystycznej.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_items_army_bowler">
+		<text>Menażka</text>
+	</string>
+	<string id="encyclopedia_items_army_bowler_text">
+		<text>
+		%c[pda_white]Menażka%c[ui_gray_1] pozwala użytkownikowi przyrządzać mięsa mutantów.\n
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nWojskowa menażka ma charakterystyczny wklęsło-wypukły kształt. Posiada rączkę z drutu do zawieszania i przenoszenia.\n \nNosząc menażkę przy pasie, powinna przylegać wklęsłą stroną do ciała. Pokrywki można używać jak patelni do podgrzania, czy przyrządzania drugiego dania. Jej osobna rączka jest zaprojektowana tak, by wytrzymywać wysokie temperatury. Przy okazji stanowi bezpieczne zamknięcie całego pojemnika. Do zestawu dołączona jest niewielka łyżka, wetknięta w perforację w rączce.\n		
+		\n%c[pda_blue]Szczegóły%c[ui_gray_1]
+		\nChociaż węgiel jest relatywnie tani, jak na warunki Zony, do przyrządzenia pojedynczego posiłku potrzebna jest dosyć duża jego ilość. Z tej przyczyny węgiel nie jest wcale tak efektywny, jak mogłoby się wydawać. Z drugiej strony, sam z siebie jest raczej lekki, dzięki czemu łatwo zabrać go ze sobą na wyprawę.\n \nMięsa mutantów, które potrzebują niewielkich temperatur do przyrządzenia są określane jako "niższej klasy". Takie, które muszą być wystawione na działanie wysokich temperatur nazywane są "wysokiej klasy".\n		
+		\n• Maksymalna ilość użyć: %c[pda_white]7%c[ui_gray_1]
+		\n• Menażki można używać w %c[pda_white]ogniskach%c[ui_gray_1] lub w połączeniu z %c[pda_white]węglem%c[ui_gray_1].
+		</text>
+	</string>
+	
+	
+	<string id="encyclopedia_items_detector_geiger">
+		<text>Licznik Geigera</text>
+	</string>
+	<string id="encyclopedia_items_detector_geiger_text">
+		<text>
+		%c[pda_white]Licznik Geigera%c[ui_gray_1] używany jest do pomiaru poziomu promieniowania.\n
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nLicznik Geigera (inaczej - dozymetr) mierzy promieniowanie jonizujące (radioaktywne). Wykrywa emisję cząsteczek alfa, beta i gamma. Opracowany w 1908 roku, nadal pozostaje jednym z najpopularniejszych przedmiotów tego typu wykorzystywanym przez służbę zdrowia, fizyków, w przemyśle, geologii i innych dziedzinach nauk. Jego zaletą jest budowa złożona z najprostszych możliwych obwodów elektronicznych.\n		
+		\n%c[pda_blue]Sposób użycia%c[ui_gray_1]
+		\nLicznik Geigera działa w 3 trybach:
+		\n• aktywny - pokazuje wartość promieniowania, gdy trzymasz go w ręku;
+		\n• ciągły - pokazuje wartość promieniowania, jeśli jest w twoim ekwipunku i jest naładowany;
+		\n• bieżący - pokazuje wartość w momencie naciśnięcia właściwego przycisku, o ile licznik jest w twoim ekwipunku (sprawdź właściwy klawisz w opcjach)
+		\n \n• Zużywa %c[pda_white]0.1 mAh%c[ui_gray_1] w czasie jednego użycia.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_items_detector_simple">
+		<text>Detektor Echo</text>
+	</string>
+	<string id="encyclopedia_items_detector_simple_text">
+		<text>
+		%c[pda_white]Detektor Echo%c[ui_gray_1] to urządzenie pozwalające wykrywać i lokalizować artefakty.\n		
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nTen, dość mocno już przestarzały detektor aktywności anomalnej wydaje sygnały ostrzegawcze, kiedy cząsteczki anomalne trafią do specjalnej komory. Może także informować użytkownika o wykryciu artefaktu i odległości do najbliższego.\n \nOdległość jest określana za pomocą częstotliwości dźwięku wydawanego przez detektor.\n \nBy uruchomić tryb szukania, należy podnieść przednią pokrywę urządzenia.\n \nZe względu na prostotę, Echo może wykrywać tylko najpopularniejsze artefakty.
+		\n \n• Zużywa %c[pda_white]0.1 mAh%c[ui_gray_1] na sekundę nieprzerwanego korzystania.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_items_detector_advanced">
+		<text>Detektor Niedźwiedź</text>
+	</string>
+	<string id="encyclopedia_items_detector_advanced_text">
+		<text>
+		%c[pda_white]Detektor Niedźwiedź%c[ui_gray_1] to urządzenie pozwalające wykrywać i lokalizować artefakty.\n		
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nDetektor aktywności anomalnej ostatniej generacji. Stosuje się go do lokalizowania formacji anomalnych. Posiada panel złożony z kolorowych diod, które wskazują nie tylko kierunek, ale także odległość od najbliższego artefaktu.\n \nBy uruchomić tryb szukania, należy podnieść przednią pokrywę urządzenia.\n \nNiestety, urządzenie jest zaprogramowane według nieco już przestarzałej listy artefaktów.
+		\n \n• Zużywa %c[pda_white]0.15 mAh%c[ui_gray_1] na sekundę nieprzerwanego korzystania.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_items_detector_elite">
+		<text>Detektor Wołos</text>
+	</string>
+	<string id="encyclopedia_items_detector_elite_text">
+		<text>
+		%c[pda_white]Detektor Wołos%c[ui_gray_1] to profesjonalne i zaawansowane urządzenie pozwalające wykrywać i z dużą dokładnością lokalizować artefakty.\n		
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nNaukowy detektor kolejnej generacji. Dzięki trzem zmodernizowanym komorom detekcji, wykrywacz pokazuje dokładną pozycję artefaktu na wyświetlaczu.\n \nW trybie pasywnym (nie w ręku) wykrywa tylko promieniowanie i obecność anomalii.\n \nBy uruchomić tryb szukania, należy podnieść przedni panel LED. Detektor wykrywa wszystkie artefakty znane w tej chwili nauce.
+		\n \n• Zużywa %c[pda_white]0.15 mAh%c[ui_gray_1] na sekundę nieprzerwanego korzystania.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_items_detector_scientific">
+		<text>Detektor Swaróg</text>
+	</string>
+	<string id="encyclopedia_items_detector_scientific_text">
+		<text>
+		%c[pda_white]Detektor Swaróg%c[ui_gray_1] to profesjonalne i zaawansowane urządzenie pozwalające wykrywać i z dużą dokładnością lokalizować artefakty.\n		
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nPrototyp skanera anomalnych częstotliwości o rozszerzonej funkcjonalności. Urządzenie ma oprogramowanie, dzięki któremu może identyfikować nieruchome obszary anomalnej aktywności, o ile posiada je w bazie danych, zachowując oczywiście możliwość precyzyjnej lokalizacji artefaktów.\n \nPozycja anomalii i artefaktów wyświetlana jest na ekranie.\n \nBy uruchomić tryb szukania, należy podnieść przedni panel LED. Detektor wykrywa wszystkie artefakty znane w tej chwili nauce, a także rejestruje nowe, nieskatalogowane dotychczas dane pochodzące z anomalii.
+		\n \n• Zużywa %c[pda_white]0.2 mAh%c[ui_gray_1] na sekundę nieprzerwanego korzystania.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_items_gps_tracker">
+		<text>Wojskowy moduł GPS</text>
+	</string>
+	<string id="encyclopedia_items_gps_tracker_text">
+		<text>
+		%c[pda_white]Wojskowy moduł GPS%c[ui_gray_1] pozwala użytkownikowi na lokalizację ludzi znajdujących się w pobliżu.\n		
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nPrototyp nowej generacji urządzeń nawigacyjnych GPS. Istnieje bardzo niewiele egzemplarzy. Wydawane są najbardziej doświadczonym żołnierzom specnazu, choć zdarzało się, że wydostawały się poza formację.\n \nWzmocnione moduły gwarantują operatywność nawet w nieprzyjaznym środowisku. Wysoka czułość i wzmocnienie sygnału pozwalają na korzystanie z modułu w najróżniejszych sytuacjach i w czasie najtrudniejszych warunków bojowych.\n \nW przeciwieństwie do typowych modułów GPS, te polegają na zestawach unikalnych kodów udzielających specjalnych przywilejów podczas komunikacji. Posiada funkcję wykrycie innych aktywnych modułów GPS w promieniu 300 metrów.\n \nZ powodu wszystkich swoich możliwości, moduł zużywa znaczną ilość energii w czasie pracy. Posiada automatyczne zabezpieczenie wyłączające, aktywujące się po 20 sekundach nieprzerwanego skanowania.\n
+		\n%c[pda_blue]Szczegóły%c[ui_gray_1]
+		\n• Maksymalny czas skanowania: %c[pda_white]20 sekund%c[ui_gray_1]
+		\n• Promień skanowania: %c[pda_white]300 metrów%c[ui_gray_1]
+		\n• Zużywa %c[pda_white]0.25 Ah%c[ui_gray_1] w czasie jednego użycia.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_items_lead_box">
+		<text>OOMP</text>
+	</string>
+	<string id="encyclopedia_items_lead_box_text">
+		<text>
+		%c[pda_white]Obudowany ołowiem metalowy pojemnik (OOMP)%c[ui_gray_1] służy do bezpiecznego przechowywania artefaktów i całkowitej ich izolacji od otoczenia.\n		
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nObudowany ołowiem metalowy pojemnik (OOMP) jest bardzo prostą metalową puszką z grubymi ściankami, wewnątrz wyłożoną pianką i ciężką pokrywą z zamkiem ciśnieniowym.\n \nSpecjalnie opracowany do transportowania materiałów radioaktywnych, w Zonie pojemnik służy jako narzędzie do magazynowania i przenoszenia artefaktów. Zapewnia względne bezpieczeństwo użytkownika przed artefaktami znajdującymi się w ekwipunku i zatrzymuje całe emitowane przez nie promieniowanie. Nie można go jednakże umieścić na pasie, co oznacza, że żaden artefakt umieszczony w nim nie będzie oddziaływał na użytkownika. Zego zawartość można zmieniać przy pomocy narzędzia do obsługi artefaktów.\n
+		\n%c[pda_blue]Szczegóły%c[ui_gray_1]
+		\n• Przed sprzedażą artefaktów musisz usunąć je z pojemnika.
+		\n• By umieścić artefakt w pojemniku po prostu przeciągnij go na ikonę OOMP w ekwipunku.
+		\n• Waga: %c[pda_white]2.12 kg%c[ui_gray_1]
+		</text>
+	</string>
+	
+	<string id="encyclopedia_items_af_iam">
+		<text>PMA</text>
+	</string>
+	<string id="encyclopedia_items_af_iam_text">
+		<text>
+		%c[pda_white]Prowizoryczny Moduł Aplikacji (PMA)%c[ui_gray_1] jest używany do przechowywania artefaktów i filtrowania niskiego poziomu promieniowania. Pozwala użytkownikowi na bezpieczne umieszczenie artefaktów na pasie.\n		
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nProwizoryczny Moduł Aplikacji (PMA) filtruje niewielką ilość cząstek radioaktywnych emitowanych przez artefakty.\n \nTen metalowy pojemnik to najtańsze dostępne urządzenie umożliwiające użytkownikowi wykorzystanie najsłabszych artefaktów. Filtr zbudowany jest z wielu głównie ołowianych warstw ekranujących promieniowanie. Stanowi tanią alternatywę dla bardziej solidnych ZAA i MAA. W szczególnych przypadkach, lub kiedy nie jest dłużej potrzebny, moduł można wykorzystać do naprawy hełmów i strojów.\n \nUmieść w środku artefakt, by móc zawiesić PMA na pasie. Jego statystyki (oprócz poziomu emitowanego promieniowania) zostaną zachowane.\n		
+		\n%c[pda_blue]Szczegóły%c[ui_gray_1]
+		\n• Przed sprzedażą artefaktów musisz usunąć je z pojemnika.
+		\n• By umieścić artefakt w pojemniku po prostu przeciągnij go na ikonę PMA w ekwipunku.
+		\n• Waga: %c[pda_white]2.4 kg%c[ui_gray_1]
+		\n• Najwyższy dopuszczalny poziom promieniowania: %c[pda_white]7 mSv%c[ui_gray_1]
+		</text>
+	</string>
+	
+	<string id="encyclopedia_items_af_aac">
+		<text>ZAA</text>
+	</string>
+	<string id="encyclopedia_items_af_aac_text">
+		<text>
+		%c[pda_white]Zasobnik Aplikacji Artefaktów (ZAA)%c[ui_gray_1] jest używany do przechowywania artefaktów i filtrowania średniego poziomu promieniowania. Pozwala użytkownikowi na bezpieczne umieszczenie artefaktów na pasie.\n		
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nZasobnik Aplikacji Artefaktów (ZAA) filtruje średnią ilość cząstek radioaktywnych emitowanych przez artefakty.\n \nTen mechaniczny, aluminiowy pojemnik jest najbardziej opłacalnym i najpopularniejszym sposobem umożliwiającym użytkownikowi wykorzystanie większości artefaktów. Filtr zbudowany jest z wielu głównie ołowianych warstw ekranujących z dodatkową warstwą toru, który ma właściwości blokujące promieniowanie. To urządzenie zostało stworzone przez naukowców w wojskowych bunkrach znajdujących się w Zonie. W szczególnych przypadkach, lub kiedy nie jest dłużej potrzebny, zasobnik można wykorzystać do naprawy hełmów i strojów.\n \nUmieść w środku artefakt, by móc zawiesić ZAA na pasie. Jego statystyki (oprócz poziomu emitowanego promieniowania) zostaną zachowane.\n
+		\n%c[pda_blue]Szczegóły%c[ui_gray_1]
+		\n• Przed sprzedażą artefaktów musisz usunąć je z pojemnika.
+		\n• By umieścić artefakt w pojemniku po prostu przeciągnij go na ikonę ZAA w ekwipunku.
+		\n• Waga: %c[pda_white]2.73 kg%c[ui_gray_1]
+		\n• Najwyższy dopuszczalny poziom promieniowania: %c[pda_white]12 mSv%c[ui_gray_1]
+		</text>
+	</string>
+	
+	<string id="encyclopedia_items_af_aam">
+		<text>MAA</text>
+	</string>
+	<string id="encyclopedia_items_af_aam_text">
+		<text>
+		%c[pda_white]Moduł Aplikacji Artefaktów (MAA)%c[ui_gray_1] jest używany do przechowywania artefaktów i filtrowania wysokiego, niebezpiecznego poziomu promieniowania. Pozwala użytkownikowi na bezpieczne umieszczenie artefaktów na pasie.\n		
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nModuł Aplikacji Artefaktów (MAA) filtruje znaczną ilość cząstek radioaktywnych emitowanych przez artefakty.\n \nTen zaawansowany, mechaniczny moduł jest najbardziej efektywnym sposobem umożliwiającym użytkownikowi wykorzystanie nawet najpotężniejszych artefaktów. Filtr zbudowany jest z wielu warstw grafenu. Dzięki temu ma najlepsze właściwości ekranujące promieniowanie ze wszystkich tego typu urządzeń, zachowując przy tym stosunkowo niewielką wagę. Uważany w Zonie za znak zamożności.\n \nNajczęściej używany przez naukowców do zminimalizowania szkodliwego wpływu artefaktów. Zaprojektowany i opracowany na Ukrainie przez rządowy instytut produkujący wyposażenie naukowe dla pracowników działających w Strefie Wykluczenia.\n \nW szczególnych przypadkach, lub kiedy nie jest dłużej potrzebny, zasobnik można wykorzystać do naprawy hełmów i strojów.\n \nUmieść w środku artefakt, by móc zawiesić MAA na pasie. Jego statystyki (oprócz poziomu emitowanego promieniowania) zostaną zachowane.\n		
+		\n%c[pda_blue]Szczegóły%c[ui_gray_1]
+		\n• Przed sprzedażą artefaktów musisz usunąć je z pojemnika.
+		\n• By umieścić artefakt w pojemniku po prostu przeciągnij go na ikonę MAA w ekwipunku.
+		\n• Waga: %c[pda_white]3.06 kg%c[ui_gray_1]
+		\n• Najwyższy dopuszczalny poziom promieniowania: %c[pda_white]23 mSv%c[ui_gray_1]
+		</text>
+	</string>
+	
+	<string id="encyclopedia_items_detector_radio">
+		<text>Odbiornik radiowy</text>
+	</string>
+	<string id="encyclopedia_items_detector_radio_text">
+		<text>
+		%c[pda_white]Odbiornik radiowy%c[ui_gray_1] to niewielkie urządzenie z bardzo czułym modułem odbioru fal radiowych używane do podstawowej, wręcz prymitywnej komunikacji.\n	
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nOdbiorniki radiowe okazują się bardziej wytrzymałe od zaawansowanych technicznie PDA. Z tego powodu wielu stalkerów wybiera je do komunikacji, najczęściej w nagłych, awaryjnych przypadkach.\n \nZbudowany z kilku prostych komponentów i czułego modułu, urządzenie odbiera sygnały radiowe w promieniu 200 metrów i w zakresie częstotliwości od 30 do 300 MHz.\n		
+		\n%c[pda_blue]Sposób użycia%c[ui_gray_1]
+		\nTrzymając odbiornik w ręku możesz zmienić aktualnie odbieraną częstotliwość.
+		\n• Wciśnij LPM (domyślnie), by zwiększyć częstotliwość.
+		\n• Wciśnij PPM (domyślnie), by zmniejszyć częstotliwość.
+		\n• Przytrzymaj LEWY SHIFT (domyślnie), by zwiększyć skok częstotliwości o 10 Hz w czasie jej zwiększania/zmniejszania.
+		\n• Przytrzymaj LEWY ALT (domyślnie), by zwiększyć skok częstotliwości o 50 Hz w czasie jej zwiększania/zmniejszania.
+		\n• Pamiętaj, by w czasie korzystania z odbiornika mieć wolną prawą rękę. Nie może w niej być żadnej broni, ani śrub.
+		\n \n• Zużywa %c[pda_white]0.1 uAh%c[ui_gray_1] na sekundę nieprzerwanego korzystania.
+		</text>
+	</string>
+	
+</string_table>

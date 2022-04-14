@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Mutant parts
+-->
+
+<string_table>
+	
+	<string id="st_meat_tushkano">
+		<text>Szaszłyki z tuszkanów</text>
+	</string>
+	<string id="st_meat_tushkano_descr">
+		<text>Dwa małe tuszkany nadziane na patyki, usmażone na grillu. Doprawione solą i chili. Najtańszy ciepły posiłek dostępny w Zonie.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		</text>
+	</string>
+	
+	<string id="st_meat_dog">
+		<text>Bitki z psa</text>
+	</string>
+	<string id="st_meat_dog_descr">
+		<text>Niewielki, gorący posiłek z psiego mięsa smażonego z czosnkiem, papryką i grzybami. Tania alternatywa dla bardziej popularnej dziczyzny.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		</text>
+	</string>
+	
+	<string id="st_meat_pseudodog">
+		<text>Kotlet z nibypsa</text>
+	</string>
+	<string id="st_meat_pseudodog_descr">
+		<text>Porcja grillowanych kawałków mięsa nibypsa. Dzięki silnie rozwiniętym mięśniom tego zwierzęcia, kotlety zapewniają sporo składników odżywczych.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		</text>
+	</string>
+	
+	<string id="st_meat_flesh">
+		<text>Tłusty boczek</text>
+	</string>
+	<string id="st_meat_flesh_descr">
+		<text>Grube plastry tłustego boczku ze zmutowanych świń zwanych mięsaczami.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		</text>
+	</string>
+	
+	<string id="st_meat_boar">
+		<text>Steki z dzika</text>
+	</string>
+	<string id="st_meat_boar_descr">
+		<text>Małe porcje mięsa z dzika, doprawione solą i grillowane z dodatkiem papryki. Wśród stalkerów cieszy się dużą popularnością.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		</text>
+	</string>
+	
+	<string id="st_meat_bloodsucker">
+		<text>Gulasz z pijawki</text>
+	</string>
+	<string id="st_meat_bloodsucker_descr">
+		<text>Niewielki, gorący posiłek z mięsa pijawki z dodatkiem grzybów, mocno doprawiony chilli.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		</text>
+	</string>
+	
+	<string id="st_meat_psysucker">
+		<text>Gulasz z pijawki psionicznej</text>
+	</string>
+	<string id="st_meat_psysucker_descr">
+		<text>Niewielki, gorący posiłek z mięsa pijawki psionicznej z dodatkiem grzybów, mocno doprawiony chilli.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		</text>
+	</string>
+	
+	<string id="st_meat_snork">
+		<text>Grillowana łapa snorka</text>
+	</string>
+	<string id="st_meat_snork_descr">
+		<text>Grillowana łapa snorka, gotowa do spożycia.\n \nUWAGA!\nWiększość stalkerów uważa jedzenie snorków za kanibalizm i coś niemoralnego. Niektóre frakcje, jak choćby bandyci czy najemnicy, posilają się ich mięsem, by zademonstrować swoją wyższość nad innymi.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		</text>
+	</string>
+	
+	<string id="st_meat_chimera">
+		<text>Jadło Twardziela</text>
+	</string>
+	<string id="st_meat_chimera_descr">
+		<text>Porcja pieczonego mięsa chimery, przyprawiona i podana z grzybami. To drogie danie spożywane jest głównie przez weteranów, najczęściej z okazji uczczenia pomyślnie zakończonej wyprawy.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		</text>
+	</string>
+	
+	<string id="st_meat_lurker">
+		<text>Kotlet z lurkera</text>
+	</string>
+	<string id="st_meat_lurker_descr">
+		<text>Małe porcje mięsa z lurkera, doprawione solą i grillowane z dodatkiem papryki. Dzięki silnie rozwiniętym mięśniom tego zwierzęcia, mięso zapewnia sporo składników odżywczych.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		</text>
+	</string>
+	
+	<string id="mutant_flesh_meat">
+		<text>Mięso mięsacza</text>
+	</string>
+	<string id="mutant_flesh_meat_description">
+		<text>Tusze z mięsaczy cieszą się w Zonie duża popularnością, bowiem ich mięso ma przyjemny smak i wysoką wartością odżywczą. Na ten moment naukowcy mają na stanie dostateczną ilość materiału badawczego, co ogranicza handlową wartość tego mięsa. Niemniej jednak znajduje ono również praktyczne zastosowanie jako źródło tłuszczu zwierzęcego nadającego się do konserwacji broni.\n \n%c[d_red]OSTRZEŻENIE:\n%c[default]Spożywanie surowego mięsa jest wysoce niewskazane, ponieważ zwierzęta i mutanty żyjące w Zonie są często nosicielami włośnia krętego i bakterii z rodziny Brucella, wywołujących potencjalnie śmiertelne trychinozę i brucelozę. Do zarażenia tymi chorobami dochodzi właśnie przez spożycie zakażonego mięsa.\n \nObjawy obejmują między innymi gorączkę, męczliwość i obniżenie łaknienia, które w warunkach przebywania w Zonie stają się w dwójnasób niebezpieczne. Pojawiające się na skórze ropnie, obrzmienia i stany grzybiczne są oznakami zarażenia i powinny być sygnałem do natychmiastowego pozbycia się zakażonego mięsa.\n \n
+		%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_green] • %c[ui_gray_2] mięso niskiej klasy\n
+		%c[d_green] • %c[ui_gray_2] można ugotować\n
+		%c[d_red] • %c[ui_gray_2] toksyczny posiłek\n
+		</text>
+	</string>
+	
+	<string id="mutant_boar_chop">
+		<text>Mięso dzika</text>
+	</string>
+	<string id="mutant_boar_chop_description">
+	<text>Najchętniej spożywane mięso w Zonie. Bardzo pożywne i ledwo skażone. Naukowcy nie są zainteresowani dalszym jego skupem, nagromadziwszy już wystarczającą ilość próbek, przez co tusza ta ma ograniczoną wartość handlową. Może za to być źródłem tłuszczu zwierzęcego pozyskiwanego na potrzeby konserwacji broni.\n \n%c[d_red]OSTRZEŻENIE:\n%c[default]Spożywanie surowego mięsa jest wysoce niewskazane, ponieważ zwierzęta i mutanty żyjące w Zonie są często nosicielami włośnia krętego i bakterii z rodziny Brucella, wywołujących potencjalnie śmiertelne trychinozę i brucelozę. Do zarażenia tymi chorobami dochodzi właśnie przez spożycie zakażonego mięsa.\n \nObjawy obejmują między innymi gorączkę, męczliwość i obniżenie łaknienia, które w warunkach przebywania w Zonie stają się w dwójnasób niebezpieczne. Pojawiające się na skórze ropnie, obrzmienia i stany grzybiczne są oznakami zarażenia i powinny być sygnałem do natychmiastowego pozbycia się zakażonego mięsa.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_green] • %c[ui_gray_2] mięso niskiej klasy\n
+		%c[d_green] • %c[ui_gray_2] można ugotować\n
+		%c[d_red] • %c[ui_gray_2] toksyczny posiłek\n
+		</text>
+	</string>
+	
+	<string id="mutant_dog_meat_description">
+		<text>Najchętniej spożywane mięso w Zonie. Bardzo pożywne i ledwo skażone. Naukowcy nie są zainteresowani dalszym jego skupem, nagromadziwszy już wystarczającą ilość próbek, przez co tusza ta ma ograniczoną wartość handlową. Może za to być źródłem tłuszczu zwierzęcego pozyskiwanego na potrzeby konserwacji broni.\n \n%c[d_red]OSTRZEŻENIE:\n%c[default]Spożywanie surowego mięsa jest wysoce niewskazane, ponieważ zwierzęta i mutanty żyjące w Zonie są często nosicielami włośnia krętego i bakterii z rodziny Brucella, wywołujących potencjalnie śmiertelne trychinozę i brucelozę. Do zarażenia tymi chorobami dochodzi właśnie przez spożycie zakażonego mięsa.\n \nObjawy obejmują między innymi gorączkę, męczliwość i obniżenie łaknienia, które w warunkach przebywania w Zonie stają się w dwójnasób niebezpieczne. Pojawiające się na skórze ropnie, obrzmienia i stany grzybiczne są oznakami zarażenia i powinny być sygnałem do natychmiastowego pozbycia się zakażonego mięsa.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_green] • %c[ui_gray_2] mięso niskiej klasy\n
+		%c[d_green] • %c[ui_gray_2] można ugotować\n
+		%c[d_red] • %c[ui_gray_2] toksyczny posiłek\n
+		</text>
+	</string>
+
+	<string id="mutant_dog_meat">
+		<text>Psie mięso</text>
+	</string>
+	<string id="mutant_psevdodog_meat_description">
+		<text>Mięso zmutowanych psów stanowi tanią alternatywę wobec bardziej popularnej dziczyzny. Naukowcy zebrali już więcej próbek, niż potrzebują, co znacznie obniża wartość tego mięsa jako towaru handlowego. Może być ono natomiast źródłem tłuszczu zwierzęcego przydatnego przy konserwacji broni.\n \n%c[d_red]OSTRZEŻENIE:\n%c[default]Spożywanie surowego mięsa jest wysoce niewskazane, ponieważ zwierzęta i mutanty żyjące w Zonie są często nosicielami włośnia krętego i bakterii z rodziny Brucella, wywołujących potencjalnie śmiertelne trychinozę i brucelozę. Do zarażenia tymi chorobami dochodzi właśnie przez spożycie zakażonego mięsa.\n \nObjawy obejmują między innymi gorączkę, męczliwość i obniżenie łaknienia, które w warunkach przebywania w Zonie stają się w dwójnasób niebezpieczne. Pojawiające się na skórze ropnie, obrzmienia i stany grzybiczne są oznakami zarażenia i powinny być sygnałem do natychmiastowego pozbycia się zakażonego mięsa.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_green] • %c[ui_gray_2] mięso niskiej klasy\n
+		%c[d_green] • %c[ui_gray_2] można ugotować\n
+		%c[d_red] • %c[ui_gray_2] toksyczny posiłek\n
+		</text>
+	</string>
+
+	<string id="mutant_psevdodog_meat">
+		<text>Mięso nibypsa</text>
+	</string>
+	<string id="mutant_psevdodog_meat_description">
+		<text>Mięso nibypsa to powszechny składnik diety w Zonie głównie ze względu na swoje walory smakowe i właściwości odżywcze. Jest także objęte ofertą skupu u naukowców oraz stanowi źródło tłuszczu zwierzęcego, który może być użyty przy konserwacji broni.\n \n%c[d_red]OSTRZEŻENIE:\n%c[default]Spożywanie surowego mięsa jest wysoce niewskazane, ponieważ zwierzęta i mutanty żyjące w Zonie są często nosicielami włośnia krętego i bakterii z rodziny Brucella, wywołujących potencjalnie śmiertelne trychinozę i brucelozę. Do zarażenia tymi chorobami dochodzi właśnie przez spożycie zakażonego mięsa.\n \nObjawy obejmują między innymi gorączkę, męczliwość i obniżenie łaknienia, które w warunkach przebywania w Zonie stają się w dwójnasób niebezpieczne. Pojawiające się na skórze ropnie, obrzmienia i stany grzybiczne są oznakami zarażenia i powinny być sygnałem do natychmiastowego pozbycia się zakażonego mięsa.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_green] • %c[ui_gray_2] mięso niskiej klasy\n
+		%c[d_green] • %c[ui_gray_2] można ugotować\n
+		%c[d_red] • %c[ui_gray_2] toksyczny posiłek\n
+		</text>
+	</string>
+
+	<string id="mutant_krovosos_meat">
+		<text>Mięso pijawki</text>
+	</string>
+	<string id="mutant_krovosos_meat_description">
+		<text>Mięso pijawki jest bardzo włókniste, przez co niezbyt nadaje się do jedzenia. Mimo, że pijawki to nadzwyczaj przerażające i trudne do pokonania potwory, cena ich mięsa nie jest wysoka ze względu na ograniczoną wartość użytkową. Można je jednak sprzedać naukowcom, ponadto stanowi ono źródło tłuszczu zwierzęcego, który może być użyty przy konserwacji broni.\n \n%c[d_red]OSTRZEŻENIE:\n%c[default]Spożywanie surowego mięsa jest wysoce niewskazane, ponieważ zwierzęta i mutanty żyjące w Zonie są często nosicielami włośnia krętego i bakterii z rodziny Brucella, wywołujących potencjalnie śmiertelne trychinozę i brucelozę. Do zarażenia tymi chorobami dochodzi właśnie przez spożycie zakażonego mięsa.\n \nObjawy obejmują między innymi gorączkę, męczliwość i obniżenie łaknienia, które w warunkach przebywania w Zonie stają się w dwójnasób niebezpieczne. Pojawiające się na skórze ropnie, obrzmienia i stany grzybiczne są oznakami zarażenia i powinny być sygnałem do natychmiastowego pozbycia się zakażonego mięsa.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_green] • %c[ui_gray_2] mięso wysokiej klasy\n
+		%c[d_green] • %c[ui_gray_2] można ugotować\n
+		%c[d_red] • %c[ui_gray_2] toksyczny posiłek\n
+		</text>
+	</string>
+	
+	<string id="mutant_psysucker_meat">
+		<text>Mięso pijawki psionicznej</text>
+	</string>
+	<string id="mutant_psysucker_meat_description">
+		<text>Podobnie jak w przypadku pijawek, mięso ich psionicznych kuzynów jest bardzo włókniste, przez co niezbyt nadaje się do jedzenia. Jego cena nie jest wysoka ze względu na ograniczoną wartość użytkową. Można je jednak sprzedać naukowcom, ponadto stanowi ono źródło tłuszczu zwierzęcego, który może być użyty przy konserwacji broni.\n \n%c[d_red]OSTRZEŻENIE:\n%c[default]Spożywanie surowego mięsa jest wysoce niewskazane, ponieważ zwierzęta i mutanty żyjące w Zonie są często nosicielami włośnia krętego i bakterii z rodziny Brucella, wywołujących potencjalnie śmiertelne trychinozę i brucelozę. Do zarażenia tymi chorobami dochodzi właśnie przez spożycie zakażonego mięsa.\n \nObjawy obejmują między innymi gorączkę, męczliwość i obniżenie łaknienia, które w warunkach przebywania w Zonie stają się w dwójnasób niebezpieczne. Pojawiające się na skórze ropnie, obrzmienia i stany grzybiczne są oznakami zarażenia i powinny być sygnałem do natychmiastowego pozbycia się zakażonego mięsa.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_green] • %c[ui_gray_2] mięso wysokiej klasy\n
+		%c[d_green] • %c[ui_gray_2] można ugotować\n
+		%c[d_red] • %c[ui_gray_2] toksyczny posiłek\n
+		</text>
+	</string>
+
+	<string id="mutant_snork_hand">
+		<text>Łapa snorka</text>
+	</string>
+	<string id="mutant_snork_hand_description">
+		<text>Jak powszechnie wiadomo, snorki wywodzą się od ludzi, toteż spożywanie ich mięsa uważane jest za kanibalizm, a przez to za czyn niemoralny. Jednakże niektóre frakcje, jak na przykład bandyci i najemnicy, celowo uwzględniają je w swojej diecie, żeby zamanifestować rzekomą wyższość nad innymi grupami. Rękę snorka można sprzedać naukowcom, którzy z pewnością uczynią z niej lepszy użytek.\n \n%c[d_red]OSTRZEŻENIE:\n%c[default]Spożywanie surowego mięsa jest wysoce niewskazane, ponieważ zwierzęta i mutanty żyjące w Zonie są często nosicielami włośnia krętego i bakterii z rodziny Brucella, wywołujących potencjalnie śmiertelne trychinozę i brucelozę. Do zarażenia tymi chorobami dochodzi właśnie przez spożycie zakażonego mięsa.\n \nObjawy obejmują między innymi gorączkę, męczliwość i obniżenie łaknienia, które w warunkach przebywania w Zonie stają się w dwójnasób niebezpieczne. Pojawiające się na skórze ropnie, obrzmienia i stany grzybiczne są oznakami zarażenia i powinny być sygnałem do natychmiastowego pozbycia się zakażonego mięsa.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_green] • %c[ui_gray_2] mięso niskiej klasy\n
+		%c[d_green] • %c[ui_gray_2] można ugotować\n
+		%c[d_red] • %c[ui_gray_2] toksyczny posiłek\n
+		</text>
+	</string>
+
+	<string id="mutant_fracture_hand">
+		<text>Ręka złamca</text>
+	</string>
+	<string id="mutant_fracture_hand_description">
+		<text>Odcięta ręka złamca - nadzwyczajnie zdeformowanego humanoidalnego mutanta. Możemy mieć pewność, że istoty te pochodzą od ludzi i że powstały w wyniku drugiej katastrofy czarnobylskiej. Z pozostałości ich ubioru możemy wyciągnąć wniosek, że połamańcy to byli więźniowie, którzy skazani zostali na prace przymusowe w Strefie Wykluczenia.\n \nJako, że deformacja ciała złamca jest niemal identyczna w każdym pojedynczym przypadku, zakłada się, że wszyscy byli w tej samej pozycji w momencie wystawienia na oddziaływanie zewnętrzne - albo dlatego, że właśnie ich transportowano, albo ponieważ ktoś ich w takiej pozycji ustawił. Wszystkie zbadane dotąd okazy były płci męskiej i nie posiadały zdolności reprodukcyjnych. Można więc założyć, że populacja połamańców stopniowo maleje. Z tego powodu są jednymi z najrzadziej spotykanych mutantów, a wysoce zdeformowana prawa ręka złamca stanowi bardzo cenną próbkę doświadczalną.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] rzadka próbka doświadczalna\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n</text>
+	</string>
+
+	<string id="mutant_zombi_hand">
+		<text>Dłoń zombie</text>
+	</string>
+	<string id="mutant_zombi_hand_description">
+		<text>Dłoń istoty nazywanej starym zombi - człowieka, który mieszkał lub pracował w Strefie Wykluczenia i który został wystawiony na ogromne ilości promieniowania i oddziaływania psionicznego, gdy nastąpiła druga katastrofa czarnobylska. Po wielu latach od tych wydarzeń ciała tych stworzeń są bardzo wątłe, z wyraźnie widocznymi wystającymi kośćmi i nadgniłym mięsem. Z tego powodu przypominają martwe ciała poruszane nieznaną mocą, niemniej jednak nie można ich uznać za chodzące zwłoki.\n \nTrawi je niezaspokojony głód, dlatego mogą one stanowić zagrożenie, jeśli spotka się je w grupie. Odcięta ręka zombi może wzbudzić zainteresowanie naukowców, a co ciekawe, może także posłużyć do identyfikacji osoby, do której należała.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] pospolita próbka doświadczalna\n</text>
+	</string>
+
+	<string id="mutant_chimera_meat">
+		<text>Płat mięsa chimery</text>
+	</string>
+	<string id="mutant_chimera_meat_description">
+		<text>Ciężki płat mięsa chimery. Mutanty te są uważane za najbardziej niebezpieczne stworzenia w Zonie, więc ich mięso cieszy się ogromną estymą wśród weteranów, którzy skorzy są kupić jego porcję za niemałe pieniądze. Kucharz na Skadowsku używa tego mięsa jako jednego z głównych składników "Jadła Twardziela", choć rzadko spotyka się opinię, by mięso chimery w istocie było smaczniejsze od mięsa dzika.\n \nAktualnie objęte ofertą skupu u naukowców. Ponadto stanowi źródło najlepszego jakościowo tłuszczu zwierzęcego dostępnego w Zonie, który szczególnie dobrze nadaje się do konserwacji broni.\n \n%c[d_red]OSTRZEŻENIE:\n%c[default]Spożywanie surowego mięsa jest wysoce niewskazane, ponieważ zwierzęta i mutanty żyjące w Zonie są często nosicielami włośnia krętego i bakterii z rodziny Brucella, wywołujących potencjalnie śmiertelne trychinozę i brucelozę. Do zarażenia tymi chorobami dochodzi właśnie przez spożycie zakażonego mięsa.\n \nObjawy obejmują między innymi gorączkę, męczliwość i obniżenie łaknienia, które w warunkach przebywania w Zonie stają się w dwójnasób niebezpieczne. Pojawiające się na skórze ropnie, obrzmienia i stany grzybiczne są oznakami zarażenia i powinny być sygnałem do natychmiastowego pozbycia się zakażonego mięsa.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_green] • %c[ui_gray_2] mięso wysokiej klasy\n
+		%c[d_green] • %c[ui_gray_2] można ugotować\n
+		%c[d_red] • %c[ui_gray_2] toksyczny posiłek\n
+		</text>
+	</string>
+	
+	<string id="mutant_lurker_meat">
+		<text>Mięso lurkera</text>
+	</string>
+	<string id="mutant_lurker_meat_description">
+		<text>Duży kawałek mięsa lurkera. Bogaty w składniki odżywcze, ale silnie skażony promieniowaniem. Objęty ofertą skupu u naukowców. Źródło tłuszczu zwierzęcego pozyskiwanego na potrzeby konserwacji broni.\n \n%c[d_red]OSTRZEŻENIE:\n%c[default]Spożywanie surowego mięsa jest wysoce niewskazane, ponieważ zwierzęta i mutanty żyjące w Zonie są często nosicielami włośnia krętego i bakterii z rodziny Brucella, wywołujących potencjalnie śmiertelne trychinozę i brucelozę. Do zarażenia tymi chorobami dochodzi właśnie przez spożycie zakażonego mięsa.\n \nObjawy obejmują między innymi gorączkę, męczliwość i obniżenie łaknienia, które w warunkach przebywania w Zonie stają się w dwójnasób niebezpieczne. Pojawiające się na skórze ropnie, obrzmienia i stany grzybiczne są oznakami zarażenia i powinny być sygnałem do natychmiastowego pozbycia się zakażonego mięsa.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_green] • %c[ui_gray_2] mięso wysokiej klasy\n
+		%c[d_green] • %c[ui_gray_2] można ugotować\n
+		%c[d_red] • %c[ui_gray_2] toksyczny posiłek\n
+		</text>
+	</string>
+
+	<string id="mutant_tushkano_meat">
+		<text>Mięso tuszkana</text>
+	</string>
+	<string id="mutant_tushkano_meat_description">
+		<text>Mały wykrawek z ciała zmutowanego gryzonia. Tanie i łatwo dostępne pożywienie. Plotka głosi, że usmażone nad otwartym ogniem wzmacnia serce. Aktualnie objęte ofertą skupu u naukowców.\n \n%c[d_red]OSTRZEŻENIE:\n%c[default]Spożywanie surowego mięsa jest wysoce niewskazane, ponieważ zwierzęta i mutanty żyjące w Zonie są często nosicielami włośnia krętego i bakterii z rodziny Brucella, wywołujących potencjalnie śmiertelne trychinozę i brucelozę. Do zarażenia tymi chorobami dochodzi właśnie przez spożycie zakażonego mięsa.\n \nObjawy obejmują między innymi gorączkę, męczliwość i obniżenie łaknienia, które w warunkach przebywania w Zonie stają się w dwójnasób niebezpieczne. Pojawiające się na skórze ropnie, obrzmienia i stany grzybiczne są oznakami zarażenia i powinny być sygnałem do natychmiastowego pozbycia się zakażonego mięsa.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_green] • %c[ui_gray_2] mięso niskiej klasy\n
+		%c[d_green] • %c[ui_gray_2] można ugotować\n
+		%c[d_red] • %c[ui_gray_2] toksyczny posiłek\n
+		</text>
+	</string>
+
+	<string id="mutant_flesh_eye">
+		<text>Oko mięsacza</text>
+	</string>
+	<string id="mutant_flesh_eye_description">
+		<text>Opuchnięte, zmutowane oko mięsacza wykazuje wiele zaskakujących właściwości. Co niezwykle interesujące i jednocześnie wielce obiecujące dla przyszłych badań, narząd ten wykazuje niespotykaną u żadnego innego organizmu o takim stopniu zaawansowania zdolność regeneracji: oko regeneruje się nawet po poważnym uszkodzeniu.\n \nDo tej pory nie poznano szczegółów działania tego procesu, jednak bez wątpienia odkrycie mechanizmów za nim stojących zrewolucjonizowałoby współczesną naukę, otwierając drogę do opracowania całej gamy nowych sposobów leczenia chorób i urazów. Możesz walnie przyczynić się do przyspieszenia postępu medycyny oraz mieć osobisty wkład w ocalenie życia przyszłym pokoleniom pacjentów, jeśli zdecydujesz się sprzedawać oczy mięsaczy naukowcom.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] pospolita próbka doświadczalna\n</text>
+	</string>
+
+	<string id="mutant_boar_leg">
+		<text>Kopyto dzika</text>
+	</string>
+	<string id="mutant_boar_leg_description">
+		<text>Kopyta dzików znajdują zastosowanie przy produkcji rozmaitych farmaceutyków, między innymi leków przeciwpromiennych.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] pospolita próbka doświadczalna\n</text>
+	</string>
+
+	<string id="mutant_dog_tail">
+		<text>Ogon psa</text>
+	</string>
+	<string id="mutant_dog_tail_description">
+		<text>Od dawna przedmiotem nieustającego zainteresowania uczonych jest odporność skóry zmutowanych psów na wyładowania elektryczne i działanie czynnych substancji chemicznych. Z powodu niskiej zawartości tkanki tłuszczowej ta część ciała zmutowanego psa szczególnie dobrze nadaje się do eksperymentów laboratoryjnych.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] pospolita próbka doświadczalna\n</text>
+	</string>
+
+	<string id="mutant_psevdodog_tail">
+		<text>Ogon nibypsa</text>
+	</string>
+	<string id="mutant_psevdodog_tail_description">
+		<text>W ostatnim czasie dużo się słyszy, że na całym świecie zapanowała moda na futra z ogonów nibypsa. Podobno nie mają one sobie równych. Uchodzą za niezwykle delikatne w dotyku i jednocześnie dobrze trzymające ciepło w niskich temperaturach, nawet podczas wyjątkowo porywistych burz śnieżnych i zamieci. Z tego powodu popyt na ogony nibypsów utrzymuje się na wysokim poziomie.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] pospolita próbka doświadczalna\n</text>
+	</string>
+
+	<string id="mutant_krovosos_jaw">
+		<text>Szczęka pijawki</text>
+	</string>
+	<string id="mutant_krovosos_jaw_description">
+		<text>Macki pijawek zawierają specjalny gruczoł, który produkuje enzym odpowiedzialny za rozpuszczanie skóry ofiary i zmniejszanie krzepliwości krwi. Rozpoznanie dokładnej budowy tego enzymu może stać się podstawą dla całego szeregu nowych odkryć w medycynie.\n \nNiektórzy stalkerzy mają w zwyczaju używać zębów pijawek jako materiału na naszyjniki i amulety. Można zaryzykować stwierdzenie, że szczęka pijawki to najbardziej popularna w Zonie biżuteria.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] rzadka próbka doświadczalna\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n</text>
+	</string>
+
+	<string id="mutant_snork_leg">
+		<text>Stopa snorka</text>
+	</string>
+	<string id="mutant_snork_leg_description">
+		<text>Nogi i stopy snorków zawierają dużo bardzo elastycznych ścięgien. Między innymi to właśnie one przyczyniają się do tego, że stworzenia te potrafią wykonywać charakterystyczne długie skoki, kiedy ścigają swe ofiary podczas polowań. Naukowcy wciąż szukają potencjalnych zastosowań tych tkanek i z wdzięcznością przyjmą każdy przyniesiony do ich bazy egzemplarz.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] pospolita próbka doświadczalna\n
+		</text>
+	</string>
+
+	<string id="mutant_chimera_cogot">
+		<text>Róg chimery</text>
+	</string>
+	<string id="mutant_chimera_cogot_description">
+		<text>Jego dokładna budowa cząsteczkowa nie została jeszcze poznana, lecz nie ma wątpliwości co do tego, że jest on równie wytrzymały i ostry jak diament. To niejako wyjaśnia, w jaki sposób mutant zdolny jest bez żadnego wysiłku przecinać dostępne w Zonie pancerze osobiste.\n \nPoza Zoną utrzymuje się ogromny popyt na róg chimery, między innymi dlatego, że wyglądem przypomina on róg nosorożca. Kiedyś pojawiło się tu nawet kilku kłusowników, którzy przybyli z zamiarem szybkiego pozyskania pewnego zasobu rogów i odsprzedania ich na czarnym rynku. Jakież musiało być ich zaskoczenie, kiedy okazało się, że w zachowaniu chimery nie ma nic, co choć mgliście przypominałoby potulność nosorożca. Nie byli jednak w stanie osobiście o tym opowiedzieć. Jedyne, co po nich zostało, to kilka nieprzyjemnych wspomnień i przedmiotów osobistych, których położenie pozwalało domyślić się, w którym miejscu zostali rozerwani na strzępy przez te zabójcze mutanty.\n \nRóg chimery może zostać wykorzystany jako prowizoryczna ostrzałka. W procesie ostrzenia przy użyciu tej części mutanta należy zachować szczególną ostrożność, jako że róg chimery może pęknąć, przez co nieuważny stalker nie będzie mógł go przeznaczyć na handel.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] bardzo rzadka próbka doświadczalna\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n</text>
+	</string>
+
+	<string id="mutant_chimera_claw">
+		<text>Pazur chimery</text>
+	</string>
+	<string id="mutant_chimera_claw_description">
+		<text>Jego dokładna budowa cząsteczkowa nie została jeszcze poznana, lecz nie ma wątpliwości co do tego, że jest on równie wytrzymały i ostry jak diament. To niejako wyjaśnia, w jaki sposób mutant zdolny jest bez żadnego wysiłku przecinać dostępne w Zonie pancerze osobiste. Jeśli brakuje ci bardziej precyzyjnych narzędzi, pazur chimery można zastosować w celu usuwania części ciała zwierząt i mutantów.\n \n
+		%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] bardzo rzadka próbka doświadczalna\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n</text>
+	</string>
+	
+	<string id="mutant_lurker_eye">
+		<text>Oko lurkera</text>
+	</string>
+	<string id="mutant_lurker_eye_description">
+		<text>Zmótowane, żółte oko lurkera. Szczególną uwagę łowców mutantów i kolekcjonerów przykuwa połyskująca na złoto tęczówa wokół wielkiej, czarnej źrenicy. Naukowcy nadal poszukują potencjalnych zastosowań dla oczu tych mutantów.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] pospolita próbka doświadczalna\n</text>
+	</string>
+	
+	<string id="mutant_lurker_tail">
+		<text>Ogon lurkera</text>
+	</string>
+	<string id="mutant_lurker_tail_description">
+		<text>Naukowcy sugerują, że ze względu na charakterystykę ogona, lurkery to mutanty pochodzące od tuszkanów.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] pospolita próbka doświadczalna\n</text>
+	</string>
+	
+	<string id="mutant_psysucker_hand">
+		<text>Dłoń pijawki psionicznej</text>
+	</string>
+	<string id="mutant_psysucker_hand_description">
+		<text>Chude dłonie z nieproporcjonalnie długimi palcami to niejako znak rozpoznawczy pijawek psionicznych. Skóra na opuszkach palców jest poszarpana, co wyjaśnia, dlaczego dłonie są całe we krwi. Naukowcy chętnie zbadają tę część ciała w poszukiwaniu źródła mutacji odpowiedzialnej za posiadane przez nie moce psioniczne\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] pospolita próbka doświadczalna\n</text>
+	</string>
+
+	<string id="mutant_tushkano_head">
+		<text>Łeb tuszkana</text>
+	</string>
+	<string id="mutant_tushkano_head_description">
+		<text>Głowa tuszkana. Naukowcy chętnie przeprowadzą nad nią kolejne badania, starają się bowiem ustalić, jakie dokładnie jest pochodzenie tego mutanta.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] pospolita próbka doświadczalna\n</text>
+	</string>
+
+	<string id="mutant_part_controller_brain_tissue">
+		<text>Tkanka mózgowa kontrolera</text>
+	</string>
+	<string id="mutant_part_controller_brain_tissue_description">
+		<text>Kontrolery wykazują niezwykle potężne moce psioniczne, których anatomicznej podstawy można się z łatwością doszukiwać w budowie ich mózgów. Co ciekawe, zaobserwowano, że wszystkie mutanty posiadające umiejętności związane z używaniem promieniowania psionicznego, posiadają pewne podobnie ukształtowane struktury mózgowia. Naukowcy sowicie zapłacą za dostarczenie próbek tej tkanki. Zapachem przypomina skisłą dynię.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] bardzo rzadka próbka doświadczalna\n
+		%c[d_cyan] • %c[ui_gray_2] niezwykle wartościowy\n</text>
+	</string>
+
+	<string id="mutant_controller_hand">
+		<text>Dłoń kontrolera</text>
+	</string>
+	<string id="mutant_controller_hand_description">
+		<text>Kontrolery, przeprowadzając mentalny atak na swoje ofiary, zdają się korzystać w jakiś sposób także ze swoich dłoni. Naukowcy bardzo chętnie zbadają tę część ciała, mając nadzieję na ustalenie źródeł mutacji odpowiedzialnych za moce psioniczne posiadane przez te mutanty. Wydziela woń podobną do zapachu starych skarpet zmieszanego z odorem zepsutej kiszonej kapusty.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] bardzo rzadka próbka doświadczalna\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n</text>
+	</string>
+
+	<string id="mutant_cat_tail">
+		<text>Ogon kota</text>
+	</string>
+	<string id="mutant_cat_tail_description">
+		<text>Koty występujące w Zonie to tak naprawdę bardzo niebezpieczne drapieżniki, które w porównaniu do swoich udomowionych kuzynów cechują się wyjątkowo pokaźnymi rozmiarami. Potrafią przemieszczać się zupełnie bezgłośnie niezależnie od podłoża, po jakim się poruszają. Nie przez przypadek więc ogon kota w Zonie jest symbolem uważności.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] pospolita próbka doświadczalna\n</text>
+	</string>
+
+	<string id="mutant_pseudogigant_hand">
+		<text>Łapsko nibyolbrzyma</text>
+	</string>
+	<string id="mutant_pseudogigant_hand_description">
+		<text>Ręka nibyolbrzyma z pewnością ucieszy naukowców, którzy chętnie zbadają tę kończynę. Wydziela woń podobną do zapachu starych skarpet zmieszanego z odorem zepsutej kiszonej kapusty.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] bardzo rzadka próbka doświadczalna\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n</text>
+	</string>
+
+	<string id="mutant_pseudogigant_eye">
+		<text>Oko nibyolbrzyma</text>
+	</string>
+	<string id="mutant_pseudogigant_eye_description">
+		<text>Przy pobieżnych oględzinach narząd wzroku tego gatunku sprawia wrażenie jedynie większego odpowiednika ludzkiego oka, jednak bardziej wnikliwa obserwacja uwypukla kilka różnic. Tęczówka oka jest wielobarwna, zaś gruczoły łzowe są wyjątkowo rozbudowane.\n \nNibyolbrzymy znane są z tego, że obficie i często wydzielają łzy, jednak do tej pory nie udało się ustalić, czy zachowanie to ma swoje podłoże jedynie w procesach czysto fizjologicznych, czy też jest przejawem zachodzących u tych zwierząt procesów intrapsychicznych. Jakkolwiek by nie było, naukowcy są bardzo zainteresowani kontynuacją badań na ten temat, toteż gotowi są zapłacić wysoką cenę za dostarczone im egzemplarze.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] bardzo rzadka próbka doświadczalna\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n</text>
+	</string>
+
+	<string id="mutant_burer_hand">
+		<text>Dłoń burera</text>
+	</string>
+	<string id="mutant_burer_hand_description">
+		<text>Dłonie burerów zdają się odgrywać szczególnie ważną rolę w ich zdolnościach telekinetycznych. Naukowcy bardzo chętnie zbadają tę część ciała, mając nadzieję na ustalenie źródeł mutacji stojącej za posiadanymi przez burery mocami. Wydziela woń podobną do zapachu starych skarpet zmieszanego z odorem zepsutej kiszonej kapusty.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] bardzo rzadka próbka doświadczalna\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n</text>
+	</string>
+
+	<string id="st_mutant_part_crow_beak">
+		<text>Dziób zmutowanej wrony</text>
+	</string>
+	<string id="st_mutant_part_crow_beak_description">
+		<text>Podczas gdy wielu stalkerów uważa wrony za szkodniki, mądrzejsi mieszkańcy Zony przyznają, że są one nieocenione jako pomoc w nawigacji podczas przemierzania pustych ulic i zakątków Czarnobyla i Prypeci. Jednak prawdziwa wartość wron objawia się dopiero po śmierci.\n \nKeratynowa powłoka dziobu staje się coraz twardsza z każdym rokiem życia wrony w radioaktywnej dziczy panującej w Czarnobylu. Po dwóch latach jest ona wystarczająco twarda, żeby dziób służył jako skuteczne narzędzie do ostrzenia metalowych narzędzi i ostrzy.\n \nPopulacja wron stale się zwiększa pomimo tego, że coraz więcej ludzi zdaje sobie sprawę z użyteczności ich dziobów. Wydaje się, że wzmożona zdolność adaptacji, tak typowa dla fauny w Strefie, doprowadziła do krótszego cyklu reprodukcyjnego (do czterech okresów godowych na rok). Większa długość życia - do 20 lat - zapewniła im co więcej wyższą inteligencję, która objawia się w szczególności w momencie, kiedy wiele wron znajdzie się blisko siebie.\n \nZjawisko to doprowadziło do powstania osobliwego, powszechnego wśród niektórych mieszkańców Zony zwyczaju, który - jak głosi plotka - zapoczątkowali pierwsi stalkerzy, przybywszy do Zony po Drugiej Katastrofie. Rytuał ten, trafnie określany "Dziobem", polega na stworzeniu specjalnej mikstury ze sproszkowanego dziobu najstarszej wrony ze stada.\n \nKiedy stalker wypije wywar w świetle księżyca, na krótki czas jego umysł złączy się z wieloświadomością wszystkich wron w Strefie. Nikt do końca nie wie, co dzieje się z kruchą świadomością człowieka, kiedy zostanie wystawiona na takie doświadczenie, ale niektórzy spekulują, że to właśnie "Dziób" sprawił, że stalker Noe zaczął budować swoją Arkę w desperackiej próbie uchronienia ludzkości od nieuchronnego kataklizmu, który lada chwila spadnie na tę utraconą ziemię.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] rzadka próbka doświadczalna\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n</text>
+	</string>
+
+	<string id="mutant_snork_mask">
+		<text>Maska snorka</text>
+	</string>
+	<string id="mutant_snork_mask_description">
+		<text>Maski noszone przez snorki są najprawdopodobniej wariantem radzieckiej maski gazowej GP-5, powszechnie używanej przez żołnierzy, badaczy oraz ekipy pomocnicze obecne na terenie Zony w czasie, w którym nastąpiła Druga Katastrofa w Czarnobylu. Wiele z tych osób pracowało w podziemnych laboratoriach i w chwili Emisji pozostało na dole, przez co utraciło kontakt ze światem zewnętrznym.\n \nZdani na łaskę nieprzewidywalnych wpływów Zony, przyjąwszy potworne dawki promieniowania, ludzie ci stali się stworzeniami, które znamy jako snorki. Ich maski, chociaż zniszczone tak, że nie nadają się do użytku (z rozbitymi szkłami i podziurawionymi rurami do filtrów), wciąż są przedmiotem zainteresowania społeczności naukowej. Mogą być również użyte jako materiał do polowych napraw zużywających się części kombinezonów, jednak takie ich zastosowanie uniemożliwia późniejsze odzyskanie pozostałego w nich materiału organicznego.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_red] • %c[ui_gray_2] nie nadaje się do naprawy\n
+		%c[d_cyan] • %c[ui_gray_2] pospolita próbka doświadczalna\n
+		</text>
+	</string>
+
+	<string id="mutant_dog_liver">
+		<text>Psia wątroba</text>
+	</string>
+	<string id="mutant_dog_liver_description">
+		<text>Wątroby psów uległy drastycznym przemianom ze względu na pełną toksyn dietę i brak w Zonie czystej wody pitnej. Naukowcy są nimi bardzo zainteresowani ze względu na potencjalne korzyści płynące z badań nad chorobami tego narządu.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] pospolita próbka doświadczalna\n</text>
+	</string>
+
+	<string id="mutant_dog_heart">
+		<text>Psie serce</text>
+	</string>
+	<string id="mutant_dog_heart_description">
+		<text>Ślepe psy mają wiele cech wyróżniających je na tle ich zdrowych kuzynów spoza Zony. Jedną z tych różnic jest bardzo silne serce, pozwalające mutantom na niezwykle długie pościgi za ofiarą. Puls w czasie takiej pogoni sięga nawet 250 uderzeń na minutę, co dla całkowicie zdrowych osobników w tej samej kategorii wagowej jest nie do pomyślenia. Niezwykła wytrzymałość sprawia, że serca ślepych psów są bardzo ciekawym przedmiotem badań, jednak powszechność próbek sprawia, że naukowcy nie oferują za nie zbyt wysokich kwot.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] pospolita próbka doświadczalna\n</text>
+	</string>
+
+	<string id="mutant_cat_thyroid">
+		<text>Kocia tarczyca</text>
+	</string>
+	<string id="mutant_cat_thyroid_description">
+		<text>Długotrwałe przebywanie w silnie napromieniowanym terenie skutkuje u żyjących w Zonie kotów kilkukrotnym zwiększeniem tarczycy. W tej chwili nadczynność tego narządu u zwierząt traktuje się nie jako zmianę pokoleniową, lecz jako chorobę dziedziczną.\n \nTypowe objawy: zwiększone łaknienie, zwiększona aktywność, zmiany behawioralne, nerwowość, utrata owłosienia. Nabyte dzięki chorobie umiejętności nie tylko nie przeszkodziły, ale wręcz pomogły zmutowanym kotom wyprzeć ich zdrowe odpowiedniki z tych okolic i zająć wyższą pozycję w łańcuchu pokarmowym. Naukowcy wykazują duże zainteresowanie kocimi tarczycami, bynajmniej nie z zamiaru badań przyczyn i skutków choroby.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] pospolita próbka doświadczalna\n</text>
+	</string>
+
+	<string id="mutant_cat_claw">
+		<text>Koci pazur</text>
+	</string>
+	<string id="mutant_cat_claw_description">
+		<text>Nie poznano jeszcze struktury pazurów, dzięki którym tutejsze koty potrafią przedrzeć nawet najbardziej wytrwałe tkaniny. Naukowcy i wojsko wierzą, że dzięki badaniom tych części ciała uda im się opracować nowe, jeszcze bardziej odporne materiały i stworzyć oparte o nie pancerze.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] pospolita próbka doświadczalna\n</text>
+	</string>
+
+	<string id="mutant_tusk_boar">
+		<text>Oręż dzika</text>
+	</string>
+	<string id="mutant_tusk_boar_description">
+		<text>Długi na trzydzieści centymetrów kieł, stanowiący poważne zagrożenie w trakcie szarży rozjuszonego odyńca. Naukowcy nie są nimi zbyt zainteresowani ze względu na dosyć kruchą budowę. Oręże najczęściej przechowywane są przez stalkerów jako trofea, czasem kupowane są przez kolekcjonerów spoza Zony.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] pospolita próbka doświadczalna\n</text>
+	</string>
+
+	<string id="mutant_heart_bloodsucker">
+		<text>Serce pijawki</text>
+	</string>
+	<string id="mutant_heart_bloodsucker_description">
+		<text>Serca pijawek posiadają ciekawą i do tej pory nieprzebadaną umiejętność - wydzielają enzymy zatrzymujące proces krzepnięcia krwi należącej do innej grupy. Dzięki temu przyjęcie przez pijawkę krwi innego typu nie jest dla niej groźne. Przebadanie budowy tego mechanizmu i składu odpowiedzialnego za tę funkcję enzymu może pomóc naukowcom rozwiązać problem braku krwi dla pacjentów z rzadko występującymi grupami i prawdopodobnie da medycynie nowe zupełnie nowe możliwości.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] rzadka próbka doświadczalna\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n</text>
+	</string>
+
+	<string id="mutant_fang_psevdodog">
+		<text>Kieł nibypsa</text>
+	</string>
+	<string id="mutant_fang_psevdodog_description">
+		<text>Nibypsy używają kłów do rozrywania i przytrzymywania swoich zdobyczy. Ze względu na ogromną siłę nacisku szczęk tych mutantów, potrafią przegryźć się przez większość wyposażenia ochronnego używanego w Zonie. Uzębienie jednak nie jest zbyt wytrzymałe i wymienia się w ciągu całego życia. Naukowcy nie są zbyt zainteresowani zębami nibypsów, w przeciwieństwie do kolekcjonerów spoza Zony.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] pospolita próbka doświadczalna\n</text>
+	</string>
+
+	<string id="mutant_brain_burer">
+		<text>Mózg burera</text>
+	</string>
+	<string id="mutant_brain_burer_description">
+		<text>Burery posiadają doskonałe umiejętności telepatyczne, które do tej pory nie zostały przebadane. Z tego powodu większość ich narządów wewnętrznych budzi ciekawość naukowców i najemników. Mózg - będący głównym źródłem tych możliwości - znajduje się na szczycie ich list zainteresowań.\n \nWaga przebadanych do tej pory egzemplarzy wahała się od 0,5 do 1,5 masy przeciętnego mózgu ludzkiego. Budowa zewnętrzna nie przejawia dużych różnic. Ze względu na rozmiar i strukturę, mózgi burerów są bardzo podatne na obrażenia w trakcie ekstrakcji - narząd uszkodzony nie nadaje się do żadnych badań naukowych.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] rzadka próbka doświadczalna\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n</text>
+	</string>
+
+	<string id="mutant_heart_chimera">
+		<text>Serce chimery</text>
+	</string>
+	<string id="mutant_heart_chimera_description">
+		<text>Serce chimery - podobnie jak wszystkie inne organy wewnętrzne tych bestii - uformowały się w narząd podwójny, zdolny pompować krew z "rezerwy" znajdującej się w drugiej części. Naukowców są nimi zainteresowani głównie ze względu na duże możliwości regeneracyjne - na co wskazuje zdolność chimer do kontynuowania walki mimo otrzymania poważnych obrażeń. Biolodzy sądzą, że badania nad podwójnymi organami chimer pomogą zmniejszyć śmiertelność bliźniąt syjamskich.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] rzadka próbka doświadczalna\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n</text>
+	</string>
+	
+	
+	<!-- Analogs addon-->
+	<string id="mutant_part_psy_dog_brain">
+		<text>Mózg nibypsa psionicznego</text>
+	</string>
+	<string id="mutant_part_psy_dog_brain_description">
+		<text>Nibypsy psioniczne posiadają niezwykłe możliwości, na przykład zdolność wywołania halucynacji u swojej ofiary. Iluzje te są niezwykle przekonujące i z nieznanych nauce powodów potrafią spowodować całkowicie realne obrażenia. Co ciekawe, naukowcy twierdzą, że choć udało im się zidentyfikować region mózgu odpowiedzialny za zdolności psioniczne, jest on - co raczej oczywiste - całkowicie nowym tworem w kontekście rozwojowym, jak i pod względem potencjału ewolucyjnego. Bardzo cenny przedmiot badań naukowych - Ekolodzy za mózgi tych istot oferują całkiem duże pieniądze.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] rzadka próbka doświadczalna\n
+		%c[d_cyan] • %c[ui_gray_2] wartościowy\n</text>
+	</string>
+	
+	<string id="st_meat_tark">
+		<text>Mięso tarka</text>
+	</string>
+	<string id="st_meat_descr_tark">
+		<text>Płat mięsa bogaty w składniki odżywcze, ale przy tym silnie napromieniowany. Naukowcy posiadają dużą ilość próbek tego rodzaju, co zmniejsza ich cenę. Źródło tłuszczu zwierzęcego pozyskiwanego na potrzeby konserwacji broni.\n \n%c[d_red]OSTRZEŻENIE:\n%c[default]Spożywanie surowego mięsa jest wysoce niewskazane, ponieważ zwierzęta i mutanty żyjące w Zonie są często nosicielami włośnia krętego i bakterii z rodziny Brucella, wywołujących potencjalnie śmiertelne trychinozę i brucelozę. Do zarażenia tymi chorobami dochodzi właśnie przez spożycie zakażonego mięsa.\n \nObjawy obejmują między innymi gorączkę, męczliwość i obniżenie łaknienia, które w warunkach przebywania w Zonie stają się w dwójnasób niebezpieczne. Pojawiające się na skórze ropnie, obrzmienia i stany grzybiczne są oznakami zarażenia i powinny być sygnałem do natychmiastowego pozbycia się zakażonego mięsa.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n%c[d_green] • %c[ui_gray_2] mięso niskiej klasy\n%c[d_green] • %c[ui_gray_2] nie można ugotować\n%c[d_red] • %c[ui_gray_2] toksyczny posiłek\n%c[d_red] • %c[ui_gray_2] poziom promieniowania: %c[ui_gray_1] +646 mSv\n
+		</text>
+	</string>
+	
+	<string id="mutant_tark_tail">
+		<text>Koński ogon</text>
+	</string>
+	<string id="mutant_tark_tail_description">
+		<text>Długi, postrzępiony ogon, prawdopodobnie pochodzący od żyjących w okolicy koni. Naukowcy posiadają dużą ilość próbek tego rodzaju, co zmniejsza ich cenę.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zmutowana część ciała\n
+		%c[d_cyan] • %c[ui_gray_2] pospolita próbka doświadczalna\n</text>
+	</string>
+	
+</string_table>

@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	
+	<string id="encyclopedia_features">
+		<text>Funkcje</text>
+	</string>
+	
+	<string id="encyclopedia_features_azazel_mode">
+		<text>Tryb Azazel</text>
+	</string>
+	<string id="encyclopedia_features_azazel_mode_text">
+		<text>
+			%c[pda_white]Tryb Azazel%c[ui_gray_1] pozwala kontynuować rozgrywkę po śmierci, wcielając gracza w inną postać.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nPo włączeniu trybu Azazel śmierć nie jest końcem - gra pozwala graczowi przejąć kontrolę nad losowym stalkerem, do tej pory sterowanym przez AI.\n \nJeśli w chwili śmierci posiadałeś towarzyszy, w pierwszej kolejności wcielisz się w jednego z nich.\n \nTen tryb można włączyć tylko w czasie tworzenia nowej postaci.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_ironman_mode">
+		<text>Tryb Ironman</text>
+	</string>
+	<string id="encyclopedia_features_ironman_mode_text">
+		<text>
+			%c[pda_white]Tryb Ironman%c[ui_gray_1] dodaje rozgrywce pośrednią warstwę trudności. Wszystkie zapisy odnoszące się do danej postaci ulegną skasowaniu po jej śmierci.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nW menu nowej gry możesz dostosować poszczególne zasady trybu, takie jak ilość żyć dostępnych przed ostatecznym usunięciem zapisów.\n \nFunkcja przyznawania życia ma przeciwny cel: każdy pełny cykl usuwa jeden zgon z licznika. Pozwala to graczowi dłużej zachować swoją postać.\n \nTryb Azazel włączony razem z trybem Ironman pozwoli kontynuować rozgrywkę jako inny stalker nawet po wyczerpaniu wszystkich żyć. Zapisy dotyczące poprzedniej postaci zostaną usunięte.\n \nWszystkie utworzone w tym trybie zapisy będą oznaczone jako Ironman. Ma to dopilnować, by gra (i ty) nie usunęła przypadkiem pozostałych, niezwiązanych z tą postacią zapisów przez pomyłkę.\n \nTen tryb można włączyć tylko w czasie tworzenia nowej postaci.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_story_mode">
+		<text>Tryb fabularny</text>
+	</string>
+	<string id="encyclopedia_features_story_mode_text">
+		<text>
+			%c[pda_white]Tryb fabularny%c[ui_gray_1] wprowadza gracza w historie "Straceńców Zony". Zadania frakcyjne można w tym trybie wykonywać niezależnie.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nPorozmawiaj z przywódcą swojej frakcji o wydarzeniach, które ostatnio miały miejsce w Zonie. Powinien podać ci informacje i podsunąć tropy.\n \nTen tryb można włączyć tylko w czasie tworzenia nowej postaci.\n
+			\n%c[pda_blue]Dostępność%c[ui_gray_1]
+			\n• Czyste Niebo\n• Powinność\n• Ekolodzy\n• Wolność\n• Samotnicy\n• Najemnicy\n
+			\n%c[pda_blue]Uwagi%c[ui_gray_1]
+			\nZadania frakcyjne dostępne są dla wszystkich frakcji tak długo, jak tryb fabularny jest aktywny.\n \nGrając jako członek frakcji dodatkowej można ukończyć tryb fabularny rozmawiając z przywódcą frakcji sojuszniczej, o ile taka istnieje.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_warfare">
+		<text>Tryb Wojny Frakcji</text>
+	</string>
+	<string id="encyclopedia_features_warfare_text">
+		<text>
+			%c[pda_white]Wojny Frakcji%c[ui_gray_1] symulują zaawansowane działania wojenne, które prowadzi każda frakcja by zdobyć panowanie nad Zoną.
+			\n \n%c[pda_green]Informacje%c[ui_gray_1]
+			\nTryb Wojny Frakcji pozwala graczowi przejąć kontrolę nad swoją frakcją. Akcja dzieje się w trybie rzeczywistym, a gracz może wybrać między dynamicznym a ręcznym systemem ekspansji. Tryb dynamiczny zostanie zastosowany do wszystkich baz, które przejmiesz w trybie ręcznym po wyłączeniu go.\n \nPo uruchomieniu symulacji walki offline, oddziały będą mogą atakować się nawzajem samowolnie, dzięki czemu w Zonie toczyć się będzie dużo bardziej dynamiczna, obejmująca swym zasięgiem wszystkie lokacje wojna.\n \nDynamiczny system ekspansji dostosowuje się do zmian w symulacji i sprawia, że każde rozpoczęcie dni od nowa będzie unikatowe.
+			\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\nAutorem trybu jest "werejew", który stworzył go dla modyfikacji Zew Czarnobyla (Call of Chernobyl).\n \nIstnieje podobna modyfikacja autorstwa "Smoq2", nazwana Wojny Frakcji (The Faction War), pierwotnie przeznaczona dla gry S.T.A.L.K.E.R.: Czyste Niebo.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_survival_mode">
+		<text>Tryb przetrwania</text>
+	</string>
+	<string id="encyclopedia_features_survival_mode_text">
+		<text>
+			%c[pda_white]Tryb przetrwania%c[ui_gray_1] zmienia Zonę w jedno wielkie polowanie, w którym to ty jesteś ofiarą.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nPo uruchomieniu tego trybu cały spawn zostaje zastąpiony mutantami i zzombifikowanymi stalkerami, którzy będą powoli zmierzać w kierunku twojej pozycji.\n \nUwydatniono rolę ostatniego stadium zombifikacji - teraz jeszcze więcej zombie utraci zdolność posługiwania się bronią.\n \nW Zonie będzie można spotkać tylko nielicznych stalkerów i handlarzy. To oznacza, że przetrwanie zapewni ci właściwie tylko to, co uda ci się znaleźć.\n \nTen tryb można włączyć tylko w czasie tworzenia nowej postaci.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_campfire_mode">
+		<text>Tryb ognisk</text>
+	</string>
+	<string id="encyclopedia_features_campfire_mode_text">
+		<text>
+			Pełna nazwa: %c[pda_white]tryb zapisu przy ogniskach%c[ui_gray_1] blokuje możliwość zapisania gry, umożliwiając ją tylko, gdy gracz znajdzie się w pobliżu ogniska.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nZnajdź najbliższe ślady ogniska w okolicy. Dopiero wtedy możesz stworzyć zapis gry.\n \n \nTen tryb zapisu nie działa w lokacjach podziemnych ze względu na ich specyfikę.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_agony_mode">
+		<text>Tryb Agonii</text>
+	</string>
+	<string id="encyclopedia_features_agony_mode_text">
+		<text>
+			%c[pda_white]Tryb Agonii%c[ui_gray_1] dodaje kolejną warstwę trudności. Uniemożliwia zapisywanie gry do momentu, aż zostaną spełnione określone kryteria.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nW trybie Agonii nie możesz zapisać gry jeśli:
+			\n%c[200,200,200,50]• %c[0,150,150,150]jesteś ranny
+			\n%c[200,200,200,50]• %c[0,150,150,150]krwawisz
+			\n%c[200,200,200,50]• %c[0,150,150,150]zostaniesz napromieniowany
+			\n%c[200,200,200,50]• %c[0,150,150,150]walczysz z przeciwnikami
+			\n%c[200,200,200,50]• %c[0,150,150,150]podczas emisji i burz psionicznych.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_timer_mode">
+		<text>Tryb licznika</text>
+	</string>
+	<string id="encyclopedia_features_timer_mode_text">
+		<text>
+			W %c[pda_white]trybie licznika%c[ui_gray_1] możesz zapisać grę tylko w określonych odstępach czasowych.
+			\nPo zapisie nie możesz wykonać kolejnego, póki nie minie odpowiednia ilość czasu.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_companions">
+		<text>Towarzysze</text>
+	</string>
+	<string id="encyclopedia_features_companions_text">
+		<text>
+			%c[pda_white]Towarzysze%c[ui_gray_1] to stalkerzy, których możesz zrekrutować, by pomagali ci zmierzyć się z zagrożeniami Zony.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nWiększość stalkerów ze względu na niebezpieczeństwa woli eksplorować Zonę w niewielkich, zwykle trzy- lub czteroosobowych grupach.\n \nTa funkcja pozwala ci na tworzenie takich oddziałów, dogadując się z liderami istniejących grup i przekonując ich do wspólnej wędrówki.\n \nJedyne warunki są takie, że lider oddziału musi należeć do sojuszniczej frakcji, jego ranga nie może być wyższa od twojej i nie masz już zbyt wielu towarzyszy.\n \nW niektórych sytuacjach, pewne postacie muszą zostać twoimi towarzyszami ze względu na swoje umiejętności i w celu wypełnienia zadania. Tacy towarzysze nie liczą się do limitu członków oddziału.\n \nInformacje o towarzyszących ci stalkerach są wyświetlane w zakładce Relacje w PDA. Możesz tam również wydawać rozkazy - całej grupie, albo pojedynczym jej członkom. Takie dane mogą również być wyświetlane w HUD.\n \nW opcjach sterowania znajduje się panel skrótów klawiszowych odpowiedzialnych za wydawanie rozkazów towarzyszom.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_guide">
+		<text>Przewodnik</text>
+	</string>
+	<string id="encyclopedia_features_guide_text">
+		<text>
+			%c[pda_white]Przewodnik%c[ui_gray_1] to zestaw informacji o grze i jej zawartości.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nPrzewodnik został dodał na prośbę graczy, by wyjaśniać nowe funkcje i zaimplementowane mechaniki, a przy okazji by w przystępny sposób wizualizować postępy gracza.\n \nArtykuły są podzielone na kategorie. Wszystkie wpisy instruktażowe i najważniejsza zawartość dostępna jest od samego początku gry.\n \nPo odblokowaniu artykułu informacja o jego nazwie i kategorii wyświetlona zostanie jako wiadomość w PDA, pozwalając na łatwe odnalezienie jego zawartości.\n
+			\n%c[pda_yellow]Zastrzeżenie%c[ui_gray_1]
+			\nTo pierwsza poważna próba wprowadzenia pełnego poradnika dla graczy znajdującego się wewnątrz gry od czasów premiery S.T.A.L.K.E.R.: Cień Czarnobyla.\n \nMimo, że jest niemalże kompletny w funkcjonalności, nasz Przewodnik nadal znajduje się we wczesnej fazie opracowywania. Do bazy wpisany jest zaledwie mały procent wszystkich artykułów.\n \nZe względu na wielkość przedsięwzięcia, przed autorami modyfikacji Anomaly jeszcze mnóstwo pracy - wiele kategorii jest niekompletnych, lub wręcz całkowicie ich brakuje, a system interaktywnego odblokowywania artykułów nie jest w pełni gotowy.\n \nW kolejnych aktualizacjach i łatkach poradnik będzie sukcesywnie uzupełniany, ale zajmie to jeszcze mnóstwo czasu.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_hud">
+		<text>HUD</text>
+	</string>
+	<string id="encyclopedia_features_hud_text">
+		<text>
+			%c[pda_white]HUD%c[ui_gray_1] wyświetla różnokolorowe wskaźniki dotyczące stanu twojej postaci.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nWskaźniki %c[pda_white]stanu%c[ui_gray_1] informują o zdrowiu i wyposażeniu. Szary kolor pokazuje, że stan danej cechy jest minimalnie poniżej normy, gdy żółty powinien być już powodem do niepokoju. Oznaczenia pomarańczowe i czerwone wskazują na stan poważny i krytyczny.
+			\nWskaźniki %c[pda_white]zagrożeń%c[ui_gray_1] pojawiają się, gdy wkroczysz na teren wpływający negatywnie na twoje zdrowie i/lub wyposażenie. Im poważniejszy kolor wskaźnika, tym szybciej twoja postać straci zdrowie.
+			\nWskaźniki %c[pda_white]doładowań%c[ui_gray_1] będą wyświetlane tak długo, jak długo twoja postać odczuwać będzie pozytywny wpływ przedmiotów, które spożyje. Najczęściej efektami będą pewne formy leczenia, ochrony lub regeneracji. Wskaźniki znikną z HUD z chwilą, gdy spożyty przedmiot przestanie działać.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_map_spots">
+		<text>Wskaźniki mapy</text>
+	</string>
+	<string id="encyclopedia_features_map_spots_text">
+		<text>
+			%c[pda_white]Wskaźniki mapy%c[ui_gray_1] to ikony pojawiające się na mapie w PDA w celu oznaczenia miejsc szczególnego zainteresowania.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nWiele lokacji i konkretnych miejsc w Zonie ma powiązane z nimi oznaczenia. Pozwala to błyskawicznie odczytywać mapę, bez potrzeby zapamiętywania dziesiątek zbędnych informacji.\n
+			\n%c[pda_blue]Dostosowanie%c[ui_gray_1]
+			\nWyświetlanie obszarów anomalnych, ważnych postaci i obiektów (handlarzy, techników, łóżek itd.), schowków i wskaźników celu można włączyć bądź wyłączyć w PDA, wciskając odpowiedni przycisk w polu zakładek nad mapą.\n \nNiezależnie od ustawień, wskaźniki dotyczące stalkerów i innych obiektów będą zawsze widoczne na minimapie - w ich przypadku nie ma gwarancji, że pozostaną w jednym miejscu.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_rank">
+		<text>Ranga</text>
+	</string>
+	<string id="encyclopedia_features_rank_text">
+		<text>
+			%c[pda_white]Ranga%c[ui_gray_1] to system punktowy oparty o dokonania stalkerów.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nWszystkie akcje, które wykonasz w czasie rozgrywki są rejestrowane, a każda punktowana zależnie od jej rodzaju.\n \nZbieranie tych punktów będzie skutkowało sukcesywnym wzrostem rangi według podanej na dole artykułu skali.\n \nWiększość z premiowanych akcji wyświetlana jest w zakładce Statystyki w PDA. Znajdziesz tam również tabelę zawierającą stu stalkerów z największą liczbą punktów.\n \nIm wyższą osiągniesz rangę, tym poważniej będziesz traktowany przez zwykłych stalkerów. Oznacza to możliwość rekrutowania bardziej doświadczonych towarzyszy. Oznacza to też, że twoi przeciwnicy będą próbowali sprawić, że... nie będziesz stanowił już żadnego zagrożenia. Lepiej się pilnuj.\n
+			\n%c[pda_blue]Rangi%c[ui_gray_1]
+			\n• Kot: 0\n• Nowicjusz: 2,000\n• Doświadczony: 4,000\n• Profesjonalista: 7,000\n• Weteran: 10,000\n• Ekspert: 15,000\n• Mistrz: 21,000\n• Legenda: 28,000
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_reputation">
+		<text>Reputacja</text>
+	</string>
+	<string id="encyclopedia_features_reputation_text">
+		<text>
+			%c[pda_white]Reputacja%c[ui_gray_1] to przedstawienie tego, jak stalkerzy reagują na innych.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nReputacja podobna jest do rangi, chociaż nie jest tak liniowa - może zarówno wzrastać, jak i spadać. Wpływ na reputację częściej mają twoje interakcje z innymi stalkerami, niż z otoczeniem.\n \nNajprostszy sposób na poprawienie reputacji to wypełnianie zleconych zadań, stosowanie pierwszej pomocy i eliminacja przeciwników frakcji. Tak samo by stracić w oczach innych wystarczy anulować, bądź nie ukończyć powierzonych zadań i zabijać neutralnych oraz przyjaźnie nastawionych stalkerów.\n \nWarty uwagi jest fakt, że reputacja - choć jest używana przez niektóre funkcje - służy głównie immersji i nie powinna być mylona ze zdobywanym uznaniem.\n \nIm gorsza reputacja, tym większa liczba członków frakcji, do której należysz i frakcji sojuszniczych nie będzie - delikatnie mówiąc - za tobą przepadać. W ekstremalnych przypadkach mogą nawet spiskować w celu pozbycia się ciebie.\n
+			\n%c[pda_blue]Reputacje%c[ui_gray_1]
+			\n• Najgorsza: -2,000\n• Okropna: -1,500\n• Ponura: -1,000\n• Wątpliwa: -500\n• Neutralna: 0\n• Dobra: 500\n• Świetna: 1,000\n• Znakomita: 1,500\n• Najlepsza: 2,000
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_stashes">
+		<text>Schowki</text>
+	</string>
+	<string id="encyclopedia_features_stashes_text">
+		<text>
+			%c[pda_white]Schowki%c[ui_gray_1] zawierają przedmioty ukryte przez innych stalkerów w trudnych do wypatrzenia miejscach.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nWiększość stalkerów przechowuje nadmiar amunicji, żywności i medykamentów w pojemnikach, plecakach i innych nieoczywistych miejscach w celu wykorzystania ich w późniejszym czasie.\n \nZazwyczaj informacja o ich lokalizacji przepada wraz ze śmiercią stalkera, który taki schowek utworzył. Z tego powodu, w Zonie można znaleźć dziesiątki zapomnianych schowków, pełnych często nigdy nieużywanych przedmiotów, tylko czekających na odkrycie.\n \nHandlarze informacji i sprzedawcy często oferują koordynaty schowków jako rodzaj premii uznaniowej za dobrze wykonane zadanie. Zdarza się też, że schwytani wrogowie oferują informacje o swoich miejscach w zamian za puszczenie ich wolno.\n \nMożesz utworzyć własny schowek. W tym celu w ekranie ekwipunku kliknij PPM na plecak i wybierz właściwą opcję.\n \nUtworzone przez ciebie schowki nigdy nie są okradane przez innych, więc ukryte tam przedmioty pozostają bezpieczne.\n
+			\n%c[pda_blue]Identyfikacja%c[ui_gray_1]
+			\nTyp i/lub status schowka łatwo poznać, sprawdzając jego ikonę na mapie w PDA, lub najeżdżając na marker myszą.\n
+			\n• Zielone: nietknięte\n• Fioletowe: unikalne\n• Czerwone: ratunkowe\n• Żółte: utworzone przez gracza
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_workshop">
+		<text>Warsztat</text>
+	</string>
+	<string id="encyclopedia_features_workshop_text">
+		<text>
+			%c[pda_white]Warsztat technika%c[ui_gray_1] umożliwia graczowi samodzielnie naprawić/ulepszyć posiadane wyposażenie.
+			\n \n%c[pda_green]Informacje%c[ui_gray_1]
+			\nKażdy technik w Zonie używa własnego warsztatu/imadła do prowadzenia swojej działalności. Niektórzy weterani preferują jednak wykonywać tego typu prace samodzielnie. Mechanicy udzielają tymczasowego dostępu do swoich warsztatów za niewielką opłatą. Ty nie jesteś w tym wyjątkiem.\n \nO ile warsztat nie jest zajęty i z pomocą odpowiednich narzędzi możesz:\n
+			\n%c[pda_white]• Naprawiać (wymieniając elementy): %c[ui_gray_1]każda broń i kombinezon złożone są z konkretnego zestawu części i komponentów. Kiedy zostaną uszkodzone, możesz użyć właściwych części zamiennych by wymienić zużyte elementy i poprawić stan wyposażenia.
+			\n%c[pda_white]• Ulepszać:  %c[ui_gray_1]używając odpowiednich zestawów, możesz instalować w swoim wyposażeniu ulepszenia i poprawiać ich statystyki.
+			\n%c[pda_white]• Tworzyć: %c[ui_gray_1]zbierając właściwe komponenty/części i posiadając wystarczającą wiedzę jesteś w stanie stworzyć od zera wiele przedmiotów.
+			\n \nW menu Warsztatu będzie wyświetlona lista narzędzi, które mogą zostać wykorzystane (i to, czy są posiadane przez ciebie, czy przez technika). Te zestawy są niezbędne do wykonywania ulepszeń i tworzenia przedmiotów.\n \nU dołu ekranu widnieje pasek informacyjny, mający pomóc graczowi skorzystać z Warsztatu krok po kroku.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_workshop_repair">
+		<text>Warsztat (Naprawa / Części)</text>
+	</string>
+	<string id="encyclopedia_features_workshop_repair_text">
+		<text>
+			%c[pda_white]Warsztat technika%c[ui_gray_1] może zostać wykorzystany do napraw uszkodzonej broni i stroju poprzez wymianę uszkodzonych elementów zamiennikami będącymi w lepszym stanie.
+			\n \n%c[pda_green]Informacje%c[ui_gray_1]
+			\nKażda broń i strój złożone są z zestawu komponentów/części. Ogólny stan przedmiotów jest sumą stanów jego poszczególnych elementów.\n \nCzęści posiadają cztery główne, opisowe wkaźniki stanu:\n
+			\n• Części broni (od najgorszego do najlepszego): %c[d_red]Zepsute%c[ui_gray_1], %c[d_orange]Wysłużone%c[ui_gray_1], %c[0,250,250,0]Zadrapane%c[ui_gray_1], %c[d_green]Funkcjonalne%c[ui_gray_1]
+			\n• Części strojów (od najgorszego do najlepszego): %c[d_red]Podarte%c[ui_gray_1], %c[d_orange]Złachane%c[ui_gray_1], %c[0,250,250,0]Znoszone%c[ui_gray_1], %c[d_green]Przyzwoite%c[ui_gray_1] \n
+			\nDo skutecznej naprawy wyposażenia musisz posiadać poniższe przedmioty:\n
+			\n%c[pda_white]• Właściwe zestawy naprawcze%c[ui_gray_1], zależne od broni/stroju, który zechcesz naprawić. Takie zestawy sprzedawane są bezpośrednio przez techników.
+			\n%c[pda_white]• Odpowiednie części zamienne w lepszym stanie%c[ui_gray_1] niż te, które znajdują się w naprawianym przedmiocie. Możesz je uzyskać demontując broń i stroje.
+			\n \n%c[pda_blue]Procedura przy naprawie:%c[ui_gray_1]
+			\n1. Najpierw sprawdź wymagania swojego wyposażenia. Posiadając właściwe narzędzia i przynajmniej jedną odpowiednią część zamienną, przycisk części zostanie aktywowany.
+			\n2. Kliknij jeden z podświetlonych elementów. Lista części uaktualni się o części zamienne, które posiadasz w ekwipunku.
+			\n3. Z listy części wybierz część zamienną będącą w lepszym stanie. Element zostanie wymieniony, co zostanie odzwierciedlone w ogólnym stanie naprawianego przedmiotu.
+			\n4. Proces można powtarzać do momentu wyczerpania się części zamiennych lub zestawów naprawczych.
+			\n5. Wciśnij przycisk "Napraw", kiedy będziesz gotowy.
+			\n \n%c[pda_yellow]Uwagi:%c[ui_gray_1]
+			\n• Oznaczenie części na szaro wskazuje, że nie posiadasz właściwych części do przeprowadzenia wymiany, dlatego nie możesz wykonać na nich żadnej interakcji.
+			\n• Jeśli posiadasz odpowiednie części zamienne, ale nie są w wystarczająco dobrym stanie, możesz skorzystać z pomocy odpowiednich narzędzi, by naprawić je przed użyciem w Warsztacie. Do poprawy stanu części służą: %c[pda_white]Multitool, Pilnik, Wycior, Zestaw nici, Polowy zestaw do naprawy pancerzy%c[ui_gray_1]
+			\n• Jeden wymieniony element wymaga jednego użycia właściwego zestawu naprawczego.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_workshop_upgrade">
+		<text>Warsztat (Ulepszenie)</text>
+	</string>
+	<string id="encyclopedia_features_workshop_upgrade_text">
+		<text>
+			%c[pda_white]Warsztat technika%c[ui_gray_1] może zostać wykorzystany do samodzielnego ulepszenia broni i strojów, co jest tańszą alternatywą dla zlecania takich zadań mechanikowi. Niezbędne do tego są odpowiednie narzędzia i części.
+			\n \n%c[pda_green]Informacje%c[ui_gray_1]
+			\nSposób ulepszania wyposażenia jest podobny do systemu ulepszeń oferowanego przez techników, ale wymaga dodatkowych narzędzi.\n
+			\nBy zainstalować ulepszenie, potrzebujesz mieć w swoim wyposażeniu następujące przedmioty:\n
+			\n%c[pda_white]• Właściwe zestawy naprawcze%c[ui_gray_1], zależne od broni/stroju, który zechcesz naprawić. Takie zestawy sprzedawane są bezpośrednio przez techników.
+			\n%c[pda_white]• Zestawy ulepszeń%c[ui_gray_1] (zależne od ulepszeń, które chcesz zainstalować i ich poziomu): posiadają je zwykle inni stalkerzy, którzy zbierają takie przedmioty dla własnych potrzeb.
+			\n%c[pda_white]• Główne narzędzia%c[ui_gray_1] (zależne od poziomu ulepszenia): takie zestawy są stosunkowo rzadkie, jako że mechanicy zawsze potrzebują ich do efektywnej pracy. Można je jednak znaleźć - wystarczy, że chcesz ich szukać.
+			\n \n%c[pda_blue]Procedura przy ulepszeniach:%c[ui_gray_1]
+			\n1. Sprawdź wymagania dotyczące ulepszeń swojego wyposażenia. Możesz kontynuować, jeśli posiadasz właściwy zestaw naprawczy.
+			\n2. Wybierz przedmiot, który chcesz ulepszyć. Pojawi się drzewko ulepszeń zawierające już zainstalowane modyfikacje (jeśli jakieś są).
+			\n3. Każde ulepszenie wymaga właściwego zestawu ulepszeń, pokazanego obok samego ulepszenia. Do instalacji niezbędne jest posiadanie głównego zestawu (zależnie od poziomu ulepszenia).
+			\n4. Jeśli ulepszenia można zainstalować, zatwierdź je kliknięciem.
+			\n5. Wciśnij przycisk "Ulepsz", kiedy zatwierdzisz wszystkie ulepszenia, które chcesz w tej chwili zainstalować.
+			\n \n%c[pda_yellow]Uwagi:%c[ui_gray_1]
+			\n• Narzędzia główne są wymagane jako umożliwiające pracę, nie zostaną zużyte podczas ulepszania.
+			\n• Lista narzędzi głównych: %c[pda_white]narzędzia podstawowe, narzędzia zaawansowane, narzędzia precyzyjne.%c[ui_gray_1]
+			\n• Najedź myszką na ulepszenie by sprawdzić szczegóły dotyczące jego właściwości. Zobaczysz tam również niespełnione wymagania, jeśli ulepszenia nie można zainstalować.
+			\n• Każde ulepszenie wymaga jednego użycia właściwego zestawu naprawczego.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_workshop_craft">
+		<text>Warsztat (Tworzenie)</text>
+	</string>
+	<string id="encyclopedia_features_workshop_craft_text">
+		<text>
+			%c[ui_gray_1]Posiadając odpowiednie komponenty/części i wystarczającą wiedzę, %c[pda_white]warsztat technika%c[ui_gray_1] może zostać użyty do tworzenia wielu różnych przedmiotów.
+			\n \n%c[pda_green]Informacje%c[ui_gray_1]
+			\nTrudno w Zonie o stały dopływ wszystkich potrzebnych dóbr, składa się na to wiele czynników. Na szczęście, sporo z przydatnego wyposażenia można stworzyć samemu, korzystając z rozmaitych możliwych do znalezienia materiałów.\n
+			\nBy stworzyć przedmiot, potrzebujesz mieć w swoim wyposażeniu następujące przedmioty (zależnie od przedmiotu, który próbujesz stworzyć):\n
+			\n%c[pda_white]• Główne narzędzia:%c[ui_gray_1] takie zestawy są stosunkowo rzadkie, jako że mechanicy zawsze potrzebują ich do efektywnej pracy. Można je jednak znaleźć - wystarczy, że chcesz ich szukać.
+			\n%c[pda_white]• Poradniki i receptury:%c[ui_gray_1] do tworzenia czegokolwiek potrzebna jest wiedza. Wielu stalkerów nosi przy sobie wszelkiej maści notatki, zeszyty techniczne i receptury tworzenia leków.
+			\n%c[pda_white]• Komponenty:%c[ui_gray_1] Każdy przedmiot złożony jest z innych materiałów i komponentów. Można je uzyskać, demontując i rozbierając w zasadzie wszystkie przedmioty, jakie wpadną ci w ręce.
+			\n \n%c[pda_blue]Procedura przy tworzeniu%c[ui_gray_1]
+			\n1. Wybierz interesującą cię grupę przedmiotów, a następnie znajdź na liście przedmiot, który chciałbyś stworzyć.
+			\n2. Jeśli nazwa przedmiotu jest podświetlona znaczy to, że wiesz, czego będziesz potrzebował. Kliknij przedmiot, by kontynuować.
+			\n3. Pokaże ci się lista wymaganych komponentów i odpowiedni zestaw naprawczy, którego należy użyć. Minimalna liczba komponentów pokazana jest pod ikoną komponentu.
+			\n4. Jeśli brakuje ci głównych narzędzi lub nie posiadasz wystarczającej ilości komponentów, tworzenie nie zostanie ukończone.
+			\n5. Jeśli spełniłeś wszystkie warunki, kliknij przycisk "Stwórz" by stworzyć przedmiot, który chcesz.
+			\n \n%c[pda_yellow]Uwagi:%c[ui_gray_1]
+			\n• Narzędzia główne są wymagane jako umożliwiające pracę, nie zostaną zużyte podczas ulepszania.
+			\n• Lista narzędzi głównych: %c[pda_white]narzędzia podstawowe, narzędzia zaawansowane, narzędzia precyzyjne.%c[ui_gray_1]
+			\n• Jeśli wcześniej przyniosłeś narzędzia technikowi, będą one dostępne do użycia w Warsztacie również i dla ciebie.
+			\n• Demontowanie przedmiotów odbywa się z pomocą odpowiednich narzędzi, więcej informacji we właściwym artykule.
+			\n• Wszystkie przepisy i receptury są pokazane w oknie w rogu ekranu. Podświetlone są tylko te, które odnalazłeś i przeczytałeś.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_disassembly">
+		<text>Demontaż przedmiotów</text>
+	</string>
+	<string id="encyclopedia_features_disassembly_text">
+		<text>
+			Możesz %c[pda_white]demontować%c[ui_gray_1] różne rodzaje przedmiotów by pozyskać z nich części, z których się składają.
+			\n \n%c[pda_green]Informacje%c[ui_gray_1]
+			\nFunkcja demontażu pozwala wykorzystywać zbędne przedmioty, przetwarzając je w części niezbędne do samodzielnej pracy w Warsztacie.
+			\nDemontaż można przeprowadzić z użyciem jednego z tych narzędzi:
+			\n• %c[pda_white]Szwajcarski scyzoryk%c[ui_gray_1] (nie działa na broń)
+			\n• %c[pda_white]Przybory fryzjerskie%c[ui_gray_1] (nie działa na broń)
+			\n• %c[pda_white]Multitool%c[ui_gray_1]
+			\n \n%c[pda_blue]Procedura%c[ui_gray_1]
+			\nPrzedmiot, który można rozmontować, będzie miał przycisk "Rozmontuj [!]" w menu dotyczącym tego przedmiotu w ekwipunku.
+			\nBy rozmontować przedmiot, upewnij się, że posiadasz odpowiednie narzędzie do demontażu, przytrzymaj LEWY ALT i kliknij przycisk "Rozmontuj [!]".
+			\n \n%c[pda_yellow]Uwaga%c[ui_gray_1]
+			\nPrzycisk LEWY ALT pełni funkcję zabezpieczenia przed zdemontowaniem przedmiotów przez pomyłkę. Ta funkcja może zostać wyłączona w opcjach gry.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_battery">
+		<text>Urządzenia i baterie</text>
+	</string>
+	<string id="encyclopedia_features_battery_text">
+		<text>
+			Każde urządzenie elektroniczne musi posiadać własną baterię, bez której nie może działać.
+			\n \n%c[pda_green]Informacje%c[ui_gray_1]
+			\nEnergia urządzenia symbolizowana jest małym, niebieskim paskiem pod jego ikoną w inwentarzu. Urządzenie pobiera energię, jeśli z niego korzystasz. Z chwilą, z którą bateria się wyczerpie, urządzenie przestanie działać.\n \nMożesz wkładać i wyjmować baterie z urządzeń. Jeśli potrzebujesz skorzystać z urządzenia, które ma mało energii, możesz wyjąć baterię z któregoś, z którego w tej chwili nie korzystasz i przełożyć ją do właściwego.\n \nZużycie energii zależy od urządzenia, bardziej zaawansowane rodzaje wyczerpują baterie szybciej, niż te mniej złożone.\n \nZawsze miej oko na urządzenia w swoim ekwipunku. Dobrze jest mieć kilka zapasowych baterii w kieszeni - nigdy nie wiesz, kiedy mogą się przydać.
+			\n \n%c[pda_blue]Procedura%c[ui_gray_1]
+			\n• By umieścić baterię w urządzeniu, po prostu w oknie inwentarza przeciągnij jej ikonę na ikonę odpowiedniego urządzenia.
+			\n• By wyjąć baterię z urządzenia, kliknij na nim PPM i wybierz przycisk %c[pda_white]Wyjmij baterię%c[ui_gray_1]. Nie możesz wyjmować baterii z urządzeń, z których w tej chwili korzystasz - przenieś je najpierw do inwentarza.
+			\n \n%c[pda_yellow]Uwaga%c[ui_gray_1]
+			\nPrzycisk LEWY ALT pełnu funkcję zabezpieczenia przed zdemontowaniem przedmiotów przez pomyłkę. Ta funkcja może zostać wyłączona w opcjach gry.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_economy_difficulty">
+		<text>Opcje postępu </text>
+	</string>
+	<string id="encyclopedia_features_economy_difficulty_text">
+		<text>
+			%c[pda_white]Opcje postępu%c[ui_gray_1] określają, jak trudne będą zależności ekonomiczne Zony. Zmiana ustawień bezpośrednio wpływa na poziom trudności i szybkość czynienia postępów w rozgrywce.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nOcje Postępu mają ogromny wpływ na ekonomię, co bezpośrednio przekłada się na postępy dokonywane przez gracza w czasie jego wędrówek przez Zonę.\n \nUstawienia odpowiadają za większość aspektów i mechanik gry m.in.: za ceny przedmiotów u handlarzy, koszty napraw i ulepszeń u techników, ilość łupów czy ile pieniędzy i punktów przychylności otrzymasz w trakcie wykonywania zadań.\n
+			\n%c[pda_blue]Szczegóły%c[ui_gray_1]
+			\nAnomaly pozwala ci dostosować wszystkie aspekty postępu:
+			\n%c[200,200,50,50]• %c[pda_white]Współczynnik uzyskiwanej przychylności: %c[ui_gray_1]mnożnik ilości punktów przychylności zdobywanych za wykonywanie zadań.
+			\n%c[200,200,50,50]• %c[pda_white]Współczynnik wynagrodzenia: %c[ui_gray_1]mnożnik ilości pieniędzy zdobywanych za wykonywanie zadań.
+			\n%c[200,200,50,50]• %c[pda_white]Współczynnik kosztów napraw: %c[ui_gray_1]mnożnik cen napraw oferowanych przez techników.
+			\n%c[200,200,50,50]• %c[pda_white]Współczynnik kosztów ulepszeń: %c[ui_gray_1]mnożnik cen ulepszeń oferowanych przez techników.
+			\n%c[200,200,50,50]• %c[pda_white]Współczynnik ceny zakupu: %c[ui_gray_1]mnożnik cen przedmiotów sprzedawanych przez handlarzy.
+			\n%c[200,200,50,50]• %c[pda_white]Współczynnik ceny sprzedaży: %c[ui_gray_1]mnożnik cen przedmiotów sprzedawanych przez ciebie handlarzom.
+			\n%c[200,200,50,50]• %c[pda_white]Współczynnik ilości przedmiotów przy ciałach: %c[ui_gray_1]mnożnik szansy znalezienia przedmiotów przy zwłokach.
+			\n%c[200,200,50,50]• %c[pda_white]Współczynnik ilości pieniędzy przy ciałach: %c[ui_gray_1]mnożnik ilości pieniędzy znajdowanych przy zwłokach.
+			\n%c[200,200,50,50]• %c[pda_white]Pełna skala stanu części: %c[ui_gray_1]włączenie tej opcji sprawia, że stan części uzyskanych z demontażu broni/strojów będzie podany w skali procentowej (1% - 100%) zamiast czterech podstawowych, opisowych wskaźników stanu. Sprawia, że cały system staje się bardziej złożony.
+			\n%c[200,200,50,50]• %c[pda_white]Szansa odkrycia schowka: %c[ui_gray_1] kontroluje możliwość znalezienia koordynat schowka w PDA martwych stalkerów.
+			\n%c[200,200,50,50]• %c[pda_white]Współczynnik zużycia broni: %c[ui_gray_1]mnożnik szybkości psucia się broni.
+			\n%c[200,200,50,50]• %c[pda_white]Współczynnik zużycia baterii: %c[ui_gray_1]mnożnik energii zużywanej przez aktywne urządzenia.
+			\n%c[200,200,50,50]• %c[pda_white]Ograniczona ilość śrub: %c[ui_gray_1]jak mówi nazwa - po włączeniu tej opcji śruby nie będą już nieskończone.
+			\n%c[200,200,50,50]• %c[pda_white]Degradacja artefaktów: %c[ui_gray_1]artefakty tracą swoje właściwości w trakcie korzystania z nich. Degradacja artefaktów ma wpływ na ich cenę.
+			\n%c[200,200,50,50]• %c[pda_white]Szansa respawnu artefaktów: %c[ui_gray_1]szansa na pojawienie się artefaktów w polu anomalii.
+			\n%c[200,200,50,50]• %c[pda_white]Cykl wymiany u handlarzy (w godzinach): %c[ui_gray_1]Tyle czasu musi upłynąć, zanim handlarz uzupełni swoje zapasy.
+			\n \n \n%c[200,200,50,50]UWAGA%c[ui_gray_1]
+			\n• Współczynniki dotyczące ekonomii mają wpływ tylko na aktywną rozgrywkę. Zmiany nie będą dotyczyć innych stworzonych przez ciebie postaci.
+			\n• Opcje postępu dostępne są tylko po załadowaniu gry. Możesz je zmieniać w menu ustawień.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_gameplay_difficulty">
+		<text>Opcje rozgrywki</text>
+	</string>
+	<string id="encyclopedia_features_gameplay_difficulty_text">
+		<text>
+			%c[pda_white]Opcje rozgrywki%c[ui_gray_1] określają ogólny poziom trudności gry.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nOpcje rozgrywki mają wpływ głównie na gracza - ustalają jego odporność i kondycję. \n
+			\n%c[pda_blue]Szczegóły%c[ui_gray_1]
+			\nAnomaly pozwala ci dostosować najważniejsze aspekty rozgrywki:
+			\n%c[200,200,50,50]• %c[pda_white]Ochrona Gracza: %c[ui_gray_1]cztery opcje, które determinują bazową ochronę gracza przed obrażeniami.
+			\n%c[200,200,50,50]• %c[pda_white]Współczynnik mocy obalającej pocisków: %c[ui_gray_1]mnożnik obrażeń od pocisków zadawanych przez gracza. Wyższe wartości oznaczają większe obrażenia i łatwiejsze zabijanie. Dotyczy tylko gracza, nie ma wpływu na pociski wystrzelone przez przeciwników.
+			\n%c[200,200,50,50]• %c[pda_white]Współczynnik utraty wytrzymałości: %c[ui_gray_1]mnożnik spadku wytrzymałości na skutek ruchu/udźwigu.
+			\n%c[200,200,50,50]• %c[pda_white]Maksymalny udźwig: %c[ui_gray_1]ustala maksymalną wagę przedmiotów, jaką będziesz w stanie unieść.
+			\n%c[200,200,50,50]• %c[pda_white]Symulacja pragnienia: %c[ui_gray_1] twoja postać od czasu do czasu musi się czegoś napić.
+			\n%c[200,200,50,50]• %c[pda_white]Potrzeba snu: %c[ui_gray_1] upływ czasu i spożywane przedmioty stopniowo będą męczyć i osłabiać twoją postać.
+			\n%c[200,200,50,50]• %c[pda_white]Radioaktywne powietrze w ciągu dnia: %c[ui_gray_1] wychodzenie na zewnątrz w ciągu dnia wystawi twoją postać na stałe, wysokie dawki promieniowania. Odpowiedni strój i hełm zabezpieczą cię przed radioaktywnymi cząsteczkami, o ile będą wystarczająco zadbane.
+			\n%c[200,200,50,50]• %c[pda_white]Dźwięki dozymetru tylko z licznika Geigera: %c[ui_gray_1]włączenie tej opcji sprawi, że dowiesz się o poziomie promieniowania tylko wtedy, jeśli będziesz posiadał w ekwipunku naładowany licznik Geigera.
+			\n%c[200,200,50,50]• %c[pda_white]Dźwięk detektora anomalii: %c[ui_gray_1]sygnał ostrzegawczy pojawiający się w chwili, gdy gracz zbliży się do anomalii. Obecny we wszystkich częściach serii S.T.A.L.K.E.R.
+			\n \n \n%c[200,200,50,50]UWAGA
+			\n• Współczynniki dotyczące rozgrywki mają wpływ tylko na aktywną rozgrywkę. Zmiany nie będą dotyczyć innych stworzonych przez ciebie postaci.
+			\n• Opcje rozgrywki dostępne są tylko po załadowaniu gry. Możesz je zmieniać w menu ustawień.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_disguise">
+		<text>System podszywania się</text>
+	</string>
+	<string id="encyclopedia_features_disguise_text">
+		<text>
+			Możesz %c[pda_white]przebrać się%c[ui_gray_1] za członka innej frakcji, by z wielu powodów ukryć swoją prawdziwą przynależność.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nBy podszyć się pod członka danej frakcji, musisz założyć właściwy strój.\n \nPodszywając się możesz poruszać się między członkami frakcji i zachowywać się jak jeden z nich, nawet jeśli zazwyczaj frakcja jest nastawiona do ciebie wrogo.\n \nCzłonkowie innych frakcji będą obserwować ciebie i twoje zachowanie. Wskaźnik podejrzliwości w HUD zobrazuje, jak bardzo podejrzany jesteś w ich oczach.\n \nWiele czynników gra role w efektywności twojego przebrania i podejrzliwości otaczających cię stalkerów.\n \nZwracaj uwagę na swoje wyposażenie i jego stan. Zachowuj się normalnie i nie wykonuj żadnych zaskakujących ruchów, by być pewnym, że nie ściągniesz na siebie niepotrzebnej uwagi.\n \nNie możesz podszyć się pod członka Monolitu - identyfikują się nawzajem w inny, nieznany stalkerom sposób.
+			\n \n%c[pda_blue]Opcje%c[ui_gray_1]
+			\n• Możesz dostosować wiele współczynników systemu podszywania się w menu ustawień.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_fast_travel">
+		<text>Szybka podróż</text>
+	</string>
+	<string id="encyclopedia_features_fast_travel_text">
+		<text>
+			%c[pda_white]Szybka podróż%c[ui_gray_1] i %c[pda_white]skok do schowków%c[ui_gray_1] pozwala na natychmiastowe przenoszenie się za pomocą PDA do miejsc, które już odkryłeś.
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nPodróżując poznajesz wiele charakterystycznych miejsc. W miarę odkrywania nowych punktów, będą się one pojawiały na mapie, jako znaczniki. Kliknij wybrany znacznik, by przenieść się w dane miejsce.\n \nSkok do schowka zasadniczo polega na tym samem, z tą różnicą, że odnosi się do schowków, które utworzyłeś.\n \nNie możesz odbyć szybkiej podróży w trakcie walki, jeśli jesteś przeciążony, ciężko ranny, ani w trakcie emisji.
+			\n \n%c[pda_blue]Opcje%c[ui_gray_1]
+			\n• Możesz dostosować ustawienia szybkiej podróży w menu ustawień.
+		</text>
+	</string>
+</string_table>

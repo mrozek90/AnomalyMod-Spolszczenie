@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="ui_mcm_menu_igi_tasks">
+		<text>Igi Tasks</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_title">
+		<text>Igi Tasks</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_Options_autocomplete">
+		<text>Автозавершение</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_Options_realistic_assassinations">
+		<text>(Arszi's) Реалистичные убийства</text>
+	</string>
+	<string id="ui_mcm_menu_Options">
+		<text>Настройки</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_Options_debug">
+		<text>Режим дебага (Может вызывать падение фпс)</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_disable_task">
+		<text>Выключить</text>
+	</string>
+</string_table>

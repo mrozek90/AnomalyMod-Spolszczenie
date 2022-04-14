@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+<string id="yan_stalker_sakharov_task_chimera_scan_name">
+	<text>Mapowanie umysłu</text>
+</string>
+<string id="yan_stalker_sakharov_task_chimera_scan_about">
+	<text>Słyszałeś o mutancie powszechnie znanym jako Chimera, tak? W społeczności naukowej toczy się wiele debat na temat tego, czy stworzenie to jest po prostu silnie zmutowanym zwierzęciem, które na swoim ciele rozwinęło coś, co wydaje się być ludzką głową, lub wynikiem strasznego naruszenia etyki naukowej. Aby rzucić światło na tę tajemnicę, potrzebujemy więcej danych. Nasi technicy przygotowali specjalne urządzenie do precyzyjnego rejestrowania fal elektromagnetycznych emitowanych przez mózg i no cóż, nie mam na myśli urazić nikogo, ale wątpię, by reszta wyjaśnienia była zrozumiała. W każdym razie potrzebujemy ochotnika, aby dotrzeć do konkretnego okazu Chimery i zarejestrować jego sygnały mózgowe. Oczywiście należy to zrobić, gdy mutant jeszcze żyje i na tym polega trudność zadania. Będziesz musiał zbliżyć się do niego i przetrwać, dopóki urządzenie się nie ustabilizuje i nie zdoła zarejestrować sygnałów. Po tym nie musisz zostawiać biednego stworzenia przy życiu, ale to zależy od ciebie. </text>
+</string>
+<string id="yan_stalker_sakharov_task_chimera_scan_stage_0">
+	<text>Pozostań w pobliżu wyznaczonej Chimery, aby zarejestrować jej fale mózgowe </text>
+</string>
+<string id="yan_stalker_sakharov_task_chimera_scan_stage_1">
+	<text>Odzyskaj urządzenie </text>
+</string>
+<string id="yan_stalker_sakharov_task_chimera_scan_stage_2">
+	<text>Wróć do Sacharowa</text>
+</string>
+<string id="yan_stalker_sakharov_task_chimera_scan_start">
+	<text>Inicjalizacja zakończona: rozpoczęto skanowanie</text>
+</string>
+<string id="yan_stalker_sakharov_task_chimera_scan_error">
+	<text>Błąd: utrata sygnału, skanowanie przerwane </text>
+</string>
+<string id="yan_stalker_sakharov_task_chimera_scan_complete">
+	<text>Skan zakończony.</text>
+</string>
+<string id="chimera_scan_device_name">
+	<text>Skaner fal mózgowych</text>
+</string>
+<string id="chimera_scan_device_desc">
+	<text>Urządzenie zaprojektowane do rejestrowania pobliskich fal elektromagnetycznych, zostało specjalnie dostrojone, aby izolować oscylacje neuronalne określonego okazu Chimery. </text>
+</string>
+</string_table>

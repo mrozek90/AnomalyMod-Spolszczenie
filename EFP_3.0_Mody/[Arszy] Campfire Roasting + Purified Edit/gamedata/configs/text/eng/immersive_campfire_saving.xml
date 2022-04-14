@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+	<string id="st_campfire_off">
+		<text>Nie możesz zapisać przy zgaszonym ognisku</text>
+	</string>
+
+	<string id="st_campfire_danger">
+		<text>Nie możesz zapisać gdy wrogowie są blisko</text>
+	</string>
+
+	<string id="st_campfire_surge">
+		<text>Nie możesz zapisać podczas emisji</text>
+	</string>
+
+	<string id="st_campfire_psi_storm">
+		<text>Nie możesz zapisać podczas burzy PSI</text>
+	</string>
+
+</string_table>

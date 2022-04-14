@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+ <!-- Dusman (Mercenary Leader) -->
+ 	<string id="find_blackbox_mlr_reward_killer_0">
+		<text>Znalazłem rejestrator lotu.</text>
+	</string>
+	<string id="find_blackbox_mlr_reward_killer_1">
+		<text>Wojskowy? Świetnie. Powiem ci, że to dość ciekawy gadżet, jak na to, co można znaleźć w Zonie - odkupię go od ciebie, jeśli chcesz.</text>
+	</string>
+
+
+<!-- (Mercenary Guide) -->
+	<string id="meet_ds_killer_guide_main_base_0">
+		<text>Jak się stąd wydostać?</text>
+	</string>
+	<string id="meet_ds_killer_guide_main_base_1">
+		<text>W tej okolicy praktycznie wszystko - przynajmniej na powierzchni - chce zrobić ci krzywdę, ale pod miastem istnieje rozbudowana sieć tuneli kanalizacyjnych. Zejdź do podziemi i odszukaj przewodnika. Jeśli potrzebujesz, przeprowadzi cię do bazy oddziału stacjonującego na południu Zatonu.</text>
+	</string>
+
+	<string id="meet_ds_killer_guide_main_base_list_0">
+		<text>Przypomnij mi, gdzie prowadzą te tunele?</text>
+	</string>
+	<string id="meet_ds_killer_guide_main_base_list_1">
+		<text>Twoją jedyną opcją jest Zakład Utylizacji Odpadów w południowej części Zatonu. Taki spacer to koszt ośmiu tysięcy rubli.</text>
+	</string>
+	
+	<string id="travel_ds_killer_guide_main_base_0">
+		<text>Chcę opuścić miasto.</text>
+	</string>
+	<string id="travel_ds_killer_guide_main_base_1">
+		<text>Jesteś pewien? Naszą jedyną opcją jest droga na północ - wyruszymy do Zakładu Utylizacji Odpadów na południowym krańcu Zatonu. Osiem tysięcy rubli.</text>
+	</string>
+	<string id="travel_ds_killer_guide_main_base_2">
+		<text>Jestem gotowy, ruszajmy na Zaton. %c[d_orange][8.000 RU]</text>
+	</string>
+	<string id="travel_ds_killer_guide_main_base_3">
+		<text>Zmieniłem zdanie.</text>
+	</string>
+	
+	
+ <!-- Aslan (Mercenary Barman) -->
+	<string id="talk_to_aslan_on_main_base_merk_0">
+		<text>Opowiedz mi o sobie.</text>
+	</string>
+	<string id="talk_to_aslan_on_main_base_merk_1"> <!-- Fixed -->
+		<text>Tu nie ma o czym gadać. Leję gorzałę i robię szamę chłopakom żyjącym razem ze mną w tym gównie. Garujemy tu już kupę czasu, nieraz dosłownie przymierając głodem, a najgorsze jest to, że końca tej zasranej udręki wcale nie widać. Jak już zobaczysz światełko w tunelu, zwykle okazuje się, że ktoś po prostu podniósł klapę od sracza, żeby dorzucić ci gnoju. Ot, i takie to życie.\n \nSiedzę w tym biznesie odkąd pamiętam. Kiedyś robiłem w obstawie pałacu prezydenckiego, dasz wiarę? Potem przez chwilę mieszkałem w Szwajcarii, piękne miejsce... No i jakoś tak wyszło, że w końcu wylądowałem w Zonie. Też było fajnie - wpadaliśmy co jakiś czas z ekipą do Baru, chlaliśmy do rana i wspominaliśmy stare, dobre czasy.\n \nKtóregoś razu podbił do nas jakiś typ, powiedział, że jest z Syndykatu i może zaoferować nam bardzo dobrze płatną pracę. Wtedy jeszcze mało kto wiedział o tym, że w Zonie działają tacy ludzie, a i sama organizacja była w powijakach. Jakby nie patrzeć - razem z Duszmanem rozkręciliśmy trochę ten biznes i jesteśmy swego rodzaju pionierami.\n \nSporo się od tamtej pory pozmieniało. Różni do nas trafiali, masa ludzi z całego świata się tędy przewinęła. Afganistan, Gruzja, Kosowo - każdy z nas ma jakieś doświadczenie. Choć powiem ci, że im dalej na zachód, tym mniej chętnych, żeby do nas dołączyć. Dużo więcej tu mieszkańców byłych demoludów niż Niemców czy Hiszpanów.</text>
+	</string>
+
+
+	<string id="talk_to_aslan_about_lottery_0">
+		<text>Słyszałem, że interesują cię naszywki frakcyjne.</text>
+	</string>
+	<string id="talk_to_aslan_about_lottery_1">
+		<text>I tak, i nie. Osobiście, ani mnie one ziębią, ani grzeją. Za to bardzo potrzebują ich chłopaki na pierwszej linii - im więcej naszywek po przeciwnikach, tym większe morale, tym więcej mają energii. Wiesz, tutaj chuja się dzieje, więc chłopcy z nudów marnieją w oczach. Dostaną parę takich znaczków i już im lepiej, bo wiedzą, że nasi gdzieś w Zonie znowu dali komuś wycisk. Klienci na górze też nie gardzą takimi pierdołami - dla nich to dowód, że nie siedzimy tu i nie pierdzimy w stołki, tylko że faktycznie coś robimy. Cały biznes działa w ten sposób, że przynosisz mi naszywki stalkerów i w zamian dostajesz szpej, albo nic. To loteria, nie zawsze się wygrywa.\n \nZa sztuk dwadzieścia pięć jednek frakcji - oprócz Ekologów i Monolitu - masz szansę na jakiś bieda artefakt... albo gówno w papierku.\nZa pięćdziesiąt sztuk - możesz wygrać artefakt z wyższej półki i konkretny szpej - albo nic.\nDwadzieścia pięć naszywek Ekologów i Monolców warta jest to samo, co pięćdziesiąt sztuk innych naszywek.\nPięćdziesiąt sztuk naszywek Ekologów i Monolitu - to już gwarantuje ci stuff zarezerwowany tylko dla najlepszych i tu się nie przegrywa.\n \nMożesz mnie pytać, skąd taka hojność i rozrzutność. A no z tego, że kupa ludzi woli naszywki zatrzymywać sobie jako trofea. Tyle. Każdy szczęściu dopomoże, każdy dzisiaj wygrać może.</text>
+	</string>
+	<string id="talk_to_aslan_about_lottery_2">
+		<text>A co z tobą? Co robisz z nimi później?</text>
+	</string>
+	<string id="talk_to_aslan_about_lottery_3">
+		<text>To już nie twój interes. Jak chcesz się pobawić, zbieraj i przynoś mi naszywki. Może coś ugrasz. Tak działa loteria. Koniec historii.</text>
+	</string>
+
+	<string id="lottery_ds_aslan_mlr_0">
+		<text>Mam trochę naszywek.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_1">
+		<text>Wyśmienicie, których?</text>
+	</string>
+		<string id="lottery_ds_aslan_mlr_2">
+			<text>Czyste Niebo, sztuk dwadzieścia pięć.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_3">
+			<text>Wolność, sztuk dwadzieścia pięć.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_4">
+			<text>Samotnicy, sztuk dwadzieścia pięć.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_5">
+			<text>Ekolodzy, sztuk dwadzieścia pięć.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_6">
+			<text>Bandyci, sztuk dwadzieścia pięć.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_7">
+			<text>Powinność, sztuk dwadzieścia pięć.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_8">
+			<text>Monolit, sztuk dwadzieścia pięć.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_9">
+			<text>Wojsko, sztuk dwadzieścia pięć.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_11">
+			<text>Czyste Niebo, sztuk pięćdziesiąt.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_12">
+			<text>Wolność, sztuk pięćdziesiąt.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_13">
+			<text>Samotnicy, sztuk pięćdziesiąt.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_14">
+			<text>Ekolodzy. Nawet mam pięćdziesiąt.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_15">
+			<text>Bandyci, sztuk pięćdziesiąt.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_16">
+			<text>Powinność, sztuk pięćdziesiąt.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_17">
+			<text>Monolit, sztuk pięćdziesiąt.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_18">
+			<text>Wojsko, sztuk pięćdziesiąt.</text>
+		</string>
+	<string id="lottery_ds_aslan_mlr_10">
+		<text>Zmieniłem zdanie.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_19">
+		<text>Masz, oto twój artefakt.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_20">
+		<text>Proszę.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_21">
+		<text>Masz, bierz.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_22">
+		<text>A oto twój artefakt.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_23">
+		<text>Ktoś ma dziś szczęście.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_24">
+		<text>Dostaniesz ładny prezent.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_25">
+		<text>Masz tu solidny artefakt.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_26">
+		<text>Farciarz z ciebie! Trzymaj coś na radiację.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_27">
+		<text>Piękny artefakt. Trzymaj.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_28">
+		<text>Dwa artefakty! Ale masz szczęście.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_29">
+		<text>Trafiłeś pełną pulę!</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_30">
+		<text>Masz szczęście.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_31">
+		<text>Wyśmienity zestaw dla łowcy artefaktów!</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_34">
+		<text>Rzadki i piękny artefakt.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_35">
+		<text>Cholera, farciarz z ciebie!</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_36">
+		<text>Jackpot!</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_37">
+		<text>Niestety, nic nie wygrywasz.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_38">
+		<text>Ups! Wyciągnąłeś krótką słomkę! Życzę szczęścia następnym razem.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_39">
+		<text>Powodzenia następnym razem.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_40">
+		<text>Doskonałe wyposażenie dla doskonałego strzelca.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_41">
+		<text>Ideał do walki na daleki dystans.</text>
+	</string>
+
+	<string id="aslan_st_0">
+		<text>Jak wygląda obecna sytuacja?</text>
+	</string>
+	<string id="aslan_st_1">
+		<text>Cóż, Syndykat ma w Zonie jedną główną bazę i właśnie w niej jesteśmy. Na Jantar przejść się nie da. Wszystko przez to ustrojstwo, robiące ludziom z mózgu papę. Ciągle wyłażą stamtąd tłumy zombiaków i mutanty.\n \nLimańsk trafił szlag - to pieprzony labirynt pełen anomalii, mutantów i monoliciarskich pojebów. Do Czerwonego Lasu też nie ma się co pchać, ta sama sytuacja, co w Limańsku. Jedyna w miarę bezpieczna okolica to Magazyny Wojskowe, ale to z kolei teren Wolności. Sam widzisz, że jak się nie obrócisz, lądujesz w czarnej dupie.</text>
+	</string>
+	<string id="aslan_st_2">
+		<text>Mów dalej.</text>
+	</string>
+	<string id="aslan_st_3">
+		<text>Tu nie ma co mówić. Sam zobaczysz. Zapamiętaj sobie jedno - dostałeś rozkaz, to masz go wykonać. Nie ma czasu na emocje i sentymenty, one tylko rozpraszają. Wychodzisz w Zonę? Myśl tylko o tym, co może cię wpierdolić. Tu nie ma miejsca na uczucia i moralność - liczy się intelekt i chłodna kalkulacja.\n \nNiby Limańsk to chujowe miejsce, ale jeśli chodzi o wymulenie gdzieś dalej, tamtędy jest o dziwo najbezpieczniej. Wiesz, ciasne uliczki, zawalone domy, śmietniki w obejściach - w razie czego, zawsze jest gdzie spierdolić i gdzie się przykitrać, gdyby sprawy się posrały. Co nie zmienia faktu, że nigdy nie wiesz, w którym oknie czeka snajper, ani za którym rogiem czai się na ciebie pijawka...</text>
+	</string>
+	<string id="aslan_st_4">
+		<text>Mówiłeś, że to główna baza. Są jakieś inne?</text>
+	</string>
+	<string id="aslan_st_5">
+		<text>Tak, mamy dwa mniejsze przyczółki pełniące funkcję raczej operacyjnych. Pierwszy z nich jest w południowej części Zatonu, a drugi we Wschodniej Prypeci. Oprócz tego zwykle jeden oddział stacjonuje w Dziczy. No i, rzecz jasna, naszych spotkasz wszędzie tam, gdzie akurat mają coś do zrobienia.</text>
+	</string>
+	<string id="aslan_st_6">
+		<text>Twierdzisz, że wszystko na północ od Limańska to terytorium Monolitu?</text>
+	</string>
+	<string id="aslan_st_7">
+		<text>W większości. Pod Limańskiem znajduje się opuszczony szpital, ale nie ma żadnego sensu się tam pakować - wszystkie przejścia, czy to w kierunku Czarnobyla, czy Jantaru są odcięte przez te pieprzone emisje psioniczne.</text>
+	</string>
+	<string id="aslan_st_8">
+		<text>Rozumiem, dzięki za informacje.</text>
+	</string>
+
+	<string id="information_about_stash_aslan_0">
+		<text>Słyszałem, że posiadasz informacje na temat schowków.</text>
+	</string>
+	<string id="information_about_stash_aslan_1">
+		<text>Dobrze słyszałeś. Zawsze mamy oko na łupy po naszych nalotach. Informacja będzie twoja za sześć tysięcy pięćset rubli.</text>
+	</string>
+
+	<string id="information_about_stash_aslan1_0">
+		<text>Trzymaj. %c[d_orange][6.500 RU]</text>
+	</string>
+	<string id="information_about_stash_aslan1_1">
+		<text>Świetnie. Miłego szukania.</text>
+	</string>
+
+</string_table>

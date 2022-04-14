@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="st_addon_companion_quick_menu_tooFar">
+		<text>Członkowie drużyny cię nie słyszą. Podejdź bliżej, albo skontaktuj się przez PDA.</text>
+	</string>
+
+	<string id="st_addon_companion_quick_menu_followMe">
+		<text>ZA MNĄ</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_waitHere">
+		<text>CZEKAĆ</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_stopStealth">
+		<text>PRZERWAĆ SKRADANIE</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_stealth">
+		<text>SKRADANIE</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_stayClose">
+		<text>TRZYMAĆ SIĘ BLISKO</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_stayFar">
+		<text>TRZYMAĆ SIĘ NA DYSTANS</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_fireAtWill">
+		<text>STRZELAĆ BEZ ROZKAZU</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_ignoreCombatButHelpMe">
+		<text>ODPOWIADAĆ OGNIEM</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_ignoreCombat">
+		<text>NIE ATAKOWAĆ</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_doNotLootCorpses">
+		<text>NIE PRZESZUKIWAĆ ZWŁOK</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_lootCorpses">
+		<text>PRZESZUKIWAĆ ZWŁOKI</text>
+	</string>
+	
+</string_table>

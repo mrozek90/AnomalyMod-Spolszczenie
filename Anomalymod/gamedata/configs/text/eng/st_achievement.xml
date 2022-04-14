@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	
+	<string id="st_achievement_1_name">
+		<text>Pełne kieszenie</text>
+	</string>
+	<string id="st_achievement_1_hint">
+		<text>Handlarze chętniej sprzedają Ci towar spod lady, nawet jeśli Twoja reputacja nie spełnia wymagań ich frakcji.</text>
+	</string>
+	<string id="st_achievement_1_descr">
+		<text>Dorobiłeś się niemałej fortuny, przez co wszyscy handlarze liczą na to, że będziesz robić z nimi interesy. Z tego powodu chętniej zaoferują Ci swój najlepszy towar, niezależnie od Twojej reputacji.</text>
+	</string>
+	<string id="st_achievement_1_unlock">
+		<text>Odblokowałeś osiągnięcie "Pełne kieszenie".</text>
+	</string>
+	
+	<string id="st_achievement_2_name">
+		<text>Radioterapia</text>
+	</string>
+	<string id="st_achievement_2_hint">
+		<text>Masz szansę przetrwać emisję i burzę psioniczną poza schronieniem.</text>
+	</string>
+	<string id="st_achievement_2_descr">
+		<text>Nie obawiasz się już nadchodzących emisji - Twój umysł wypełnia dziwny spokój, kiedy się zbliżają.</text>
+	</string>
+	<string id="st_achievement_2_unlock">
+		<text>Odblokowałeś osiągnięcie "Radioterapia".</text>
+	</string>
+	
+	<string id="st_achievement_3_name">
+		<text>Mądrzejszy od Sidorowicza</text>
+	</string>
+	<string id="st_achievement_3_hint">
+		<text>Handlarze zapłacą więcej za każde dostarczone PDA.</text>
+	</string>
+	<string id="st_achievement_3_descr">
+		<text>Dla wielu ludzi informacje są nie mniej wartościowe, niż artefakty. Dzięki swojemu doświadczeniu jesteś w stanie wycisnąć więcej kasy za sprzedawane sekrety.</text>
+	</string>
+	<string id="st_achievement_3_unlock">
+		<text>Odblokowałeś osiągnięcie "Mądrzejszy od Sidorowicza".</text>
+	</string>
+	
+	<string id="st_achievement_4_name">
+		<text>Droga wolna!</text>
+	</string>
+	<string id="st_achievement_4_hint">
+		<text>Więcej stalkerów będzie korzystać z przejść przez Jantar i Radar.</text>
+	</string>
+	<string id="st_achievement_4_descr">
+		<text>Wziąłeś sprawy we własne ręce i wyłączyłeś Mózgozwęglacz oraz emiter na Jantarze. Dzięki temu ścieżki przez Radar oraz Jantar są teraz otwarte.</text>
+	</string>
+	<string id="st_achievement_4_unlock">
+		<text>Odblokowałeś osiągnięcie "Droga wolna!".</text>
+	</string>
+	
+	<string id="st_achievement_5_name">
+		<text>Fajne futerko!</text>
+	</string>
+	<string id="st_achievement_5_hint">
+		<text>Dzięki zdobytemu doświadczeniu jesteś w stanie o wiele szybciej skórować mutanty.</text>
+	</string>
+	<string id="st_achievement_5_descr">
+		<text>Zmutowana fauna Zony ma powody, żeby się Ciebie obawiać - prawdziwy z Ciebie łowca skalpów i skór.</text>
+	</string>
+	<string id="st_achievement_5_unlock">
+		<text>Odblokowałeś osiągnięcie "Fajne futerko!".</text>
+	</string>
+	
+	<string id="st_achievement_6_name">
+		<text>W łeb czy w łapę?</text>
+	</string>
+	<string id="st_achievement_6_hint">
+		<text>Stalkerzy którzy się poddali częściej podają informacje na temat swojego schowka.</text>
+	</string>
+	<string id="st_achievement_6_descr">
+		<text>Twoją ścieżkę znaczą setki trupów i tysiące łusek po nabojach. Jesteś tak okrutny wobec swoich wrogów, że większość z nich woli oddać Ci wszystko co ma, byle tylko przeżyć spotkanie z Tobą.</text>
+	</string>
+	<string id="st_achievement_6_unlock">
+		<text>Odblokowałeś osiągnięcie "W łeb czy w łapę?".</text>
+	</string>
+	
+	<string id="st_achievement_7_name">
+		<text>Wyścig zbrojeń</text>
+	</string>
+	<string id="st_achievement_7_hint">
+		<text>Dodatkowe przedmioty używane przy naprawach są od teraz bardziej wydajne.</text>
+	</string>
+	<string id="st_achievement_7_descr">
+		<text>Z wdzięczności za przyniesienie wszystkich narzędzi, technik postanowił nauczyć Cię paru trików, jak optymalnie wykorzystywać sprzęt do napraw.</text>
+	</string>
+	<string id="st_achievement_7_unlock">
+		<text>Odblokowałeś osiągnięcie "Wyścig zbrojeń".</text>
+	</string>
+	
+	<string id="st_achievement_8_name">
+		<text>Turysta</text>
+	</string>
+	<string id="st_achievement_8_hint">
+		<text>Dzięki przemierzeniu Zony wzdłuż i wszerz poznałeś lokalizację kilku najlepszych schowków.</text>
+	</string>
+	<string id="st_achievement_8_descr">
+		<text>Zwiedziłeś wszystkie zakamarki Zony, śmiejąc się śmierci w twarz. Od błotnistych bagien po stalowy labirynt złomowiska pojazdów - Zonę znasz lepiej, niż własną kieszeń.</text>
+	</string>
+	<string id="st_achievement_8_unlock">
+		<text>Odblokowałeś osiągnięcie "Turysta".</text>
+	</string>
+	
+	<string id="st_achievement_9_name">
+		<text>Komornik</text>
+	</string>
+	<string id="st_achievement_9_hint">
+		<text>Masz większe szanse na znalezienie pełnego schowka.</text>
+	</string>
+	<string id="st_achievement_9_descr">
+		<text>Co wasze, to nasze - tak brzmi Twoje motto. Wyczuwasz cudze kosztowności nie gorzej, niż sądowy urzędas ściągający długi. Może i od czasu do czasu masz pecha, ale w temacie cudzej własności fortuna zawsze jest po Twojej stronie.</text>
+	</string>
+	<string id="st_achievement_9_unlock">
+		<text>Odblokowałeś osiągnięcie "Komornik".</text>
+	</string>
+	
+	<string id="st_achievement_10_name">
+		<text>Kropka nad "i"</text>
+	</string>
+	<string id="st_achievement_10_hint">
+		<text>Odblokowałeś wszystkie dostępne osiągnięcia.</text>
+	</string>
+	<string id="st_achievement_10_descr">
+		<text>Osiągnąłeś wszystko, co dało się osiągnąć. Znasz Zonę lepiej, niż ona sama. Pomimo wiatru w oczy i innych przeciwności, nadal jesteś niepokonany.</text>
+	</string>
+	<string id="st_achievement_10_unlock">
+		<text>Odblokowałeś osiągnięcie "Kropka nad "i"".</text>
+	</string>
+	
+	<string id="st_achievement_11_name">
+		<text>Pobożne życzenia</text>
+	</string>
+	<string id="st_achievement_11_hint">
+		<text>Odblokowałeś Renegatów jako grywalną frakcję.</text>
+	</string>
+	<string id="st_achievement_11_descr">
+		<text>Poruszyłeś niebo i ziemię, by poznać tajemnice jednego z najbardziej doświadczonych stalkerów w Zonie. Jakkolwiek sceptycznie nie byłbyś do tego nastawiony, wszystko, czego dowiedziałeś się podczas wyprawy mówi samo za siebie.</text>
+	</string>
+	<string id="st_achievement_11_unlock">
+		<text>Odblokowałeś osiągnięcie "Pobożne życzenia".</text>
+	</string>
+	
+	<string id="st_achievement_12_name">
+		<text>Na ziemię!</text>
+	</string>
+	<string id="st_achievement_12_hint">
+		<text>Zaawansowane Mi-24 zostaną zastąpione przez helikoptery Mi-2.</text>
+	</string>
+	<string id="st_achievement_12_descr">
+		<text>Im wyżej latają, tym mocniej upadają. Dowództwo wojska postanowiło nie narażać więcej drogocennego sprzętu, więc zastąpiło zaawansowane jednostki starymi złomami. Naturalnie, do parteru sprowadza się je tak samo przyjemnie.</text>
+	</string>
+	<string id="st_achievement_12_unlock">
+		<text>Odblokowałeś osiągnięcie "Na ziemię!".</text>
+	</string>
+	
+	<string id="st_achievement_13_name">
+		<text>Łowca artefaktów</text>
+	</string>
+	<string id="st_achievement_13_hint">
+		<text>Artefakty będą częściej pojawiać się w anomaliach.</text>
+	</string>
+	<string id="st_achievement_13_descr">
+		<text>Buczące, syczące czy skwierczące anomalie w żadnym stopniu ci niestraszne. Po wielu udanych wypadach zauważasz, że artefakty pojawiają się częściej.</text>
+	</string>
+	<string id="st_achievement_13_unlock">
+		<text>Odblokowałeś osiągnięcie "Łowca artefaktów".</text>
+	</string>
+	
+	<string id="st_achievement_14_name">
+		<text>Patriarcha</text>
+	</string>
+	<string id="st_achievement_14_hint">
+		<text>Możesz rekrutować więcej stalkerów do drużyny.</text>
+	</string>
+	<string id="st_achievement_14_descr">
+		<text>Twoje wyczyny w Zonie stały się już tematem legend. Dzięki pewności siebie oraz zdolnościach przywódczych jesteś w stanie nakłonić - świadomie lub nie - jeszcze więcej ludzi do podążenia z Tobą w paszczę lwa... i z powrotem.</text>
+	</string>
+	<string id="st_achievement_14_unlock">
+		<text>Odblokowałeś osiągnięcie "Patriarcha".</text>
+	</string>
+	
+	<string id="st_achievement_15_name">
+		<text>Mól książkowy</text>
+	</string>
+	<string id="st_achievement_15_hint">
+		<text>Karty pamięci zostaną zastąpione rzadkimi PDA.</text>
+	</string>
+	<string id="st_achievement_15_descr">
+		<text>Dzięki własnym staraniom oraz czytaniu notatek innych osób, nauczyłeś się wiele o Zonie oraz jej "mieszkańcach". Może pora zacząć dzielić się tą wiedzą z innymi?</text>
+	</string>
+	<string id="st_achievement_15_unlock">
+		<text>Odblokowałeś osiągnięcie "Mól książkowy".</text>
+	</string>
+	
+	<string id="st_achievement_16_name">
+		<text>Dziecinna frajda</text>
+	</string>
+	<string id="st_achievement_16_hint">
+		<text>Masz nieco większe szanse znalezienia przedmiotów w rozwalonych skrzyniach.</text>
+	</string>
+	<string id="st_achievement_16_descr">
+		<text>Niezależnie od tego, czy wykonujesz ważne zadanie, czy szwendasz się bez celu - żadna skrzynia nie może czuć się bezpieczna, kiedy jesteś w pobliżu. Osiągnąłeś taki poziom zen przy otwieraniu ich, że nie uszkadzasz niczego, co znajduje się w środku.</text>
+	</string>
+	<string id="st_achievement_16_unlock">
+		<text>Odblokowałeś osiągnięcie "Dziecinna frajda".</text>
+	</string>
+	
+	<string id="st_achievement_17_name">
+		<text>Nic się nie marnuje!</text>
+	</string>
+	<string id="st_achievement_17_hint">
+		<text>Masz szansę na uzyskanie dodatkowego komponentu podczas rozkładania sprzętu na części.</text>
+	</string>
+	<string id="st_achievement_17_descr">
+		<text>Nie chcesz marnować ani jednej śrubki - dzięki doświadczeniu i precyzji udaje Ci się odzyskiwać więcej części z rozkładanych przedmiotów.</text>
+	</string>
+	<string id="st_achievement_17_unlock">
+		<text>Odblokowałeś osiągnięcie "Nic się nie marnuje!".</text>
+	</string>
+	
+	<string id="st_achievement_18_name">
+		<text>Rzemieślnik</text>
+	</string>
+	<string id="st_achievement_18_hint">
+		<text>Tworzenie przedmiotów wymaga jednego lub dwóch komponentów mniej.</text>
+	</string>
+	<string id="st_achievement_18_descr">
+		<text>Dzięki doświadczeniu w tych sprawach, potrafisz o wiele efektywniej wykorzystać dostępne komponenty i części.</text>
+	</string>
+	<string id="st_achievement_18_unlock">
+		<text>Odblokowałeś osiągnięcie "Rzemieślnik".</text>
+	</string>
+	
+	<string id="st_achievement_19_name">
+		<text>Niespodziewany gość</text>
+	</string>
+	<string id="st_achievement_19_hint">
+		<text>Szanse na wykrycie podczas podszywania się pod członka innej frakcji są mniejsze.</text>
+	</string>
+	<string id="st_achievement_19_descr">
+		<text>Dzięki umiejętnościom obserwacji oraz skradania się, twoje przebrania i przykrywki są bardziej przekonujące. Dzięki temu z jeszcze większą pewnością siebie jesteś w stanie wejść do środka obozowiska wroga i nie obawiać się, że czyjeś czujne oczy Cię rozpoznają.</text>
+	</string>
+	<string id="st_achievement_19_unlock">
+		<text>Odblokowałeś osiągnięcie "Niespodziewany gość".</text>
+	</string>
+	
+	<string id="st_achievement_20_name">
+		<text>Rozgrzeszenie</text>
+	</string>
+	<string id="st_achievement_20_hint">
+		<text>Odblokowałeś Grzech jako grywalną frakcję.</text>
+	</string>
+	<string id="st_achievement_20_descr">
+		<text>Kiedy stalkerzy Grzechu chcieli siłą wprowadzić swoją wizję rzeczywistości, Ty stanąłeś im na drodze, pozwalając światu na rozwiązywanie swoich problemów bez ingerencji w noosferę.</text>
+	</string>
+	<string id="st_achievement_20_unlock">
+		<text>Odblokowałeś osiągnięcie "Rozgrzeszenie".</text>
+	</string>
+	
+	<string id="st_achievement_21_name">
+		<text>Kolaborant</text>
+	</string>
+	<string id="st_achievement_21_hint">
+		<text>Odblokowałeś UNISG jako grywalną frakcję.</text>
+	</string>
+	<string id="st_achievement_21_descr">
+		<text>Podjąłeś decyzję i stanąłeś po jednej ze stron. Czas pokaże, czy wybrałeś dobrze.</text>
+	</string>
+	<string id="st_achievement_21_unlock">
+		<text>Odblokowałeś osiągnięcie "Kolaborant".</text>
+	</string>
+	
+	<string id="st_achievement_22_name">
+		<text>Żelazna kurtyna</text>
+	</string>
+	<string id="st_achievement_22_hint">
+		<text>Otrzymałeś 50.000 rubli jako premię za wkład w działania wojenne Twojej frakcji.</text>
+	</string>
+	<string id="st_achievement_22_descr">
+		<text>Twoja frakcja - w dużej mierze dzięki twoim wysiłkom - stała się niepodważalną siłą, z którą każdy w Zonie musi sie liczyć. W dowód uznania dostajesz do dyspozycji okrągłą sumkę pochodzącą z jej zasobów.</text>
+	</string>
+	<string id="st_achievement_22_unlock">
+		<text>Odblokowałeś osiągnięcie "Żelazna kurtyna".</text>
+	</string>
+	
+	<string id="st_achievement_23_name">
+		<text>Mroczny stalker</text>
+	</string>
+	<string id="st_achievement_23_hint">
+		<text>Twoja ranga znacząco wzrosła.</text>
+	</string>
+	<string id="st_achievement_23_descr">
+		<text>Przetrwałeś wydarzenia i sytuacje, które posłałyby większość stalkerów do piachu. I to kilkakrotnie. Niektórzy zaczynają się zastanawiać, czy w ogóle da się Cię zabić.</text>
+	</string>
+	<string id="st_achievement_23_unlock">
+		<text>Odblokowałeś osiągnięcie "Mroczny stalker".</text>
+	</string>
+	
+	<string id="st_achievement_24_name">
+		<text>Niezwyciężony</text>
+	</string>
+	<string id="st_achievement_24_hint">
+		<text>Możesz teraz zrobić zrzut ekranu i chwalić się znajomym, że zdobyłeś najtrudniejsze osiągnięcie - zakładając, że jeszcze masz jakichś znajomych, Ty no-life.</text>
+	</string>
+	<string id="st_achievement_24_descr">
+		<text>Odniosłeś ogromny sukces, nie bacząc na wyzwania, próby i przeciwności losu. To jasne, że w Zonie już nic jest w stanie Cię zaskoczyć. Może teraz pora zająć się poważniejszymi rzeczami? Wiem, że ta myśl boli.</text>
+	</string>
+	<string id="st_achievement_24_unlock">
+		<text>Odblokowałeś osiągnięcie "Niezwyciężony".</text>
+	</string>
+	
+</string_table>

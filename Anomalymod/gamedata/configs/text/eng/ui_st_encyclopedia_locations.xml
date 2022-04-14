@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	
+	<string id="encyclopedia_locations">
+		<text>Lokacje</text>
+	</string>
+	
+	<string id="encyclopedia_locations_agroprom">
+		<text>Agroprom</text>
+	</string>
+	<string id="encyclopedia_locations_agroprom_text">
+		<text>%c[pda_green]Informacje%c[ui_gray_1] \nDosyć osobliwy, silnie skażony obszar. Mimo, że armia przejęła południowy kompleks i przeniosła tam kwaterę główną, całą okolicę nadal nawiedzają niebezpieczne mutanty, strzegące tajemnic, których lepiej byłoby nie odkrywać.\n \n%c[pda_blue]Sąsiednie lokacje%c[ui_gray_1]
+			\n• Bagna
+			\n• Wysypisko
+			\n• Jantar
+			\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Tą lokacją w czasie Wojen Frakcji w 2011 roku rządziła Powinność, ustanawiając kompleks wojskowy jako swoją główną bazę. W tym czasie, znajdująca się na południu część instytutu została przemieniona w muzeum taksydermii poświęcone w całości kreaturom Zony.
+			\n• Fabryka i Instytut Badawczy oficjalnie założono za sprawą katastrofy z 1986 w celu zbadania możliwości i rentowności rolnictwa prowadzonego na skażonej promieniowaniem glebie.
+			\n• Pogłoski twierdzą, że obiekty były używane do znacznie bardziej podstępnych celów przed Pierwszą Emisją z 2006 roku.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_locations_agroprom_underground">
+		<text>Podziemia Agropromu</text>
+	</string>
+	<string id="encyclopedia_locations_agroprom_underground_text">
+		<text>
+			%c[pda_white]Podziemia Agropromu%c[ui_gray_1] to podziemna sieć tuneli.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nNikt nie wie na pewno, do jakich celów wybudowano ten labirynt. Część komór i korytarzy na pewno służyła utrzymaniu i konserwacji instalacji technicznych, ale niektóre pomieszczenia z całą pewnością wykorzystywano do celów naukowych.\n
+			\nW tej chwili jedyne zastosowanie podziemi, to kryjówka dla desperatów... i teren łowiecki dla mutantów, które czają się w ciemnościach na gotowych zaryzykować lub niczego nieświadomych stalkerów.\n
+			\n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Powinność w czasach, gdy rządziła okolicą organizowała brutalne i bezlitosne czystki wobec wszystkich żywych istot zamieszkujących podziemia.
+			\n• To jasne, że zwierzchnictwo interesuje się Agropromem tylko po to, by dokładnie zbadać te tunele pod kątem tajnej działaności. Jak do tej pory, wojskowi nie znaleźli niczego.
+			\n• Podobno w najniższych częściach kompleksu można dostrzec zagadkowe cienie grasujące po korytarzach. Strzeż się.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_locations_army_warehouses">
+		<text>Magazyny Wojskowe</text>
+	</string>
+	<string id="encyclopedia_locations_army_warehouses_text">
+		<text>
+			%c[pda_green]Informacje%c[ui_gray_1]
+			\nOpuszczona baza wojskowa, zrujnowana wioska i nieduże bagnisko. Odkąd lata temu została opanowana przez zastęp pijawek, wieś ma dosyć mroczną reputację, przez co stalkerzy nie zapuszczają się w jej okolice. Tymczasem kompleks powojskowy od lat pełni funkcję głównego sztabu Wolności. To oni ustanowili przy drodze na północ Barierę - ostatni bastion ochrony przed Monolitem. Z siedziby frakcji wielu najodważniejszych (albo najgłupszych) stalkerów stara się przedrzeć w głąb Zony.\n
+			\n%c[pda_blue]Sąsiednie lokacje%c[ui_gray_1]
+			\n• Rostok
+			\n• Martwe Miasto
+			\n• Czerwony Las
+			\n• Radar
+			\n• Cmentarzysko Pojazdów\n
+			\n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• W czasie Drugiej Wielkiej Emisji z 2011 roku w bazie jeszcze stacjonowało wojsko. Większość personelu została zzombifikowana.
+			\n• Podobno głosy poległych wtedy żołnierzy zachowały się w Zonie jako anomalie radiowe - na niektórych częstotliwościach, będąc niemal w dowolnym miejscu można usłyszeć komunikaty nieznanego pochodzenia, często pełne rozpaczy.
+			\n• W przeciwieństwie do popularnego przekonania, nie wszyscy stacjonujący tu Wolnościowcy chodzą nafukani dla relaksu. Niektórzy próbują w ten sposób pozbyć się irracjonalnego uczucia strachu, powodowanego przez Mózgozwęglacz, którego efekty można odczuwać nawet kilka kilometrów dalej.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_locations_chernobyl_npp">
+		<text>Elektrownia</text>
+	</string>
+	<string id="encyclopedia_locations_chernobyl_npp_text">
+		<text>
+			%c[pda_white]Elektrownia jądrowa w Czarnobylu%c[ui_gray_1], w czasach radzieckich funkcjonowała jako %c[pda_white]im. W. I. Lenina%c[ui_gray_1] to najbardziej rozpoznawalny punkt orientacyjny w Zonie.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nTo tu, 26 kwietnia 1986 roku wydarzyło się coś, co obecnie nazywane jest Pierwszą Katastrofą.\n \nPodczas źle przeprowadzonego testu nastąpił nagły, niekontrolowany wzrost mocy reaktora. Procedura awaryjnego wyłączenia nie zadziałała prawidłowo, co w konsekwencji doprowadziło do eksplozji reaktora numer cztery. Skutkiem wybuchu było uwolnienie do atmosfery ogromnej ilości materiałów radioaktywnych.\n \nEwakuowano wszystkich mieszkańców, a w promieniu trzydziestu kilometrów od elektrowni utworzono strefę wykluczenia - całkowicie odcinając ją od świata pilnie strzeżonym kordonem.\n \nChociaż leży bardzo głęboko na terytorium Monolitu, stalkerzy od lat próbują dostać się w jej okolice - wierząc, że wewnątrz znajdą urządzenie, które w jakiś sposób da im moc spełnienia najbardziej skrytego pragnienia.\n
+			\n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Święta ziemia członków Monolitu. Przesądni stalkerzy wierzą, że lokacja strzeżona jest także przez dusze zmarłych i poległych.
+			\n• Striełok, Kieł i Duch byli pierwszymi stalkerami, którym udało się dotrzeć do Elektrowni i wrócić, nie tracąc zmysłów. Według legend Druga Wielka Emisja była odwetem Zony za to wydarzenie.
+			\n• Czyste Niebo poniosło sromotną klęskę, szturmując Elektrownię w 2011. Trzecia Wielka Emisja doprowadziła wielu członków i liderów frakcji do śmierci, schwytania bądź nawrócenia na Monolit.
+			\n• Striełokowi w 2012 udało się tu wrócić - po częściowym przywróceniu pamięci - by skonfrontować się z czymś ukrytym w ruinach Elektrowni. Od tej pory Zona nie była już tym, czym wcześniej.
+			\n• Armia prowadziła wiele prób odzyskania kontroli nad terenem Elektrowni. Wszystkie z nich zakończyły się niepowodzeniem.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_locations_cordon">
+		<text>Kordon</text>
+	</string>
+	<string id="encyclopedia_locations_cordon_text">
+		<text>
+			%c[pda_green]Informacje%c[ui_gray_1]
+			\nPomyśl o nim, jak o przedsionku Zony. To dobre miejsce do stawiania pierwszych kroków. Na południowym zachodzie mieści się wioska stalkerów. Nie zmarnuj okazji do rozmowy z tamtejszym handlarzem! Tuż obok, na południowym krańcu znajduje się baza wojskowa. Stacjonujący tam żołnierze często patrolują ciągnącą się wzdłuż całej lokacji drogę. Nie poleca się atakowania żołnierzy, przynajmniej do póki nie stanowią bezpośredniego zagrożenia.\n
+			\n%c[pda_blue]Sąsiednie lokacje%c[ui_gray_1]
+			\n• Wysypisko
+			\n• Bagna
+			\n• Mroczny Wąwóz
+			\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• We wcześniejszym okresie armia posiadała w Kordonie więcej posterunków - oprócz bazy na południu, jeden garnizon stacjonował przy moście kolejowym, a drugi bronił dostępu do Wysypiska przy północnym punkcie kontrolnym.
+			\n• W 2012 najemnicy próbowali przejąć kontrolę nad wioską kotów, ale ich siły zostały odepchnięte przez Striełoka i Fanatyka.
+			\n• To głównie tędy dokonuje się lwia część przerzutu dóbr do i z Zony.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_locations_dark_valley">
+		<text>Dolina Mroku</text>
+	</string>
+	<string id="encyclopedia_locations_dark_valley_text">
+		<text>
+			%c[pda_green]Informacje%c[ui_gray_1]
+			\nPonure miejsce, które zawdzięcza swoją złą sławę dwóm rzeczom: fortecy Bandytów z Sułtanem na czele znajdującej się w opuszczonej fabryce na północy i podziemnemu laboratorium na wschodzie. Lokalny watażka robi co może, by laboratorium pozostało zamknięte i ma ku temu powody - prawie nikt nie wrócił z niego żywy i nikt nie potrafi wyjaśnić, dlaczego tak jest.\n
+			\n%c[pda_blue]Sąsiednie lokacje%c[ui_gray_1]
+			\n• Wysypisko
+			\n• Mroczny Wąwóz
+			\n• Cmentarzysko Pojazdów
+			\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• W czasie Wojen Frakcji w 2011 roku w tej lokacji znajdowała się główna baza Wolności.
+			\n• Armia co jakiś czas wysyła w te rejony lekkie oddziały zwiadowcze Specnazu, najczęściej w celu zabezpieczenia laboratorium.
+			\n• Mimo wielu wpadek związanych z Barierą, Powinności prawie udało się całkowicie wyeliminować zagrożenie ze strony Bandytów w tej lokacji.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_locations_darkscape">
+		<text>Mroczny Wąwóz</text>
+	</string>
+	<string id="encyclopedia_locations_darkscape_text">
+		<text>
+			%c[pda_green]Informacje%c[ui_gray_1]
+			\nWąska dolina ukształtowana w półksiężyc, łączy południowy skraj Doliny Mroku z opuszczonym tunelem w Kordonie. W pewnym miejscu odnogi ciągną się na południe i wschód, ale nie wiadomo, dokąd tak naprawdę prowadzą. Okolica mimo gęstego zalesienia, posiada kilka charakterystycznych punktów.\n \nNa końcu najwęższej części doliny znajduje się zawalony most kolejowy - fragment linii poprowadzonej przez Kordon i Bagna. Dalej na południe droga rozdziela się przed wzgórzem. Zachodnia odnoga prowadzi w głąb lasu, kończąc się opuszczonym, do cna rozkradzionym gospodarstwem rolnym. Główna, asfaltowa droga ciągnie się aż do skrzyżowania, przy którym znajduje się stacja benzynowa. Stąd, skręcając na zachód można dotrzeć bezpośrednio na Kordon.\n
+			\n%c[pda_blue]Sąsiednie lokacje%c[ui_gray_1]
+			\n• Kordon
+			\n• Dolina Mroku
+			\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Dzięki oddaleniu i ponurej aurze, jaką roztacza, okolica wydaje się najlepszym rozwiązaniem dla stalkerów szukających ucieczki przed łowcami głów czy chcących odciąć się od między frakcyjnej polityki obecnej w całej reszcie Zony.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_locations_dead_city">
+		<text>Martwe Miasto</text>
+	</string>
+	<string id="encyclopedia_locations_dead_city_text">
+		<text>
+			%c[pda_white]Martwe Miasto%c[ui_gray_1], kiedyś pełne życia, teraz jest niczym więcej, niż rozpadającą się pamiątką socjalizmu.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nDawniej mieszkali tu ci, którzy nie dostali przydziału mieszkania w Prypeci, czy nieco mniej prestiżowym Limańsku. W zasadzie o historii tej okolicy wiadomo niewiele więcej.\n \nNazwa nadana przez stalkerów wydaje się być bardzo adekwatna, przyrównując miasto do zwłok ze względu na jego stan. W rzeczy samej Martwe Miasto zdaje się ulegać rozkładowi za sprawą sił natury.\n \nNie bacząc na fakt, że okolicę nieustannie napadają siły Monolitu i nękana jest przez mutanty z głębi Zony, frakcja Najemników stworzyła i utrzymuje tu swoją największą bazę wypadową, odznaczając się stosunkowo niską, ale bardzo skuteczną obecnością.\n
+			\n%c[pda_blue]Sąsiednie lokacje%c[ui_gray_1]
+			\n• Limańsk
+			\n• Magazyny Wojskowe
+			\n• Jantar
+			\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Do czasu pamiętnych wydarzeń z 2012 roku, większość stalkerów nie wierzyła, że takie miejsce w ogóle istnieje. Utraciwszy tę tajemnicę, Najemnicy natychmiast zaczęli korzystać ze swoich wpływów, by powstrzymać potencjalnych niechcianych gości.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_locations_deserted_hospital">
+		<text>Opuszczony Szpital</text>
+	</string>
+	<string id="encyclopedia_locations_deserted_hospital_text">
+		<text>
+			%c[pda_white]Opuszczony Szpital%c[ui_gray_1] lub %c[pda_white]Szpital limański%c[ui_gray_1], to duży, opuszczony budynek, coraz głębiej zapadający się w ziemię.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nMimo braku publicznych informacji o historii tego szpitala, można przypuszczać, że został wybudowany dla mieszkańców leżącego nieopodal Limańska.\n \nJedną z najbardziej interesujących tajemnic lokacji jest sposób, w jaki zapadła się tak głęboko w ziemię. Teza o trzęsieniu ziemi szybko upadła - w tej części świata są bardzo rzadkie i zwykle na tyle małe, że przez wielu w ogóle niezauważalne.\n \nCo ciekawsze, to jedyne miejsce w Zonie, gdzie na tak dużym obszarze nie ma żadnych większych źródeł promieniowania i nie notuje się aktywności anomalnej. Nie zmienia to faktu, że nadal pozostaje bardzo niebezpieczne ze względu na częste miejsce spotkań wszelkiej maści kultystów wielbiących Zonę.
+			\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• To jedna z niewielu lokacji, do której nie docierają emisje i burze psioniczne.
+			\n• Dawno temu szpital był jedną z największych fortec w Zonie - w wąskich korytarzach rozstawione były stanowiska CKMów, a w czasie największych batalii o to miejsce arkady regularnie ostrzeliwał śmigłowiec.
+			\n• Po dawnych fortyfikacjach nie zostały prawie żadne ślady. Niektórzy uważają, że od jakiegoś czasu szpital stanowi jedną ze świątyń Monolitu.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_locations_garbage">
+		<text>Wysypisko</text>
+	</string>
+	<string id="encyclopedia_locations_garbage_text">
+		<text>
+			%c[pda_green]Informacje%c[ui_gray_1]
+			\nOgromne złomowisko wszelkiego rodzaju maszyn. Zaraz po pierwszej awarii utworzono zwożono tu całą gamę odpadów radioaktywnych. Nad większością z istniejących jeszcze budynków panują mutanty.\n \nWysypisko najczęściej uważane jest za "przedmieścia" Zony - roi się tu od żółtodziobów, a miejsce regularnie napadane jest przez bandyckie bandy wyszukujące zagubionych samotników. Najbardziej charakterystyczne są hangar kolejowy ulokowany mniej więcej w centrum okolicy i Pchli Targ, wysunięty bardziej na północ.
+			\n \n%c[pda_blue]Sąsiednie lokacje%c[ui_gray_1]
+			\n• Kordon
+			\n• Dolina Mroku
+			\n• Agroprom
+			\n• Rostok
+			\n• Dzicz
+			\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Podobno hangar kolejowy funkcjonuje jako miejsce spotkań najbardziej oddanych myśliwych Zony.
+			\n• Lata temu swoją melinę miał tu Joga - jedna z czołowych twarzy bandyckiego półświatka. Zapisał się tym, że ze swoimi ludźmi wyłapywał stalkerów i zmuszał ich do szukania artefaktów w swoistych obozach pracy.
+			\n• Hałdy złomu istnieją tu od Pierwszej Katastrofy z 1986 roku.
+			\n• Jako że leży w tyglu między terytoriami Powinności, Wojska, Stalkerów i Bandytów, władza nad lokacją rzadko kiedy jest dobrze ustalona.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_locations_generators">
+		<text>Generatory</text>
+	</string>
+	<string id="encyclopedia_locations_generators_text">
+		<text>
+			%c[pda_green]Informacje%c[ui_gray_1]
+			\nMiejsce narodzin Zony.
+			\n \n%c[pda_blue]Sąsiednie lokacje%c[ui_gray_1]
+	        \n• Elektrownia
+	        \n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Do tego miejsca Świadomość-Z kierowała przepływ energii z noosfery próbując wpływać na ludzkie myśli.
+			\n• Jak do tej pory to najbardziej nieznana lokacja w całej Zonie. Mądrze jest mieć się na baczności i trzymać się drogi.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_locations_great_swamp">
+		<text>Bagna</text>
+	</string>
+	<string id="encyclopedia_locations_great_swamp_text">
+		<text>
+			%c[pda_green]Informacje%c[ui_gray_1]
+			\nRozległe błota, poprzetykane zagłębieniami pełnymi ciemnej, napromieniowanej wody. Przypominają labirynt, ze ścieżkami wytyczonymi wzdłuż ścian z trzcin i tataraku. Punkty orientacyjne stanowi kilka dawno opuszczonych budynków i małych osad.\n \nNa północ, zaraz za Lasem Myśliwych znajduje się Instytut Badawczy Agroprom. Od wschodu okolica przylega do Kordonu, a na zachodzie - za zwalonym mostem kolejowym wznosi się tajemniczy, niedostępny tunel Tuzła.\n \nBagna to doskonała lokacja dla tych, którzy lubią żyć w samotności, ale mając "cywilizację" w rozsądnej, niezbyt dużej odległości.
+			\n \n%c[pda_blue]Sąsiednie lokacje%c[ui_gray_1]
+			\n• Kordon
+			\n• Agroprom
+			\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Krążą legendy o życzliwym doktorze wędrującym pośród bagien, aczkolwiek od lat nikt go nie widział.
+			\n• Podobno w nocy na bagnach straszy, ciemne kształty da się zauważyć najczęściej w okolicy drogi do Agropromu.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_jupiter">
+		<text>Jupiter</text>
+	</string>
+	<string id="encyclopedia_locations_jupiter_text">
+		<text>
+			%c[pda_green]Informacje%c[ui_gray_1]
+			\nJupiter, zlokalizowany na zachód od Prypeci to duży obszar ze stacją kolejową Janów niemal dokładnie w centrum.\n \nStary budynek dworca obecnie funkcjonuje jako baza wypadowa dla stalkerów - handlarz, technicy i medyk przebywają na stacji przez cały czas. Po drugiej stronie torów naukowcy ustawili swój bunkier i badają z niego Zonę, prowadząc obserwację anomalii i wykonując doświadczenia na artefaktach. Na północnym wschodzie znajduje się stara cementownia, o którą cały czas walczą niemal wszystkie frakcje.\n \nInne miejsca, takie jak Kamieniołom, wioska Kopaczi czy kompleks przeciwlotniczy Wołkow od dawna są opuszczone. Teraz mieszkają tam tylko mutanty i "żywi umarli".
+			\n \n%c[pda_blue]Sąsiednie lokacje%c[ui_gray_1]
+			\n• Czerwony Las
+			\n• Zaton
+			\n• Prypeć
+			\n• Podziemia Jupitera
+			\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Wierząc legendzie, to właśnie w tej okolicy znajduje się tajemnicza Oaza.
+			\n• W niektórych miejscach można znaleźć rozbite helikoptery. Spadły za sprawą anomalii powietrznych.
+			\n• Dawniej dworzec w Janowie podzielony był między Wolność i Powinność, które za Barierą prowadziły coś na kształt zimnej wojny. Ta, mimo wszystko bardzo napięta sytuacja została przerwana przez powrót zagrożenia ze strony Monolitu i ogólne zamieszanie towarzyszące okolicznościom.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_jupiter_underground">
+		<text>Podziemia Jupitera</text>
+	</string>
+	<string id="encyclopedia_locations_jupiter_underground_text">
+		<text>
+			%c[pda_white]Podziemia Jupitera%c[ui_gray_1], znane także, jako %c[pda_white]Podziemia Prypeci%c[ui_gray_1] lub %c[pda_white]Prypeć-1%c[ui_gray_1], to ogromna sieć tuneli biegnących głęboko pod powierzchnią ziemi.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nPierwotnie używane do tajnego transportu dóbr i materiałów, o czym świadczą porzucone w podziemiach transportery. Po Drugiej Katastrofie sieć zamknięto, a do tuneli wtłoczono trującą mieszaninę gazów.\n \nDopiero stosunkowo niedawno grupie stalkerów z Jupitera udało się ponownie uzyskać dostęp do podziemi. Po takim czasie korytarze na pewno zostały wywietrzone i powinny być już bezpieczne.\n \nOczywiście "bezpieczne" dotyczy tylko wspomnianych wcześniej gazów. Według tych, którzy odważyli się zejść pod ziemię, w tunelach czają się chmary snorków i zzombifikowanych stalkerów.
+			\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Winda prowadząca do tunelu z terenu zakładów Jupiter nie działa od lat. Na szczęście, schody nadal są sprawne.
+			\n• Bojownicy Monolitu reagują odpowiednio na każdą próbę przedostania się przez podziemia.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_lab_x16">
+		<text>Laboratorium X-16</text>
+	</string>
+	<string id="encyclopedia_locations_lab_x16_text">
+		<text>
+			%c[pda_green]Informacje%c[ui_gray_1]
+			\nW laboratorium znajduje się emiter psioniczny znany jako Machina Cudów. Ktokolwiek bez odpowiedniej ochrony za bardzo się do niego zbliży, zostanie przemieniony w bezmózgie zombie.
+			\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Machina Cudów to ogromny neurokomputer, którego główną część stanowi nienaturalnie wielki ludzki mózg.
+			\n• Wyłączenie emitera wymaga przełączenia kilku dźwigni w określonej kolejności, zaczynając od tej na najniższym poziomie.
+			\n• Duch - stalker-legenda i członek pierwszej grupy Striełoka zarazem - zginął, próbując zbadać laboratorium dla Ekologów. Najprawdopodobniej Striełok, po unieruchomieniu instalacji (przynajmniej na jakiś czas) wrócił do kompleksu by wyprawić swojemu przyjacielowi właściwy pogrzeb.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_lab_x18">
+		<text>Laboratorium X-18</text>
+	</string>
+	<string id="encyclopedia_locations_lab_x18_text">
+		<text>
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nLaboratorium podobno zawiera wartościowe informacje na temat emiterów psionicznych. Niektórzy twierdzą, że wewnątrz kompleksu znaleźć można całe pola artefaktów. Lokalni mieszkańcy starają się jednak omijać to miejsce szerokim łukiem i pewnie mają ku temu dobre powody.
+			\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Najprawdopodobniej właśnie w X-18 stworzono większość znanych obecnie mutantów, szczególnie tych posiadających moce psioniczne.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_lab_x19">
+		<text>Laboratorium X-19</text>
+	</string>
+	<string id="encyclopedia_locations_lab_x19_text">
+		<text>
+			%c[pda_white]Laboratorium X-19%c[ui_gray_1], czasem występuje pod numerem %c[pda_white]X-10%c[ui_gray_1].\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nWewnątrz kompleksu znajduje się mechanizm kontrolujący Mózgozwęglacz, wśród bardziej zorientowanych w sytuacji stalkerów znany także jako emiter "Tęcza". Cały teren zajęty jest przez siły Monolitu, które bronią dostępu do laboratorium prawie tak bardzo, jak do samej Elektrowni.
+			\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Wyłączenie Mózgozwęglacza z pewnością ułatwi podróże po obu stronach Bariery, choć raczej nie zwiększy szansy na przeżycie w tej okolicy.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_lab_x8">
+		<text>Laboratorium X-8</text>
+	</string>
+	<string id="encyclopedia_locations_lab_x8_text">
+		<text>
+			%c[pda_green]Informacje%c[ui_gray_1]
+			\nPracowano tu nad wieloma różnymi rzeczami - prowadzono badania nad polami psionicznymi, noosferą, a także tajemniczym "Obiektem 62" - prototypową bronią używającą fragmentów artefaktów do wystrzeliwania pocisków. Bardzo prawdopodobne, że tutaj też rozpoczęto pierwsze prace nad Mózgozwęglaczem. Resztka dokumentów, która wciąż może znajdować się na terenie obiektu budzi ogromne zainteresowanie działających w Zonie najemników.
+			\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Prace nad Obiektem 62 na pewnym etapie przeniesiono do ośrodka badawczego w Zatonie.
+			\n• Według plotek, jeden z zespołów badawczych pracujących w kompleksie przed 2006 rokiem składał się m. in. z: N. A. Lebiediewa, E. F. Kałańczy i W. I. Susłowa. Nie odnaleziono jeszcze żadnych dowodów potwierdzających te pogłoski.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_limansk">
+		<text>Limańsk</text>
+	</string>
+	<string id="encyclopedia_locations_limansk_text">
+		<text>
+			%c[pda_green]Informacje%c[ui_gray_1]
+			\nLimańsk to wymarłe miasto, mimo że jako tajny ośrodek badawczy nie zostało objęte ewakuacją po Pierwszej Katastrofie w 1986 roku. Po powstaniu Zony w 2006 roku stało się jeszcze bardziej niegościnne - przez swoje położenie i zagęszczenie anomalii Limańsk na lata został niemal całkowicie odcięty od świata.\n \nDzięki Drugiej Wielkiej Emisji z września 2011 roku anomalie zniknęły, a stalkerzy rzucili się w kierunku miasta, szukając drogi, dzięki której mogliby ominąć Mózgozwęglacz. Zabudowania stały się polem bitwy między grupami prącymi na północ a Monolitem broniącym dostępu do głębszych części Zony. Od czasu do czasu przez Limańsk przetaczały się watahy Bandytów szukających łatwego zarobku.\n \nObecnie część anomalii powróciła, a jedyne, co można w mieście zaobserwować, to niewielkie, najczęściej zwiadowcze oddziały Monolitu lub Najemników, przemykające między porzuconymi budynkami i pojazdami.\n \nZnajduje się na północ od Martwego Miasta.
+			\n \n%c[pda_blue]Sąsiednie lokacje%c[ui_gray_1]
+			\n• Martwe Miasto
+			\n• Czerwony Las
+			\n• Opuszczony Szpital
+			\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Leśnik pamięta niektórych mieszkańców jeszcze z czasów sowieckich. Twierdzi, że byli fanatycznie oddani Związkowi Radzieckiemu, nawet mimo najbardziej niesprzyjających okoliczności.
+			\n• Limańsk był najprawdopodobniej pierwszym miejscem, w którym uruchomiono instalację psioniczną. Prototyp anteny, choć nadal góruje nad miastem, od dawna jest nieczynny i wydaje się, że nie da się go w żaden sposób uruchomić.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_monolith_control_center">
+		<text>Sterownia Monolitu</text>
+	</string>
+	<string id="encyclopedia_locations_monolith_control_center_text">
+		<text>
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nKilka pomieszczeń wypełnionych zaawansowanymi komputerami, umieszczonych wewnątrz Sarkofagu. Dokładne przeznaczenie nie jest znane, ale bez cienia wątpliwości zostało opuszczone przez wcześniejszych badaczy. Członkowie Monolitu dbają o to miejsce z wielką pieczołowitością.
+			\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• To może być miejsce, za pośrednictwem którego starszyzna Monolitu kontaktowała się ze swoim bóstwem.
+			\n• Aby wejść do Sterowni, potrzebny jest specjalny dekoder, stworzony lata temu przez Kła.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_monolith_war_lab">
+		<text>Laboratorium Wojskowe Monolitu</text>
+	</string>
+	<string id="encyclopedia_locations_monolith_war_lab_text">
+		<text>
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nW legendach i opowieściach weteranów częściej funkcjonuje pod nazwą [pda_white]WarLab%c[ui_gray_1]. Dawna główna siedziba Świadomości-Z. Od czasu prawdopodobnej śmierci jej członków, ziemi tej strzegą mściwi bojownicy Monolitu.
+			\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Niektórzy członkowie Grupy, zorientowawszy się, że ich intelekty nie są w stanie wpłynąć na noosferę samodzielnie, stworzyli urządzenie, które po przyłączeniu tworzyło z połączonych umysłów Nadświadomość.
+			\n• Od tej pory zaczęli nazywać się Świadomością Zbiorową i prawie natychmiast podporządkowali sobie resztę Grupy.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_outskirts">
+		<text>Przedmieścia Prypeci</text>
+	</string>
+	<string id="encyclopedia_locations_outskirts_text">
+		<text>
+			%c[pda_green]Informacje%c[ui_gray_1]
+			\nInna, bardziej odległa część Prypeci. Ma tu swoje łowiska cała gama śmiercionośnych mutantów.\n \nObecność ludzi jest minimalna, sprowadzając się głównie do członków Monolitu i wałęsających się bez celu zombie. Istnieją dwa niewielkie posterunki samotników i Najemników, którzy rywalizują między sobą o dostęp do znajdującego się w tej okolicy laboratorium klasy X.
+			\n \n%c[pda_blue]Sąsiednie lokacje%c[ui_gray_1]
+			\n• Prypeć
+			\n• Podziemia Jupitera
+			\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Technicznie rzecz biorąc, nazywanie tego obszaru "przedmieściami" jest błędem - okolica jest typowo miejska i mieści się w całości w granicach administracyjnych Prypeci. Jednakże dobrze oddaje charakter dzielnicy, znajdującej się dość daleko od miejsc, które stalkerzy uznają za ścisłe centrum miasta. Część z nich do opisania tej lokacji używa terminu "Wschodnia Prypeć".
+			\n• Miała tu miejsce duża akcja ewakuacyjna wojska związana z porażką przy próbie zdobycia Elektrowni w 2012 roku. Obecnie jest głównie przyczółkiem dla najbardziej doświadczonych, albo najbardziej nierozważnych stalkerów.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_pripyat">
+		<text>Prypeć</text>
+	</string>
+	<string id="encyclopedia_locations_pripyat_text">
+		<text>
+			%c[pda_green]Informacje%c[ui_gray_1]
+			\nMiasto zbudowano dla pracowników elektrowni w Czarnobylu i ich rodzin. Prypeć była jednym z najwspanialszych miast wybudowanych od zera w czasach ZSRR. W tej chwili jest tylko cieniem dawnej chwały, w którym frakcja Monolit zbudowała swoją główną kwaterę. 
+			\n \n%c[pda_blue]Sąsiednie lokacje%c[ui_gray_1]
+			\n• Radar
+			\n• Jupiter
+			\n• Przedmieścia Prypeci
+			\n• Elektrownia
+			\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Stalker-legenda z Grupy Striełoka, Kieł, posiada grób w Prypeci. Co ciekawe, w okolicy Magazynów Wojskowych również można znaleźć krzyż z wyrytym jego imieniem.
+			\n• Miasto jest centralnym punktem, z którego Monolit organizuje obronę wszystkich swoich terytoriów.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_red_forest">
+		<text>Czerwony Las</text>
+	</string>
+	<string id="encyclopedia_locations_red_forest_text">
+		<text>
+			%c[pda_green]Informacje%c[ui_gray_1]
+			\nWłaściwie tylko najbardziej wysunięta na zachód część Czerwonego Lasu jest względnie bezpieczna. Mimo tego cały obszar uważany jest za jeden z najbardziej zabójczych ze względu na wysoką aktywność mutantów.
+			\n \n%c[pda_blue]Sąsiednie lokacje%c[ui_gray_1]
+			\n• Magazyny Wojskowe
+			\n• Jupiter
+			\n• Limańsk
+			\n• Radar
+			\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Nazwa "Czerwony Las" pochodzi od rosnących tu sosen. Podczas katastrofy w 1986 roku przyjęły tak silną dawkę promieniowania, że niemal natychmiast zmieniły kolor na rudy.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_radar">
+		<text>Radar</text>
+	</string>
+	<string id="encyclopedia_locations_radar_text">
+		<text>
+			%c[pda_green]Informacje%c[ui_gray_1]
+			\nWschodnia część Czerwonego Lasu. Przerażające miejsce. Wielu dobrych stalkerów przepadło tu bez śladu.\n \nTo w tej części lasu postanowiono umieścić anteny Mózgozwęglacza - ktokolwiek za bardzo się zbliży, natychmiast traci zmysły, staje się zombie i resztę żywota kontynuuje, szwendając się po Zonie bez żadnego celu. Tylko kilku śmiałkom udało się wrócić stąd w jednym kawałku.
+			\n \n%c[pda_blue]Sąsiednie lokacje%c[ui_gray_1]
+			\n• Magazyny Wojskowe
+			\n• Czerwony Las
+			\n• Prypeć
+			\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Pomijając złą opinię, tędy najłatwiej dotrzeć do wysuniętych najbardziej na północ części Zony - gdyby udało się je, z Prypecią na czele, odbić z rąk Monolitu.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_rostok">
+		<text>Rostok</text>
+	</string>
+	<string id="encyclopedia_locations_rostok_text">
+		<text>
+			%c[pda_green]Informacje%c[ui_gray_1]
+			\nOpuszczona strefa przemysłowa, którą stalkerom udało się opanować i ustanowić na jej terenie największą bazę wypadową w Zonie.\n \nOd dawna mieści się tu główny sztab Powinności, przez co okolica jest dobrze chroniona przed (przynajmniej pochodzącymi od ludzi) zagrożeniami. Wysokie standardy bezpieczeństwa i rozwinięta, jak na warunki Zony infrastruktura powodują, że w budynkach należących do Rostoku aż roi się od wszelkiej maści stalkerów i pracowników naukowych, załatwiających tu swoje interesy.\n \nPowinność obejmuje swoją kuratelą dwa duże przedsięwzięcia - prowadzoną przez Arniego Arenę i jedno z najbardziej legendarnych (prócz samej Elektrowni) miejsc w całej Zonie: bar Sto Radów. Koniecznie odwiedź oba!
+			\n \n%c[pda_blue]Sąsiednie lokacje%c[ui_gray_1]
+			\n• Dzicz
+			\n• Wysypisko
+			\n• Magazyny Wojskowe
+			\n• Cmentarzysko Pojazdów
+			\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Kilka lat temu Powinność zakazywała korzystania z broni na terenie Rostoku. Pojawienie się z niezabezpieczonym karabinem w ręku kończyło się (najczęściej wykonywanym na miejscu) wyrokiem śmierci. Generał Woronin zniósł ten zakaz.
+			\n• Dowództwo frakcji kładło nacisk na dokładne sprawdzanie stalkerów wchodzących na teren bazy. Nowicjuszom odmawiano wstępu, a ci, których przepuszczono i tak musieli opłacić odpowiedni podatek. Ta zasada również została unieważniona.
+			\n• Po Drugiej Wielkiej Emisji z 2011 roku Rostok został odcięty od reszty Zony rozległymi polami anomalii. Taki stan utrzymywał się do Trzeciej Wielkiej Emisji, co pozwoliło Wolności skutecznie umocnić pozycje w Magazynach Wojskowych.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_sarcophagus">
+		<text>Sarkofag</text>
+	</string>
+	<string id="encyclopedia_locations_sarcophagus_text">
+		<text>
+			%c[pda_green]Informacje%c[ui_gray_1]
+			\nPod Sarkofagiem ukryta jest cała struktura legendarnego czwartego reaktora.
+			\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Większość legend o Spełniaczu Życzeń utrzymuje, że znajduje się on gdzieś pośród skrytych pod reaktorem gruzów.
+			\n• Z tego względu należy spodziewać się, że sił Monolitu będą bronić dostępu do Sarkofagu za wszelką cenę.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_truck_cemetery">
+		<text>Cmentarzysko Pojazdów</text>
+	</string>
+	<string id="encyclopedia_locations_truck_cemetery_text">
+		<text>
+			%c[pda_white]Cmentarzysko Pojazdów%c[ui_gray_1], oficjalnie pod nazwą %c[pda_green]Składowisko Pojazdów Skażonych Rosocha%c[ui_gray_1], to ogromny plac pełen zdewastowanych, napromieniowanych pojazdów.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nStanowi bardziej mroczną, bardziej skażoną i bardziej niebezpieczną alternatywę dla znajdującego się nieco dalej na południowy zachód Wysypiska. Miejsce to wytypowano na składowisko pojazdów biorących udział w czasie likwidacji skutków katastrofy z 1986 roku.\n \nMimo, że większość z tych rdzewiejących wraków trafiła kilkadziesiąt lat temu do Rosochy w niemal idealnym stanie technicznym, ich los był z góry przesądzony.  Tylko mała część pojazdów docierała na składowisko całkowicie zniszczona. Tak czy inaczej, jakakolwiek dekontaminacja nie miała najmniejszego sensu. Setki pojazdów - samochodów, autobusów, nawet śmigłowców i transporterów opancerzonych pozostawiono tu z konieczności, zostawiając je na łaskę i niełaskę sił natury.\n \nJednakże od pojawienia się Zony w roku 2006 teren niejako wrócił do życia. Cmentarzysko z niewiadomych powodów upodobały sobie wszelkiej maści mutanty, chociaż co jakiś czas dochodzi tu do wymiany ognia między wrogimi frakcjami.\n \nCo uważniejsi stalkerzy zauważają, że choć miejsce jest odizolowane i trudno dostępne, zalegające tu pojazdy są sukcesywnie rozbierane. Najprawdopodobniej ktoś - być może wojsko - próbuje odzyskać z wraków cokolwiek, co się da i przehandlować na złomie.
+			\n \n%c[pda_blue]Sąsiednie lokacje%c[ui_gray_1]
+			\n• Magazyny Wojskowe
+			\n• Rostok
+			\n• Dolina Mroku
+			\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Nie bacząc na zagrożenia, w okolicy stróżówki w północnej części Cmentarzyska bandyci urządzili przyczółek, najpewniej dla zapewnienia stałej łączności między Łukaszem a Sułtanem - przywódcami, znajdującymi się odpowiednio w Magazynach Wojskowych i Dolinie Mroku.
+			\n• Odczyty promieniowania w tej okolicy z roku na rok maleją, co oznacza, że być może niedługo będzie można bezpiecznie usunąć i zezłomować zalegające tu wraki. Prawdopodobnie wtedy rząd będzie starał się przejąć kontrolę nad Cmentarzyskiem.
+			\n• Czasem można się tu natknąć na pojedynczych stalkerów idących "na lekko". Nic dziwnego - miejsce doskonale nadaje się na stworzenie bezpiecznego schowka z dala od wścibskich oczu, chociaż zawsze znajdzie się paru cwaniaczków, którzy spróbują odkryć sekrety innych, godzinami przeszukując wszystkie zakamarki w celu zebrania nieswoich fantów.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_wild_territory">
+		<text>Dzicz</text>
+	</string>
+	<string id="encyclopedia_locations_wild_territory_text">
+		<text>
+			%c[pda_green]Informacje%c[ui_gray_1]
+			\nJeśli kiedykolwiek zastanawiało cię, jak wyglądał Rostok zanim zajęła się nim Powinność, spacer po tej okolicy rozwieje twoje wątpliwości.\n \nZwyczajni stalkerzy najchętniej całkowicie unikaliby tego miejsca: jak nie krwiożercze mutanty, to znienawidzeni bandyci. Jak nie znienawidzeni bandyci, to bezwzględni najemnicy. To dosyć dokładna charakterystyka Dziczy.\n \nTo, co jeden nazwie chaosem, drugi uzna za swoją szansę - nierzadko oficerowie Powinności lub Barman osobiście oferują nagrody za zajęcie się niezliczonymi, czającymi się tu niebezpieczeństwami.
+			\n \n%c[pda_blue]Sąsiednie lokacje%c[ui_gray_1]
+			\n• Rostok
+			\n• Wysypisko
+			\n• Jantar
+			\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Powinność właściwie od zawsze chciała dołączyć Dzicz do obecnego Rostoku, ale nigdy nie mieli wystarczającej siły przebicia, by przejąć kontrolę nad okolicą.
+			\n• Lokacja ta stała się w 2012 roku miejscem makabrycznej zbrodni. Oddział najemników pod dowództwem niejakiego Wilczarza zaatakował dużą grupę Ekologów mimo eskorty. Masakrę przerwał nieznany stalker, eliminując wszystkich przeciwników. Ocalało tylko dwóch członków grupy badawczej. W chwili obecnej - pomijając pojedyncze incydenty - Najemnicy nie wchodzą w drogę Ekologom.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_yantar">
+		<text>Jantar</text>
+	</string>
+	<string id="encyclopedia_locations_yantar_text">
+		<text>
+			%c[pda_green]Informacje%c[ui_gray_1]
+			\nWłaściwe jezioro Jantar wyschło dawno temu, pozostawiając po sobie tylko płytkie bagno. Okolica jest dosłownie przesiąknięta śmiercią, nękana przez istoty, które już nie są ludźmi. Stalkerzy, którzy zapuścili się zbyt blisko kompleksu często opowiadają, że zaczęli słyszeć głosy. Część z nich całkiem zwariowała, bądź też przemieniła się w Zombie.\n \nZnaczna większość pojawia się w tej okolicy tylko w ramach handlu z mającymi tu bazę Ekologami - pracujący tu naukowcy słyną z uprzejmości i, co ważniejsze, hojnie płacą za próbki mutantów i artefaktów, nie mówiąc o poważniejszych zadaniach.
+			\n \n%c[pda_blue]Sąsiednie lokacje%c[ui_gray_1]
+			\n• Martwe Miasto
+			\n• Dzicz
+			\n• Agroprom
+			\n \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• W tej lokacji znajduje się niesławna Machina Cudów - instalacja psioniczna, która wielu dobrych ludzi doprowadziła do obłędu.
+			\n• Bunkrem Ekologów zarządza niezwykle utalentowany człowiek, przez wielu uznawany za największego eksperta Zony w sprawie urządzeń ochrony psychicznej.
+			\n• Kiedyś na straży bunkra stała Powinność. W tej chwili Ekolodzy samodzielnie rekrutują członków do służby ochronnej. Raczej nie zwracają uwagi na frakcje.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_zaton">
+		<text>Zaton</text>
+	</string>
+	<string id="encyclopedia_locations_zaton_text">
+		<text>
+			%c[pda_white]Zaton%c[ui_gray_1]to wyschnięte starorzecze rzeki Prypeci.\n
+			\n%c[0,100,255,150]Informacje%c[ui_gray_1]
+			\nPełna gnijących barek i łodzi wszelkiej maści, okolica bardziej przypomina bagno niż zaawansowany obszar przemysłowy, którym kiedyś była.\n \nPoza wodą stojącą w zagłębieniach i kilkoma pojedynczymi gorącymi plamami, teren jest niemal całkowicie wolny od radiacji. Nie jest za to wolny od sił Monolitu, mutantów ani zzombifikowanych stalkerów.\n \nMimo położenia tak głęboko w Zonie i sąsiedztwa terenów pod kontrolą Monolitu, znajduje się tu wiele stałych osad - jak słynny Skadowsk, czy mniej popularny Szewczenko.
+			\n \n%c[pda_blue]Sąsiednie lokacje%c[ui_gray_1]
+			\n• Jupiter
+			\n• Elektrownia
+			\n \n%c[0,100,255,150]Ciekawostki%c[ui_gray_1]
+			\n• Choć trudno w to uwierzyć, bandyci i stalkerzy kiedyś żyli tu we względnej zgodzie. Wszystko dzięki Brodzie, wieloletniemu zarządcy Skadowska, który ze wszystkich sił starał się utrzymać kruchy pokój. Taki stan rzeczy nie utrzymał się jednak zbyt długo. W 2012 konflikt "wrócił do normy".
+			\n• Plotka głosi, że jeden ze statków zamieszkuje kompletnie szalony stalker. Eksplorując porzucone wraki pamiętaj, żeby odsuwać się od drzwi przed ich otwarciem.
+		</text>
+	</string>
+	
+</string_table>

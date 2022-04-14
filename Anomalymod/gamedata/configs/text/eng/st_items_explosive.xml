@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Explosive items + Mines
+-->
+
+<string_table>
+
+	<string id="st_mine_name">
+		<text>Kasetowa mina przeciwpiechotna PFM-1</text>
+	</string>
+	<string id="st_mine_descr">
+		<text>PFM-1 to standardowa mina przeciwpiechotna Armii Czerwonej, wykorzystywana przede wszystkim w czasie radzieckiej inwazji na Afganistan. Rozmieszczana w obszarach o kluczowym znaczeniu taktycznym, doprowadziła do dużych strat wśród ludności cywilnej, szczególnie wśród dzieci, gdyż miny z wyglądu i ze względu na kolorystykę przypominały zabawki. Z tego powodu do PFM-1 przylgnęło złowrogie określenie "dzieciobójca".\n \nOd tamtej pory miny zastąpiono nowszymi modelami. Jednak, jak to bywa w przypadku broni na "emeryturze", wiele egzemplarzy różnymi sposobami trafiło do Zony, gdzie służą jako podstawowy rodzaj miny pułapkowej. PFM-1 cieszy się sporym poważaniem ze względu na funkcjonalność, łatwość obsługi, niewielki rozmiar i niedużą wagę. Jej jedyną wadą jest niewielka ilość ładunku wybuchowego, jedna mina nie posiada wystarczającej mocy, żeby zabić dobrze opancerzonego stalkera. Powinno wykorzystywać się ją z innymi ładunkami wybuchowymi i stosować jako zapalnik. Gdy nie jest odbezpieczona, nie wybuchnie nawet pod ostrzałem. \n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] ładunek wybuchowy\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wojskowy\n
+		%c[d_blue] • %c[ui_gray_2] mina przeciwpiechotna\n
+		%c[d_purple] • %c[ui_gray_2] mechanizm zapalający: %c[ui_gray_1]ciśnieniowy\n
+		%c[d_purple] • %c[ui_gray_2] siła wybuchu: %c[ui_gray_1]niska\n
+		%c[d_purple] • %c[ui_gray_2] promień skutecznego rażenia: %c[ui_gray_1]2.2 m\n
+		%c[d_purple] • %c[ui_gray_2] zasięg odłamków: %c[ui_gray_1]brak\n
+		%c[d_purple] • %c[ui_gray_2] średnia liczba odłamków: %c[ui_gray_1]brak\n
+		%c[d_purple] • %c[ui_gray_2] opóźnienie wybuchu: %c[ui_gray_1]brak\n
+		</text>
+	</string>
+	
+	<string id="st_ied_rpg">
+		<text>Fugas (na bazie głowicy OG-7V)</text>
+	</string>
+	<string id="st_ied_rpg_descr">
+		<text>Improwizowany ładunek wybuchowy bazujący na głowicy OG-7V, przy jego konstrukcji posłużono się elementami akumulatora samochodowego. Sprawia wrażenie mocno nadszarpniętego zębem czasu, przez co wygląda, jakby miał w każdej chwili eksplodować. Na szczęście mechanizm zapalający gwarantuje, że nic się nie stanie, dopóki fugas nie zostanie trafiony pociskiem lub nie zadziała na niego jakaś inna duża siła. Może posłużyć do różnych zadań, od burzenia ścian do tworzenia zasadzek. Zaleca się umieszczać w sąsiedztwie min, żeby zwiększyć moc wybuchu. Można zakamuflować. \n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] ładunek wybuchowy\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wojskowy\n
+		%c[d_blue] • %c[ui_gray_2] niezauważalny, gdy umieszczony na ziemi\n
+		%c[d_purple] • %c[ui_gray_2] mechanizm zapalający: %c[ui_gray_1]zbliżeniowy\n
+		%c[d_purple] • %c[ui_gray_2] siła wybuchu: %c[ui_gray_1]duża\n
+		%c[d_purple] • %c[ui_gray_2] promień skutecznego rażenia: %c[ui_gray_1]7.8 m\n
+		%c[d_purple] • %c[ui_gray_2] zasięg odłamków: %c[ui_gray_1]56 m\n
+		%c[d_purple] • %c[ui_gray_2] średnia liczba odłamków: %c[ui_gray_1]440 (odłamki)\n
+		%c[d_purple] • %c[ui_gray_2] opóźnienie wybuchu: %c[ui_gray_1]brak\n
+		</text>
+	</string>
+	
+	<string id="st_ied">
+		<text>Fugas (na bazie środków chemicznych)</text>
+	</string>
+	<string id="st_ied_descr">
+		<text>Improwizowany ładunek wybuchowy powstały na bazie łatwopalnych substancji chemicznych, uszkodzonego zapalnika elektrycznego i okrągłego stalowego pojemnika. Chemikalia użyte w urządzeniu wydzielają intensywny zapach i są bardzo toksyczne. Znacznie potężniejszy niż częściej spotykany fugas bazujący na granacie OG-7V. Może posłużyć do różnych zadań, od burzenia ścian do tworzenia zasadzek. Zaleca się umieszczać w sąsiedztwie min, żeby zwiększyć moc wybuchu. Można zakamuflować.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] ładunek wybuchowy\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wojskowy\n
+		%c[d_blue] • %c[ui_gray_2] niezauważalny, gdy umieszczony na ziemi\n
+		%c[d_purple] • %c[ui_gray_2] mechanizm zapalający: %c[ui_gray_1]zbliżeniowy\n
+		%c[d_purple] • %c[ui_gray_2] siła wybuchu: %c[ui_gray_1]bardzo duża\n
+		%c[d_purple] • %c[ui_gray_2] promień skutecznego rażenia: %c[ui_gray_1]12.9 m\n
+		%c[d_purple] • %c[ui_gray_2] promień rażenia odłamkami: %c[ui_gray_1]74 m\n
+		%c[d_purple] • %c[ui_gray_2] średnia liczba odłamków: %c[ui_gray_1]580 (stalowe kulki)\n
+		%c[d_purple] • %c[ui_gray_2] opóźnienie wybuchu: %c[ui_gray_1]brak\n
+		</text>
+	</string>
+	
+	<string id="st_balon_gas">
+		<text>Butla z gazem</text>
+	</string>
+	<string id="st_balon_gas_descr">
+		<text>%c[d_red]UWAGA: Wybucha na skutek uderzeń!\n \n%c[ui_gray_1]Ciężka, metalowa butla z gazem. Żeby zapobiec spontanicznemu wybuchowi, metal impregnowano wewnątrz polimerem, zaś z zewnątrz nasycono Hypalonem zabezpieczającym przed szkodliwym wpływem warunków atmosferycznych i zwiększającym odporność na promieniowanie słoneczne. Zbiornik nadaje się do przechowywania pod ciśnieniowym większości gazów.\n \nW Zonie butle tego rodzaju zawierają najczęściej mieszankę metanu, etanu, propanu i butanu. Można je wykorzystywać do gotowania i podgrzewania potraw, oraz do celów bojowych. Pod bezpośrednim ostrzałem kanister może się zapalić, co spowoduje gwałtowne uwolnienie znacznej ilości energii. Wynikła reakcja chemiczna rozpręży powietrze w butli, a ona sama po pewnym opóźnieniu eksploduje, zaś metal, z którego kanister jest wykonany, rozerwie się na wiele małych odłamków. Butle były powszechnie stosowane w walkach między frakcjami, gdzie zabiły wielu ludzi, a jeszcze więcej okaleczyły. Opróżniona może służyć do napraw pancerzy.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] ładunek wybuchowy\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] zawiera: %c[ui_gray_1] rafinowany gaz ziemny\n
+		%c[d_green] • %c[ui_gray_2] paliwo wysokiej jakości\n
+		%c[d_purple] • %c[ui_gray_2] mechanizm zapalający: %c[ui_gray_1]uderzenie pocisku lub eksplozja\n
+		%c[d_purple] • %c[ui_gray_2] siła wybuchu: %c[ui_gray_1]bardzo duża\n
+		%c[d_purple] • %c[ui_gray_2] promień skutecznego rażenia: %c[ui_gray_1]6.4 m\n
+		%c[d_purple] • %c[ui_gray_2] zasięg odłamków: %c[ui_gray_1]36 m\n
+		%c[d_purple] • %c[ui_gray_2] średnia liczba odłamków: %c[ui_gray_1]28 (ciężkie kawałki blachy)\n
+		%c[d_purple] • %c[ui_gray_2] opóźnienie wybuchu: %c[ui_gray_1]ok. 2 sekundy\n
+		</text>
+	</string>
+
+	<string id="st_balon_gas_empty">
+		<text>Butla z gazem (pusta)</text>
+	</string>
+	<string id="st_balon_gas_empty_descr">
+		<text>Ciężka, metalowa butla z gazem. Żeby zapobiec spontanicznemu wybuchowi, metal impregnowano wewnątrz polimerem, zaś z zewnątrz nasycono Hypalonem zabezpieczającym przed szkodliwym wpływem warunków atmosferycznych i zwiększającym odporność na promieniowanie słoneczne. Zbiornik nadaje się do przechowywania pod ciśnieniowym większości gazów.\n \n W Zonie butle tego rodzaju zawierają najczęściej mieszankę metanu, etanu, propanu i butanu. Można je wykorzystywać do gotowania i podgrzewania potraw, oraz do celów bojowych. Ta butla jest opróżniona, ale nadal możesz użyć jej do napraw kombinezonów.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		</text>
+	</string>
+	
+	<string id="st_metalcan_powder">
+		<text>Puszka z prochem</text>
+	</string>
+	<string id="st_metalcan_powder_descr">
+		<text>%c[d_red]UWAGA: Wybucha na skutek uderzeń!\n \n%c[ui_gray_1]Mała, dosyć ciężka metalowa puszka, wewnątrz której znajdziemy mieszankę wybuchowych chemikaliów przemysłowych, śruby i nakrętki, a także czarny proch odzyskany ze starej amunicji. Śmiercionośna bomba opracowana przez grupę rosyjskich bandytów znanych jako "Świreksterzy", a następnie sprzedawana innym bandytom na Zatonie i Jupiterze.\n \nPod bezpośrednim ostrzałem puszka wybucha bez żadnego opóźnienia, wyrzucając we wszystkich kierunkach śruby i żrące chemikalia. Niezwykle niebezpieczna, należy obchodzić się z nią delikatnie, gdyż każdy bardziej gwałtowny ruch może spowodować eksplozję. Elementów puszki można użyć do napraw broni i kombinezonów.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] ładunek wybuchowy\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_purple] • %c[ui_gray_2] mechanizm zapalający: %c[ui_gray_1]uderzenie pocisku lub eksplozja\n
+		%c[d_purple] • %c[ui_gray_2] siła wybuchu: %c[ui_gray_1]mała\n
+		%c[d_purple] • %c[ui_gray_2] promień skutecznego rażenia: %c[ui_gray_1]1.8 m\n
+		%c[d_purple] • %c[ui_gray_2] zasięg odłamków: %c[ui_gray_1]14 m\n
+		%c[d_purple] • %c[ui_gray_2] średnia liczba odłamków: %c[ui_gray_1]77 (małe elementy metalowe)\n
+		%c[d_purple] • %c[ui_gray_2] opóźnienie wybuchu: %c[ui_gray_1]brak\n
+		</text>
+	</string>
+	
+	<string id="st_jerrycan_item">
+		<text>Kanister</text>
+	</string>
+	
+	<string id="st_jerrycan_fuel">
+		<text>Kanister</text>
+	</string>
+	<string id="st_jerrycan_fuel_descr">
+		<text>%c[d_red]UWAGA: Wybucha na skutek uderzeń!\n \n%c[ui_gray_1]Duży kanister wypełniony benzyną E95. Kanistry w ogromnych ilościach przywiozło do Zony wojsko ukraińskie, które potrzebowało zapasów paliwa do pojazdów opancerzonych. Początkowo spełniały swoje zadanie, ale po Drugiej Katastrofie pojazdy z nieznanych po dziś dzień przyczyn przestały działać.\n \nPodczas gdy niektórzy stalkerzy nadal próbują przywrócić wraki do życia, inni wykorzystują kanistry jako podstawę konstrukcji fugasów. Pod bezpośrednim ostrzałem kanister zajmuje się ogniem, a po krótkiej chwili eksploduje.\n \nJest ciężki i nieporęczny, lecz jednocześnie śmiercionośny: dobrze umiejscowiony potrafi bez problemu zabić każdego niezależnie od jakości posiadanego opancerzenia. Z drugiej strony, eksplozja z reguły jest tak silna, że zabójca sam staje się ofiarą, należy więc zadbać o bezpieczną odległość.\n \nKrążą plotki, że swego czasu weteran imieniem Juja wyszedł cało z opresji właśnie dzięki temu, że zwabił nibyolbrzyma w pobliże kanistrowego fugasa. Opróżnił ostatni magazynek z Makarowa, a gigant stanął w ogniu, wydając z siebie ryk, który słychać było na całym Jupiterze.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] ładunek wybuchowy\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] zawiera: %c[ui_gray_1] benzynę E95\n
+		%c[d_green] • %c[ui_gray_2] paliwo wysokiej jakości\n
+		%c[d_purple] • %c[ui_gray_2] mechanizm zapalający: %c[ui_gray_1]uderzenie pocisku lub eksplozja\n
+		%c[d_purple] • %c[ui_gray_2] siła wybuchu: %c[ui_gray_1]duża\n
+		%c[d_purple] • %c[ui_gray_2] promień skutecznego rażenia: %c[ui_gray_1]5.6 m\n
+		%c[d_purple] • %c[ui_gray_2] zasięg odłamków: %c[ui_gray_1]28 m\n
+		%c[d_purple] • %c[ui_gray_2] średnia liczba odłamków: %c[ui_gray_1]39 (ciężkie kawałki blachy)\n
+		%c[d_purple] • %c[ui_gray_2] opóźnienie wybuchu: %c[ui_gray_1]ok. 3 sekundy\n
+		</text>
+	</string>
+
+	<string id="st_jerrycan_fuel_empty">
+		<text>Kanister (pusty)</text>
+	</string>
+	<string id="st_jerrycan_fuel_empty_descr">
+		<text>Pusty metalowy kanister. Można go wykorzystać jako źródło metalu do naprawy kombinezonów albo sprzedać handlarzom.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] ładunek wybuchowy\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		</text>
+	</string>
+	
+</string_table>

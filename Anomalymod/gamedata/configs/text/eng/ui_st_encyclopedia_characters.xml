@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	
+	<string id="encyclopedia_characters">
+		<text>Postacie</text>
+	</string>
+	
+	<string id="encyclopedia_characters_ashot">
+		<text>Aszot</text>
+	</string>
+	<string id="encyclopedia_characters_ashot_text">
+		<text>
+			%c[pda_white]Aszot%c[ui_gray_1] to pogodny, pozytywnie zakręcony handlarz Wolności przebywający w budynku dworca w Janowie.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nJak sam twierdzi, z powodu "niskich cen i wysokiej jakości oferowanych usług" podobno widniał na czarnych listach wielu czarnorynkowych handlarzy.\n \nOd lat kumpluje się z Wujkiem Jarem. Tęskni za nim i kawałami, które robili innym.\n
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_axel">
+		<text>Axel</text>
+	</string>
+	<string id="encyclopedia_characters_axel_text">
+		<text>
+			%c[pda_white]Axel%c[ui_gray_1] pełni funkcję pokładowego medyka na Skadowsku w Zatonie.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nW zasadzie niewiele o nim wiadomo, bo nie jest zbyt wygadany. Według niewielu plotek, uciekł do Zony przed teściową.\n
+		
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_barkeep">
+		<text>Barman</text>
+	</string>
+	<string id="encyclopedia_characters_barkeep_text">
+		<text>
+			%c[pda_white]Barman%c[ui_gray_1] jest właścicielem baru Sto Radów w Rostoku.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nZe względu na swoje centralne położenie, Rostok jest jednym z najbardziej zatłoczonych miejsc w całej Zonie. Z tego względu Barman jest bardzo ważną osobą dla wszystkich stalkerów - to u niego można zaopatrzyć się w najpotrzebniejsze rzeczy wychodząc w Zonę i uzupełnić braki, wracając z wypraw.\n \nPoza oczywistym zarządzaniem barem, pełni wiele innych funkcji - wynajmuje stalkerom pokoje, płaci niezbędne do prowadzenia działalności łapówki, handluje rozlicznym wyposażeniem i zleca stalkerom dobrze płatne zadania.\n \nWśród większości cieszy się bardzo dobrą reputacją. Lata temu brał czynny udział w otwieraniu dróg na północ, w kierunku centrum Zony.\n
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_beard">
+		<text>Brodacz</text>
+	</string>
+	<string id="encyclopedia_characters_beard_text">
+		<text>
+			%c[pda_white]Brodacz%c[ui_gray_1] jest handlarzem artefaktów i barmanem na Skadowsku.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nTo bardzo ważna persona z siedzibą blisko centrum Zony. Dowodzi stalkerami na Zatonie.\n \nChoć interesują go głównie artefakty, oferuje rozmaite zadania. Zawsze najbardziej liczy się dla niego dobro podległych mu ludzi.\n \nJego knajpa jest prawie tak samo popularna, jak znajdujący się w Rostoku bar Sto Radów, a "Skadowsk" już od jakiegoś czasu oznacza nie tylko znajdującą się w Zatonie barkę, ale i mieszczący się na jej pokładach lokal. Specyficzna herbatka przyrządzana przez Brodacza od dawna cieszy się dużym uznaniem wśród wolnych stalkerów.\n
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_cardan">
+		<text>Kardan</text>
+	</string>
+	<string id="encyclopedia_characters_cardan_text">
+		<text>
+			%c[pda_white]Kardan%c[ui_gray_1] to doświadczony technik i trzeźwy alkoholik.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nDo Zony trafił razem z dwójką swoich przyjaciół - Kawalarzem i Stogiem. Po zaciętej i podsycanej alkoholem awanturze wszyscy trzej rozeszli się w swoje strony.\n \nOn zajął jedną z kwater na Skadowsku, gdzie powoli zapijał się na śmierć, od czasu do czasu naprawiając przyniesione mu przedmioty. Odstawił alkohol dopiero, gdy dowiedział się, że jego przyjaciele nie żyją.\n \nDawno temu był członkiem zespołu, który pracował przy tak zwanym "Projekcie 62" - prototypowym karabinie Gaussa. Był związany z projektem aż do zamknięcia laboratorium w 2004 roku.\n
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_cold">
+		<text>Zimny</text>
+	</string>
+	<string id="encyclopedia_characters_cold_text">
+		<text>
+			%c[pda_white]Zimny%c[ui_gray_1] pomagał odtworzyć, a teraz rządzi Czystym Niebem.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nDawniej tylko stał za barem. Po śmierci lub ucieczce najważniejszych członków Czystego Nieba przejął kontrolę nad frakcją.\n \nUważany przez podwładnych za pogodnego, dobrodusznego człowieka znany jest także z ciętych, często wulgarnych dowcipów. Zimny trafił do Zony, bo nie umiał znaleźć dla siebie miejsca w świecie zewnętrznym.\n \nNie ma wątpliwości, że podjął słuszną decyzję, przywracając frakcję do dawnego blasku. Dzięki niemu Czyste Niebo posiada w Zonie dość znaczące wpływy.\n
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_doctor">
+		<text>Doktor</text>
+	</string>
+	<string id="encyclopedia_characters_doctor_text">
+		<text>
+			%c[pda_white]Doktor%c[ui_gray_1] to jeden z niewielu wciąż żyjących członków grupy Striełoka.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nWedle znanej legendy, Doktor był jednym z pierwszych stalkerów, którym udało się dotrzeć do Spełniacza Życzeń. Podobno życzył sobie umiejętności leczenia każdego żywego stworzenia w Zonie.\n \nJego życzenie spełniło się i otrzymał dar uzdrawiania, ale stracił zdolność odróżniania ludzi od mutantów.\n \nSam Doktor zaprzecza twierdząc, że to tylko plotki znudzonych stalkerów. Mówi, że nikt, kto udał się do centrum, by odnaleźć Spełniacz, nie wrócił stamtąd żywy.\n
+		    \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Jest jednym z niewielu stalkerów, którym udało się udomowić nibypsa.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_fanatic">
+		<text>Fanatyk</text>
+	</string>
+	<string id="encyclopedia_characters_fanatic_text">
+		<text>
+			%c[pda_white]Fanatyk%c[ui_gray_1] imię zawdzięcza swojemu oddaniu i agresji.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nFanatyk przejął dowodzenie wioską kotów na czas wyprawy Wilka do Magazynów Wojskowych. Skutecznie zajmował się nowymi przybyszami do czasu powrotu przyjaciela.\n \nMimo, że władzę miał tylko tymczasowo, nadal traktowany jest jako autorytet. Osobiście bardziej woli polować na mutanty i walczyć z bandytami, niż stać bezczynnie w wiosce.\n
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_gonta">
+		<text>Gonta</text>
+	</string>
+	<string id="encyclopedia_characters_gonta_text">
+		<text>
+			%c[pda_white]Gonta%c[ui_gray_1] jest profesjonalnym łowcą mutantów. Swoje umiejętności zawdzięcza Traperowi, którego był jego nauczycielem.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nNa polecenie Trapera przybył na Zaton razem z Garmatą, Krabem i Daniłą by upolować chimerę terroryzującą okolicę.\n \nCała akcja była pechowa - Daniła w zagadkowy sposób zaginął, a Krab został ciężko ranny.\n \nWynajęli stalkera imieniem Sroka, by uzupełnił ich szeregi. Tez zaś w ostatnim momencie uciekł, kradnąc ich wyposażenia i zaszył się w Janowie.\n \nDzięki pomocy tajemniczego stalkera Gonta dopadł chimerę i odkrył, co spotkało Daniłę, a w końcu odnalazł Srokę, dając mu to, na co zasłużył.\n
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_hawaiian">
+		<text>Hawajczyk</text>
+	</string>
+	<string id="encyclopedia_characters_hawaiian_text">
+		<text>
+			%c[pda_white]Hawajczyk%c[ui_gray_1] to totalnie wyluzowany opiekun Janowa, do pewnego momentu był również jedynym przebywającym tam handlarzem.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nWbrew temu, co sugerowałoby jego imię, nie pochodzi z Hawajów. Pseudonim otrzymał dzięki temu, że woła "Aloha!", witając nowo przybyłych.\n \nNiemal cały czas spędza doglądając baru i stołówki, które przed rokiem 1986 były odpowiednio kasą biletową i poczekalnią.\n \nMa dobre relacje z Wolnością. Jego usposobienie pomaga w kreowaniu atmosfery spokoju i przyjaźni - jakże potrzebnych i będących prawdziwym wyzwaniem tak blisko Prypeci.\n
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_professor_kalancha">
+		<text>Profesor E.F. Kałańcza</text>
+	</string>
+	<string id="encyclopedia_characters_professor_kalancha_text">
+		<text>
+			%c[pda_white]Profesor Kałańcza%c[ui_gray_1] jest głównym badaczem i medykiem Czystego Nieba.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nJeden z raptem kilku wciąż żyjących członków pierwszego Czystego Nieba. Profesor spędza czas prowadząc eksperymenty na artefaktach, studiując tkanki mutantów i obserwując anomalie.\n \nUważany za chodzącą encyklopedię i kalkulator, do roli medyka został raczej przymuszony potrzebą sytuacji, niż został nim z własnego wyboru. Pełni tę rolę od chwili, kiedy Czyste Niebo niemal przestało istnieć w końcówce 2011 roku.\n \nKałańcza w języku rosyjskim oznacza wysoką wieżę obserwacyjną znajdującą się przy remizie strażackiej - to tłumaczy, dlaczego czasem przedstawiał się nazwiskiem Tyczkow.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_librarian">
+		<text>Bibliotekarz</text>
+	</string>
+	<string id="encyclopedia_characters_librarian_text">
+		<text>
+			%c[pda_white]Bibliotekarz%c[ui_gray_1] - wbrew imieniu - jest barmanem Czystego Nieba.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nPo emisji, która odcięła Bagna od reszty Zony, Bibliotekarz znalazł się w sytuacji niemal bez wyjścia.\n \nStawiając czoła zagrożeniu ze strony bandytów i nie tylko, dotarł do południowych rubieży Zony, gdzie dołączył do Czystego Nieba. Po awansie Zimnego na przywódcę zajął jego miejsce.\n
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_lieutenant_kirilov">
+		<text>Porucznik Kiryłow</text>
+	</string>
+	<string id="encyclopedia_characters_lieutenant_kirilov_text">
+		<text>
+			%c[pda_white]Porucznik Kiryłow%c[ui_gray_1] to jeden z najbardziej utalentowanych wojskowych techników pracujących w Zonie\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nMimo, że pełnił funkcję radiooperatora, Kiryłow zawsze miał dryg do rozbierania rzeczy na czynniki pierwsze i składania ich z powrotem.\n \nPo niepowodzeniu Operacji Tor Wodny on i jego oddział znaleźli schronienie w starej pralni w Prypeci, gdzie mógł wykorzystać swoje umiejętności naprawy wyposażenia i broni.\n \nZdolności Kiryłowa nie umknęły uwadze dowództwa. Jego bezpośredni przełożony, Pułkownik Kowalski, zarekomendował go do funkcji głównego technika w tworzonym właśnie sztabie w Agropromie.\n
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_limpid">
+		<text>Czysty</text>
+	</string>
+	<string id="encyclopedia_characters_limpid_text">
+		<text>
+			%c[pda_white]Czysty%c[ui_gray_1] od dłuższego już czasu jest technikiem bandytów.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nDawnej pracował w fabryce jako inżynier-mechanik, można śmiało powiedzieć, że jest obyty z technologiami.\n \nZostał zwolniony za bójkę z współpracownikiem, będąc pod wpływem. Czysty popadł w alkoholizm, a krótko potem stracił żonę i dom.\n \nTwierdząc, że w życiu nic mu nie zostało, udał się do Zony, by zacząć od nowa. W krótkim czasie poznał bandytów na Wysypisku i znalazł u nich pracę jako technik.\n		
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_loki">
+		<text>Loki</text>
+	</string>
+	<string id="encyclopedia_characters_loki_text">
+		<text>
+			%c[pda_white]Loki%c[ui_gray_1] dowodzi garnizonem Wolności przebywającym w Janowie.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nPoprowadził ekspedycję Wolności w kierunku centrum Zony po wyłączeniu Mózgozwęglacza.\n \nW przeciwieństwie do innych przywódców Wolności, ma bardziej zrównoważone podejście do ich ideologii dzięki czemu zyskuje szacunek grup, które w innym przypadku mogłyby unikać kontaktu z tą frakcją.\n
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_major_kuznetsov">
+		<text>Major Kuźniecow</text>
+	</string>
+	<string id="encyclopedia_characters_major_kuznetsov_text">
+		<text>
+			%c[pda_white]Major Kuznetsov%c[ui_gray_1] to bardzo skorumpowany i niewrażliwy oficer wojskowy.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nW ciągu kilku lat, które spędził w Zonie, Kuźniecow awansował ze zwykłego strażnika na zapomnianym posterunku na doświadczonego dowódcę budzącego strach wśród podwładnych.\n \nPo szczeblach nieoficjalnej władzy wspinał się niemal dosłownie po trupach - korzystając z łapówek, napuszczania na siebie swoich przeciwników i swojej dwulicowości.\n \nDzięki temu został nieoficjalnym liderem sił wojskowych przebywających w Zonie.\n
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_nimble">
+		<text>Żwawy</text>
+	</string>
+	<string id="encyclopedia_characters_nimble_text">
+		<text>
+			%c[pda_white]Żwawy%c[ui_gray_1] to paser sprzedający przeszmuglowaną broń i kombinezony.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nSwoją przygodę rozpoczął w Czystym Niebie, potem zaczął pracować jako prywatny kurier Sidorowicza. Dzięki temu Żwawy zebrał pokaźną listę kontaktów, wystarczającą do otworzenia własnego biznesu.\n \nInaczej, niż u większości handlarzy, jego specjalizacją jest przemyt i sprzedaż najrzadszego, często unikatowego wyposażenia i rzeczy bardzo trudnych do zdobycia. Z tego powodu, nie może przewidzieć, kiedy dany towar będzie znów u niego dostępny.\n \nObecnie żyje na Skadowsku pomimo zagrożenia ze strony Monolitu.\n
+			\n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Oprócz kontaktów z Czystym Niebem, dużo oferowanego przez niego sprzętu pochodzi z nieudanych ekspedycji ONZ.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_novikov">
+		<text>Nowikow</text>
+	</string>
+	<string id="encyclopedia_characters_novikov_text">
+		<text>
+			%c[pda_white]Nowikow%c[ui_gray_1], znany także jako%c[pda_green]Szary%c[ui_gray_1] jest doświadczonym technikiem Czystego Nieba.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nCzłonek frakcji prawie, że od momentu jej powstania. Inni opisują Nowikowa jako niezwykle doświadczonego i utalentowanego. Zimny żartuje, że mógłby zbudować karabin z puszki po konserwie, gdyby znalazł odpowiednią amunicję.\n \nPo zniszczeniu Czystego Nieba podpisał kontrakt z Ekologami w mobilnym laboratorium w Jupiterze. Później, gdy dowiedział się, że frakcja została odbudowana, wrócił w jej szeregi.\n
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_olivius">
+		<text>Dziurawy</text>
+	</string>
+	<string id="encyclopedia_characters_olivius_text">
+		<text>
+			%c[pda_white]Dziurawy%c[ui_gray_1] jest paserem Bandytów.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nWykorzystując chaos po zabójstwie Borowa, byłego lidera Bandytów, Dziurawy umocnił swoje wpływy i rozpoczął paserkę w Dolinie Mroku.\n \nMimo, że osobiście raczej pozostaje w cieniu, niewiele rzeczy związanych z frakcją dzieje się bez jego udziału. Wie prawie wszystko i o wszystkich.\n
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_owl">
+		<text>Sowa</text>
+	</string>
+	<string id="encyclopedia_characters_owl_text">
+		<text>
+			%c[pda_white]Sowa%c[ui_gray_1] to czarnorynkowy handlarz z trudną do ustalenia moralnością i lojalnością.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nNieprzyjemny, wredny facet. Właściwie tylko on, spośród wszystkich stałych mieszkańców Skadowska, cechuje się złym charakterem i zrzędliwością.\n \nMa spory asortyment, zwłaszcza w kwestii broni i rodzajów amunicji. Bardzo lubi skupować informacje, którymi stalkerzy zechcą się z nim podzielić.\n \nZ powodu dość silnych powiązań z Sułtanem, jego sposobu bycia i tego, w jaki sposób się wypowiada, wielu wierzy, że kiedyś trzymał się z bandytami.\n
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_professor_kruglov">
+		<text>Profesor Krugłow</text>
+	</string>
+	<string id="encyclopedia_characters_professor_kruglov_text">
+		<text>
+			%c[pda_white]Profesor Krugłow%c[ui_gray_1] jest doktorem biologii.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nPrzed przybyciem do Zony, Krugłow badał wpływ chorobotwórczych mutacji i ich skutki u zwierząt. Przeniesienie się do Zony było więc tylko kwestią czasu.\n \nW ciągu kilku ostatnich lat pracy ze swoim wspólnikiem, prof. Sacharowem, dokonał kilku znaczących odkryć - chociaż niewielu stalkerów rozumie jego naukowe tłumaczenia i zwykle większość z nich tylko kiwa głową z uznaniem udając, że wiedzą, o czym mowa.\n \nOd niedawna prowadzi własne stanowisko badawcze nieopodal głównego bunkra w Jantarze. Oferuje odwiedzającym rozmaite prace, głównie techniczne.\n
+		    \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Krugłow, jako jeden z nielicznych, przeżył masakrę najemnika Wilczarza w Dziczy.
+			\n• Mimo, że to przede wszystkim naukowiec, a - jak sam określa - stalker z niego żaden, umie posługiwać się bronią i zna się na taktykach bojowych zdecydowanie bardziej, niż większość Ekologów.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_professor_sakharov">
+		<text>Profesor Sacharow</text>
+	</string>
+	<string id="encyclopedia_characters_professor_sakharov_text">
+		<text>
+			%c[pda_white]Profesor Sacharow%c[ui_gray_1] to wręcz weteran wśród tutejszych naukowców.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nJako szef zespołu badawczego w mobilnym laboratorium w Jantarze, Sacharow jest mocno związany z niemal każdym naukowym przełomem dotyczącym natury Zony.\n \nPomimo swojej uprzejmości, niekwestionowanego profesjonalizmu i ogromnej wiedzy o wielu tutejszych fenomenach, jego niemal ciągłe przebywanie w bunkrze może świadczyć o tym, że bagatelizuje i - być może - nie jest do końca świadom niebezpieczeństw otaczających podległych mu badaczy terenowych.\n \nZe względu na rodzaj swojej pracy - już nie wspominając o osobistych sukcesach - ma niemal nieograniczone i, co ważniejsze, akceptowane oficjalnie kanały transportu artefaktów i części ciał mutantów. To czyni go bardzo popularnym pracodawcą, zwłaszcza wśród najodważniejszych, a także najgłupszych stalkerów.\n	
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_sergeant_spooner">
+		<text>Sierżant Łyżeczka</text>
+	</string>
+	<string id="encyclopedia_characters_sergeant_spooner_text">
+		<text>
+			%c[pda_white]Sierżant Łyżeczka%c[ui_gray_1] jest doświadczonym żołnierzem i cwanym handlarzem.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nPrzez większość życia informacje i wiedza miała duży wpływ na podejmowane przez niego decyzje. Od zawsze wybierał, czym powinien się podzielić i komu o tym donieść.\n \nWstąpienie do armii było dla niego strzałem w dziesiątkę - zwłaszcza z jego umiejętnościami, bardzo cennymi z militarnego punktu widzenia. Swojej pozycji używa teraz do prywatnego handlu informacjami.\n \nJak każdy informator, starannie zaciera jakiekolwiek ślady, które mogłby do niego doprowadzić. Nikt nie wie nawet, gdzie otrzymał tak nietypową ksywę.\n
+			
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_sidorovich">
+		<text>Sidorowicz</text>
+	</string>
+	<string id="encyclopedia_characters_sidorovich_text">
+		<text>
+			%c[pda_white]Sidorowicz%c[ui_gray_1] handluje w starym bunkrze przy wiosce kotów w Kordonie.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nCieszy się reputacją uczciwego biznesmena, który pozwala przetrwać nowym w Zonie, a wiele kontaktów po drugiej stronie Kordonu ułatwia mu przemyt towaru w obu kierunkach.\n \nMimo to wielu, zwłaszcza bardziej doświadczonych stalkerów uznaje go za zachłannego sknerę i cwaniaczka. Warto mieć na uwadze, że ci, którzy próbują w jakiś sposób go wykiwać - czy to handlując na jego terenie, czy olewając zlecone przez niego zadania - zwykle kończą po tej gorszej stronie wylotu lufy.\n \nCo by o nim nie mówić, faktem jest, że od lat odgrywa kluczową rolę w ekonomii Zony i polityce frakcji. No i zawsze ma coś w zanadrzu, jeśli ktoś potrzebuje szybkiej gotówki.\n
+		
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_spore">
+		<text>Zarodnik</text>
+	</string>
+	<string id="encyclopedia_characters_spore_text">
+		<text>
+			%c[pda_white]Zarodnik%c[ui_gray_1] jest handlarzem Czystego Nieba i zaufanym współpracownikiem Żwawego.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nJak wszyscy, którzy trafili tu przed nim, Zarodnik poszukiwał w Zonie bogactwa. Szybko odkrył, że najlepiej wychodzi mu handel informacjami i przemyt towaru z, do i przez Zonę.\n \nPo jakimś czasie dowiedział się o nim Żwawy. W czasie spotkania, do którego doszło niedługo potem, obaj zdali sobie sprawę z potencjału połączenia wysiłków.\n \nDzięki kontaktom Żwawego z Czystym Niebem, Zarodnik wkrótce został ich głównym handlarzem. To pozwoliło obu zabezpieczyć szlaki przerzutowe przez bagna i sprawiło, że biznes zaczął prosperować, jak nigdy wcześniej.\n
+		
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_sultan">
+		<text>Sułtan</text>
+	</string>
+	<string id="encyclopedia_characters_sultan_text">
+		<text>
+			%c[pda_white]Sułtan%c[ui_gray_1] dawniej rządził bandytami w Zatonie. W tej chwili jest królem podziemia w Dolinie Mroku.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nZważywszy, że jako imię wybrał sobie określenie bliskowschodniego władcy, wielu stalkerów uważa, że Sułtan ma wybujałe ego i znacznie zawyżone mniemanie o sobie samym.\n \nNie miał łatwego życia; jeden z jego przyjaciół zmarł po przedawkowaniu. Sułtan w odpowiedzi zabił dilerów, którzy sprzedali mu towar, przez co trafił do więzienia.\n \nPo wypuszczeniu kontynuował przestępczą karierę. Ostatecznie uciekł przed ścigającym go prawem do Zony, gdzie dołączył do bandytów. Zyskiwał coraz większy respekt i władzę, aż w końcu zaczął rządzić bandami watażków samodzielnie.\n \nPomimo utraty wpływów na Zatonie, udało mu się objąć władzę nad bandytami w Dolinie Mroku i to mimo tego, że tamtejszym zakapiorom nie do końca po drodze ze światopoglądem Sułtana.\n
+		    \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Sułtan czasem ściera się z Dziurawym. Koniec końców, nic z tego nie wynika, jako że potrzebują się nawzajem, by utrzymać porządek między gangami Doliny Mroku.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_wolf">
+		<text>Wilk</text>
+	</string>
+	<string id="encyclopedia_characters_wolf_text">
+		<text>
+			%c[pda_white]Wilk%c[ui_gray_1] dowodzi obroną wioski kotów.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nSam wyznaczył sobie zadanie ochrony wioski i żyjących w niej stalkerów przed zagrożeniami. Używa do tego całej siatki zwiadowców i szpiegów, donoszących mu o jakichkolwiek ruchach nieprzyjaciół na terenie Kordonu.\n \nIntensywnie współpracuje z Sidorowiczem, dzieląc się z nim zdobytymi informacjami. Często razem podejmują decyzje o wysłaniu swoich stalkerów w celu eliminacji bandytów, mutantów i innych zagrożeń mogących mieć wpływ na bezpieczeństwo wioski i prowadzone przez obu interesy.\n
+		    \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Mimo podobieństwa imion, Wilk nie ma nic wspólnego z bezlitosnym, nieżyjącym już najemnikiem Wilczarzem.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_xenotech">
+		<text>Furgon</text>
+	</string>
+	<string id="encyclopedia_characters_xenotech_text">
+		<text>
+			%c[pda_white]Furgon%c[ui_gray_1] jest technikiem. Zajmuje się sprzętem, najczęściej należącym do nowicjuszy.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nSwój warsztat - bardzo przydatny dla uczących się fachu stalkerów - prowadzi na terenie neutralnej bazy w Kordonie, mniej więcej w połowie drogi między zawalonym mostem a anomaliami na wzgórzach.\n
+			
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_yar">
+		<text>Jar</text>
+	</string>
+	<string id="encyclopedia_characters_yar_text">
+		<text>
+			%c[pda_white]Jar%c[ui_gray_1], właściwie częściej %c[pda_green]Wujek Jar%c[ui_gray_1] to stalker o wielu talentach.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nDobrze znany całej Zonie jako świetny technik - jego żarty o tym, że z przerdzewiałego obrzyna potrafi zrobić działo przeciwlotnicze mogą mieć w sobie jakieś ziarnko prawdy.\n \nPo wielkich Wojnach Frakcji i gorączce związanej z otwarciem szlaków do centrum Zony, ruszył z ekspedycją Wolności do stacji Janów. Przez chwilę pełnił też funkcję medyka, gdzieś we wschodniej Prypeci.\n \nWrócił stamtąd niedługo po ogłoszeniu, że oddziały stacjonujące w Janowie znów są w stanie otwartej wojny. Postanowił po raz kolejny zmienić profesję, tym razem zajmując się handlem informacjami.\n
+			
+		</text>
+	</string>
+	
+		<string id="encyclopedia_characters_aspirin">
+		<text>Porucznik „Aspiryna” Sostradow</text>
+	</string>
+	<string id="encyclopedia_characters_aspirin_text">
+		<text>
+			%c[pda_white]Porucznik Sostradow%c[ui_gray_1], powszechnie znany jako %c[pda_green]Aspiryna%c[ui_gray_1], wśród wolnych stalkerów, jest młodym oficerem dyżurnym oraz lekarzem rezydentem Rostoku.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nPonieważ wykwalifikowany personel medyczny jest rzadkością w Strefie, Aspiryna wziął na siebie służbę nie tylko swojej frakcji, ale także każdemu stalkerowi, który przekroczy bramy Rostoku.\n
+			\nChociaż podziela wizję Powinności, polegającą na ochronie niewinnych przed Zoną, praktykuje te ideały nie poprzez zabijanie mutantów, ale raczej poprzez łatanie tych, którzy przeżyją ich atak.\n
+			\nJego praca uratowała wielu stalkerów, pomagając im przeżyć kolejny dzień.\n 
+		
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_mangun">
+		<text>Starszy sierżant "Majster" Potryko</text>
+	</string>
+	<string id="encyclopedia_characters_mangun_text">
+		<text>
+			%c[pda_white]Starszy sierżant Potryko%c[ui_gray_1], nieformalnie znany jako %c[pda_green]Majster%c[ui_gray_1], jest weteranem dyżurnym, który spędza całe dnie majstrując przy broni i zbroi.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nPrzed pojawieniem się Zony, Majster znalazł pracę głównie jako mechanik samochodowy i zaciągnął się do wojska wkrótce po 2011 roku, kiedy usłyszał, że mają problemy z utrzymaniem stanu pojazdów w Zonie.\n
+			\n Podobnie jak wiele innych grup wojskowych przed nim, szybko znalazł się w gorącej wodzie i zginąłby, gdyby nie interwencja patrolu dyżurnego. Z wdzięczności zapisał się do nich po zakończeniu swojej podróży i szybko stał się znany jako dzielny żołnierz.\n
+			\nZawsze jednak bagatelizował tę część swojej przeszłości, ponieważ wolał być znany ze swojej mechanicznej wiedzy. Z biegiem czasu lata walki w Powinności męczyły go, aż stał osobą ledwie o stopień wojskowy wyższą od zwykłego pijaka.\n
+			\nW rezultacie kilkakrotnie był bliski wyrzucenia ze swojej frakcji, ale za każdym razem to zdanie było obalone przez samego generała Woronina.\n
+			\nW końcu postanowiono nieoficjalnie „wycofać” Majstra z pola i zatrzymać go w bazie, gdzie jego zamiłowanie do narzędzi i maszyn można było obserwować z determinacją.\n
+			\nChociaż inni dyżurni szanują jego przeszłość, a także umiejętności techniczne, jego kiepskie zachowanie względem standardów frakcyjnych skutecznie uniemożliwiło mu dalszy awans.\n 
+		
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_colonel_petrenko">
+		<text>Pułkownik Pietrenko</text>
+	</string>
+	<string id="encyclopedia_characters_colonel_petrenko_text">
+		<text>
+			%c[pda_white]Pułkownik Pietrenko%c[ui_gray_1] jest głównym rekruterem Powinności i najbardziej zaufanym oficerem generała Woronina.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nUznawany przez innych dyżurnych za generała z wyjątkiem nazwy, korzenie pułkownika Pietrenko sięgają skromnych początków młodszego porucznika w wojsku.\n
+			\nBył jednym z pierwszych żołnierzy, którzy zostali wysłani do Zony w 2006 roku, razem z Woroninem, Kryłowem i Taczenką. Jako jeden z nielicznych, którzy przeżyli ich niefortunną wyprawę, był tam, kiedy Woronin pomógł założyć Powinność i od tamtej pory nigdy nie opuścił swojego generała.\n
+			\nMimo wielu problemów, które nękają dziś jego frakcję, Pułkownik zdaje się podchodzić do tego wszystkiego ze spokojem, co wydaje się praktycznie nie do pokonania dla zewnętrznych obserwatorów.\n
+			\nNiektórzy nawet żartują, że jest bardziej maszyną niż człowiekiem; Oprócz roli lidera, rekrutera i powiernika pełni również funkcję szefa logistyki i propagandy swojej frakcji.\n
+			\nBardziej niż ktokolwiek inny w służbie, może z wyjątkiem samego Woronina, Pietrenko całym sercem wierzy w pierwotną misję i kodeks swojej frakcji. Niewielu z jego towarzyszy może twierdzić, że są zaciekłymi obrońcami i zwolennikami ideałów Powinności.\n 
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_general_voronin">
+		<text>Generał Woronin</text>
+	</string>
+	<string id="encyclopedia_characters_general_voronin_text">
+		<text>
+			%c[pda_white]Generał Woronin%c[ui_gray_1] to starzejący się oficer odpowiedzialny za określanie szerszych celów, zasad i strategii swojej frakcji.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nChociaż wielu stalkerów uważa go za surowego i nietolerancyjnego, Woronin jest właściwie uważany za umiarkowanego według standardów Powinności; mniej oślepiająco idealistyczny i fanatyczny niż jego poprzednik Kryłow, ale także mniej cyniczny i pragmatyczny niż pierwszy przywódca Powinności - Generał Taczenko.\n
+			\nPo raz pierwszy objął dowództwo nad całą frakcją w 2011 roku, kiedy Kryłow został zamordowany przez najemników pracujących dla Wolności. Od tego czasu mocno trzyma się celu Powinności, wzmacniając ich tożsamość jako honorowych żołnierzy żyjących według prawie świętego kodeksu.\n
+			\nPrzed swoją rolą w założeniu Powinności był młodym oficerem pracującym w wojsku. Jego ostatnia oficjalna misja miała miejsce w 2006 roku, kiedy to został przydzielony do oddziału pod dowództwem ówczesnego kapitana Taczenki i otrzymał rozkaz zniszczenia centrum Zony wszelkimi niezbędnymi środkami.\n
+			\nTo zadanie doprowadziłoby do pierwszego oficjalnego kontaktu ludzkości z mutantami i anomaliami. Komunikacja z kwaterą główną wkrótce się załamie po pierwszej dużej emisji, a stamtąd utworzenie własnej grupy wydawało się kwestią przetrwania.\n
+			\nChociaż Woronin pozostaje dziś na cywilnych stosunkach ze Specnazem ze względu na swoje korzenie, ta uprzejmość jest zimna, gdy dotyczy wojska jako całości; w głębi duszy wierzy, że dowództwo wysłało go i jego towarzyszy do Zony w ciemno... tylko po to, by wszyscy zginęli.\n
+			\nJest zdecydowany uchronić innych przed tym samym losem ... pod warunkiem, że nie podejrzewa ich o próbę szerzenia tego, co uważa za „zło” Zony.\n 
+		
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_lieutenant_rogovets">
+		<text>Porucznik Rogowiec</text>
+	</string>
+	<string id="encyclopedia_characters_lieutenant_rogovets_text">
+		<text>
+			%c[pda_white]Porucznik Rogowiec%c[ui_gray_1] jest kłopotliwym oficerem z dużym wykształceniem medycznym.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nRogowiec jest jedną z niewielu osób, które przeżyły nieudaną Operację Ogończa - projekt wojskowy, który miał utorować drogę rządowej rekultywacji Prypeci i Czarnobyla.\n
+			\nW rzeczywistości zespoły Specnazu przydzielone do tego zadania zostały szybko rozproszone, zabite przez anomalie, zombie przez emisje lub gorzej. Sam porucznik Rogowiec omal nie został zabity i zjedzony przez kontrolera, traumatyczne zdarzenie, które zmusiło go do pozostania w rezerwie przez kilka lat, aby mógł później zacząć pracować w szpitalach cywilnych.\n
+			\nPóźniej powrócił do czynnej służby w Zonie z poczucia obowiązku, robiąc wszystko, co w jego mocy, aby nie tylko leczyć innych żołnierzy, ale także ich edukować, aby nie popełnili tych samych błędów, co on w czasie Operacji Ogończa.\n
+			\nOczywiście, niewielu dzisiaj wierzy w jego szalone historie: współczesne pomruki rzadko spotykają coś bardziej niebezpiecznego niż bezpańskie koty lub psy, a ci, którzy uważają się za lepszych, rzadko wracają, by przeprosić.\n
+			\nChociaż Rogowiec jest technicznie dobrze wyszkolonym lekarzem, a na dodatek weteranem Specnazu, ale jego ledwie skrywana pogarda dla pułkownika Kuzniecowa utrudnia awans.\n 
+
+		
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_major_zhurov">
+		<text>Major Żurow</text>
+	</string>
+	<string id="encyclopedia_characters_major_zhurov_text">
+		<text>
+			%c[pda_white]Major Żurow%c[ui_gray_1] jest oficerem odpowiedzialnym za utrzymanie porządku w Kordonie.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nPo awansie majora Kuzniecowa na pułkownika kwatermistrz Żurow został awansowany do stopnia majora, aby pełnić poprzednią rolę naczelnika Kordonu.\n
+			\nW porównaniu do swojego poprzednika, Żurow jest znacznie bardziej skąpy i zawsze odmawia przyjmowania bezpośrednich łapówek od zwykłych stalkerów.\n
+			\nJednak tak jak jego poprzednik robi niewiele, aby zakłócić lokalne operacje przemytnicze, poza tym, że robi symboliczne demonstracje swojej władzy zewnętrznym obserwatorom. Niektórzy twierdzą, że dzieje się tak, ponieważ przemytnicy dają mu część zysków, ale nikt nie może tego powiedzieć na pewno.\n
+			\nWszystko, co wiadomo, to to, że ma znacznie większy wpływ na ludzi w porównaniu do Kuzniecowa, niż się wydaje na pierwszy rzut oka, ponieważ jest w stanie bardzo szybko ustanowić delikatne rozejmy między swoimi patrolami a stalkerami, których mają zatrzymać.\n 
+		
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_arnie">
+		<text>Arni</text>
+	</string>
+	<string id="encyclopedia_characters_arnie_text">
+		<text>
+			%c[pda_white]Arni%c[ui_gray_1] jest byłym przemytnikiem, chociaż obecnie jest najbardziej znany z tego, że od dawna jest gospodarzem Areny w Rostoku.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nArena Arniego jest postrzegana jako stałe, choć ponure źródło rozrywki w Rostoku, mające na celu zadowolenie zarówno wojowników, jak i graczy.\n
+			\nWiększość walk kończy się śmiercią uczestników, ale to nie powstrzymuje spragnionych chwały lub desperatów pojedynków o sławę lub pieniądze.\n
+			\nChociaż Powinność ma mieszane uczucia w stosunku do pracy Arniego, byli znani z dostarczania na arenie zapasów bojowych w postaci schwytanych mutantów i bandytów, prawdopodobnie w nadziei na edukację opinii publicznej, jak walczą ich zwykli wrogowie.\n
+			\nArena była również czasami wykorzystywana do rozwiązywania sporów między społecznościami, takich jak spłacanie ogromnych długów lub rozstrzyganie sporów spowodowanych kwestiami reputacji.\n 
+		
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_skinflint">
+		<text>Kuchta</text>
+	</string>
+	<string id="encyclopedia_characters_skinflint_text">
+		<text>
+			%c[pda_white]Kuchta%c[ui_gray_1] jest wieloletnim handlarzem Wolności w Magazynach Wojskowych.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nCichy i powściągliwy jak na standardy Wolności, Kuchta ma mało cierpliwości dla głupców, pozwalając im trochę pocierpieć.\n
+			\nTo spowodowało pewne napięcie między nim, a lekarzem - rezydentem bazy, dla którego ledwo ukrywa swoją pogardę.\n
+			\nMimo jego nieco kwaśnego nastawienia, jest powszechnie ceniony w swojej frakcji za swoją dalekowzroczność, umiejętności logistyczne i gotowość do zapłacenia za wszystko, co jego koledzy z Wolności przyniosą z wypadów do Zony.\n
+		
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_stribog">
+		<text>Strzybóg</text>
+	</string>
+	<string id="encyclopedia_characters_stribog_text">
+		<text>
+			%c[pda_white]Strzybóg%c[ui_gray_1] jest kwatermistrzem Grzechu.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nByły bandyta, schwytany i nawrócony przez Grzech kilka lat temu. Dzięki swojemu pochodzeniu i nowemu spojrzeniu na życie okazuje się bardzo przydatny dla swojej społeczności.\n
+			\nNie tylko zbiera sprzęt przywłaszczony od poległych stalkerów i wojskowych, ale także nawiązał kontakty z kilkoma kupcami chcącymi robić interesy z „kultem niebezpiecznych fanatyków”, o ile się to opłaca.\n
+			\nJako oświecony człowiek, który służy wyższej sprawie, jest bardziej niż chętny wymienić to, co teraz postrzega jako bezużyteczne bibeloty, aby zdobyć narzędzia niezbędne dla swoich braci do popierania tej właśnie sprawy.\n 
+		
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_dazhbog">
+		<text>Darzbóg</text>
+	</string>
+	<string id="encyclopedia_characters_dazhbog_text">
+		<text>
+			%c[pda_white]Darzbóg%c[ui_gray_1] służy jako czcigodny technik Grzechu.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nKiedyś inżynier, który pomagał konstruować generatory pod koniec lat 90., pozostał w Zonie, aby przez następne lata utrzymywać tę złożoną, ściśle tajną maszynerię. Los chciał, że był tam jeszcze w czerwcu 2006 roku, aby na własne oczy być świadkiem Pierwszej Emisji.\n
+			\nUwięziony w Laboratorium X-2 z malejącymi zapasami wody i pożywienia, został w końcu znaleziony przez Czarnoboga i jego raczkującą społeczność Grzechu. Za swoją rolę w pojawieniu się Wyraja zaoferowano mu szczególne miejsce wśród nich.\n
+			\nTeraz, kilkanaście lat później, nadal dobrze wykorzystuje swoje umiejętności mechaniczne, naprawiając i konserwując sprzęt wymagany przez jego młodszych braci do rozszerzania Zony coraz dalej.\n 
+
+		
+		</text>
+	</string>
+	
+	
+	<!-- MLR -->
+	<string id="encyclopedia_characters_spirit">
+		<text>Spiryt</text>
+	</string>
+	<string id="encyclopedia_characters_spirit_text">
+		<text>
+			%c[pda_white]Spiryt%c[ui_gray_1] jest byłym stalkerem. Obecnie szykuje posiłki Ekologom w laboratorium w Jantarze.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nMimo, że formalnie przez pięć lat był członkiem oddziału do badań naukowych i dochodzeń "Iskra", zapisał się w jego historii jedynie jako autor przepysznych omletów. W 2018 na prośbę prof. Sacharowa przeniesiony na Jantar, gdzie służy do tej pory jako kucharz na pół etatu.\n \nOd czasu odrodzenia Monolitu ma słabość do alkoholu. Mimo, że częste picie jest dosyć normalne wśród mieszkańców Zony, jego nadzwyczajny pociąg do wódki marki Nemiroff skutecznie blokuje mu możliwość dalszej pracy w terenie.
+			
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_peregrine">
+		<text>Sokół</text>
+	</string>
+	<string id="encyclopedia_characters_peregrine_text">
+		<text>
+			%c[pda_white]Sokół%c[ui_gray_1] to tymczasowy technik przy mobilnym laboratorium w Jantarze.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nTo doświadczony żołnierz armii ukraińskiej. Trzy lata temu uzyskał bardzo dobrą opinię po tym, jak uratował życie naukowcom zaatakowanym przez snorki w trakcie obserwacji anomalii Skalne Szpony w Agropromie.\n \nDzięki jego dużej wiedzy z zakresu technologii wyposażenia i detektorów anomalii, Major Kuźniecow oddelegował go na prośbę prof. Sacharowa do mobilnego laboratorium w Jantarze, by asystował Ekologom i zapewniał im ochronę.
+			
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_butcher">
+		<text>Rzeźnik</text>
+	</string>
+	<string id="encyclopedia_characters_butcher_text">
+		<text>
+			%c[pda_white]Rzeźnik%c[ui_gray_1] jest jednym z najbardziej doświadczonych łowców mutantów w Zonie.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nW przeciwieństwie do większości stalkerów, w ogóle nie interesują go artefakty. Zarówno on, jak i członkowie jego grupy postrzegają Zonę jako kolejne, niezwykłe łowisko.\n \nZe względu na legendarne wręcz umiejętności, nowicjusze od czasu do czasu zbierają się w pracowni Rzeźnika, by usłyszeć jego historie i rady. Niektórzy twierdzą, że ma na swoim koncie przynajmniej po jednym osobniku z każdego gatunku mutanta, jaki istnieje w Zonie.\n \nChociaż teraz para się handlem na Wysypisku, nadal ma błysk w oku gdy wspomnieć o myślistwie - sprzedaje wysokiej jakości przybory łowieckie taniej, niż inni i płaci lepiej za trofea i mięso.
+			
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_aslan">
+		<text>Aslan</text>
+	</string>
+	<string id="encyclopedia_characters_aslan_text">
+		<text>
+			%c[pda_white]Aslan%c[ui_gray_1] to handlarz pracujący dla Duszmana w Martwym Mieście.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nPracuje jako barman Najemników w Centrum Sportowym. Aslan trafił do Zony ze Szwajcarii, gdzie wykonywał ostatnio zabójstwa na zlecenie kilku kontrahentów.\n \nPotrafi dopilnować swoich sekretów nawet przed tymi, którzy znają go całkiem dobrze - oferuje wysokie ceny za naszywki frakcyjne i nikt nie ma pojęcia, po co je zbiera.
+			
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_leopard">
+		<text>Leopard</text>
+	</string>
+	<string id="encyclopedia_characters_leopard_text">
+		<text>
+			%c[pda_white]Leopard%c[ui_gray_1] jest doświadczonym przewodnikiem Najemników w Martwym Mieście.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nMartwe Miasto nigdy nie było bezpieczne, nawet dla zaprawionych stalkerów. Leopard, jako jeden z nielicznych, dobrze zna tutejszą podziemną sieć kanalizacyjną. Inni korzystają z jego wiedzy do bezpiecznego przechodzenia przez miasto.
+		
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_surgeon">
+		<text>Zszywacz</text>
+	</string>
+	<string id="encyclopedia_characters_surgeon_text">
+		<text>
+			Jak sugeruje jego ksywa, %c[pda_white]Zszywacz%c[ui_gray_1] pracuje jako medyk na kontrakcie Najemników w Martwym Mieście. Czasem urządza sobie rekreacyjne wycieczki nad Jantar.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nWiadomo bardzo niewiele o tym człowieku i jego pochodzeniu. Dowiódł swojej wartości, ratując życia wielu Najemników, gdy wpadli w zasadzkę bojowników Monolitu, wracając z Limańska. Przezwisko otrzymał wedle zasług - za poskładanie do kupy rannych żołnierzy.
+		
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_griffin">
+		<text>Gryf</text>
+	</string>
+	<string id="encyclopedia_characters_griffin_text">
+		<text>
+			%c[pda_white]Gryf%c[ui_gray_1] to oficer polowy Syndykatu, operujący na przedmieściach Prypeci.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nDuszman przydzielił Gryfowi zadanie eliminacji zagrożeń i przejęcia kontroli nad obszarem. Udało mu się znacząco rozszerzyć strefę wpływu Najemników, do chwili, gdy liczne oddziały Monolitu zaczęły skoordynowane ataki na ich pozycje ze swoich baz w Prypeci. Sytuacja przymusiła grupę Gryfa do odwrotu i schronienia się w księgarni.
+		
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_trunk">
+		<text>Trunk</text>
+	</string>
+	<string id="encyclopedia_characters_trunk_text">
+		<text>
+			%c[pda_white]Trunk%c[ui_gray_1] to technik należący do oddziału Gryfa we wschodniej Prypeci.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nTrunk dawno temu pracował dla Triple Canopy w USA jako strażnik. Syndykat wynajął go ze względu na duże doświadczenie bojowe i wiedzę z zakresu wyposażenia.\n \nJest członkiem oddziału Gryfa. Odpowiada za utrzymanie wyposażenia i z pomocą Cichego dba o zapasy.
+			
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_meeker">
+		<text>Cichy</text>
+	</string>
+	<string id="encyclopedia_characters_meeker_text">
+		<text>
+			%c[pda_white]Cichy%c[ui_gray_1] jest handlarzem najemników, dba głównie o zapasy broni i amunicji.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nCichy, dzięki licznym kontaktom za Kordonem umożliwia dostarczanie nowoczesnego uzbrojenia najemnikom. Zgodził się dołączyć do oddziału Gryfa, by udzielać im zaopatrzenia w trakcie misji.\n
+		    \n%c[pda_yellow]Ciekawostki%c[ui_gray_1]
+			\n• Przed dołączeniem do Gryfa, Cichy był członkiem grupy Włóczęgi - eksbojowników Monolitu. Część zdobywanego przez niego wyposażenia może świadczyć o tym, że do tej pory utrzymują kontakt.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_leshiy">
+		<text>Leszy</text>
+	</string>
+	<string id="encyclopedia_characters_leshiy_text">
+		<text>
+			%c[pda_white]Leszy%c[ui_gray_1] to zwiadowca Wolności. Od czasu do czasu przeprowadza stalkerów przez Magazyny Wojskowe jako przewodnik.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nNie jest już najmłodszy, ale nadal pełen energii. Kilka lat pracował dla Najemników, potem poznał Łukasza i dołączył do Wolności. Dzięki temu posiada ogromne doświadczenie. Często przeprowadza oddziały swojej frakcji przez Cmentarzysko Pojazdów, a niekiedy rusza się nawet dalej.\n \nImię nadano mu po tym, jak uratował swój oddział Najemników z anomalii przestrzennej, a także za bycie pogodnym przewodnikiem dla nowicjuszy, którzy odeszli zbyt daleko od Kordonu i boją się wracać samemu.
+			
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_solid">
+		<text>Twardy</text>
+	</string>
+	<string id="encyclopedia_characters_solid_text">
+		<text>
+			%c[pda_white]Twardy%c[ui_gray_1] jest medykiem Wolności w Magazynach Wojskowych.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nZnany jest z dwóch rzeczy: zwinnych rąk i składania stalkerów do kupy. Mimo tego, że jest uzależniony od alkoholu i narkotyków.\n \nWedług niego, używki pomagają mu się "skupić". Nie zmienia to faktu, że czasem zdarza mu się kogoś okaleczyć w trakcie przeprowadzania zabiegów.
+			
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_snitch">
+		<text>Szpicel</text>
+	</string>
+	<string id="encyclopedia_characters_snitch_text">
+		<text>
+			%c[pda_white]Szpicel%c[ui_gray_1] imię zawdzięcza temu, że wie niemal wszystko i o wszystkich. Handluje informacjami w Barze.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nMieszka na stałe w barze Sto Radów. Sprzedaje swoją wiedzę tym, którzy są gotowi zapłacić najwięcej.
+		
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_loris">
+		<text>Lemur</text>
+	</string>
+	<string id="encyclopedia_characters_loris_text">
+		<text>
+			%c[pda_white]Lemur%c[ui_gray_1] to handlarz dóbr wszelakich, prowadzący swój sklep na terenie Północnej Farmy w Kordonie.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nMiejsce na Farmie zdobył z pomocą grupy stalkerów, z którymi przegnał stąd bandytów.\n \nPo dogadaniu się z Sidorowiczem, Lemur otworzył tutaj swój sklep z zaopatrzeniem. Często odwiedzają go stalkerzy Czystego Nieba, jako że ze względu na obecność wojska, łatwiej im dostać się tutaj, niż do znajdującej się bardziej na południe wioski nowicjuszy.
+			
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_hip">
+		<text>Hip</text>
+	</string>
+	<string id="encyclopedia_characters_hip_text">
+		<text>
+			%c[pda_white]Hip%c[ui_gray_1] jest byłym członkiem Wolności. Teraz mieszka w Wiosce Kotów.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nŻyje w Zonie niemal od jej początków. Do tej pory ceniła sobie stalkerskie życie ze względu na to, że jest ciche i nie trzeba za dużo gadać. Rzadko wybiera się głęboko w Zonę, nawet po tylu latach. Przeciętny stalker postrzega ją jako niewiele lepszą od byle nowicjusza. Od niedawna stara się zdobyć odpowiednie kontakty, by zaistnieć w świecie.
+			
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_navigator">
+		<text>Nawigator</text>
+	</string>
+	<string id="encyclopedia_characters_navigator_text">
+		<text>
+			%c[pda_white]Nawigator%c[ui_gray_1] to doświadczony stalker-przewodnik.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nOdkąd Powinność cofnęła część zasad dotyczących wstępu na teren Rostoku, Nawigator zajął się przeprowadzeniem stalkerów spod bezpiecznych granic Baru do praktycznie każdego miejsca w Zonie.
+			
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_vector">
+		<text>Wektor</text>
+	</string>
+	<string id="encyclopedia_characters_vector_text">
+		<text>
+			Koledzy z oddziału nazywają go "tym wściekłym najmusem". %c[pda_white]Wektor%c[ui_gray_1] jest zwiadowcą i zaopatrzeniowcem w Zakładzie Utylizacji Odpadów w Zatonie.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nWektor znany jest ze swojego złego nastawienia i permanentnej złości. Poza tym, to doświadczony w boju najemnik. Oferuje dostęp do wielu rodzajów broni. Zna szlaki między Zatonem a Martwym Miastem i, podobnie jak Leopard, umie poruszać się po tamtejszej sieci kanalizacyjnej.
+			
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_kolin">
+		<text>Kolin</text>
+	</string>
+	<string id="encyclopedia_characters_kolin_text">
+		<text>
+			Mało wiadomo o %c[pda_white]Kolinie%c[ui_gray_1] poza tym, że oprócz wiedzy technicznej, zna parę sztuczek w dziedzinie handlu.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nKolin przeniósł się do ZUO na Zatonie razem z Wektorem, by wspomóc stacjonujących tu najemników.
+			
+		</text>
+	</string>
+	
+	<!-- LTTZ -->
+	
+	<string id="encyclopedia_characters_eidolon">
+		<text>Eidolon</text>
+	</string>
+	<string id="encyclopedia_characters_eidolon_text">
+		<text>
+			%c[pda_white]Eidolon%c[ui_gray_1] jest sławetnym mistrzem Monolitu.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nChoć większość żołnierzy Monolitu można uznać za "jednorazowe" pionki, ten, którego zwą Eidolon stanowi prawdziwą jednoosobową armię. To on reaktywował Mózgozwęglacz, z łatwością odcinając dostęp niewiernych do serca Zony.\n \nWedług legend, w ciszy przemierza ulice Prypeci lub spędza czas na modlitwie. Wszyscy stalkerzy próbujący dostać się do Spełniacza Życzeń są zatrzymywani dzięki jego nieomylnym interwencjom. Imię "Eidolon" - z greki: idol, bóstwo, zjawa, widmo - zawdzięcza temu, że lekceważy, a wręcz pomiata odniesionymi obrażeniami oraz dzięki swoim zdolnościom pojawiania się, kiedy trzeba, dosłownie znikąd.\n
+			
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_gatekeeper">
+		<text>Cerber</text>
+	</string>
+	<string id="encyclopedia_characters_gatekeeper_text">
+		<text>
+			%c[pda_white]Cerber%c[ui_gray_1] jest doświadczonym samotnikiem, zajadle broniącym Bariery przed Monolitem.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nStalker - podobnie jak wielu w tym okresie - ruszył do centrum Zony po wyłączeniu Mózgozwęglacza w 2012 roku.\n \nCałe lata później powrócił do Magazynów Wojskowych, zdeterminowany do utrzymywania Bariery i ochrony południa przed zgrozą, której był świadkiem, a także, by bronić obszaru przed ekspansją odrodzonego Monolitu.\n
+		
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_rogue">
+		<text>Łotrzyk</text>
+	</string>
+	<string id="encyclopedia_characters_rogue_text">
+		<text>
+			%c[pda_white]Łotrzyk%c[ui_gray_1], były żołnierz, twardziel nie do zdarcia.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nRozczarowany swoim przydziałem, był tak ciekaw Zony, że zdecydował się zdezerterować. Opuścił posterunek w Kordonie i dołączył do stalkerów w wiosce kotów.\n \nPo latach zbierania doświadczenia w centrum Zony połączył siły ze Striełokiem. Jego wsparcie w walce jest nieocenione, dzięki ścisłej dyscyplinie, biegłości w taktyce i swojemu karabinkowi jest w stanie wygrać niemal każdą potyczkę.\n
+			
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_stitch">
+		<text>Igła</text>
+	</string>
+	<string id="encyclopedia_characters_stitch_text">
+		<text>
+			%c[pda_white]Igła%c[ui_gray_1] jest doświadczonym stalkerem z dużą wiedzą medyczną.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nDawniej pracował jako pielęgniarz w szpitalu w Kijowie. Historie, które słyszał od leczonych tam byłych stalkerów przekonały go do wyruszenia do Zony osobiście. Szczęśliwie dla niego, przypadkiem wpadł w okolicy Agropromu na Striełoka i w ten sposób dołączył do jego nowej grupy.\n \nPełen entuzjazmu, radości i wrodzonego luźnego podejścia do otaczającego go świata. Pomaga swoim towarzyszom znosić trudne warunki centrum Zony dzięki poczuciu humoru i zdolnościom medycznym.\n
+			
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_strelok">
+		<text>Striełok</text>
+	</string>
+	<string id="encyclopedia_characters_strelok_text">
+		<text>
+			%c[pda_white]Striełok%c[ui_gray_1], znany także jako Naznaczony, to bardzo zaradny i dzielny weteran.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nStriełok to niezwykle doświadczony i uzdolniony stalker. Żywa Legenda. Jest jednym z niewielu śmiałków, którym udało się dotrzeć do Elektrowni, wrócić stamtąd żywym i opowiedzieć swoją historię. To właśnie Striełok odpowiedzialny jest za wyłączenie Mózgozwęglacza w 2012 roku i otwarcie szlaków na północ, w kierunku centrum Zony.\n \nCzęść swojego życia spędził jako oficjalny doradca naukowy. Ostatecznie zrezygnował ze stanowiska i najwyraźniej wrócił do Zony by rozpocząć kolejną niebezpieczną wyprawę.\n
+			
+		</text>
+	</string>
+	
+		<string id="encyclopedia_characters_vodnik">
+		<text>Wodnik</text>
+	</string>
+	<string id="encyclopedia_characters_vodnik_text">
+		<text>
+			%c[pda_white]Wodnik%c[ui_gray_1]Służy jako jeden z wielu wysłanników Sin.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nDawno był zwykłym członkiem Wolności, którego przyciągała do Zony ciekawość. Pewnego pamiętnego dnia podczas patrolu na obrzeżach Czerwonego Lasu napotkał grupę wysokich, zakapturzonych stalkerów w ciemnych kapturach.\n
+			\nZafascynowany wieloma wyjątkowymi, dziwnymi zjawiskami, wkrótce stał się jednym z najbardziej zagorzałych obrońców i kaznodziejów Zony.\n
+			\nW dzisiejszych czasach Wodnik próbuje przekonać zwykłych stalkerów, by dołączyli do szeregów Grzechu, aby pewnego dnia mogli przejść ekspansję Grzechu na całą Ziemię.\n 
+		
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_drekavac">
+		<text>Wyjec</text>
+	</string>
+	<string id="encyclopedia_characters_drekavac_text">
+		<text>
+			%c[pda_white]Wyjec%c[ui_gray_1] jest jednym z członków założycieli Grzechu.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nPośród wielu ludzi, na których eksperymentowano jeszcze przed utworzeniem Zony, jest jednym z nielicznych, którzy przeżyli. Próbując stworzyć ludzkie istoty bardziej dostrojone do Noosfery, nadano mu pomniejsze moce psioniczne.\n
+			\nDzięki swojemu pochodzeniu i zdolności do łączenia i koordynowania zbiorowej woli swoich braci, Wyjec został mianowany przez Czarnoboga jednym z Kastigatorów Grzechu: pół przywódca duchowy, pół dowódca plutonu.\n
+			\nTeraz, gdy mroczna krucjata Grzechu jest w pełnym rozkwicie, Wyjec mężnie prowadzi swoich młodszych braci, aby utorować drogę swojemu arcymistrzowi czaszkami niewiernych.\n 
+		
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_chernobog">
+		<text>Czarnobóg</text>
+	</string>
+	<string id="encyclopedia_characters_chernobog_text">
+		<text>
+			%c[pda_white]Czarnobóg%c[ui_gray_1] jest Arcymistrzem Grzechu.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nJak udało się ustalić, jest byłym więźniem celi śmierci, oddanym do laboratorium w charakterze obiektu doświadczalnego. Na skutek tajnych eksperymentów przemieniony w półmutanta podobnego do kontrolera. Krótko po powstaniu Zony założył Grzech i - gdy uznano, że Świadomość-Z została zniszczona przez Striełoka - wziął na siebie obowiązek kontynuowania ich dzieła.\n \nTo charyzmatyczny przywódca i wizjoner. Wierzy, że Zona ma oczyścić świat z wszelkiego grzechu. Jednak w rzeczywistości jest kolejnym obłąkanym fanatykiem, który w celu realizacji swoich urojeń gotów jest ogień zwalczać ogniem.\n
+			
+		</text>
+	</string>
+	
+	<string id="encyclopedia_characters_degtyarev">
+		<text>Pułkownik Diegtiariow</text>
+	</string>
+	<string id="encyclopedia_characters_degtyarev_text">
+		<text>
+			%c[pda_white]Aleksander Diegtiariow%c[ui_gray_1], agent Służby Bezpieczeństwa Ukrainy, działa niezależnie od pozostałych sił zbrojnych przebywających w Zonie.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nDoświadczony wojskowy stalker, agent działający pod przykrywką. Wykonał w Zonie wiele tajnych misji. Co zaskakujące, zyskał również doskonałą reputację wśród zwykłych stalkerów dzięki swojej tendencji do udzielania im pomocy.\n \nPo tym, jak potężna emisja przyciągnęła uwagę ONZ i jej uzbrojonych agentów, Pułkownik Diegtiariow polecił rozpocząć Operację Łuna by upewnić się, że największe tajemnice Zony nie zostaną wykorzystane jako broń przez międzynarodowych polityków.\n
+		
+		</text>
+	</string>
+	
+</string_table>

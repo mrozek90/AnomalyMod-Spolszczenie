@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Repair Kits
+-->
+
+<string_table>
+
+	<string id="st_sharpening_stones">
+		<text>Trzyczęściowy zestaw osełek</text>
+	</string>
+	<string id="st_sharpening_stones_descr">
+		<text>%c[ui_gray_2]PRZEZNACZENIE:\n \n%c[d_orange] • %c[ui_gray_2] ostrzenie noży i ostrzy\n \n%c[ui_gray_1]Tępe noże i narzędzia? Nie musi tak być. Zapomnij o kamieniach szlifierskich walających się luzem, obtłukujących szafki, rysujących wszystko dookoła. Nie, teraz wszystko ma swoje miejsce!\n \nBardzo praktyczny zestaw trzech ostrzałek dla każdego, spakowany w przyjemną w dotyku poliestrową torbę. Zestaw do perfekcyjnego ostrzenia zawiera kamienie o różnej grubości ziaren, stosowane zależnie od potrzeb tak, by krawędzie tnące twoich noży były ostre, jak brzytwa!\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] zestaw narzędzi\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do napraw wyposażenia\n
+		</text>
+	</string>
+	
+	<string id="st_gun_oil">
+		<text>Smar w spray'u "Brunox Gun Care"</text>
+	</string>
+	<string id="st_gun_oil_descr">
+		<text>%c[ui_gray_2]PRZEZNACZENIE:\n \n%c[d_orange] • %c[ui_gray_2] nadaje się do każdej broni\n \n%c[ui_gray_1]Puszka zawiera olej przeznaczony do smarowania i zabezpieczenia broni palnej. Częste stosowanie zapobiega awariom i korozji broni, zwłaszcza po długim okresie używania w warunkach bojowych.\n \nPrzed przystąpieniem do procesu smarowania należy prawidłowo oczyścić broń palną, usuwając wszelkie zanieczyszczenia, które zebrały się na zewnątrz i w środku. Żeby zmaksymalizować skuteczność konserwacji, zaleca się korzystać z podstawowych narzędzi w celu uzyskania dostępu do wewnętrznych części broni. Dzięki Brunox'owi broń może działać w temperaturach nawet do -55°C. Temperatura zapłonu smaru wynosi 78°C.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] szybkie użycie (smar w spray'u)\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do napraw wyposażenia\n
+		</text>
+	</string>
+	
+	<string id="st_gun_oil_ru_d">
+		<text>Olej i rozpuszczalnik "Dwójka"</text>
+	</string>
+	<string id="st_gun_oil_ru_d_descr">
+		<text>%c[ui_gray_2]PRZEZNACZENIE:\n \n%c[d_orange] • %c[ui_gray_2] nadaje się do każdej broni\n \n%c[ui_gray_1]Legendarny olej Armii Czerwonej, będący w użyciu od prawie siedemdziesięciu lat. Metalowa butelka podzielona jest na dwie przegrody - jedna na olej, a druga na rozpuszczalnik.\n \nPoczątkowo rozpuszczalnik oparty był na zasadowym roztworze, skutecznie usuwającym sole konserwujące, które stosowano przy składowaniu i transporcie amunicji. Od tego czasu skład płynu zmieniano wiele razy, ale prosta i pomysłowa "podwójna" butelka pozostała.\n \n"Dwójka" jest bardzo popularna w Zonie ze względu na swoją uniwersalność. Należy jednakże pamiętać, że dostęp oleju do wewnętrznych mechanizmów broni jest ograniczony, przez co efektywna konserwacja wymaga odpowiednich narzędzi. "Dwójka" powinna być zatem traktowana bardziej jako dodatek do innych przyborów niż samodzielny płyn konserwujący.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] płynny olej i rozpuszczalnik\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do napraw wyposażenia\n
+		</text>
+	</string>
+	
+	<string id="st_gun_oil_ru">
+		<text>Olej do broni "Rusak"</text>
+	</string>
+	<string id="st_gun_oil_ru_descr">
+		<text>%c[ui_gray_2]PRZEZNACZENIE:\n \n%c[d_orange] • %c[ui_gray_2] nadaje się do każdej broni\n \n%c[ui_gray_1]Plastikowa butelka zawierająca tani, rosyjski olej mineralny przeznaczony do konserwacji broni. Pomimo swojej niskiej ceny "Rusak" utrzyma broń w dobrym stanie, jeśli korzysta się z niego często. W celu zwiększenia skuteczności nanosić pędzlem lub szczotką.\n \nWedług producenta "Rusak" szczególnie nadaje się do konserwacji broni automatycznej i samopowtarzalnej z powodu niskiego współczynnika tarcia. W jego skład wchodzą również środki antykorozyjne i konserwujące.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] płynny olej\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do napraw wyposażenia\n
+		</text>
+	</string>
+	
+	<string id="st_solvent">
+		<text>Rozpuszczalnik Hoppe'a "nr 9"</text>
+	</string>
+	<string id="st_solvent_descr">
+		<text>%c[ui_gray_2]PRZEZNACZENIE:\n \n%c[d_orange] • %c[ui_gray_2] nadaje się do każdej broni\n \n%c[ui_gray_1]Wysokiej jakości czyszczący rozpuszczalnik zachodniej produkcji, przeznaczony do czyszczenia broni w surowych warunkach otoczenia. Jeden z najczęściej stosowanych na świecie roztworów.\n \nTak jak inne rozpuszczalniki, opracowano go z myślą o zapobieganiu korozji, usuwaniu kurzu i zanieczyszczeń metalu, ale jego unikalną właściwością jest to, że uniemożliwia osiadanie ciężkich cząsteczek na mechanicznych elementach broni palnych. Substancja działa szybko, jest bardzo wydajna, bezpieczna i łatwa w użyciu. Chociaż przepływa swobodnie i szybko wnika, zaleca się stosowanie narzędzi lub tkanin, aby przyspieszyć rozprzestrzenianie się.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] płynny rozpuszczalnik przeznaczony do broni\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do napraw wyposażenia\n
+		</text>
+	</string>
+	
+	<string id="st_cleaning_kit_p">
+		<text>Zestaw do czyszczenia broni krótkiej "Progress"</text>
+	</string>
+	<string id="st_cleaning_kit_p_descr">
+		<text>%c[ui_gray_2]PRZEZNACZENIE:\n \n%c[d_orange] • %c[ui_gray_2] nadaje się do broni kalibru 9 mm, .45 i .357\n \n%c[ui_gray_1]Zestaw specjalistycznych szczotek, używanych do czyszczenia lufy i innych elementów broni z kurzu, piachu, wilgoci, pozostałości smarów i innych substancji, które nagromadziły się podczas użytkowania. Zaleca się korzystać z innych narzędzi i przyrządów, aby uzyskać lepszy dostęp do wewnętrznych mechanizmów broni, lub alkoholu w celu łatwiejszego rozpuszczenia resztek oleju.\n \nZestaw może także posłużyć do lepszego rozprowadzania olejów wewnątrz broni, jednak bardziej opłacalną metodą, preferowaną przez najbardziej doświadczonych stalkerów, jest użycie tłuszczów zwierzęcych jako alternatywnego środka smarnego.\n \nTen konkretny zestaw pasuje do broni zasilanych amunicją pistoletową.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do napraw wyposażenia\n
+		</text>
+	</string>
+	
+	<string id="st_cleaning_kit_s">
+		<text>Zestaw do czyszczenia broni "Aurora A108/12"</text>
+	</string>
+	<string id="st_cleaning_kit_s_descr">
+		<text>%c[ui_gray_2]PRZEZNACZENIE:\n \n%c[d_orange] • %c[ui_gray_2] nadaje się do strzelb kalibru 12\n \n%c[ui_gray_1]Zestaw specjalistycznych szczotek, używanych do czyszczenia lufy i innych elementów broni z kurzu, piachu, wilgoci, pozostałości smarów i innych substancji, które nagromadziły się podczas użytkowania. Zaleca się korzystać z innych narzędzi i przyrządów, aby uzyskać lepszy dostęp do wewnętrznych mechanizmów broni, lub alkoholu w celu łatwiejszego rozpuszczenia resztek olejów i smarów.\n \nTen konkretny zestaw przeznaczony jest do strzelb kalibru 12. "Aurora" zawiera trzy specjalistyczne rodzaje pędzli, po jednym dla - odpowiednio - czyszczenia broni po strzelaniu, rozprzestrzeniania smaru i usuwania rdzy. Dbaj o swoją strzelbę, a ona zadba o ciebie.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do napraw wyposażenia\n
+		</text>
+	</string>
+	
+	<string id="st_cleaning_kit_r5">
+		<text>Zestaw czyszczący do broni małokalibrowej "ValuPro III"</text>
+	</string>
+	<string id="st_cleaning_kit_r5_descr">
+		<text>%c[ui_gray_2]PRZEZNACZENIE:\n \n%c[d_orange] • %c[ui_gray_2] nadaje się do broni kalibru 5.45 mm i 5.56 mm\n \n%c[ui_gray_1]Zestaw specjalistycznych szczotek, używanych do czyszczenia lufy i innych elementów broni z kurzu, piachu, wilgoci, pozostałości smarów i innych substancji, które nagromadziły się podczas użytkowania. Zaleca się korzystać z innych narzędzi i przyrządów, aby uzyskać lepszy dostęp do wewnętrznych mechanizmów broni, lub alkoholu w celu łatwiejszego rozpuszczenia resztek oleju.\n \nZestaw może także posłużyć do lepszego rozprowadzania olejów wewnątrz broni, jednak bardziej opłacalną metodą, preferowaną przez najbardziej doświadczonych stalkerów, jest użycie tłuszczów zwierzęcych jako alternatywnego środka smarnego.\n \nTen konkretny zestaw jest dostosowany do wybranych karabinów małokalibrowych. Spakowany jest w pojemnik z twardego plastiku.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do napraw wyposażenia\n
+		</text>
+	</string>
+	
+	<string id="st_cleaning_kit_r7">
+		<text>Zestaw do czyszczenia broni średniego i dużego kalibru</text>
+	</string>
+	<string id="st_cleaning_kit_r7_descr">
+		<text>%c[ui_gray_2]PRZEZNACZENIE:\n \n%c[d_orange] • %c[ui_gray_2] nadaje się do broni kalibru 7.62 mm, 7.92 mm, 9x39 mm i .338 \n \n%c[ui_gray_1]Zestaw specjalistycznych szczotek, używanych do czyszczenia lufy i innych elementów broni z kurzu, piachu, wilgoci, pozostałości smarów i innych substancji, które nagromadziły się podczas użytkowania. Zaleca się korzystać z innych narzędzi i przyrządów, aby uzyskać lepszy dostęp do wewnętrznych mechanizmów broni, lub alkoholu w celu łatwiejszego rozpuszczenia resztek oleju.\n \nTen konkretny zestaw pasuje do wybranych karabinów małokalibrowych i bardzo długich luf. Producent nieznany, ale prosta konstrukcja i użyte wysokiej jakości materiały sugerują przeznaczenie wojskowe, najpewniej dla służb specjalnych.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do napraw wyposażenia\n
+		</text>
+	</string>
+	
+	<string id="st_cleaning_kit_u">
+		<text>Uniwersalny zestaw do czyszczenia broni</text>
+	</string>
+	<string id="st_cleaning_kit_u_descr">
+		<text>%c[ui_gray_2]PRZEZNACZENIE:\n \n%c[d_orange] • %c[ui_gray_2] nadaje się do każdej broni\n \n%c[ui_gray_1]Zaawansowany zestaw do czyszczenia, dopasowany do wszystkich standardowych kalibrów broni. Można go również stosować jako zestaw naprawczy. W jego skład wchodzi niewielka porcja skutecznego smaru i rozpuszczalnika, jak również kilka lekkich narzędzi ułatwiających dostęp do wewnętrznych mechanizmów broni palnej. W celu zwiększenia skuteczności wykorzystaj dodatkowe przybory i specjalistyczne zestawy naprawcze.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do napraw wyposażenia\n
+		</text>
+	</string>
+	
+	<string id="st_repair_kit_p">
+		<text>Zestaw naprawczy do broni krótkiej</text>
+	</string>
+	<string id="st_repair_kit_p_descr">
+		<text>%c[ui_gray_2]PRZEZNACZENIE:\n \n%c[d_orange] • %c[ui_gray_2] nadaje się do broni kalibru 9 mm, .45 i .357\n \n%c[ui_gray_1]Ten zestaw zawiera oleje, rozpuszczalniki, podstawowe przyrządy do czyszczenia, a także specjalistyczne narzędzia służące do konserwacji mechanizmów broni. W skład zestawu wchodzą również podstawowe części zamienne do broni palnej. Jest tu wszystko, czego potrzebujesz, żeby zapewnić twojej ulubionej broni długi żywot albo chcesz przywrócić ją do stanu używalności. Rzecz jasna pod warunkiem, że posiadasz niezbędną wiedzę z zakresu mechaniki i budowy broni.\n \nZe względu na różnice w budowie ten konkretny zestaw może być używany tylko do naprawy broni zasilanych amunicją pistoletową. W celu zwiększenia skuteczności wykorzystaj dodatkowe przybory i specjalistyczne zestawy naprawcze.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do napraw wyposażenia\n
+		</text>
+	</string>
+	
+	<string id="st_repair_kit_s">
+		<text>Zestaw naprawczy do strzelb</text>
+	</string>
+	<string id="st_repair_kit_s_descr">
+		<text>%c[ui_gray_2]PRZEZNACZENIE:\n \n%c[d_orange] • %c[ui_gray_2] nadaje się do strzelb kalibru 12\n \n%c[ui_gray_1]Ten zestaw zawiera oleje, rozpuszczalniki, podstawowe przyrządy do czyszczenia, a także specjalistyczne narzędzia służące do konserwacji mechanizmów broni. W skład zestawu wchodzą również podstawowe części zamienne do broni palnej. Jest tu wszystko, czego potrzebujesz, żeby zapewnić twojej ulubionej broni długi żywot albo chcesz przywrócić ją do stanu używalności. Rzecz jasna pod warunkiem, że posiadasz niezbędną wiedzę z zakresu mechaniki i budowy broni.\n \nZe względu na różnice w budowie ten konkretny zestaw może być używany tylko do naprawy strzelb kalibru 12. W celu zwiększenia skuteczności wykorzystaj dodatkowe przybory i specjalistyczne zestawy naprawcze.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do napraw wyposażenia\n
+		</text>
+	</string>
+	
+	<string id="st_repair_kit_r5">
+		<text>Zestaw naprawczy do broni małokalibrowej</text>
+	</string>
+	<string id="st_repair_kit_r5_descr">
+		<text>%c[ui_gray_2]PRZEZNACZENIE:\n \n%c[d_orange] • %c[ui_gray_2] nadaje się do broni kalibru 5.45 mm i 5.56 mm\n \n%c[ui_gray_1]Ten zestaw zawiera oleje, rozpuszczalniki, podstawowe przyrządy do czyszczenia, a także specjalistyczne narzędzia służące do konserwacji mechanizmów broni. W skład zestawu wchodzą również podstawowe części zamienne do broni palnej. Jest tu wszystko, czego potrzebujesz, żeby zapewnić twojej ulubionej broni długi żywot albo chcesz przywrócić ją do stanu używalności. Rzecz jasna pod warunkiem, że posiadasz niezbędną wiedzę z zakresu mechaniki i budowy broni.\n \nZe względu na różnice w budowie ten konkretny zestaw może być używany tylko do naprawy niektórych broni małokalibrowych. W celu zwiększenia skuteczności wykorzystaj dodatkowe przybory i specjalistyczne zestawy naprawcze.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do napraw wyposażenia\n
+		</text>
+	</string>
+	
+	<string id="st_repair_kit_r7">
+		<text>Zestaw naprawczy do broni średniego i dużego kalibru</text>
+	</string>
+	<string id="st_repair_kit_r7_descr">
+		<text>%c[ui_gray_2]PRZEZNACZENIE:\n \n%c[d_orange] • %c[ui_gray_2] nadaje się do broni kalibru 7.62 mm, 7.92 mm, 9x39 mm i .338\n \n%c[ui_gray_1]Ten zestaw zawiera oleje, rozpuszczalniki, podstawowe przyrządy do czyszczenia, a także specjalistyczne narzędzia służące do konserwacji mechanizmów broni. W skład zestawu wchodzą również podstawowe części zamienne do broni palnej. Jest tu wszystko, czego potrzebujesz, żeby zapewnić twojej ulubionej broni długi żywot albo chcesz przywrócić ją do stanu używalności. Rzecz jasna pod warunkiem, że posiadasz niezbędną wiedzę z zakresu mechaniki i budowy broni.\n \nZe względu na różnice w budowie ten konkretny zestaw może być używany tylko do naprawy niektórych broni dużego kalibru. W celu zwiększenia skuteczności wykorzystaj dodatkowe przybory i specjalistyczne zestawy naprawcze.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do napraw wyposażenia\n
+		</text>
+	</string>
+	
+	<string id="st_repair_kit_p_empty">
+		<text>Zestaw naprawczy do broni krótkiej (puste pudełko)</text>
+	</string>
+	<string id="st_repair_kit_p_empty_descr">
+		<text>Puste metalowe pudełko, które wcześniej zawierało narzędzia i części zamienne służące do konserwacji broni kalibru 9 mm, .45 i .357. Nawet po wykorzystaniu może nadać się do naprawy metalowych elementów kombinezonów. Towar wymienny o niskiej wartości.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		</text>
+	</string>
+	
+	<string id="st_repair_kit_s_empty">
+		<text>Zestaw naprawczy do strzelb (puste pudełko)</text>
+	</string>
+	<string id="st_repair_kit_s_empty_descr">
+		<text>Puste metalowe pudełko, które wcześniej zawierało narzędzia i części zamienne służące do konserwacji strzelb kalibru 12. Nawet po wykorzystaniu może nadać się do naprawy metalowych elementów kombinezonów. Towar wymienny o niskiej wartości.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		</text>
+	</string>
+	
+	<string id="st_repair_kit_r5_empty">
+		<text>Zestaw naprawczy do broni małokalibrowej (puste pudełko)</text>
+	</string>
+	<string id="st_repair_kit_r5_empty_descr">
+		<text>Puste metalowe pudełko, które wcześniej zawierało narzędzia i części zamienne służące do konserwacji broni kalibru 5.45 mm i 5.56 mm. Nawet po wykorzystaniu może nadać się do naprawy metalowych elementów kombinezonów. Towar wymienny o niskiej wartości.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		</text>
+	</string>
+	
+	<string id="st_repair_kit_r7_empty">
+		<text>Zestaw naprawczy do broni średniego i dużego kalibru (puste pudełko)</text>
+	</string>
+	<string id="st_repair_kit_r7_empty_descr">
+		<text>Puste metalowe pudełko, które wcześniej zawierało narzędzia i części zamienne służące do konserwacji broni kalibru 7.62 mm, 7.92 mm, 9x39 mm i .338. Nawet po wykorzystaniu może nadać się do naprawy metalowych elementów kombinezonów. Towar wymienny o niskiej wartości.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		</text>
+	</string>
+	
+	<string id="st_sewing_kit_b">
+		<text>Podstawowy zestaw do szycia</text>
+	</string>
+	<string id="st_sewing_kit_b_descr">
+		<text>%c[ui_gray_2]PRZEZNACZENIE:\n \n%c[d_orange] • %c[ui_gray_2] wszystkie kombinezony i lekkie hełmy\n \n%c[ui_gray_1]Lekki zestaw do szycia. W jego skład wchodzi rolka tkaniny, kilka stalowych igieł i nożyczki. Można go stosować do zaszywania dziur po kulach lub pęknięć w delikatnych tkaninach kombinezonów.\n \nJego praktyczne zastosowanie jest ograniczone ze względu na długość nici i niewielką trwałość igieł, więc zestaw będzie bezużyteczny w przypadku poważniejszych uszkodzeń. Z tego samego powodu może zszyć tylko najbardziej podstawowe i najbardziej miękkie materiały. Tak czy inaczej, żeby zwiększyć skuteczność zestawu, zalecane jest korzystanie z dodatkowych przyborów.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do napraw wyposażenia\n
+		</text>
+	</string>
+	
+	<string id="st_sewing_kit_a">
+		<text>Zaawansowany zestaw do szycia</text>
+	</string>
+	<string id="st_sewing_kit_a_descr">
+		<text>%c[ui_gray_2]PRZEZNACZENIE:\n \n%c[d_orange] • %c[ui_gray_2] wszystkie kombinezony i lekkie hełmy\n \n%c[ui_gray_1]W skład zaawansowanego zestawu do szycia wchodzi więcej materiałów i są one lepszej jakości niż w zestawie podstawowym. Podwójne szpule nici nylonowej i duży wybór wysokiej jakości igieł sprawiają, że nadaje się on do pracy na grubszych i twardszych materiałach, w tym na średnich skórach mutantów i włóknach sztucznych. Dzięki niemu będziesz w stanie naprawić także poważnie uszkodzone kombinezony.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do napraw wyposażenia\n
+		</text>
+	</string>
+	
+	<string id="st_sewing_kit_h">
+		<text>Ciężki zestaw do szycia</text>
+	</string>
+	<string id="st_sewing_kit_h_descr">
+		<text>%c[ui_gray_2]PRZEZNACZENIE:\n \n%c[d_orange] • %c[ui_gray_2] wszystkie kombinezony i lekkie hełmy\n \n%c[ui_gray_1]Wojskowy, ciężki zestaw do szycia przeznaczony do napraw pęknięć w nowoczesnych płytach ochronnych pancerzy bojowych. Zawiera wystarczającą ilość nici, by zszyć nawet rozdarty na pół kombinezon. Pozwala również na przyszycie najtwardszych skór mutantów. To najlepszy jakościowo zestaw dostępny w Zonie.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do napraw wyposażenia\n
+		</text>
+	</string>
+	
+	<string id="st_glue_b">
+		<text>Klej w tubce "Zwiezda"</text>
+	</string>
+	<string id="st_glue_b_descr">
+		<text>%c[ui_gray_2]PRZEZNACZENIE:\n \n%c[d_orange] • %c[ui_gray_2] wszystkie kombinezony i lekkie hełmy\n \n%c[ui_gray_1]Najtańszy syntetyczny klej dostępny w Zonie, oparty na żywicy epoksydowej. Stosowany przede wszystkim, żeby skleić porwane tkaniny i załatać małe dziury w hełmie, jednak bezużyteczny w przypadku poważniejszych uszkodzeń.\n \nZ drugiej strony, "Zwiezda" (ros. Gwiazda) ma świetny stosunek jakości do ceny, a jeśli korzysta się z niego regularnie, będzie w stanie utrzymać kombinezon zawsze w dobrym stanie. Żeby zwiększyć skuteczność napraw, zaleca się używać wszelkiego rodzaju materiałów pomocniczych. Klej nie łączy skór mutantów. Ułatwia szycie.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do napraw wyposażenia\n
+		</text>
+	</string>
+	
+	<string id="st_glue_a">
+		<text>Klej w tubce "Tur"</text>
+	</string>
+	<string id="st_glue_a_descr">
+		<text>%c[ui_gray_2]PRZEZNACZENIE:\n \n%c[d_orange] • %c[ui_gray_2] wszystkie kombinezony i hełmy\n \n%c[ui_gray_1]Produkowany przez ukraiński przemysł chemiczny, ten zmodyfikowany klej na bazie żywicy epoksydowej jest w stanie szybko związać większość materiałów. Wszechstronność i prostota obsługi to dwa główne powody, dla których "Tur" cieszy się takim poważaniem wśród stalkerów, w szczególności, że części zamienne są tak trudno dostępne. Klej wiąże zarówno tkaniny, jak i lżejsze materiały ochronne, np. kevlar, ale nie radzi sobie z metalami.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do napraw wyposażenia\n
+		</text>
+	</string>
+	
+	<string id="st_glue_e">
+		<text>Klej "M17"</text>
+	</string>
+	<string id="st_glue_e_descr">
+		<text>%c[ui_gray_2]PRZEZNACZENIE:\n \n%c[d_orange] • %c[ui_gray_2] wszystkie kombinezony i hełmy\n \n%c[ui_gray_1]M17 powstał jako rezultat radzieckiego, wojskowego projektu badawczego - opracowano niezwykle mocny, jednoskładnikowy klej, który można by zastosować w każdej sytuacji, niezależnie od celu i używanych materiałów. Podjęto decyzję, aby korzystać z silnego metakrylanu, który z zasady przystosowuje się do reagowania albo z tworzywami sztucznymi, albo z metalami.\n \nNaukowcom udało się przekroczyć te ograniczenia, dzięki czemu substancja równie skuteczne radzi sobie z materiałami obu rodzajów. Dodatkowo, klej występuje w formie cieczy, co zwiększa jego wszechstronność: można go rozcieńczyć wodą i stosować w dowolnym stężeniu, w zależności od zapotrzebowania. Poradzi sobie praktycznie ze wszystkimi uszkodzeniami, szczególnie jeśli wspomoże się go odpowiednimi przyborami. Potrafi związać wszystkie dostępne w Zonie materiały.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do napraw wyposażenia\n
+		</text>
+	</string>
+	
+	<string id="st_armor_repair_fa">
+		<text>Awaryjny zestaw do naprawy kombinezonów</text>
+	</string>
+	<string id="st_armor_repair_fa_descr">
+		<text>%c[ui_gray_2]PRZEZNACZENIE:\n \n%c[d_orange] • %c[ui_gray_2] wszystkie kombinezony i lekkie hełmy\n \n%c[ui_gray_1]Zestaw naprawczy pozwalający użytkownikowi przeprowadzać naprawy kombinezonów w nagłych przypadkach. W jego skład wchodzi wojskowa taśma klejąca i grube arkusze tkanin o różnych kształtach i w wielu rozmiarach, umożliwiające szybką naprawę kombinezonów.\n \nSzczególnie użyteczny, żeby zapobiegać strukturalnym uszkodzeniom pancerzy. Ze względu na stosunkowo niską jakość materiałów zestaw nadaje się jedynie do podstawowej naprawy. Jest nieskuteczny przy cięższych materiałach takich, jak kevlar czy metale, dlatego jego zastosowanie w przypadku hełmów jest bardzo ograniczone.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] szybkie użycie (taśma klejąca)\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do napraw wyposażenia\n
+		</text>
+	</string>
+	
+	<string id="st_helmet_repair_kit">
+		<text>Zestaw do naprawy hełmów</text>
+	</string>
+	<string id="st_helmet_repair_kit_descr">
+		<text>%c[ui_gray_2]PRZEZNACZENIE:\n \n%c[d_orange] • %c[ui_gray_2] średnie i ciężkie hełmy\n \n%c[ui_gray_1]Zestaw ten zawiera wszystko, co może być potrzebne do naprawy nowoczesnego hełmu bojowego. W jego skład wchodzą mocny klej i ciężkie narzędzia, umożliwiające prace na tak twardych materiałach, jak kevlar, stal czy tytan.\n \nJako że w zestawie nie ma żadnego sprzętu do szycia, nie nadaje się on do napraw materiałów elastycznych, z których tworzy się zbroje, ale można użyć go do rozmontowania hełmów celem zwiększenia efektywności naprawy.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do napraw wyposażenia\n
+		</text>
+	</string>
+	
+	<string id="st_repair_kit">
+		<text>Ciężki zestaw naprawczy do kombinezonów</text>
+	</string>
+	<string id="st_repair_kit_descr">
+		<text>%c[ui_gray_2]PRZEZNACZENIE:\n \n%c[d_orange] • %c[ui_gray_2] wszystkie kombinezony i hełmy\n \n%c[ui_gray_1]Ten skomplikowany, ciężki zestaw zawiera wszystko, co potrzebne - od wytrzymałych igieł i nici do polimerowych łatek - by przeprowadzić gruntowną naprawę kombinezonu lub hełmu. Spełni swoją funkcję bez względu na materiał, niezależnie czy będzie to ciężka tkanina, czy wojskowy kevlar, czy ciężkie skóry mutantów. Dodatkowe narzędzia i inne zestawy podniosą efektywność napraw.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do napraw wyposażenia\n
+		</text>
+	</string>
+	
+	<string id="st_light_repair_kit">
+		<text>Zestaw do naprawy lekkich pancerzy</text>
+	</string>
+	<string id="st_light_repair_kit_descr">
+		<text>%c[ui_gray_2]PRZEZNACZENIE:\n \n%c[d_orange] • %c[ui_gray_2] bardzo lekkie i lekkie pancerze\n \n%c[ui_gray_1]Ten skomplikowany, ciężki zestaw zawiera wszystko, co potrzebne - od wytrzymałych igieł i nici do polimerowych łatek - by przeprowadzić gruntowną naprawę kombinezonu lub hełmu. Spełni swoją funkcję bez względu na materiał, niezależnie czy będzie to ciężka tkanina, czy wojskowy kevlar. Dodatkowe narzędzia i inne zestawy podniosą efektywność napraw.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do napraw lekkich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="st_medium_repair_kit">
+		<text>Zestaw do naprawy średnich pancerzy</text>
+	</string>
+	<string id="st_medium_repair_kit_descr">
+		<text>%c[ui_gray_2]PRZEZNACZENIE:\n \n%c[d_orange] • %c[ui_gray_2] średnie pancerze\n \n%c[ui_gray_1]Ten skomplikowany, ciężki zestaw zawiera wszystko, co potrzebne - od wytrzymałych igieł i nici do polimerowych łatek - by przeprowadzić gruntowną naprawę kombinezonu lub hełmu. Spełni swoją funkcję bez względu na materiał, niezależnie czy będzie to ciężka tkanina, czy wojskowy kevlar. Dodatkowe narzędzia i inne zestawy podniosą efektywność napraw.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do napraw średnich pancerzy\n
+		</text>
+	</string>
+	
+	<string id="st_exolight_repair_kit">
+		<text>Zestaw do naprawy ciężkich pancerzy</text>
+	</string>
+	<string id="st_exolight_repair_kit_descr">
+		<text>%c[ui_gray_2]PRZEZNACZENIE:\n \n%c[d_orange] • %c[ui_gray_2] ciężkie pancerze\n \n%c[ui_gray_1]Ten skomplikowany, ciężki zestaw zawiera wszystko, co potrzebne - od wytrzymałych igieł i nici do polimerowych łatek - by przeprowadzić gruntowną naprawę kombinezonu lub hełmu. Spełni swoją funkcję bez względu na materiał, niezależnie czy będzie to ciężka tkanina, czy wojskowy kevlar. Dodatkowe narzędzia i inne zestawy podniosą efektywność napraw.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		</text>
+	</string>
+	
+	<string id="st_exo_repair_kit">
+		<text>Zestaw do naprawy egzoszkieletów</text>
+	</string>
+	<string id="st_exo_repair_kit_descr">
+		<text>%c[ui_gray_2]PRZEZNACZENIE:\n \n%c[d_orange] • %c[ui_gray_2] egzoszkielety\n \n%c[ui_gray_1]Ten skomplikowany, ciężki zestaw zawiera wszystko, co potrzebne - od wytrzymałych igieł i nici do polimerowych łatek - by przeprowadzić gruntowną naprawę kombinezonu lub hełmu. Spełni swoją funkcję bez względu na materiał, niezależnie czy będzie to ciężka tkanina, czy wojskowy kevlar. Dodatkowe narzędzia i inne zestawy podniosą efektywność napraw.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do napraw wyposażenia\n
+		</text>
+	</string>
+	
+	
+	<string id="st_leatherman_tool">
+		<text>Multitool</text>
+	</string>
+	<string id="st_leatherman_tool_descr">
+		<text>Wysłużony, ale w pełni funkcjonalny multitool. Można go użyć do demontażu broni lub strojów oraz do regulacji zużytych i zardzewiałych mechanizmów.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_purple] • %c[ui_gray_2] narzędzie do demontażu\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] zestaw narzędzi\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do utrzymania części broni\n
+		</text>
+	</string>
+	
+	<string id="st_rasp_tool">
+		<text>Pilnik</text>
+	</string>
+	<string id="st_rasp_tool_descr">
+		<text>Prosty pilnik służący do naprawy części broni takich jak wytarte, czy pordzewiałe lufy i komory zamkowe.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] zestaw narzędzi\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do utrzymania części broni\n
+		</text>
+	</string>
+	
+	<string id="st_ramrod_tool">
+		<text>Wycior</text>
+	</string>
+	<string id="st_ramrod_tool_descr">
+		<text>Stary wycior do lufy składający się z trzech elementów z kompozytowego drewna. Służy do naprawy części broni takich jak wytarte, czy pordzewiałe lufy i komory gazowe.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] zestaw narzędzi\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do utrzymania części broni\n
+		</text>
+	</string>
+
+	<string id="st_sewing_thread">
+		<text>Zestaw nici</text>
+	</string>
+	<string id="st_sewing_thread_descr">
+		<text>W zestawie tym znajdziesz nici wykonane z różnych włókien - jest bawełna, len, nylon, a nawet jedwab. Każdy stalker wie, że o rozdarcia i przetarcia ciuchów w Zonie nietrudno. Całkiem niezłym pomysłem jest zabranie ze sobą na wyprawę kilku szpulek i paru igieł.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot codziennego użytku\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do utrzymania części strojów\n
+		</text>
+	</string>
+	
+	<string id="st_heavy_sewing_thread">
+		<text>Polowy zestaw do naprawy pancerzy</text>
+	</string>
+	<string id="st_heavy_sewing_thread_descr">
+		<text>Zaawansowany zestaw narzędzi do szycia i zgrzewania rozszczelnień. Zawiera nici kevlarowe - jedne z najsilniejszych i najbardziej termoodpornych nici dostępnych na rynku. Są one są około dwa i pół raza mocniejsze niż nylon, czy poliester, mają niską rozciągliwość i zaczynają się topić dopiero w temperaturach powyżej 400°C. To wszystko sprawia, że są doskonałym wyborem przy odzieży ochronnej, szczególnie przeznaczonej do bardzo ciężkich warunków środowiskowych, zapewniając jej pewne i wytrzymałe szwy.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] zestaw narzędzi\n
+		%c[d_blue] • %c[ui_gray_2] wysoka jakość\n
+		%c[d_orange] • %c[ui_gray_2] można użyć do utrzymania części strojów\n
+		</text>
+	</string>
+</string_table>

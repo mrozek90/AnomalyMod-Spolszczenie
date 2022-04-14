@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+  <string id="st_rotten_meat">
+      <text>Zgniłe mięso</text>
+    </string>
+  <string id="st_rotten_meat_raw_descr">
+		<text>Strefa dała surowe mięso, które nie zostało ugotowane na czas. Po dwóch dniach ta bryła śmierdzącego mięsa jest nie do uratowania. Nawet psy tego nie tkną. Najlepiej jak najszybciej się tego pozbyć, ponieważ zapach może przyciągnąć inne stworzenia, które mogą nie być tak wybredne...</text>
+  </string>
+  <string id="st_rotten_meat_cooked_descr">
+		<text>Strefa dała żarcie, które nie zostało zjedzone na czas. Po pięciu dniach ta miska śmierdzących resztek jedzenia jest nie do uratowania. Co za straszna strata. Najlepiej jak najszybciej się jej pozbyć, ponieważ zapach może przyciągnąć jakieś stworzenia, które mogą nie być tak wybredne...</text>
+  </string>
+  <string id="st_rotten_meat_snork_descr">
+    <text>Zgniła ręka snorka, która nie została ugotowana na czas. Zdecydowanie widziała lepsze czasy. Ponieważ już go nie używasz, rzuć ją jak najdalej to może nie wróci...</text>
+  </string>
+</string_table>

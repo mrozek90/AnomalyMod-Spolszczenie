@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+
+<!--===========================================================
+<
+< TEX-T STRINGS FOR LOST TO THE ZONE: HOLLOW BOUNDARIES TASKS
+<	Anomaly 1.5 - Lost to the Zone: Hollow Boundaries
+<
+<	Made by: Tronex
+<	Last revised: 10 September 2019
+<
+<===========================================================-->
+
+<string_table>
+
+	<!-- Dushman intel -->
+	<string id="st_hb_isg_dushman_intel_name">
+		<text>Dane wywiadowcze Duszmana</text>
+	</string>
+	<string id="st_hb_isg_dushman_intel_desc">
+		<text>Jeśli Duszman dotrzymał słowa, ta teczka zawiera mapy i informacje bezcenne z punktu widzenia UNISG. Przekazane dane powinny znacznie zmniejszyć ryzyko niepowodzenia operacji prowadzonych przez oddziały ONZ.</text>
+	</string>
+
+
+	<!-- Hollow Boundaries Arc 1 -->
+	<string id="lttz_hb_task_1_1_dushman_intel_name">
+		<text>Poza Granicami: Wywiad</text>
+	</string>
+	<string id="lttz_hb_task_1_1_dushman_intel_desc">
+		<text>Major Hernandez wydał ci rozkaz odnalezienia człowieka posługującego się pseudonimem Duszman i odebrania od niego danych wywiadowczych, za które zapłaciła ONZ.</text>
+	</string>
+	
+	<string id="lttz_hb_task_1_2_recruit_name">
+		<text>Poza Granicami: Miejsce spotkania</text>
+	</string>
+	<string id="lttz_hb_task_1_2_recruit_desc">
+		<text>Major Hernandez i jego oddział osiedlili się w miejscu, które tutejsi mieszkańcy nazywają Jupiterem. Dostarcz dane wywiadowcze do wskazanej lokalizacji.</text>
+	</string>
+
+	
+	<!-- Hollow Boundaries Arc 2 -->
+	<string id="lttz_hb_task_2_1_guarded_secrets_name_1">
+		<text>Poza Granicami: Tajemnice Jupitera</text>
+	</string>
+	<string id="lttz_hb_task_2_1_guarded_secrets_name_2">
+		<text>Poza Granicami: Wróć do Hernandeza</text>
+	</string>
+	<string id="lttz_hb_task_2_1_guarded_secrets_desc_1">
+		<text>Przeszukaj fabrykę Jupiter, by odnaleźć walizkę z dokumentami. Wyeliminuj wszystkich świadków.</text>
+	</string>
+	<string id="lttz_hb_task_2_1_guarded_secrets_desc_2">
+		<text>Zabierz walizkę do majora Hernandeza. Upewnij się, że jest zabezpieczona.</text>
+	</string>
+
+	<string id="lttz_hb_task_2_2_breakthrough_name_1">
+		<text>Poza Granicami: Przełamanie linii</text>
+	</string>
+	<string id="lttz_hb_task_2_2_breakthrough_name_2">
+		<text>Poza Granicami: Porozmawiaj z Hernandezem</text>
+	</string>
+	<string id="lttz_hb_task_2_2_breakthrough_desc_1">
+		<text>Przebij się przez podziemia Jupitera z oddziałem Hernandeza. Zadbaj o ich bezpieczeństwo i rozglądaj się za jakimikolwiek dokumentami.</text>
+	</string>
+	<string id="lttz_hb_task_2_2_breakthrough_desc_2">
+		<text>Znalazłeś jakieś dokumenty. Pokaż je majorowi Hernandezowi.</text>
+	</string>
+	
+	<!-- Hollow Boundaries Arc 3 -->
+	<string id="st_lttz_hb_task_3_1_search_agr_ug_name">
+		<text>Zbadaj podziemia Agropromu</text>
+	</string>
+	<string id="st_lttz_hb_task_3_1_search_agr_ug_text">
+		<text>Zbadaj podziemia Agropromu i znajdź informacje, które zainteresują ONZ.</text>
+	</string>
+	<string id="st_lttz_hb_task_3_2_search_labx18_name">
+		<text>Zbadaj laboratorium X-18</text>
+	</string>
+	<string id="st_lttz_hb_task_3_2_search_labx18_text">
+		<text>Zbadaj laboratorium X-18 i znajdź informacje, które zainteresują ONZ.</text>
+	</string>
+	<string id="st_lttz_hb_task_3_3_search_labx16_name">
+		<text>Zbadaj laboratorium X-16</text>
+	</string>
+	<string id="st_lttz_hb_task_3_3_search_labx16_text">
+		<text>Zbadaj laboratorium X-16 i znajdź informacje, które zainteresują ONZ.</text>
+	</string>
+	<string id="st_lttz_hb_task_3_4_search_labx10_name">
+		<text>Zbadaj laboratorium X-19</text>
+	</string>
+	<string id="st_lttz_hb_task_3_4_search_labx10_text">
+		<text>Zbadaj laboratorium X-19 i znajdź informacje, które zainteresują ONZ.</text>
+	</string>
+	<string id="st_lttz_hb_task_3_5_search_labx8_name">
+		<text>Zbadaj laboratorium X-8</text>
+	</string>
+	<string id="st_lttz_hb_task_3_5_search_labx8_text">
+		<text>Zbadaj laboratorium X-8 i znajdź informacje, które zainteresują ONZ.</text>
+	</string>
+	
+	<string id="lttz_hb_task_3_8_handle_docs_name">
+		<text>Ujawnione Tajemnice</text>
+	</string>
+	<string id="lttz_hb_task_3_8_handle_docs_text">
+		<text>Zebrane dowody są więcej niż wystarczające. Wróć ze znaleziskami do majora Hernandeza - na pewno będzie zadowolony.</text>
+	</string>
+
+	<!-- Hollow Boundaries Arc 4 -->
+	<string id="lttz_hb_task_4_1_crossfire_1_name">
+		<text>Krzyżowy Ogień: Zlikwiduj siły wojskowe</text>
+	</string>
+	<string id="lttz_hb_task_4_1_crossfire_2_name">
+		<text>Krzyżowy Ogień: Rozpraw się ze Striełokiem</text>
+	</string>
+	<string id="lttz_hb_task_4_1_crossfire_3_name">
+		<text>Krzyżowy Ogień: Odeskortuj Striełoka</text>
+	</string>
+	<string id="lttz_hb_task_4_1_crossfire_4_name">
+		<text>Krzyżowy Ogień: Porozmawiaj ze Striełokiem</text>
+	</string>
+	<string id="lttz_hb_task_4_1_crossfire_5_name">
+		<text>Krzyżowy Ogień: Zabij Striełoka</text>
+	</string>
+	<string id="lttz_hb_task_4_1_crossfire_6_name">
+		<text>Krzyżowy Ogień: Przeszukaj ciało Striełoka</text>
+	</string>
+	<string id="lttz_hb_task_4_1_crossfire_7_name">
+		<text>Krzyżowy Ogień: Wróć do majora Hernandeza</text>
+	</string>
+	
+	<string id="lttz_hb_task_4_1_crossfire_1_desc">
+		<text>Major Hernandez wydał ci rozkaz wydobycia od Striełoka informacji. Najpierw wyeliminuj wojsko ścigające go na przedmieściach Prypeci.</text>
+	</string>
+	<string id="lttz_hb_task_4_1_crossfire_2_desc">
+		<text>Oddział wojskowy został zlikwidowany. Znajdź sposób, by Striełok przekazał ci wszystko, co wie.</text>
+	</string>
+	<string id="lttz_hb_task_4_1_crossfire_3_desc">
+		<text>Pomóż Striełokowi, eskortując go do Czerwonego Lasu. Możesz też wziąć go w niewolę, prowadząc do bazy UNISG w podziemiach Jupitera.</text>
+	</string>
+	<string id="lttz_hb_task_4_1_crossfire_4_desc">
+		<text>Zgodnie z umową doprowadziłeś Striełoka do Czerwonego Lasu. Porozmawiaj z nim.</text>
+	</string>
+	<string id="lttz_hb_task_4_1_crossfire_5_desc">
+		<text>Striełok nie może teraz uciec. Pozbądź się go.</text>
+	</string>
+	<string id="lttz_hb_task_4_1_crossfire_6_desc">
+		<text>Striełok nie żyje. Przeszukaj jego ciało i znajdź jakiekolwiek użyteczne informacje.</text>
+	</string>
+	<string id="lttz_hb_task_4_1_crossfire_7_desc">
+		<text>W rzeczach należących do Striełoka znalazłeś pendrive. Wróć ze znaleziskiem do majora Hernandeza.</text>
+	</string>
+
+	
+	<!-- Maus (ISG Mechanic) Find Level 1 Toolkit Task -->
+	<string id="jup_depo_isg_tech_task_1_name">
+		<text>Znajdź %s</text>
+	</string>
+	<string id="jup_depo_isg_tech_task_1_text">
+		<text>%s niezbędne są Mausowi do instalacji podstawowych ulepszeń wyposażenia. Dostarcz mu je, gdy tylko je znajdziesz.</text>
+	</string>
+	<string id="jup_depo_isg_tech_task_1_about">
+		<text>Mam dla ciebie propozycję. Przynieś mi jakieś narzędzia, a ja ci za to zapłacę. Może być? Coś tam sobie zawsze dorobisz.</text>
+	</string>
+	<string id="jup_depo_isg_tech_task_1_fetch_about">
+		<text>Wszędzie szukam sprzętu do pracy, przydałyby się chociaż %s. Zestaw powinien zawierać smary i przybory do pracy z rynsztunkiem. Zapłacę ci, jeśli przyniesiesz mi taki zestaw.</text>
+	</string>
+	<string id="jup_depo_isg_tech_task_1_fetch_finish">
+		<text>Właśnie tego szukałem. Dziękuję!</text>
+	</string>
+
+	<!-- Maus (ISG Mechanic) Find Level 2 Toolkit Task -->
+	<string id="jup_depo_isg_tech_task_2_name">
+		<text>Znajdź %s</text>
+	</string>
+	<string id="jup_depo_isg_tech_task_2_text">
+		<text>%s niezbędne są Mausowi do instalacji podstawowych ulepszeń wyposażenia. Dostarcz mu je, gdy tylko je znajdziesz.</text>
+	</string>
+	<string id="jup_depo_isg_tech_task_2_about">
+		<text>W zasadzie tak. Ten zestaw, który przyniosłeś jest w porządku, ale nie wystarcza mi do wszystkiego. Sądzisz, że udałoby ci się znaleźć lepszy?</text>
+	</string>
+	<string id="jup_depo_isg_tech_task_2_fetch_about">
+		<text>Potrzebne mi %s. Nie pytaj mnie, gdzie je znaleźć, nie mam pojęcia. Gdyby ci się udało - wiesz, gdzie mnie szukać.</text>
+	</string>
+	<string id="jup_depo_isg_tech_task_2_fetch_finish">
+		<text>No i pięknie. Teraz mam wszystko, czego mi trzeba.</text>
+	</string>
+
+	<!-- Maus (ISG Mechanic) Find Level 3 Toolkit Task -->
+	<string id="jup_depo_isg_tech_task_3_name">
+		<text>Znajdź %s</text>
+	</string>
+	<string id="jup_depo_isg_tech_task_3_text">
+		<text>%s niezbędne są Mausowi do instalacji podstawowych ulepszeń wyposażenia. Dostarcz mu je, gdy tylko je znajdziesz.</text>
+	</string>
+	<string id="jup_depo_isg_tech_task_3_about">
+		<text>Mam. Wiesz, te zestawy, które mi przyniosłeś są bardzo dobrze, ale nadal brakuje mi kilku narzędzi. Myślisz, że uda ci się znaleźć coś jeszcze?</text>
+	</string>
+	<string id="jup_depo_isg_tech_task_3_fetch_about">
+		<text>Potrzebne mi %s. Nie mam pojęcia, gdzie ich szukać. Jeśli jednak wpadną ci w ręce, przynieś go do mnie.</text>
+	</string>
+	<string id="jup_depo_isg_tech_task_3_fetch_finish">
+		<text>Ha! Teraz już nic mnie nie zaskoczy.</text>
+	</string>
+	
+</string_table>

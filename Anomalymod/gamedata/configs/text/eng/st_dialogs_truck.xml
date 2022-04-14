@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+<!-- (Bandit Mechanic) -->
+	<string id="trucks_cemetery_bandit_mechanic_start_0">
+		<text>Gratuluję! Właśnie znalazłeś jedynego cwaniaka z korbą w tym radioaktywnym pierdolniku. Płać rubelki, a ja ci poceruję szpej. Panimajesz?</text>
+	</string>
+	
+</string_table>

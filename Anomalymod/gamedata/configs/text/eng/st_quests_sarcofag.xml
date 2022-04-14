@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="sar_monolith">
+		<text>Zew Północy</text>
+	</string>
+	<string id="sar_monolith_0">
+		<text>Przemów do Spełniacza Życzeń.</text>
+	</string>
+	<string id="sar_monolith_1">
+		<text>Z północnej strony przyzywa Cię Głos. Podążaj za nim i odnajdź tego, który do Ciebie przemawia.</text>
+	</string>
+	<string id="sar_monolith_2">
+		<text>Przyzywający Cię głos to z pewnością sam Spełniacz Życzeń. Poszukaj go w labiryntach Sarkofagu.</text>
+	</string>
+	<string id="sar_monolith_destroy">
+		<text>Grobowiec z betonu</text>
+	</string>
+	<string id="sar_monolith_destroy_0">
+		<text>Notatki wspominały o ukrytej bazie Monolitu. Odnajdź ją i dowiedz się, co tam się dzieje.</text>
+	</string>
+	<string id="sar_monolith_destroy_1">
+		<text>Zniszcz Spełniacz Życzeń: pokonaj 10 fal projekcji wywołanych przez Spełniacz.</text>
+	</string>
+	<string id="sar_monolith_destroy_2">
+		<text>Odłącz zasilanie generatorów zasilających Świadomość-Z.</text>
+	</string>
+	<string id="sar_monolith_destroy_3">
+		<text>Wyłącz Generatory.</text>
+	</string>
+</string_table>

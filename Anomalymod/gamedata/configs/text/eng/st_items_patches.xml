@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Faction Patches
+-->
+
+<string_table>
+	<string id="csky_patch">
+		<text>Naszywka Czystego Nieba</text>
+	</string>
+	<string id="csky_patch_description">
+		<text>Symbol frakcji zerwany z kombinezonu Czystego Nieba.</text>
+	</string>
+
+	<string id="freedom_patch">
+		<text>Naszywka Wolności</text>
+	</string>
+	<string id="freedom_patch_description">
+		<text>Symbol frakcji zerwany z kombinezonu Wolności.</text>
+	</string>
+
+	<string id="stalker_patch">
+		<text>Naszywka samotników</text>
+	</string>
+	<string id="stalker_patch_description">
+		<text>Symbol zerwany z kombinezonu samotnika.</text>
+	</string>
+
+	<string id="ecolog_patch">
+		<text>Naszywka Ekologów</text>
+	</string>
+	<string id="ecolog_patch_description">
+		<text>Symbol zerwany z kombinezonu Ekologa.</text>
+	</string>
+
+	<string id="bandit_patch">
+		<text>Naszywka Bandytów</text>
+	</string>
+	<string id="bandit_patch_description">
+		<text>Symbol zerwany z kombinezonu bandyty.</text>
+	</string>
+
+	<string id="duty_patch">
+		<text>Naszywka Powinności</text>
+	</string>
+	<string id="duty_patch_description">
+		<text>Symbol frakcji zerwany z kombinezonu Powinności.</text>
+	</string>
+
+	<string id="monolith_patch">
+		<text>Naszywka Monolitu</text>
+	</string>
+	<string id="monolith_patch_description">
+		<text>Symbol frakcji zerwany z kombinezonu Monolitu.</text>
+	</string>
+
+	<string id="army_patch">
+		<text>Naszywka wojskowa</text>
+	</string>
+	<string id="army_patch_description">
+		<text>Symbol frakcji zerwany z kombinezonu żołnierza armii ukraińskiej.</text>
+	</string>
+
+	<string id="merc_patch">
+		<text>Naszywka najemników</text>
+	</string>
+	<string id="merc_patch_description">
+		<text>Symbol zerwany z kombinezonu najemnika.</text>
+	</string>
+	
+	<string id="st_clearsky_fp">
+		<text>Naszywka Czystego Nieba</text>
+	</string>
+	<string id="st_clearsky_fp_descr">
+		<text>Znak tej frakcji przedstawia wschód słońca na tle czystego, błękitnego nieba, po którym lecą białe gołębie. Symbolizuje on misje frakcji - jedną z nich jest uzdrowienie Zony, a drugą niechęć do walki.\n \nCzyste Niebo obrało sobie za cel stopniowe zmniejszenie częstotliwości i gwałtowności emisji oraz innych anomalnych kataklizmów. Niewielu stalkerów wierzy, że kiedykolwiek będzie to możliwe.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot osobisty\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		</text>
+	</string>
+	
+	<string id="st_freedom_fp">
+		<text>Naszywka Wolności</text>
+	</string>
+	<string id="st_freedom_fp_descr">
+		<text>Znak tej frakcji przedstawia zielonego wilka na czarnym tle i flagę Ukrainy. Taki wzór oznacza społeczną naturę Wolności i ich miłość do ziemi, a z drugiej strony - zdecydowaną determinację i zespołowe, drapieżne okrucieństwo w bitwie. Tajemnicą pozostaje, dlaczego anarchiści chcieliby umieścić flagę jakiegokolwiek kraju na swoim znaku rozpoznawczym.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot osobisty\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		</text>
+	</string>
+	
+	<string id="st_stalker_fp">
+		<text>Naszywka radiacji</text>
+	</string>
+	<string id="st_stalker_fp_descr">
+		<text>Najczęściej korzystają z niej stalkerzy nie będący w żadnej z frakcji, jako symbol braku przynależności. Tego typu naszywki chętnie zbierają najemnicy, wymieniając je na towar od nieznanego klienta. Chociaż samotników jest w Zonie najwięcej, zwykle żyją w małych, rozproszonych grupach, przez co stanowią cel dla lepiej zorganizowanych oddziałów.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot osobisty\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		</text>
+	</string>
+	
+	<string id="st_ecolog_fp">
+		<text>Naszywka Ekologów</text>
+	</string>
+	<string id="st_ecolog_fp_descr">
+		<text>Znak tej frakcji przedstawia parę złotych skrzydeł na biało-zielonkawym tle. Czarny rynek w Zonie bardzo ceni naszywki ekologów, jako że stalker z takim symbolem może poruszać się niemal wszędzie bez skrępowania i atakowania ze strony innych ugrupowań. Tym bardziej, że ekolodzy raczej nie rozstają się ze swoimi naszywkami zbyt chętnie - co jednak dla niektórych nie jest żadną przeszkodą.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot osobisty\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		</text>
+	</string>
+	
+	<string id="st_bandit_fp">
+		<text>Naszywka Bandytów</text>
+	</string>
+	<string id="st_bandit_fp_descr">
+		<text>Znak tej frakcji przedstawia czarną, pękniętą czaszkę na białej tarczy. Ten symbol zgodny jest z postrzeganiem bandytów przez ich nieformalnych prowodyrów - nie jako bandę żądnych krwi watażków, ale raczej jako panów feudalnych, podporządkowujących tych, którzy zaakceptowali ich "ochronę" i przynoszących bezwzględną zemstę wszystkim, którzy ośmielą się im przeciwstawić.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot osobisty\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		</text>
+	</string>
+	
+	<string id="st_dolg_fp">
+		<text>Naszywka Powinności</text>
+	</string>
+	<string id="st_dolg_fp_descr">
+		<text>Znak tej frakcji przedstawia złoty okrąg celowniczy wewnątrz czerwonej i czarnej tarczy. Symbolika odwołuje się do militarnych korzeni frakcji, ale nie umniejsza ich obecnej roli stoickich żołnierzy, zdecydowanie walczących z każdym ruchem Zony w ochronie całego świata.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot osobisty\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		</text>
+	</string>
+	
+	<string id="st_monolith_fp">
+		<text>Naszywka Monolitu</text>
+	</string>
+	<string id="st_monolith_fp_descr">
+		<text>Znak tej frakcji przedstawia skrzydło na tle złotego słońca - prawdopodobnie będącego symbolem Spełniacza Życzeń. Najbardziej intrygującym aspektem tej naszywki jest fakt, że noszą ją niemal wyłącznie stalkerzy uważani za obłąkanych fanatyków z wypranymi mózgami.\n \nSam fakt istnienia takiej naszywki sugeruje, że bojownicy Monolitu posiadają większą kreatywność, niż początkowo sądzono albo, że są wspierani przez kogoś z zewnątrz.\n \nNaszywki Monolitu są wysoko cenione przez inne frakcje - posiadający je stalker udowadnia, że walczył z fanatykami i żyje, co wzbudza szacunek u weteranów Zony.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot osobisty\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		</text>
+	</string>
+	
+	<string id="st_army_fp">
+		<text>Naszywka wojskowa</text>
+	</string>
+	<string id="st_army_fp_descr">
+		<text>Emblemat stanowi herb armii ukraińskiej. Zawiera trzy tarcze - w środkową wpisany jest herb Ukrainy na tle jej flagi - i dwa krzyżujące się miecze. Tarcze otoczone są przez złoty wieniec laurowy.\n \nŻołnierze w Zonie zdają się uważać samych siebie za obrońców planety i tych utrzymujących porządek. W rzeczywistości to, czy udaje im się wypełnić tę rolę jest przedmiotem gorzkich sporów.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot osobisty\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		</text>
+	</string>
+	
+	<string id="st_merc_fp">
+		<text>Naszywka Najemników</text>
+	</string>
+	<string id="st_merc_fp_descr">
+		<text>Znak tej frakcji przedstawia niebieskiego, drapieżnego ptaka na czarnym tle. Wskazuje charakter najemników jako frakcji - zimni, dokładni, bardzo mobilni żołnierze fortuny, w każdej chwili gotowi do przejmowania bądź eliminacji wskazanych celów. \n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot osobisty\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		</text>
+	</string>
+	
+	<string id="st_isg_fp">
+		<text>Naszywka UNISG</text>
+	</string>
+	<string id="st_isg_fp_descr">
+		<text>Znak tej frakcji przedstawia biały mikroskop przepasany stylizowanymi, kanciastymi laurami na bordowym tle. Informacja na odwrocie naszywki wskazuje, że należy ona do Międzynarodowej Grupy Badawczej ONZ.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot osobisty\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		</text>
+	</string>
+	
+	<string id="st_greh_fp">
+		<text>Naszywka Grzechu</text>
+	</string>
+	<string id="st_greh_fp_descr">
+		<text>Samo posiadanie tej naszywki sprawia, że czujesz się trochę nieswojo. W lewym górnym rogu narysowany jest wąż, a w prawym prawosławny krzyż. Rysunek na środku symbolizować ma zaćmienie słońca. Im dłużej wpatrujesz się w emblemat, tym bardziej twoje zdenerwowanie przechodzi w dziwne uczucie spokoju i błogości.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot osobisty\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		</text>
+	</string>
+	
+	<string id="st_renegade_fp">
+		<text>Naszywka Renegatów</text>
+	</string>
+	<string id="st_renegade_fp_descr">
+		<text>Znak tej frakcji przedstawia żółtego skorpiona na ciemnozielonym tle. Istnienie przedmiotu świadczy o tym, że renegaci w Zonie mieli jakiś wyższy cel swojego istnienia, aczkolwiek nikt dzisiaj nie wierzy w to, że scalili się w jedną frakcję z pobudek innych, niż desperacka próba przeżycia. Naszywki wciąż są w obiegu prawdziwych renegatów, prawdopodobnie z nostalgii.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot osobisty\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		</text>
+	</string>
+</string_table>

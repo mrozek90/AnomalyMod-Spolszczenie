@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	<!-- fast travel names -->
+	<string id="st_pda_fast_travel_to">
+		<text>szybka podróż:</text>
+	</string>
+	<string id="agr_smart_terrain_1_2">
+		<text>- bagna</text>
+	</string>
+	<string id="agr_smart_terrain_1_6">
+		<text>- ośrodek badawczy</text>
+	</string>
+	<string id="agr_smart_terrain_4_4">
+		<text>- fabryka</text>
+	</string>
+	<string id="agr_smart_terrain_6_4">
+		<text>- obóz w tunelu</text>
+	</string>
+
+	<string id="mil_smart_terrain_2_2">
+		<text>- obóz najemników</text>
+	</string>
+	<string id="mil_smart_terrain_2_4">
+		<text>- farma</text>
+	</string>
+	<string id="mil_smart_terrain_2_6">
+		<text>- helikopter</text>
+	</string>
+	<string id="mil_smart_terrain_2_10">
+		<text>- wioska pijawek</text>
+	</string>
+	<string id="mil_smart_terrain_3_8">
+		<text>- Bariera</text>
+	</string>
+	<string id="mil_smart_terrain_7_4">
+		<text>- posterunek Powinności</text>
+	</string>
+	<string id="mil_smart_terrain_7_12">
+		<text>- baza Wolności</text>
+	</string>
+
+	<string id="aes_smart_terrain_monolit_blockpost4">
+		<text>- blokada Monolitu</text>
+	</string>
+	<string id="aes2_monolith_snipers_2">
+		<text>- strefa patrolu Monolitu</text>
+	</string>
+
+	<string id="esc_smart_terrain_2_12">
+		<text>- wioska kotów</text>
+	</string>
+	<string id="esc_smart_terrain_3_16">
+		<text>- posterunek wojskowy</text>
+	</string>
+	<string id="esc_smart_terrain_5_2">
+		<text>- posterunek wojskowy</text>
+	</string>
+	<string id="esc_smart_terrain_5_7">
+		<text>- farma na północy</text>
+	</string>
+	<string id="esc_smart_terrain_5_9">
+		<text>- młyn</text>
+	</string>
+	<string id="esc_smart_terrain_6_6">
+		<text>- opuszczone gospodarstwo</text>
+	</string>
+	<string id="esc_smart_terrain_6_8">
+		<text>- most kolejowy</text>
+	</string>
+	<string id="esc_smart_terrain_7_11">
+		<text>- stacja pojazdów</text>
+	</string>
+
+	<string id="ds2_lager_st">
+		<text>- obóz pod klifem</text>
+	</string>
+	<string id="ds_kem2">
+		<text>- opuszczona stacja benzynowa</text>
+	</string>
+	<string id="ds_ptr">
+		<text>- przejazd kolejowy</text>
+	</string>
+	<string id="ds2_domik_st">
+		<text>- opuszczona farma</text>
+	</string>
+
+	<string id="val_smart_terrain_1_2">
+		<text>- za kompleks X-18</text>
+	</string>
+	<string id="val_smart_terrain_4_0">
+		<text>- opuszczone chlewy</text>
+	</string>
+	<string id="val_smart_terrain_7_4">
+		<text>- baza bandytów</text>
+	</string>
+	<string id="val_smart_terrain_7_8">
+		<text>- jezioro na północy</text>
+	</string>
+	<string id="val_smart_terrain_8_9">
+		<text>- jezioro na południu</text>
+	</string>
+
+	<string id="cit_killers">
+		<text>- baza najemników</text>
+	</string>
+	<string id="cit_bandits">
+		<text>- szkoła w Martwym Mieście</text>
+	</string>
+	<string id="cit_bandits_2">
+		<text>- wioska w Martwym Mieście</text>
+	</string>
+
+	<string id="katacomb_smart_terrain">
+		<text>- opuszczony szpital</text>
+	</string>
+
+	<string id="gar_smart_terrain_3_5">
+		<text>- hangar</text>
+	</string>
+	<string id="gar_smart_terrain_3_7">
+		<text>- złomowisko pojazdów</text>
+	</string>
+	<string id="gar_smart_terrain_6_3">
+		<text>- Pchli Targ</text>
+	</string>
+
+	<string id="gen_smart_terrain_cemetery">
+		<text>- cmentarz</text>
+	</string>
+	<string id="gen_smart_terrain_lab_entrance">
+		<text>- wejście do War Lab</text>
+	</string>
+	<string id="gen_smart_terrain_lab_entrance_2">
+		<text>- tylne wejście</text>
+	</string>
+
+	<string id="mar_smart_terrain_base">
+		<text>- baza Czystego Nieba</text>
+	</string>
+	<string id="mar_smart_terrain_doc">
+		<text>- tunel Tuzła</text>
+	</string>
+	<string id="mar_smart_terrain_doc_2">
+		<text>- posterunek</text>
+	</string>
+	<string id="mar_smart_terrain_3_3">
+		<text>- obóz przy torach</text>
+	</string>
+	<string id="mar_smart_terrain_4_5">
+		<text>- zrujnowana wioska</text>
+	</string>
+	<string id="mar_smart_terrain_5_8">
+		<text>- stacja pomp</text>
+	</string>
+	<string id="mar_smart_terrain_5_12">
+		<text>- osada rybacka</text>
+	</string>
+	<string id="mar_smart_terrain_8_8">
+		<text>- spalone gospodarstwo</text>
+	</string>
+	<string id="mar_smart_terrain_8_11">
+		<text>- stara cerkiew</text>
+	</string>
+	<string id="mar_smart_terrain_10_5">
+		<text>- park maszyn</text>
+	</string>
+	<string id="mar_smart_terrain_11_11">
+		<text>- gospodarstwo na południu</text>
+	</string>
+	<string id="mar_smart_terrain_12_2">
+		<text>- gospodarstwo na północy</text>
+	</string>
+
+	<string id="jup_a12">
+		<text>- magazyn kontenerów</text>
+	</string>
+	<string id="jup_b204">
+		<text>- obóz bandytów</text>
+	</string>
+	<string id="jup_a6">
+		<text>- stacja Janów</text>
+	</string>
+	<string id="jup_b200">
+		<text>- cementownia</text>
+	</string>
+	<string id="jup_b19">
+		<text>- Kopaczi</text>
+	</string>
+	<string id="jup_b41">
+		<text>- obóz naukowy</text>
+	</string>
+
+	<string id="lim_smart_terrain_1">
+		<text>- obóz przed Czerwonym Lasem</text>
+	</string>
+	<string id="lim_smart_terrain_3">
+		<text>- Gastronom</text>
+	</string>
+	<string id="lim_smart_terrain_6">
+		<text>- posterunek przy moście</text>
+	</string>
+	<string id="lim_smart_terrain_9">
+		<text>- plac budowy</text>
+	</string>
+	<string id="lim_smart_terrain_10">
+		<text>- instytut Radiofala</text>
+	</string>
+
+	<string id="pri_a16">
+		<text>- pralnia</text>
+	</string>
+	<string id="pri_a21_smart_terrain">
+		<text>- sklep spożywczy</text>
+	</string>
+	<string id="pri_a28_school">
+		<text>- szkoła</text>
+	</string>
+	<string id="pri_b36_smart_terrain">
+		<text>- port rzeczny</text>
+	</string>
+
+	<string id="pri_smart_monolith_stalker6">
+		<text>- stadion</text>
+	</string>
+	<string id="pri_smart_pseudodog_lair1">
+		<text>- diabelski młyn</text>
+	</string>
+	<string id="pri_smart_tushkano_lair1">
+		<text>- hotel Polesie</text>
+	</string>
+	<string id="pri_monolith">
+		<text>- baza Monolitu</text>
+	</string>
+	<string id="pri_smart_neutral_stalker1">
+		<text>- aleja</text>
+	</string>
+
+	<string id="rad_antenna_patrol">
+		<text>- Mózgozwęglacz (wejście X-19)</text>
+	</string>
+	<string id="rad2_loner_0001">
+		<text>- przystanek autobusowy</text>
+	</string>
+	<string id="rad2_prip_teleport">
+		<text>- tunel</text>
+	</string>
+	<string id="rad_entrance">
+		<text>- posterunek za Barierą</text>
+	</string>
+
+	<string id="red_smart_terrain_3_2">
+		<text>- stara kopalnia</text>
+	</string>
+	<string id="red_smart_terrain_4_2">
+		<text>- kompleks wydobywczy</text>
+	</string>
+	<string id="red_smart_terrain_6_3">
+		<text>- diabelskie obozowisko</text>
+	</string>
+	<string id="red_smart_terrain_bridge">
+		<text>- most do Limańska</text>
+	</string>
+
+	<string id="bar_visitors">
+		<text>- bar Sto Radów</text>
+	</string>
+	<string id="bar_dolg_general">
+		<text>- baza Powinności</text>
+	</string>
+
+	<string id="ros_smart_poltergeist2">
+		<text>- hala kolejowa</text>
+	</string>
+	<string id="ros_smart_stalker_killers1">
+		<text>- obóz najemników</text>
+	</string>
+	<string id="ros_smart_killers1">
+		<text>- punkt snajperski</text>
+	</string>
+
+	<string id="trc_sim_1">
+		<text>- południowa baza</text>
+	</string>
+	<string id="trc_sim_3">
+		<text>- zachodnia baza</text>
+	</string>
+	<string id="trc_sim_4">
+		<text>- południowo-wschodnia baza</text>
+	</string>
+	<string id="trc_sim_7">
+		<text>- wschodnia baza</text>
+	</string>
+	<string id="trc_sim_10">
+		<text>- południowo-zachodnia baza</text>
+	</string>
+	<string id="trc_sim_17">
+		<text>- północna baza</text>
+	</string>
+	<string id="trc_sim_20">
+		<text>- północno-wschodnia baza</text>
+	</string>
+
+	<string id="yan_smart_terrain_3_6">
+		<text>- wschodnia baza</text>
+	</string>
+	<string id="yan_smart_terrain_6_4">
+		<text>- obóz naukowy</text>
+	</string>
+
+	<string id="zat_stalker_base_smart">
+		<text>- Skadowsk</text>
+	</string>
+	<string id="zat_b5_smart_terrain">
+		<text>- leśniczówka</text>
+	</string>
+	<string id="zat_b40_smart_terrain">
+		<text>- ZUO</text>
+	</string>
+	<string id="zat_b100">
+		<text>- Żelazny Las</text>
+	</string>
+	<string id="zat_b101">
+		<text>- tartak</text>
+	</string>
+</string_table>

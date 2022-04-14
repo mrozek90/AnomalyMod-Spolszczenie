@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="st_hobo_match">
+		<text>Strike anywhere match</text>
+	</string>
+	
+	<string id="st_hobo_match_descr">
+		<text>
+            An Individual strike anywhere match. Useful on it's own but can be annoying if stored individually. It would be better to be kept it dry in a box until it is needed for use.  \n \n \n 
+			
+			%c[ui_gray_3]PROPERTIES:  \n 
+			%c[d_blue] • %c[ui_gray_2] everyday item  \n 
+			%c[d_orange] • %c[ui_gray_2] usable for: %c[ui_gray_1] starting a fire, lighting a cigarette  \n \n 
+		</text>
+	</string>
+
+	<string id="st_hobo_matchbox">
+		<text>Box of strike anywhere matches</text>
+	</string>
+	
+	<string id="st_hobo_matchbox_descr">
+		<text>
+            A box of strike anywhere matches. Extremely useful for the homeless stalker to keep their matches dry and to prevent matches from littering their backpack.   \n \n \n
+			
+			%c[ui_gray_3]PROPERTIES:  \n 
+			%c[d_blue] • %c[ui_gray_2] storage container for matches  \n 			
+		</text>
+	</string>	
+	
+	<string id="st_add_match">
+        <text>Added a match to the box</text>
+    </string>
+	
+	<string id="st_match_box">
+        <text>box matches</text>
+    </string>
+	
+	<string id="st_match_bundle">
+        <text>bundle matches</text>
+    </string>
+	
+	<string id="st_take_match">
+        <text>take match</text>
+    </string>
+	
+	<string id="st_box_full">
+        <text>This Match Box is Full</text>
+    </string>
+	
+	<string id="st_number_of_uses">
+		<text>Matches in Box</text>
+	</string>
+</string_table>

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+<!-- Cold (Clear Sky Leader) -->
+	<string id="find_blackbox_mlr_reward_csky_0">
+		<text>Znalazłem rejestrator lotu.</text>
+	</string>
+	<string id="find_blackbox_mlr_reward_csky_1">
+		<text>Ach, to świetne znalezisko! Być może uda nam się w końcu odkryć przyczynę wojskowych nalotów na Bagna.</text>
+	</string>
+
+
+<!-- Librarian (Clear Sky Barman) -->
+	<string id="story_b_cs_0">
+		<text>Co możesz mi powiedzieć o Zimnym?</text>
+	</string>
+	<string id="story_b_cs_1">
+		<text>Co mogę powiedzieć? Zyskał całkiem duży szacunek jako obecny lider naszej organizacji.</text>
+	</string>
+	<string id="story_b_cs_2">
+		<text>W jaki sposób zyskał ten szacunek?</text>
+	</string>
+	<string id="story_b_cs_3">
+		<text>Ano widzisz, żeby o tym mówić, należy zacząć od postaci Lebiediewa, byłego lidera Czystego Nieba. Wiązało się z nim, jakby to powiedzieć... sporo kontrowersji. Ja osobiście nigdy go nie spotkałem, ale z tego co wiem, raczej nie brał pod uwagę opinii innych członków naszej frakcji na temat ich "krucjaty" w kierunku Elektrowni.\n \nOczywiście pomógł nam pewien najemnik, ale koniec końców to wszystko nie było warte ceny, którą jako frakcja musieliśmy zapłacić. Ci, którzy zostali w bazie nie byli w stanie odpowiedzieć na odrodzenie Renegatów. Wszystkie nasze wcześniejsze starania o przywrócenie ładu w tej części Zony diabli wzięli, a ofiary poniesione tak w drodze na północ, jak i na samych Bagnach, okazały się próżne.</text>
+	</string>
+	<string id="story_b_cs_4">
+		<text>Wygląda na to, że uraz większości członków do swojego lidera w tamtym czasie był uzasadniony.</text>
+	</string>
+	<string id="story_b_cs_5">
+		<text>To nie wszystko... Po tym, jak nasze jednostki wróciły, musieliśmy zacząć długą walkę o odzyskanie wszystkiego, co nam odebrano. Nie bylibyśmy w stanie prowadzić codziennego życia bez Zimnego. Udało mu się dogadać z kilkoma niezrzeszonymi stalkerami, złapał dzięki temu kontakt z ludźmi od Kordonu po Wysypisko.\n \nPomogli nam wolni stalkerzy, nikt temu nie przeczy, a posiadanie charyzmatycznego lidera wcale nam nie szkodzi. Co więcej, Zimny dał rozkaz każdemu z naszych wojowników - bez wyjątków - by nie opuszczać Bagien. Przyjmiemy każdą pomoc, ale nie za cenę życia naszych ludzi.</text>
+	</string>
+	<string id="story_b_cs_6">
+		<text>Kimkolwiek był i cokolwiek zrobił Lebiediew, nie jesteście już tą samą frakcją, którą byliście kiedyś.</text>
+	</string>
+	<string id="story_b_cs_7">
+		<text>To twoja opinia. Oczywiście ma swoją wartość. Aktualnie, nie mamy celów na dużą skalę, może poza... emm... W każdym razie, myślę że wystarczy tych opowiadań. Zabierzmy się za handel.</text>
+	</string>
+	<string id="story_b_cs_8">
+		<text>Zgoda.</text>
+	</string>
+
+	<string id="story_dog_0">
+		<text>Powiedz mi, co to za psisko?</text>
+	</string>
+	<string id="story_dog_1">
+		<text>To Asystent, pies Doktora. Poprosił Zimnego by się nim zaopiekował, bo powoli zaczyna niedomagać.</text>
+	</string>
+	<string id="story_dog_2">
+		<text>Co, jak co, ale temu psu opieka raczej niepotrzebna.</text>
+	</string>
+	<string id="story_dog_3">
+		<text>Wygląd czasem może być mylący. Ten zwierzak to naprawdę dobroduszne stworzenie. Opowiedzieć ci o nich parę ciekawostek?</text>
+	</string>
+	<string id="story_dog_4">
+		<text>Mów śmiało.</text>
+	</string>
+	<string id="story_dog_5">
+		<text>Nibypsy tak naprawdę wcale nie są zmutowanymi psami, chociaż mają tego samego przodka. Wbrew pozorom, pochodzą one od wilków - kiedyś odkryli to badacze Powinności.</text>
+	</string>
+	<string id="story_dog_6">
+		<text>A ty skąd się o tym dowiedziałeś?</text>
+	</string>
+	<string id="story_dog_7">
+		<text>Z racji mojego zawodu gromadzę, że tak powiem, różne historie. Na północ stąd, głęboko w Zonie jest miejsce podobne do naszych bagien. Wszyscy mówią o tej okolicy "Zaton".\n \nSłyszałem, że na jednej ze starych barek mieszka stalker... no, podobno nie do końca zdrowy na umyśle. Co ciekawe, jemu także udało się oswoić nibypsa. Być może uda ci się odkryć, czy to prawda, jeśli nie przeraża cię dystans, jaki dzieli Bagna i Zaton.</text>
+	</string>
+	<string id="story_dog_8">
+		<text>No co ty, to tylko cała Zona, przynajmniej wzdłuż. Rzut muterką stąd. Cóż, może kiedyś tam zajrzę.</text>
+	</string>
+	
+	<string id="about_dog_marsh_part_two_0">
+		<text>Rozmawiałem z Noem, tym dziwakiem o którym wspominałeś.</text>
+	</string>
+	<string id="about_dog_marsh_part_two_1">
+		<text>Och, zupełnie o tym zapomniałem. I co, prawda to, co mówią? Udało mu się oswoić nibypsa?</text>
+	</string>
+	<string id="about_dog_marsh_part_two_2">
+		<text>Tak. Nazywa ją Lassie. Ma dwa szczeniaki, które nie wykazują żadnych oznak agresywnego zachowania.</text>
+	</string>
+	<string id="about_dog_marsh_part_two_3">
+		<text>Szczeniaki?! Nigdy bym nie pomyślał, że można ujrzeć w Zonie taki widok! Cóż, dzięki - teraz już mam pewność, że Asystent nie jest jedynym przyjaźnie nastawionym nibypsem w całej Zonie. Trzymaj trochę zapasów na twoje przyszłe wyprawy...\n \nJeśli potrzebujesz, mogę ci wskazać skrót z Magazynów Wojskowych do Czerwonego Lasu. Wiedza uzyskana w czasach dawnych podbojów została z nami jako takie... echo przeszłości.</text>
+	</string>
+
+	
+<!-- (Clear Sky guide) -->
+	<string id="meet_guid_marsh_csky_0">
+		<text>Hej, dlaczego tak tu stoisz?</text>
+	</string>
+	<string id="meet_guid_marsh_csky_1">
+		<text>A co, masz z tym jakiś problem? Nie no, żartuję, spokojnie. Muszę być cały czas na widoku, ponieważ jestem lokalnym przewodnikiem. Nie oceniaj mojego szpeju, stary, nie ma sensu. I dla mnie, i dla ciebie tak będzie łatwiej, zaufaj mi.\n \nJeśli chcesz, mogę zaprowadzić cię w kilka miejsc, głównie do okolicznych posterunków obserwacyjnych na Bagnach, a także na Stację Pomp, do Starej Cerkwi i Parku Maszynowego. Oprócz tego oferuję również wyprawy do Wioski Nowicjuszy w Kordonie, na Agroprom i do Baru. Oczywiście, wszystko za odpowiednią opłatą.</text>
+	</string>
+
+	<string id="meet_guid_marsh_csky_list_0">
+		<text>Możesz powtórzyć, dokąd możesz mnie zaprowadzić?</text>
+	</string>
+	<string id="meet_guid_marsh_csky_list_1">
+		<text>Jasne: na posterunek obserwacyjny za trzysta rubli, na Stację Pomp lub do Starej Cerkwi za pięćset, do Parku Maszynowego za osiemset, do Wioski Nowicjuszy w Kordonie za tysiąc pięćset, na Agroprom za dwa tysiące i do Baru za cztery tysiące.</text>
+	</string>
+
+	<string id="travel_guid_marsh_csky_0">
+		<text>Chciałbym skorzystać z twoich usług.</text>
+	</string>
+	<string id="travel_guid_marsh_csky_1">
+		<text>Jasne, dokąd cię zaprowadzić?</text>
+	</string>
+	<string id="travel_guid_marsh_csky_2">
+		<text>Na posterunek obserwacyjny. %c[d_orange][300 RU]</text>
+	</string>
+	<string id="travel_guid_marsh_csky_3">
+		<text>Na Stację Pomp. %c[d_orange][500 RU]</text>
+	</string>
+	<string id="travel_guid_marsh_csky_4">
+		<text>Do Starej Cerkwi. %c[d_orange][500 RU]</text>
+	</string>
+	<string id="travel_guid_marsh_csky_5">
+		<text>Do Parku Maszynowego. %c[d_orange][800 RU]</text>
+	</string>
+	<string id="travel_guid_marsh_csky_6">
+		<text>Do Wioski Nowicjuszy w Kordonie. %c[d_orange][1.500 RU]</text>
+	</string>
+	<string id="travel_guid_marsh_csky_7">
+		<text>Na Agroprom. %c[d_orange][2.000 RU]</text>
+	</string>
+	<string id="travel_guid_marsh_csky_8">
+		<text>Do Baru. %c[d_orange][4.000 RU]</text>
+	</string>
+	<string id="travel_guid_marsh_csky_9">
+		<text>Zmieniłem zdanie.</text>
+	</string>
+
+	<string id="mar_csky_guide_background_1">
+		<text>Ja? Cóż, jestem przewodnikiem Czystego Nieba już siedem lat. Kiedy zaczynałem, gdzieś w dwa tysiące jedenastym, trzymałem się głównie bagien, tylko raz na jakiś czas wypuszczając się dalej. Ale to były inne czasy. Sytuacja zmieniła się dopiero, kiedy gdzieś w zaroślach znaleźli tego cholernego najemnika z ustami pełnymi wody.\n \nNasi liderzy początkowo mu nie ufali - kazali mi zasłaniać mu oczy za każdym razem, kiedy chciał opuścić naszą bazę. A on w ciągu paru tygodni jakimś cudem zdołał przekonać do siebie ich i większość naszych ludzi. To z jego inicjatywy Lebiediew ruszył na Elektrownie.\n \nWszyscy słyszeli, jak to się skończyło. Nie muszę chyba dodawać, że ani on, ani większość naszej frakcji nie wróciła z tego piekła. Wszystko z powodu tego jebanego najemnika.</text>
+	</string>
+	<string id="mar_csky_guide_background_2">
+		<text>Masz na myśli Szramę?</text>
+	</string>
+	<string id="mar_csky_guide_background_3">
+		<text>Tak, tę "legendę". Bardziej niż bliznę na jego twarzy pamiętam jego przerażające spojrzenie. Dostawałem na jego widok gęsiej skórki.\n \nProfesor Kałańcza zdradził nam, że jest on w jakiś sposób odporny na emisje. Więcej! Z każdą kolejną stawał się coraz silniejszy! Oczywiście, miało to bardzo negatywny wpływ na jego układ nerwowy. Wygląda na to, że nie przetrwał tej gigantycznej "imprezki" na terenie Elektrowni. W każdym razie... dobrze mu tak.</text>
+	</string>
+	<string id="mar_csky_guide_background_4">
+		<text>Cóż, niech spoczywa w kawałkach, jak mniemam.</text>
+	</string>
+	
+	
+<!-- (Clear Sky Mechanic) -->
+	<string id="marsh_stalker_tech_pragmatic_research_0">
+		<text>Czyste Niebo bada coś ważnego, zgadza się?</text>
+	</string>
+	<string id="marsh_stalker_tech_pragmatic_research_1">
+		<text>Żebyś wiedział. Podobnie jak Ekologowie, próbujemy lepiej zrozumieć Zonę. Z tą różnicą, że my nie poprzestajemy na obserwacjach. Preferujemy wykorzystywać wiedzę, którą zgromadziliśmy w praktyce.\n \nNa przykład, odłamki artefaktu Grawi osadzone w pancerzu zauważalnie redukują jego wagę. Koagulant wydzielany przez pijawki może zostać zaimplementowany w systemie podtrzymywania życia, który zapobiega krwawieniu, a poprawiona zdolność widzenia oka mięsacza pomogła nam w wynalezieniu lepszych systemów celowania. A to tylko kilka pomysłów, jakie udało nam się zrealizować.</text>
+	</string>
+
+	
+	<string id="cit_doctor_hello_dialog_11">
+        <text>Tak? Czego chcesz?</text>
+    </string>
+    <string id="cit_doctor_hello_dialog_21">
+        <text>Powiedziałem ci już wszystko, co wiem.</text>
+    </string>
+    <string id="cit_doctor_main_dialog_0">
+        <text>Słyszałem, że posiadasz dużą wiedzę na temat Zony.</text>
+    </string>
+    <string id="cit_doctor_main_dialog_1">
+        <text>Och... Być może tak jest, być może posiadam informacje, których poszukujesz, ale chciałbym, abyś zrobił coś dla mnie w zamian.</text>
+    </string>
+    <string id="cit_doctor_main_dialog_11">
+        <text>Oczywiście. Czego oczekujesz?</text>
+    </string>
+    <string id="cit_doctor_main_dialog_2">
+        <text>Zona przez te wszystkie lata odcisnęła na moim zdrowiu swoje piętno, więc spędzam ostatnie dni w tej pustelni, ale ucieszyłoby mnie spotkanie ze starymi przyjaciółmi.\n \nObawiam się, że Striełok i Przewodnik nie żyją, ale chciałbym porozmawiać z Kłem i Duchem, póki jeszcze mam czas. Jeśli byłbyś w stanie ich odnaleźć i sprowadzić tutaj, nie zapomnę ci twoich wysiłków do końca życia.</text>
+    </string>
+    <string id="cit_doctor_main_dialog_21">
+        <text>Jak długo żyjesz na tym odludziu? Obaj stali się legendami, ale już od dawna nie żyją. Kieł zginął z rąk najemnika Szramy na Magazynach Wojskowych, a ciało Ducha znaleziono w podziemiach laboratorium X-16 rok później. Naprawdę nie wiedziałeś?</text>
+    </string>
+    <string id="cit_doctor_main_dialog_3">
+        <text>Obaj nie żyją? Jesteś pewny? Ja tylko... Och, w porządku... Więc czego chciałeś się dowiedzieć?</text>
+    </string>
+    <string id="cit_doctor_main_dialog_31">
+        <text>Serio, teraz tak po prostu podzielisz się ze mną swoją wiedzą? Mam wrażenie, że tylko tracę swój czas, starcze.</text>
+    </string>
+    <string id="cit_doctor_main_dialog_4">
+        <text>Czekaj! Nie odchodź... ja po prostu nie spodziewałem się, że skończą w taki sposób. Kiedy ostatnio odwiedził mnie Striełok, to dał mi klucz i koordynaty schowka znajdującego się w Prypeci.\n \nNie widziałem go od lat, więc nie sądzę, że poszło mu lepiej. Mówił coś o Monolicie, nie zrozumiałem z tego za dużo i wydaje mi się, że on również nie do końca to rozumiał. Masz, weź to.\n \nI jeszcze jedno... On spędził mnóstwo czasu poszukując śladów spisku i tuszowania dowodów dotyczących podziemnych laboratoriów. Być może tam uda ci się znaleźć jakieś odpowiedzi.</text>
+    </string>
+    <string id="cit_doctor_main_dialog_41">
+        <text>Rozumiem. Dziękuję, naprawdę doceniam twoją pomoc.</text>
+    </string>
+    <string id="cit_doctor_main_dialog_5">
+        <text>A teraz ruszaj, zostaw staruszka w spokoju.</text>
+    </string>
+
+	<string id="mar_base_owl_stalker_trader_start_dialog_1">
+		<text>Potrzebujesz zapasów lub wyposażenia? Informacji? A może chcesz sprzedać jakieś info?</text>
+	</string>
+	    <string id="mar_smart_terrain_base_doctor_need_health_care_0">
+        <text>Potrzebuję opieki medycznej.</text>
+    </string>
+    <string id="mar_smart_terrain_base_doctor_need_health_care_1">
+        <text>Rozumiem. Pozwól, że się tobą zajmę.</text>
+    </string>
+    <string id="mar_smart_terrain_base_doctor_need_health_care_11">
+        <text>[kontynuuj...]</text>
+    </string>
+    <string id="mar_smart_terrain_base_doctor_need_health_care_111">
+        <text>W porządku, skończyłem. Jesteś zdrów jak ryba.</text>
+    </string>
+    <string id="mar_smart_terrain_base_doctor_need_health_care_2">
+        <text>Niech spojrzę... Nie ma ran. Nie wykazujesz też objawów zatrucia radiacją. Myślę, że wszystko z tobą w porządku; możesz ruszać.</text>
+    </string>
+    <string id="mar_smart_terrain_base_doctor_start_1">
+        <text>Hm, tak?</text>
+    </string>
+	<string id="marsh_stalker_barmen_start_dialog_1">
+		<text>Nowa twarz! Cześć! Ludzie tutaj nazywają mnie Bibliotekarzem. Jestem lokalnym barmanem. Chętnie odpowiem na wszystkie twoje pytania, więc śmiało. Czasem wywieszam ogłoszenia o pracę, czasem dotrę do paru ciekawych plotek, wiem to i owo o tym i o tamtym, więc zaglądaj tu od czasu do czasu.</text>
+	</string>
+	<string id="marsh_stalker_barmen_start_dialog_2">
+		<text>Hej, stalker. Czego ci potrzeba?</text>
+	</string>
+	<string id="marsh_stalker_tech_start_1">
+		<text>Pozdrowienia, stalkerze. Pomóc ci w czymś? Ciężko znaleźć w Zonie dobre narzędzia, ale nadal mogę naprawić twoje wyposażenie i wprowadzić drobne ulepszenia.</text>
+	</string>
+	<string id="marsh_stalker_medic_background_0">
+        <text>Powiedz mi coś o sobie.</text>
+    </string>
+    <string id="marsh_stalker_medic_background_1">
+        <text>Cóż... Jestem profesor Kałańcza. Razem z Lebiediewem i Susłowem zakładaliśmy Czyste Niebo. W przeciwieństwie do nich, niech im Zona lekką będzie, ja zostałem tu, w bazie, gdy oni ruszyli w swój fatalny w skutkach szturm na Czarnobylską Elektrownię Jądrową.\n \nObecnie piastuję funkcję głównego badacza frakcji. Większość czasu spędzam eksperymentując z artefaktami, studiując części mutantów i obserwując anomalie. Czasami współpracuję z Nowikowem, by znaleźć praktyczne zastosowanie dla wyników moich badań.\n \nCo więcej, z konieczności stałem się także lokalnym lekarzem. Jeśli wrócisz z wypadu w Zonę ranny lub, czego ci z całego serca życzę, z jakimś rzadkim okazem w plecaku - wiesz, gdzie mnie znaleźć.</text>
+    </string>
+
+    <string id="marsh_stalker_medic_about_people_0">
+        <text>Co myślisz o innych stalkerach?</text>
+    </string>
+    <string id="marsh_stalker_medic_about_people_1">
+        <text>Wielu z nich uważa, że wiedzą o Zonie już wszystko. Bardzo mi przykro, gdy to słyszę. Nawet nie zdają sobie sprawy, w jak ogromnym tkwią błędzie.\n \nJedni uważają Zonę za żywą manifestację czystego zła, inni uważają ją za cud, podczas gdy niektórzy myślą tylko o wszystkich bogactwach, jakie mogą dzięki niej posiąść... Wszyscy oni są w błędzie poprzez podstawowe ludzkie uprzedzenia, fantazje i wyobrażenia. Zona, gdy spojrzeć na nią przez pryzmat ludzkiej percepcji, jest zjawiskiem całkowicie niezrozumiałym. Jest jeszcze zbyt wcześnie, abyśmy mogli nawet spróbować myśleć w ten sposób. Zarówno stalkerzy, jak i rząd postępują lekkomyślnie i ignorancko. My również - kiedyś - myśleliśmy, że nasza wiedza przewyższa wiedzę innych i słono za to zapłaciliśmy.</text>
+    </string>
+
+    <string id="marsh_stalker_medic_about_zone_0">
+        <text>Co wiesz o Zonie?</text>
+    </string>
+    <string id="marsh_stalker_medic_about_zone_1">
+        <text>Młody człowieku, badamy Zonę już od tylu lat, ale nie staliśmy się dzięki temu ani o jotę mądrzejsi. Mogę powiedzieć, że Zona zdecydowanie nie jest zjawiskiem naturalnym, ale raczej rezultatem... daremnego przedsięwzięcia opracowanego przez zbyt ambitnych i mało odpowiedzialnych ludzi. Nie jesteśmy w stanie odwrócić efektów tego eksperymentu.\n \nZona nie może zostać zniszczona. Sama z siebie również nie zniknie. Co więcej, doświadczenie nauczyło nas, że każda próba jej okiełznania lub ograniczenia będzie miała iście katastrofalne konsekwencje. Aktualnie my, Czyste Niebo, wierzymy, że istnieje tylko jeden sposób na pogodzenie człowieka z Zoną: koegzystencja.</text>
+    </string>
+    <string id="marsh_stalker_medic_about_zone_2">
+        <text>Byłoby to prostsze, gdyby nie emisje dewastujące okolice co kilka dni. Skoro o tym mowa, co je powoduje?</text>
+    </string>
+    <string id="marsh_stalker_medic_about_zone_3">
+        <text>Jak mógłbym to najprościej wyjaśnić? Powiedzmy w ten sposób: każdy rozbudowany i skomplikowany układ działający w przyrodzie, a właśnie tak traktujemy Zonę, automatycznie dąży do równowagi w przypadku braku destabilizujących czynników zewnętrznych. Tak było kilka lat temu - Zona był stabilna i nie było znaczących odchyleń od normy... a teraz? Jak powiedziałeś, wyniszczające emisje regularnie rozprzestrzeniają się po całym obszarze.\n \nJej układ stał się niestabilny, zniekształcony... to pewien rodzaj usterki. Zona rzuca emisję po emisji i pompuje się energią w każdej z nich tak bardzo, że odczyty na moich czujnikach oscylują z niewiarygodną prędkością! Niestety, Lebiediew i Susłow nie byli w stanie trwale odwrócić tego trendu, pomimo ich tragicznego poświęcenia. Jedyne, co udało nam się ustalić, to to, że ta "usterka" również nie jest skutkiem naturalnym. To wszystko dzieło człowieka.</text>
+    </string>
+	<string id="marsh_stalker_barman_background">
+		<text>Jestem barmanem. Serwuję napoje, jedzenie i dbam, aby radio zawsze grało. Nie jest to zbyt ekscytująca robota, ale szczerze? Wolę to od rycia nosem w błocie. Pracuję tu już od kilku lat, przyzwyczaiłem się do tego miejsca.\n \nKiedyś, będąc na Bagnach złapała mnie emisja. Jak większość ludzi, podróżowałem na południe, miałem na tyle szczęścia, że nie wpadłem po drodze na żadnych bandziorów. W końcu natknąłem się na tę bazę i dołączyłem do Czystego Nieba. Miałem do wyboru to lub skończenie jako trup w przydrożnym rowie.\n \nPierwsze tygodnie spędziłem na patrolach - zajmowaliśmy się przeganianiem złoli z okolic naszych posterunków obserwacyjnych. Potem jakoś tak wyszło, że zastąpiłem Zimnego, gdy awansował. Czemu miałbym się nie zgodzić? Pewnie, że przyjemniej siedzieć tu i sączyć piwko, gadając sobie z fajnymi ludźmi, niż czołgać się twarzą w ziemi z nadzieją, że żaden z pocisków cię nie dosięgnie. No, ale dosyć tego gadania! Co powiesz na zimnego browarka?</text>
+	</string>
+	<string id="marsh_stalker_trader_background">
+		<text>Nazywam się Zarodnik. Wziąłem tę robotę mniej więcej rok temu. Przybyłem do Zony, chyba jak każdy, w poszukiwaniu bogactwa. Los chciał, że natknąłem się na Żwawego. Szybko okazało się, że mamy ze sobą wiele wspólnego - obaj posiadamy dużo kontaktów po drugiej stronie Kordonu, obaj znamy się na sprowadzaniu ciekawych rzeczy do i z Zony i obaj lubimy wiedzieć, co dzieje się w całej okolicy.\n \nKiedy Monolit się odrodził i wszystkie interesy przeniosły się z powrotem na południe, przeniosłem się i ja. Udało mi się podłapać tu dobrą robotę po tym, jak Żwawy polecił mnie Zimnemu. Wiesz, że najbardziej znany przemytnik i handlarz bronią był kiedyś czystoniebowcem? Zaskoczony? Nie dziwię się. To dosyć dawne dzieje i mało kto teraz o tym pamięta. W każdym razie, Żwawy koniec końców wrócił na Zaton, by pomóc na Skadowsku, ale zostawił mnie tu z rozkwitającym interesem.\n \nMam teraz dostęp do wolnych od wojska szlaków przerzutowych przez Bagna, a Czyste Niebo jako pierwsze dostaje wszystko, na czym położę swoje ręce. Tak na marginesie, zajrzyj do Żwawego jeżeli kiedykolwiek wylądujesz na północ od Bariery. Dla swoich zawsze ma najlepszy i najrzadszy szpej, tylko u niego dostaniesz spersonalizowaną broń i pancerz. Podejrzewam, że gdybyś miał wystarczająco dużo funduszy, dałby radę przemycić ci nawet czołg, hahaha!</text>
+	</string>
+	<string id="marsh_stalker_tech_background">
+		<text>Nazywam się Nowikow, ale niektórzy mówią mi Szary. Jestem technikiem, który dba, by sprzęt naszych ludzi był cały czas w jak najlepszym stanie i zarazem wybawieniem dla dobrych stalkerów, którym zaczyna szwankować broń. Pracowałem tu na długo przed tym, jak Zimny został naszym liderem.\n \nKiedy - jeszcze za czasów Lebiediewa - wszystko trafił szlag, zacząłem szukać sobie jakiegoś spokojniejszego miejsca. Udało mi się dostać kontrakt u naukowców pracujących w Jupiterze. Spędziłem tam kilka dobrych lat, aż pewnego dnia usłyszałem, że chłopaki w jakiś sposób ponownie się tu osiedlili. Od tamtej pory odliczałem dni do końca umowy. Nie przedłużyłem jej, podziękowałem za współpracę i ruszyłem z powrotem na Bagna. Chłopaki przyjęli mnie bez żadnego "ale" - potrzebowali zarówno moich umiejętności technicznych, jak i kontaktów z naukowcami.\n \nUdało mi się dopiąć interes z Ekologami, dzięki temu mogliśmy kontynuować rozpoczęte lata temu badania. Jeśli szukasz pracy, lokalni stalkerzy często proszą o przewodników gotowych oprowadzić ich po okolicznych anomaliach. Porozmawiaj na ten temat z Zarodnikiem, jeśli jesteś zainteresowany.</text>
+	</string>
+	<string id="marsh_stalker_leader_background">
+		<text>Od czego miałbym zacząć? W tej części Zony nazywają mnie Zimny. Jestem liderem Czystego Nieba. Kiedyś, lata temu, byłem tu barmanem. Gdy dowiedzieliśmy się, co stało się z Lebiediewem, Susłowem i resztą oddałem tę fuchę Bibliotekarzowi i zacząłem starać się o awans. Negocjacje były dłuuuugie i bardzo... intensywne. W końcu udało mi się przekonać pozostałych, że to ja najlepiej nadaję się do przejęcia obowiązków Lebiediewa i od tamtej pory to właśnie robię.</text>
+	</string>
+	<string id="marsh_csky_history_ask1">
+		<text>Opowiedz mi o Czystym Niebie.</text>
+	</string>
+	<string id="marsh_csky_history_ask2">
+		<text>Co byś chciał wiedzieć?</text>
+	</string>
+	<string id="marsh_csky_history_destroyed1">
+		<text>Czy wasza frakcja nie została zniszczona?</text>
+	</string>
+	<string id="marsh_csky_history_destroyed2">
+		<text>Cóż, tak po prawdzie to niewiele brakło. Na szczęście udało nam się ją odbudować. Musisz pamiętać, że nie wszyscy ruszyli za Lebiediewem do Elektrowni. Sporo naszych wciąż pozostawało w Zonie - czy to obsadzając posterunki, które mieliśmy w tej okolicy, czy wykonując zadania terenowe gdzieś dalej.\n \nPo Wielkiej Emisji i całkowitym odcięciu przejść do niektórych obszarów ci z Bagien szybko zrozumieli, że zostali tu uwięzieni praktycznie bez możliwości ucieczki. I się zaczęło... Uczciwi dotąd stalkerzy z dnia na dzień stoczyli się na samo dno, rabując i mordując dawnych przyjaciół. Nie wytrzymali nerwów i perspektywy tego, że być może już nigdy nie wydostaną się z mokradeł.\n \nGarstka, której udało się zachować zimną krew starała się dotrzeć do naszej bazy, a przynajmniej znaleźć jakieś schronienie na terenach, po których nie grasowały mutanty. Sporo ludzi wzięliśmy wtedy pod swoje skrzydła - zgromadzone zapasy zapewniły nam ich lojalność. Szybko okazało się, że ci ludzie potrzebują lidera, przywódcy, kogoś, kto wskaże im kierunek i powie, co mają robić. Wziąłem ten ciężar na siebie. Poprosiłem Bibliotekarza, by zajął się za mnie wiktem, opierunkiem i obsługą gości. Z perspektywy czasu widzę, że była to doskonała decyzja - szybko wzbudził szacunek i zaufanie.\n \nNajazdy bandytów i próby wyrwania nam choć kilku skrawków terenu trwały parę miesięcy. W końcu jednak udało nam się wyprzeć stąd większość z nich. Zaraz potem pojawił się inny problem. Wojsko. Chyba uznali, że z jednym przeciwnikiem są w stanie dać sobie radę. Niedługo po tym, gdy przestały nas nękać bandziory, swoje rajdy i czystki zaczęła tu urządzać armia. Wciąż od czasu do czasu nad Bagnami pojawia się jeden z tych ogromnych śmigłowców, z których korzystają do kontroli okolicy i "oczyszczania terenu".</text>
+	</string>
+	<string id="marsh_csky_history_goal1">
+		<text>Jaki jest wasz aktualny cel?</text>
+	</string>
+	<string id="marsh_csky_history_goal2">
+		<text>Rzecz w tym, że nie mamy jednego celu. Biedny Lebiediew był człowiekiem niezwykle ambitnym. Myślał, że możemy odkryć wszystkie brudne sekrety Zony i wykorzystać tę wiedzę do jej oswojenia lub powstrzymania. To mu się jednak nie udało.\n \nObecnie robimy w zasadzie te same rzeczy, co kiedyś: polujemy na mutanty, zbieramy artefakty i przeprowadzamy na nich badania. Co jakiś czas odzyskujemy ciekawe dokumenty ze starych podziemnych laboratoriów.\n \nNie angażujemy się w wojny o teren z innymi frakcjami i zdecydowanie nie planujemy w najbliższym czasie kolejnej odważnej kampanii w centrum Zony. W przeciwieństwie do Powinności, nie próbujemy jej zniszczyć ani nie chcemy tutaj otwierać parku rozrywki, jak ludzie z Wolności. Na razie współistniejemy z Zoną. Lepiej trzymać głowę nisko, jak za starych dobrych czasów przed szturmem na Elektrownię.</text>
+	</string>
+	<string id="marsh_csky_history_goal3">
+		<text>Więc członkowie Czystego Nieba w zasadzie robią teraz to, na co mają ochotę?</text>
+	</string>
+	<string id="marsh_csky_history_goal4">
+		<text>W pewnym sensie. Wszyscy mamy podobne zainteresowania i zbliżone poglądy. Jeśli członkowie frakcji wykonują swoje zadania uczciwie, sumiennie i nie wychodzą poza pewien niepisany kodeks, według którego wszyscy żyjemy i zgodnie z którym postępujemy, dlaczego miałbym kierować nimi, zakazując tego, czy nakazując coś innego? Do tej pory wszyscy byli zadowoleni z tak dużej autonomii, chyba nie ma potrzeby tego zmieniać.</text>
+	</string>
+	
+	<string id="cit_doctor_health_care_0">
+		<text>Doktorze, potrzebna mi opieka medyczna.</text>
+	</string>
+	<string id="cit_doctor_health_care_1">
+		<text>Rozumiem. Podejdź tu, niech spojrzę.</text>
+	</string>
+	<string id="cit_doctor_health_care_11">
+		<text>Jest źle?</text>
+	</string>
+	<string id="cit_doctor_health_care_111">
+		<text>Wygląda na to, że trzeba cię trochę połatać. Nie jestem w stanie pozbyć się radiacji, ale z ranami sobie poradzę.</text>
+	</string>
+	<string id="cit_doctor_health_care_112">
+		<text>Brak urazów, promieniowanie w normie. Wygląda na to, że wszystko z tobą w porządku.</text>
+	</string>
+	<string id="cit_doctor_health_care_1111">
+		<text>W porządku, doktorze. Pomóż mi, proszę.</text>
+	</string>
+	<string id="cit_doctor_health_care_1112">
+		<text>Dziękuję za pomoc.</text>
+	</string>
+	<string id="cit_doctor_health_care_11111">
+		<text>Jedną chwilę, proszę... Teraz wszystko powinno być w porządku. Możesz iść.</text>
+	</string>
+	
+	
+	
+	<string id="st_psd_end_1">
+		<text>Wreszcie koniec, posprzątajmy ten bałagan i odsapnijmy chwilę. Dzięki za pomoc, stalkerze.</text>
+	</string>
+	<string id="st_psd_end_2">
+		<text>No i chuj, szef wykrakał, przejmuję dowodzenie. Dzięki za pomoc, stalker.</text>
+	</string>
+	<string id="st_psd_intro">
+		<text>Uwaga, ktoś idzie w tę stronę! ...nieważne, to nie bandyta. Stalkerze, jeśli masz tu coś do załatwienia, zrób to szybko. Wkrótce zrobi się tu nieprzyjemnie.</text>
+	</string>
+	<string id="st_psd_start">
+		<text>Zaczynamy! Wszyscy na pozycje, zbliżają się!</text>
+	</string>
+	<string id="st_psd_warning">
+		<text>Jeśli odejdziesz za daleko, stalkerzy Czystego Nieba mogą pomyśleć, że uciekasz!</text>
+	</string>
+	<string id="st_psd_escape">
+		<text>Uciekłeś, zostawiając Czyste Niebo, aby odpierali bandytów samotnie.</text>
+	</string>
+	
+	
+	<string id="st_psd_stage_0"><text>Dotrzyj do Stacji Pomp.</text></string>
+	<string id="st_psd_stage_1"><text>Porozmawiaj z dowódcą strażników.</text></string>
+	<string id="st_psd_stage_2"><text>Zajmij pozycję zastrzelonego snajpera.</text></string>
+	<string id="st_psd_stage_3"><text>Przetrwaj!</text></string>
+	<string id="st_psd_stage_5"><text>Zdaj raport dowódcy.</text></string>
+	<string id="st_psd_stage_6"><text>Wróć do Zimnego po nagrodę.</text></string>
+	
+
+	<string id="st_psd_dialog_1"><text>Ruchy, stalkerze, zaraz zrobi się tu niezły bajzel!</text></string>
+	<string id="st_psd_dialog_2"><text>Zimny przysłał mnie, by pomóc wam z bandytami.</text></string>
+	<string id="st_psd_dialog_3"><text>Świetnie, chętnie przyjmiemy każdą pomoc. Podczas ostatniego ataku odstrzelili nam snajpera. Luneta do oka i ogień! Przyda się ktoś, kto odstrzeli parę łbów.</text></string>
+	<string id="st_psd_dialog_4"><text>Lecę na górę.</text></string>
+	<string id="st_psd_dialog_5"><text>Dzięki za ostrzeżenie, wychodzę.</text></string>
+	<string id="st_psd_dialog_6"><text>Dobrze?</text></string>
+	<string id="st_psd_dialog_7"><text>Jestem w drodze, tylko przygotuję swoje rzeczy.</text></string>
+	<string id="st_psd_dialog_8"><text>To wszystko na tę chwilę. Twoja pomoc bardzo nam się przydała. Dobrej Zony!</text></string>
+	<string id="st_psd_dialog_9"><text>W porządku, na razie.</text></string>
+	<string id="st_psd_dialog_10"><text>Chciałem zostać dowódcą, ale nie w ten sposób...</text></string>
+	<string id="st_psd_dialog_11"><text>Jaka szkoda.</text></string>
+	
+</string_table>
