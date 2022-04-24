@@ -1,169 +1,169 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1250"?>
 
 <string_table>
  <!-- 5.45 -->
 	<string id="st_mag_ak74_5.45x39">
-		<text>Standard 5.45x39 AK-74 Magazine</text>
+		<text>Magazynek 5.45x39 AK-74</text>
 	</string>
 	<string id="st_mag_ak74_5.45x39_descr">
 		<text>
-		30-round Bakelite magazine that is standard issue with the Ukrainian military. One of the most common magazines in the Zone. Designation "6L20".
+		30-nabojowy bakelitowy magazynek, ktуry jest standardowym wyposaїeniem ukraiсskiego wojska. Jeden z najpopularniejszych magazynуw w Strefie. Oznaczenie „6L20”.
 		</text>
 	</string>
-	
+
 	<string id="st_mag_ak74_5.45x39_extended">
-		<text>60-round 5.45x39 AK-74 Magazine</text>
+		<text>Powiкkszony magazynek 5.45x39 AK-74</text>
 	</string>
 	<string id="st_mag_ak74_5.45x39_extended_descr">
 		<text>
-		60-round quad-stack magazine for the AK-74 series. Extremely rare to find in Russia as only small batches were produced, but it is rumored the Ukrainian SSU started producing their own to fit their needs of controlling the Zone. Designation "6L31".
+		60-nabojowy magazynek typu quad-stack do serii AK-74. Niezwykle rzadko spotykane w Rosji, poniewaї produkowano tylko maіe partie, ale podobno ukraiсski SSU zacz№і produkowaж wіasne, aby zaspokoiж ich potrzeby kontrolowania Strefy. Oznaczenie „6L31”.
 		</text>
 	</string>
 
 	<string id="st_mag_ak74m_5.45x39">
-		<text>Standard 5.45x39 AK-74M Magazine</text>
+		<text>Magazynek 5.45x39 AK-74M</text>
 	</string>
 	<string id="st_mag_ak74m_5.45x39_descr">
 		<text>
-		30-round polymer magazine that is standard issue with the Russian military, shipped with the AK-74M. One of the most common magazines in the Zone. This magazine can be tweaked to accommodate different calibers. Designation "6L23".
+		Polimerowy magazynek na 30 nabojуw, ktуry jest standardowym wyposaїeniem rosyjskiego wojska, dostarczany z AK-74M. Jeden z najpopularniejszych magazynkуw w Strefie. Ten magazynek moїna dostosowaж do rуїnych kalibrуw. Oznaczenie „6L23”.
 		</text>
 	</string>
 
 	<string id="st_mag_ak74_fast_5.45x39">
-		<text>Fast-loading 5.45x39 AK-74M Magazine</text>
+		<text>Zmodyfikowany magazynek 5.45x39 AK-74M</text>
 	</string>
 	<string id="st_mag_ak74_fast_5.45x39_descr">
 		<text>
-		Modern PMAG-style AK magazine holding 30 rounds. The build quality is very high and loading rounds in is quite effortless. Magazines like these are usually only found on Spetsnaz black ops units along with cutting edge Alpha AKs.
+		Nowoczesny magazynek AK typu PMAG na 30 naboi. Jakoњж wykonania jest bardzo wysoka, a іadowanie pociskуw jest doњж іatwe. Takie magazynki zwykle moїna znaleџж tylko w jednostkach Black Ops, Spectnaz wraz z najnowoczeњniejszymi Alpha AK.
 		</text>
 	</string>
-	
+
 	<string id="st_mag_rpk74_5.45x39">
-		<text>Standard 5.45x39 RPK-74 Magazine</text>
+		<text>Magazynek 5.45x39 RPK-74</text>
 	</string>
 	<string id="st_mag_rpk74_5.45x39_descr">
 		<text>
-			45-round Bakelite magazine that comes standard with the RPK-74 LMG. This magazine also fits into AK-74 derivatives. Designation "6L18"
+			Magazynek bakelitowy na 45 naboi, ktуry jest standardowo wyposaїony w LKM RPK-74. Ten magazynek pasuje rуwnieї do pochodnych AK-74. Oznaczenie „6L18”
 		</text>
 	</string>
 
 	<string id="st_mag_rpk74_5.56x45">
-		<text>Modified 5.56x45 RPK-74 Magazine</text>
+		<text>Zmodyfikowany magazynek 5.56x45 RPK-74</text>
 	</string>
 	<string id="st_mag_rpk74_5.56x45_descr">
 		<text>
-			Modified RPK magazine to fit 5.56 NATO rounds. Also compatible with the export AK-101 and AK-102.
+		Zmodyfikowany magazynek RPK na naboje 5,56 NATO. Kompatybilny rуwnieї z eksportowymi AK-101 i AK-102.
 		</text>
 	</string>
 
 	<string id="st_mag_ak_7.62x39">
-		<text>Standard 7.62x39 AKM Magazine</text>
+		<text>Magazynek 7.62x39 AKM</text>
 	</string>
 	<string id="st_mag_ak_7.62x39_descr">
 		<text>
-		30-round steel 7.62x39 magazine. Magazines like these are quite old but still function relatively well. 
+		30-nabojowy stalowy magazynek 7,62x39. Magazynki takie jak te s№ doњж stare, ale nadal dziaіaj№ stosunkowo dobrze.
 		</text>
 	</string>
 
 	<string id="st_mag_ak103_7.62x39">
-		<text>Standard 7.62x39 AK-103 Magazine</text>
+		<text>Magazynek 7.62x39 AK-103</text>
 	</string>
 	<string id="st_mag_ak103_7.62x39_descr">
 		<text>
-		30-round AK-103 Magazine in 7.62x39. Modern materials and construction have made the magazine far lighter than its steel counterparts. In addition, this magazine can be modified to accommodate other calibers.
+		30-nabojowy magazynek AK-103 w rozmiarze 7,62x39. Nowoczesne materiaіy i konstrukcja sprawiіy, їe magazynek jest znacznie lїejszy niї jego stalowe odpowiedniki. Ponadto magazynek ten moїna zmodyfikowaж, aby pomieњciж inne naboje.
 		</text>
 	</string>
-	
+
 	<string id="st_mag_ak103_fast_7.62x39">
-		<text>Fast-loading 7.62x39 AK-103 Magazine</text>
+		<text>Zmodyfikowany magazynek 7.62x39 AK-103</text>
 	</string>
 	<string id="st_mag_ak103_fast_7.62x39_descr">
 		<text>
-		PMAG-style 7.62x39 magazine made from polymer. The build quality and design allows for fast loading of rounds. Such a piece of equipment is an unusual sight in the Zone.
+		Magazynek 7,62x39 w stylu PMAG wykonany z polimeru. Jakoњж wykonania i konstrukcja pozwala na szybkie іadowanie nabojуw. Taki sprzкt to niezwykіy widok w Strefie.
 		</text>
 	</string>
 
 	<string id="st_mag_rpd_7.62x39">
-		<text>Standard 7.62x39 RPD Drum</text>
+		<text>Magazynek 7.62x39 RPD Bкben</text>
 	</string>
 	<string id="st_mag_rpd_7.62x39_descr">
 		<text>
-			Drum magazine with a belt for the RPD. The box holds 100 rounds in a belt. While the RPD was ultimately supplanted by the more accurate and flexible RPK, being able to shoot off 100 rounds is nothing to scoff at. 
+			Magazynek bкbnowy z paskiem do RPD. Pudeіko mieњci 100 naboi w pasie. Podczas gdy RPD zostaі ostatecznie wyparty przez dokіadniejszy i bardziej elastyczny RPK, moїliwoњж wystrzelenia 100 pociskуw nie jest czymњ, z czego moїna szydziж.
 		</text>
 	</string>
-	
+
 	<string id="st_mag_rpk_7.62x39">
-		<text>Standard 7.62x39 RPK Magazine</text>
+		<text>Magazynek 7.62x39 RPK</text>
 	</string>
 	<string id="st_mag_rpk_7.62x39_descr">
 		<text>
-		Steel 40-round RPK Magazine. This is also compatible with the AKM and other 7.62x39 AK rifles.
+		Stalowy 40-nabojowy magazynek RPK. Jest rуwnieї kompatybilny z AKM i innymi karabinami AK 7,62x39.
 		</text>
 	</string>
-	
+
 	<string id="st_mag_rpk_7.62x39_drum">
-		<text>95-round RPK Drum Magazine</text>
+		<text>Magazynek 95-round RPK Bкben</text>
 	</string>
 	<string id="st_mag_rpk_7.62x39_drum_descr">
 		<text>
-		95-round drum magazine for the RPK.
+		95-nabojowy magazynek bкbnowy do RPK.
 		</text>
 	</string>
-	
-	
+
+
 	<!-- 5.56 -->
-	
+
 	<string id="st_mag_ace21_5.56x45">
-		<text>Standard 5.56x45 Galil ACE-21 Magazine</text>
+		<text>Magazynek 5.56x45 Galil ACE-21</text>
 	</string>
 	<string id="st_mag_ace21_5.56x45_descr">
 		<text>
-		Proprietary ACE-21 Magazine that holds 35 rounds. The outdated model found in the Zone requires proprietary Galil magazines, which makes the weapon a fancy novelty more than anything else.
+		Zastrzeїony magazynek ACE-21 mieszcz№cy 35 naboi. Przestarzaіy model znaleziony w Strefie wymaga autorskich magazynkуw Galil, co czyni tк broс bardziej fantazyjn№ nowoњci№ niї cokolwiek innego.
 		</text>
 	</string>
 
 	<string id="st_mag_ak101_5.56x45">
-		<text>Standard 5.56x45 AK-101 Magazine</text>
+		<text>Magazynek 5.56x45 AK-101</text>
 	</string>
 	<string id="st_mag_ak101_5.56x45_descr">
 		<text>
-		30-round magazine for the export AK101 and AK102. This magazine can be tweaked to fit different calibers.
+		30-nabojowy magazynek na eksport AK101 i AK102. Ten magazynek moїna dostosowaж do rуїnych kalibrуw.
 		</text>
 	</string>
 	<string id="st_mag_aug_5.56x45">
-		<text>Standard 5.56x45 AUG Magazine</text>
+		<text>Magazynek 5.56x45 AUG</text>
 	</string>
 	<string id="st_mag_aug_5.56x45_descr">
 		<text>
-			Proprietary 30-round magazine for the first generation of AUG rifles. Later variants have a magwell that adapts them to use the standard STANAG pattern.
+			Autorski magazynek na 30 naboi do karabinkуw AUG pierwszej generacji. Pуџniejsze warianty maj№ magwell, ktуry przystosowuje je do uїycia standardowego wzoru STANAG.
 		</text>
 	</string>
-	
+
 	<string id="st_mag_g36_5.56x45">
-		<text>Standard 5.56x45 G36 Magazine</text>
+		<text>Magazynek 5.56x45 G36</text>
 	</string>
 	<string id="st_mag_g36_5.56x45_descr">
 		<text>
-		Standard semi-translucent G36 Magazine with capacity for 30 rounds of 5.56x45 ammunition.
+		Standardowy pуіprzezroczysty magazynek G36 o pojemnoњci 30 naboi 5,56x45.
 		</text>
 	</string>
-	
+
 	<string id="st_mag_stanag">
-		<text>Standard 5.56x45 STANAG magazine</text>
+		<text>Magazynek 5.56x45 STANAG</text>
 	</string>
 	<string id="st_mag_stanag_descr">
 		<text>
-		30-round HK STANAG magazine used by a majority of NATO assault rifles, including the M4 carbine, M16, LR-300, L85 and FN F2000. It is rumored that Freedom is covertly supplied by NATO or another Western power, which explains this magazine's strange abundance in the Zone.
+30-nabojowy magazynek HK STANAG uїywany przez wiкkszoњж karabinуw szturmowych NATO, w tym karabinek M4, M16, LR-300, L85 i FN F2000. Kr№ї№ plotki, їe Wolnoњж potajemnie kupuje od NATO lub inne mocarstwo zachodnie, co wyjaњnia dziwn№ obfitoњж tego magazynka w Strefie.
 		</text>
 	</string>
 
 
 	<string id="st_mag_nato_5.45x39">
-		<text>Modified 5.45x39 STANAG Magazine</text>
+		<text>Zmodyfikowany magazynek 5.45x39 STANAG</text>
 	</string>
 	<string id="st_mag_nato_5.45x39_descr">
 		<text>
-			30-round STANAG magazine modified to feed 5.45x39 rounds. Why anyone would modify a rifle in this way is anyone's guess.
+			30-nabojowy magazynek STANAG przystosowany do nabojуw 5,45x39. Nie wiadomo, dlaczego ktokolwiek miaіby modyfikowaж karabin w ten sposуb.
 		</text>
 	</string>
 	<string id="st_mag_nato_5.56x45_fast">
@@ -174,197 +174,197 @@
 		Modern PMAG-style magazine holding 30 rounds. Considerably lighter than its steel counterpart, the ergonomic design facilitates quick loading of cartridges.
 		</text>
 	</string>
-	
+
 	<string id="st_mag_nato_5.56x45_extended">
-		<text>Extended 5.56x45 STANAG Magazine</text>
+		<text>Powiкkszony magazynek 5.56x45 STANAG</text>
 	</string>
 	<string id="st_mag_nato_5.56x45_extended_descr">
 		<text>
-			Extended 40-round polymer magazine compatible with most NATO rifles. 
+Powiкkszony 40-nabojowy polimerowy magazynek kompatybilny z wiкkszoњci№ karabinуw NATO.
 		</text>
 	</string>
 
 	<string id="st_mag_nato_5.56x45_casket">
-		<text>60-round 5.56x45 STANAG Magazine</text>
+		<text>Magazynek 60x 5.56x45 STANAG</text>
 	</string>
 	<string id="st_mag_nato_5.56x45_casket_descr">
 		<text>
-			60-round quad-stack magazine compatible with NATO rifles. Offers a lot of firepower, but is extremely heavy and the quad-stack nature makes it difficult to load in rounds quickly.
+		60-nabojowy magazynek typu quad-stack kompatybilny z karabinami NATO. Oferuje duї№ siік ognia, ale jest niezwykle ciкїki, a poczwуrny stos utrudnia szybkie іadowanie pociskуw.
 		</text>
 	</string>
-	
+
 	<string id="st_mag_sig550_5.56x45">
-		<text>Standard 5.56x45 SG550 Magazine</text>
+		<text>Magazynek 5.56x45 SG550</text>
 	</string>
 	<string id="st_mag_sig550_5.56x45_descr">
 		<text>
-		Swiss-made SG550 Magazine holding 30 rounds. Compatible with the SIG SG550, SG552 and SG550-1 Sniper.
+		Szwajcarski magazynek SG550 na 30 naboi. Kompatybilny z SIG SG550, SG552 i SG550-1 Sniper.
 		</text>
 	</string>
 
 	<string id="st_mag_sig550_sniper_5.56x45">
-		<text>20-round 5.56x45 SG550-1 Magazine</text>
+		<text>Powiкkszony magazynek 5.56x45 SG550-1</text>
 	</string>
 	<string id="st_mag_sig550_5.56x45_descr">
 		<text>
-		Swiss-made SG550-1 Magazine holding 20 rounds. Used in the SG550-1 Sniper variant, but is compatible in other rifles of the same family.
+		Szwajcarski magazynek SG550-1 na 20 naboi. Uїywany w wariancie SG550-1 Sniper, ale jest kompatybilny z innymi karabinami z tej samej rodziny.
 		</text>
 	</string>
 	<string id="st_mag_m249_5.56x45">
-		<text>Standard 5.56x45 M249 Box</text>
+		<text>Magazynek 5.56x45 M249 Pudeіko</text>
 	</string>
 	<string id="st_mag_m249_5.56x45_descr">
 		<text>
-			Box containing a belt with capacity for 100 5.56x45 rounds. The M249 is a common sight at Freedom foreposts, providing a high volume of suppressive fire against Monolith encroachers.
+			Pudeіko zawieraj№ce pas o pojemnoњci 100 naboi 5,56x45. M249 to czкsty widok na przednich filarach Wolnoњci, zapewniaj№cy duї№ iloњж ognia zaporowego przeciwko intruzom Monolitu.
 		</text>
 	</string>
-	
+
 	<string id="st_mag_xm8_5.56x45">
-		<text>Standard XM8 Magazine calibre 5.56x45</text>
+		<text>Magazynek XM8 5.56x45</text>
 	</string>
 	<string id="st_mag_xm8_5.56x45_descr">
 		<text>
-		Standard XM8 Magazine calibre 5.56x45.
+		Standardowy magazynek XM8 kaliber 5,56x45.
 		</text>
 	</string>
 
 	<string id="st_mag_type63_7.62x39">
-		<text>Standard 7.62x39 Type 63 Magazine</text>
+		<text>Magazynek 7.62x39 Typ 63</text>
 	</string>
 	<string id="st_mag_type63_7.62x39_descr">
 		<text>
-		20-round magazine for the Type 63 rifle made of stamped steel. Most Type 63s found in the Zone have the bolt hold-open device removed so they can fit more common AKM magazines. This magazine will also fit into AK-style rifles as well.
+		20-nabojowy magazynek do karabinu Typ 63 wykonany z tіoczonej stali. Wiкkszoњж Typu 63 znalezionych w Strefie ma zdjкte blokowanie zamka, dziкki czemu moїna w nich zmieњciж bardziej popularne magazynki AKM. Ten magazynek zmieњci siк rуwnieї do karabinуw typu AK.
 		</text>
 	</string>
-	
+
 	<string id="st_mag_type63_7.62x54">
-		<text>Modified 7.62x54 Type 63 Magazine</text>
+		<text>Zmodyfikowany magazynek 7.62x54 Typ 63</text>
 	</string>
 	<string id="st_mag_type63_7.62x54_descr">
 		<text>
-			Type 63 magazine modified to fit large 7.62x54R rounds. The Type 63 is a favorite of bandit clans; conversion to the full-size rifle round is the speciality of the bandit technician Limpid.
+			Magazynek typu 63 zmodyfikowany tak, aby pasowaі na duїe naboje 7,62x54R. Typ 63 jest ulubieсcem klanуw bandytуw; konwersja na peіnowymiarowy nabуj do karabinu to specjalnoњж bandyckiego technika Limpid.
 		</text>
 	</string>
 	<!-- 9x39 -->
 	<string id="st_mag_val_9x39_pab9">
-		<text>20-round 9x39 AS VAL Magazine</text>
+		<text>Magazynek 9x39 AS VAL</text>
 	</string>
 	<string id="st_mag_val_9x39_pab9_descr">
 		<text>
-			Standard 20-round AS VAL magazine, also compatible with SR-3M and VSS rifles. Designation "6L25". 
+			Standardowy 20-nabojowy magazynek AS VAL, kompatybilny rуwnieї z karabinami SR-3M i VSS. Oznaczenie „6L25”.
 		</text>
 	</string>
 
 	<string id="st_mag_vihr_9x39_pab9">
-		<text>30-round 9x39 SR-3M Magazine</text>
+		<text>Powiкkszony magazynek 9x39 SR-3M</text>
 	</string>
 	<string id="st_mag_vihr_9x39_pab9_descr">
 		<text>
-		30-round 9x39 magazine that comes standard with the SR-3M "Vihr" rifle. Also compatible with the VSS and AS VAL rifles. Designation "SR3M.130"
+	30-nabojowy magazynek 9x39, ktуry jest standardowo wyposaїony w karabin SR-3M "Vihr". Kompatybilny rуwnieї z karabinami VSS i AS VAL. Oznaczenie „SR3M.130”
 		</text>
 	</string>
-	
+
 	<string id="st_mag_vintorez_9x39_pab9">
-		<text>10-round 9x39 VSS Magazine</text>
+		<text>Magazynek 9x39 VSS</text>
 	</string>
 	<string id="st_mag_vintorez_9x39_pab9_descr">
 		<text>
-		Standard 10-round VSS Magazine, also compatible with the AS VAL and SR3M rifles. Designation "6L24".
+		Standardowy magazynek VSS na 10 naboi, kompatybilny rуwnieї z karabinami AS VAL i SR3M. Oznaczenie „6L24”.
 		</text>
 	</string>
-	
+
 	<string id="st_mag_vsk94_9x39_pab9">
-		<text>Standard 9x39 Box Magazine</text>
+		<text>Magazynek 9x39 Pudeіko</text>
 	</string>
 	<string id="st_mag_vsk94_9x39_pab9_descr">
 		<text>
-			20-round box magazine used in the 9A-91 and VSK-94 rifles.
+			20-nabojowy magazynek pudeіkowy stosowany w karabinach 9A-91 i VSK-94.
 		</text>
 	</string>
-	
+
 	<string id="st_mag_groza_9x39_pab9">
-		<text>20 round 9x39 Groza Magazine</text>
+		<text>Magazynek 9x39 Groza</text>
 	</string>
 	<string id="st_mag_groza_9x39_pab9_descr">
 		<text>
-			20-round magazine of 9x39 that comes standard with the OTs-14 Groza assault rifle. Design is similar to the AK-style magazines.
+			20-nabojowy magazynek 9x39, ktуry jest standardowo wyposaїony w karabin szturmowy OTs-14 Groza. Design jest podobny do magazynkуw w stylu AK.
 		</text>
 	</string>
-	
+
 
 <!--
 sniper rifles / full size rifles
 -->
-	
-		
+
+
 	<string id="st_mag_g43_7.92x33">
-		<text>Standard 7.92x57 G43 Magazine</text>
+		<text>Magazynek 7.92x57 G43</text>
 	</string>
 	<string id="st_mag_g43_7.92x33_descr">
 		<text>
-			Standard 10-round box magazine for the Gewehr 43.
+			Standardowy magazynek pudeіkowy na 10 naboi do Gewehr 43.
 		</text>
 	</string>
 
 	<string id="st_mag_galil_7.62x51">
-		<text>Standard 7.62x51 Galil Magazine</text>
+		<text>Magazynek 7.62x51 Galil</text>
 	</string>
 	<string id="st_mag_galil_7.62x51_descr">
 		<text>
-		Standard 20 round box magazine for the Israeli Galil battle rifle.
+		Standardowy magazynek pudeіkowy na 20 naboi do izraelskiego karabinu bojowego Galil.
 		</text>
 	</string>
-	
+
 	<string id="st_mag_stanag_7.62x51">
-		<text>Standard 7.62x51 STANAG Magazine</text>
+		<text>Magazynek 7.62x51 STANAG</text>
 	</string>
 	<string id="st_mag_stanag_7.62x51_descr">
 		<text>
-			Standard STANAG-style Magazine for 7.62x51 NATO rounds. Used in the HK417, SCAR and SR-25. Holds 20 rounds.
+			Standardowy magazynek typu STANAG na naboje 7,62x51 NATO. Uїywany w HK417, SCAR i SR-25. Mieњci 20 naboi.
 		</text>
 	</string>
-	
+
 	<string id="st_mag_stanag_fast_7.62x51">
-		<text>Fast-loading 7.62x51 STANAG Magazine</text>
+		<text>Zmodyfikowany magazynek 7.62x51 STANAG</text>
 	</string>
 	<string id="st_mag_stanag_fast_7.62x51_descr">
 		<text>
-			Modernized PMAG-style Magazine for 7.62x51 NATO rounds. Used in the HK417, SCAR and SR-25. Holds 20 rounds.
+			Zmodernizowany magazynek typu PMAG na naboje 7,62x51 NATO. Uїywany w HK417, SCAR i SR-25. Mieњci 20 naboi. Szybkoіadowany.
 		</text>
 	</string>
 	<string id="st_mag_stanag_7.62x51_short">
-		<text>10-round 7.62x51 STANAG Magazine</text>
+		<text>Magazynek 7.62x51 STANAG</text>
 	</string>
 	<string id="st_mag_stanag_7.62x51_short_descr">
 		<text>
-			Compact 10-round STANAG-style Magazine for 7.62x51 NATO rounds. Comes by default with the KAC SR-25, but can fit in the HK417 and SCAR Mk. 17.
+			Kompaktowy 10-nabojowy magazynek w stylu STANAG na naboje 7,62x51 NATO. Dostarczany domyњlnie z KAC SR-25, ale moїe wspуіgraж z HK417 i SCAR Mk. 17.
 		</text>
 	</string>
 
 	<string id="st_mag_hinge_7.62x51">
-		<text>Standard 7.62x51 Magazine</text>
+		<text>Magazynek 7.62x51</text>
 	</string>
 	<string id="st_mag_hinge_7.62x51_descr">
 		<text>
-		Standard 20-round 7.62x51 magazine used in battle rifles with hinged magazine locking mechanisms. Whatever minor differences in the compatibility between weapons and magazines of this style have been 'worked out' by Zone technicians. Used in the FN FAL, Mk. 14 EBR and G3 rifles.
+		Standardowy 20-nabojowy magazynek 7,62x51 stosowany w karabinach bojowych z zawiasowymi mechanizmami blokuj№cymi magazynek. Wszelkie drobne rуїnice w kompatybilnoњci miкdzy broni№ i magazynkami tego stylu zostaіy „opracowane” przez technikуw Zony. Uїywany w FN FAL, Mk. 14 karabinуw EBR i G3.
 		</text>
 	</string>
 
 	<string id="st_mag_hinge_ext_7.62x51">
-		<text>Extended 7.62x51 Magazine</text>
+		<text>Powiкkszony magazynek 7.62x51</text>
 	</string>
 	<string id="st_mag_hinge_ext_7.62x51_descr">
 		<text>
-		Extended 30-round 7.62x51 magazine used in battle rifles with hinged magazine locking mechanisms. Used in the FN FAL, Mk. 14 EBR and G3 rifles.
-		</text>
+Powiкkszony 30-nabojowy magazynek 7,62x51 stosowany w karabinach bojowych z zawiasowymi mechanizmami blokowania magazynka. Uїywany w FN FAL, Mk. 14 karabinуw EBR i G3.
+	</text>
 	</string>
-	
+
 	<string id="st_mag_l96a1_7.62x51">
-		<text>10-round 7.62x51 L96A1 Magazine</text>
+		<text>Magazynek 7.62x51 L96A1</text>
 	</string>
 	<string id="st_mag_l96a1_7.62x51_descr">
 		<text>
-		Standard-issue 10-round magazine for the L96A1. The L96 is a favorite of Western mercenaries and Monolith forces. 
+	Standardowy magazynek na 10 naboi do L96A1. L96 jest ulubieсcem zachodnich najemnikуw i siі Monolitu.
 		</text>
 	</string>
 
@@ -388,184 +388,184 @@ sniper rifles / full size rifles
 
 
 	<string id="st_mag_pkm_pkm">
-		<text>100-round 7.62x54 PKM Box</text>
+		<text>100-naboi 7.62x54 PKM Pudeіko</text>
 	</string>
 	<string id="st_mag_pkm_pkm_descr">
 		<text>
-			Heavy box that holds 100 rounds of 7.62x54R ammunition in a belt, for use with the PKM. It is advised to bring a few of these if you plan on hunting Pseudogiants or Chimeras.
+			Ciкїkie pudeіko mieszcz№ce 100 sztuk amunicji 7,62x54R w pasie, do uїytku z PKM. Jeњli planujesz polowaж na Pseudogianty lub Chimery, warto zabraж ze sob№ kilka takich.
 		</text>
 	</string>
 
 	<string id="st_mag_l96a1_pkm">
-		<text>Modified 10-round 7.62x54 L96A1 Magazine</text>
+		<text>Zmodyfikowany magazynek 7.62x54 L96A1</text>
 	</string>
 	<string id="st_mag_l96a1_pkm_descr">
 		<text>
-		Modified L96A1 Magazine calibre 7.62x54.
+		Zmodyfikowany magazynek L96A1 kaliber 7,62x54.
 		</text>
 	</string>
-	
+
 	<string id="st_mag_sv98_7.62x54">
-		<text>Standard 7.62x54 SV98 Magazine</text>
+		<text>Magazynek 7.62x54 SV98</text>
 	</string>
 	<string id="st_mag_sv98_7.62x54_descr">
 		<text>
-			Standard 10-round polymer magazine for the SV-98 sniper rifle. The SV-98 is used primarily by Russian law enforcement; limited numbers have found their way into the hands of the Duty faction through secret channels.
+			Standardowy polimerowy magazynek na 10 naboi do karabinu snajperskiego SV-98. SV-98 jest uїywany gіуwnie przez rosyjskie organy њcigania; ograniczona liczba znalazіa siк w rкkach frakcji Powinnoњci przez tajne kanaіy.
 		</text>
 	</string>
-	
+
 	<string id="st_mag_svd_7.62x54">
-		<text>Standard 7.62x54 SVD Magazine</text>
+		<text>Magazynek 7.62x54 SVD</text>
 	</string>
 	<string id="st_mag_svd_7.62x54_descr">
 		<text>
-			Standard 10-round magazine for the SVD and SVU sniper rifle. The SVD is popular with members of all factions, if they can get their hands on such a rifle. 
+		Standardowy magazynek na 10 naboi do karabinu snajperskiego SVD i SVU. SVD jest popularny wњrуd czіonkуw wszystkich frakcji, jeњli uda im siк zdobyж taki karabin.
 		</text>
 	</string>
 
 	<string id="st_mag_svd_7.62x54_extended">
-		<text>20-round 7.62x54 SVD Magazine</text>
+		<text>Powiкkszony magazynek 7.62x54 SVD</text>
 	</string>
 	<string id="st_mag_svd_7.62x54_extended_descr">
 		<text>
-			Extended 20-round magazine for the SVD and SVU sniper rifle. Commonly used with the SVU-A rifle to allow it to temporarily fill the role of LMG in close quarters engagements.
+			Przedіuїony magazynek na 20 naboi do karabinu snajperskiego SWD i SVU. Powszechnie uїywany z karabinem SVU-A, aby tymczasowo peіniж rolк LKM-u w starciach w zwarciu.
 		</text>
 	</string>
-	
+
 	<string id="st_mag_svt40_7.62x54">
-		<text>Standard 7.62x54 SVT-40 Magazine</text>
+		<text>Magazynek 7.62x54 SVT-40</text>
 	</string>
 	<string id="st_mag_svt40_7.62x54_descr">
 		<text>
-			Standard 10-round magazine used with the SVT-40 rifle. The SVT-40 is a classic Great War rifle that is popular with many stalkers, especially Loners.
+			Standardowy 10-nabojowy magazynek uїywany z karabinem SVT-40. SVT-40 to klasyczny karabin Wielkiej Wojny, ktуry jest popularny wњrуd wielu stalkerуw, zwіaszcza samotnikуw.
 		</text>
 	</string>
-	
+
 	<string id="st_mag_svt40_pkm">
-		<text>Standard 7.62x54 SVT-40 Magazine</text>
+		<text>Magazynek 7.62x54 SVT-40</text>
 	</string>
 	<string id="st_mag_svt40_pkm_descr">
 		<text>
-			Standard 10-round magazine used with the SVT-40 rifle. The SVT-40 is a classic Great War rifle that is popular with many stalkers, especially Loners. This variant has been modified slightly to allow for loading of 7.62x54 machine gun rounds.
+		Standardowy 10-nabojowy magazynek uїywany z karabinem SVT-40. SVT-40 to klasyczny karabin Wielkiej Wojny, ktуry jest popularny wњrуd wielu stalkerуw, zwіaszcza samotnikуw. Ten wariant zostaі nieznacznie zmodyfikowany, aby umoїliwiж іadowanie pociskуw 7,62x54 karabinu maszynowego.
 		</text>
 	</string>
-	
+
 	<string id="st_mag_svt40_7.62x39">
-		<text>Modified 7.62x39 SVT-40 Magazine</text>
+		<text>Zmodyfikowany magazynek 7.62x39 SVT-40</text>
 	</string>
 	<string id="st_mag_svt40_7.62x39_descr">
 		<text>
-			SVT-40 magazine modified to load the intermediate 7.62x39 round.
+			Magazynek SVT-40 zmodyfikowany do іadowania naboju 7,62x39.
 		</text>
 	</string>
-	
+
 	<string id="st_mag_trg_magnum_300">
-		<text>Standard .338 LM Magazine</text>
+		<text>Magazynek .338 LM</text>
 	</string>
 	<string id="st_mag_trg_magnum_300_descr">
 		<text>
-			5-round magazine for the Sako TRG-42, L96 AWM and M24 SWS. This magazine was originally designed for the Sako, however, it has been 'modified' slightly to accommodate different rifles. Works fine in most rifles, as long as you remember to tap the magazine every once in a while.
+			Magazynek na 5 naboi do Sako TRG-42, L96 AWM i M24 SWS. Ten magazynek zostaі pierwotnie zaprojektowany dla Sako, jednak zostaі nieco „zmodyfikowany”, aby pomieњciж rуїne karabiny. Dziaіa dobrze w wiкkszoњci karabinуw, o ile pamiкtasz, aby raz na jakiњ czas stukaж w magazynek.
 		</text>
 	</string>
 
 	<string id="st_mag_l96a1m_magnum_300">
-		<text>10-round .338 LM L96A1 Magazine</text>
+		<text>Magazynek .338 LM L96A1</text>
 	</string>
 	<string id="st_mag_l96a1m_magnum_300_descr">
 		<text>
-			Standard-issue 10-round magazine for the L96A1 that fits the slightly larger and considerably more powerful .338 Lapua Magnum. The L96 is a favorite of Western mercenaries and Monolith forces.
+			Standardowy magazynek na 10 nabojуw do L96A1, ktуry pasuje do nieco wiкkszego i znacznie potкїniejszego .338 Lapua Magnum. L96 jest ulubieсcem zachodnich najemnikуw i siі Monolitu.
 		</text>
 	</string>
-	
+
 	<string id="st_mag_m98b_magnum_300">
-		<text>Standard .338 LM M98B Magazine</text>
+		<text>Magazynek .338 LM M98B</text>
 	</string>
 	<string id="st_mag_m98b_magnum_300_descr">
 		<text>
-			10-round magazine compatible with the Barrett M98B.
+			Magazynek na 10 naboi kompatybilny z Barrett M98B.
 		</text>
 	</string>
-	
-	
+
+
 	<string id="st_mag_vssk_12.7x55">
-		<text>Standard 12.7x55 VSSK Magazine</text>
+		<text>Magazynek 12.7x55 VSSK</text>
 	</string>
 	<string id="st_mag_vssk_12.7x55_descr">
 		<text>
-		Standard 5-round magazine used in the VSSK sniper rifle.
+		Standardowy magazynek na 5 nabojуw uїywany w karabinie snajperskim VSSK.
 		</text>
 	</string>
 
 	<string id="st_mag_ash12_12.7x55">
-		<text>Standard 12.7x55 ASh-12 Magazine</text>
+		<text>Magazynek 12.7x55 ASh-12</text>
 	</string>
 	<string id="st_mag_ash12_12.7x55_descr">
 		<text>
-		Standard ASh-12 Magazine with capacity for 10 rounds. It is unlikely more than 10 rounds will ever be needed for human targets.
+		Standardowy magazynek ASh-12 o pojemnoњci 10 naboi. Jest maіo prawdopodobne, їe do ludzkich celуw potrzeba wiкcej niї 10 pociskуw.
 		</text>
 	</string>
 
 	<string id="st_mag_ash12_ext_12.7x55">
-		<text>Extended 12.7x55 ASh-12 Magazine</text>
+		<text>Powiкkszony magazynek 12.7x55 ASh-12</text>
 	</string>
 	<string id="st_mag_ash12_ext_12.7x55_descr">
 		<text>
-		Extended ASh-12 Magazine with capacity for 20 rounds. For when you need to bring down giant mutants.
+		Rozszerzony magazynek ASh-12 o pojemnoњci 20 naboi. Gdy musisz pokonaж gigantycznych mutantуw.
 		</text>
 	</string>
 
 	<string id="st_mag_m82_12.7x55">
-		<text>10-round 12.7x55 M82 Magazine</text>
+		<text>Magazynek 12.7x55 M82 </text>
 	</string>
 	<string id="st_mag_m82_12.7x55_descr">
 		<text>
-			10-round magazine for the Barrett M82 rifle, modified to fit 12.7x55 STs rounds. The first stalker to bring such a monster of a weapon discarded it after running out of ammunition; enterprising technicians have retrofitted this weapon to fire more common rounds without needing to replace the very heavy barrel.
+			Magazynek na 10 nabojуw do karabinu Barrett M82, dostosowany do pociskуw 12,7x55 STs. Pierwszy stalker, ktуry przyniуsі takiego potwora z broni№, odrzuciі go, gdy skoсczyіa mu siк amunicja. Zaradni technicy zmodernizowali tк broс, aby strzelaж bardziej powszechnymi pociskami bez koniecznoњci wymiany bardzo ciкїkiej lufy.
 		</text>
 	</string>
-	
-	
+
+
 	<string id="st_mag_saiga12s_12x70">
-		<text>Standard 12x70 Saiga-12S Magazine</text>
+		<text>Magazynek 12x70 Saiga-12S</text>
 	</string>
 	<string id="st_mag_saiga12s_12x70_descr">
 		<text>
-		Standard Saiga-12S magazine with capacity for 8 shotshells. The Saiga is a good quality shotgun that is popular with Dutyers.
+		Standardowy magazynek Saiga-12S na 8 naboi. Saiga to dobrej jakoњci strzelba, ktуra jest popularna wњrуd Powinnoњci.
 		</text>
 	</string>
 
 	<string id="st_mag_saiga12s_ext_12x70">
-		<text>Extended 12x70 Saiga-12S Magazine</text>
+		<text>Powiкkszony magazynek 12x70 Saiga-12S</text>
 	</string>
 	<string id="st_mag_saiga12s_ext_12x70_descr">
 		<text>
-		Extended Saiga-12S magazine with capacity for 12 shotshells. More shells means more mutants you can kill each each magazine.
+		Powiкkszony magazynek Saiga-12S na 12 naboi. Wiкcej pociskуw oznacza wiкcej mutantуw, ktуrych moїesz zabiж przy kaїdym magazynku.
 		</text>
 	</string>
-	
+
 	<string id="st_mag_usas12_12x70">
-		<text>Standard 12x70 USAS-12 Drum</text>
+		<text>Bкben 12x70 USAS-12</text>
 	</string>
 	<string id="st_mag_usas12_12x70_descr">
 		<text>
-		20-shell drum for the USAS-12 automatic shotgun. The firepower offered by the USAS-12 is unrivaled at short range, although the weight and magazine bulk makes it impractical to carry around.
+		20-pociskowy bкben do strzelby automatycznej USAS-12. Siіa ognia oferowana przez USAS-12 jest bezkonkurencyjna na krуtkim dystansie, chociaї waga i pojemnoњж magazynka sprawiaj№, їe noszenie go jest niepraktyczne.
 		</text>
 	</string>
 
 	<string id="st_mag_vepr_12x70">
-		<text>Standard 12x70 Vepr-12 Magazine</text>
+		<text>Magazynek 12x70 Vepr-12</text>
 	</string>
 	<string id="st_mag_vepr_12x70_descr">
 		<text>
-			Standard 10-shell magazine for the Vepr-12. Despite their similarities, the Vepr cannot share magazines with the Saiga.
+			Standardowy magazynek na 10 pociskуw do Vepr-12. Pomimo podobieсstw, Vepr nie moїe dzieliж siк magazynkami z Saig№.
 		</text>
 	</string>
 
 	<string id="st_mag_vepr_compact_12x70">
-		<text>Compact 12x70 Vepr-12 Magazine</text>
+		<text>Kompaktowy magazynek 12x70 Vepr-12</text>
 	</string>
 	<string id="st_mag_vepr_compact_12x70_descr">
 		<text>
-			A small magazine for the Vepr-12 with only five shell capacity. Don't be fooled - the magazine can fit in your pocket and is extremely easy to load.
+			Maіy magazynek do Vepr-12 o pojemnoњci zaledwie piкciu pociskуw. Nie daj siк zwieњж - magazynek zmieњci siк w kieszeni i jest niezwykle іatwy do zaіadowania.
 		</text>
 	</string>
 

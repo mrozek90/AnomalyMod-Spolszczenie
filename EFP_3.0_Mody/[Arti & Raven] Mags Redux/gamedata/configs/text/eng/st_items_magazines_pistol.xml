@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1250"?>
 
 <string_table>
 
@@ -125,223 +125,223 @@ Pistols and MP's
 	</string>
 
 	<string id="st_mag_fort_9x18_fmj">
-		<text>Standard 9x18 Fort-17 Magazine</text>
+		<text>Magazynek 9x18 Fort-17</text>
 	</string>
 	<string id="st_mag_fort_9x18_fmj_descr">
 		<text>
-		Standard-issue 17-round magazine for the Fort-12 handgun. Commonly seen in the Zone as the sidearm of backline Ukrainian Military troops or stalkers with backgrounds as police officers.
+		Zwyczajny magazynek o pojemnoњci 17 nabojуw do Fort-12. Powszechnie postrzegany w Strefie jako broс przyboczna ukraiсskich їoіnierzy z tylnej linii lub stalkerуw z przeszіoњci№ jako funkcjonariusze policji.
 		</text>
 	</string>
 
 	<string id="st_mag_fort_9x19_fmj">
-		<text>Modified 9x19 Fort-17 Magazine</text>
+		<text>Zmodyfikowany magazynek 9x19 Fort-17</text>
 	</string>
 	<string id="st_mag_fort_9x19_fmj_descr">
 		<text>
-		Fort-17 magazine modified to accept 9x19 Parabellum rounds.
+		Zmodyfikowany magazynek do Fort-17, pozwala zaіadowaж naboje 9x19 Parabellum.
 		</text>
 	</string>
 
 	<string id="st_mag_glock_9x19_fmj">
-		<text>Standard 9x19 Glock Magazine</text>
+		<text>Magazynek 9x19 Glock</text>
 	</string>
 	<string id="st_mag_glock_9x19_fmj_descr">
 		<text>
-		Standard Glock magazine holding 17 rounds. A perennial favorite of American police officers and gangsters.
+		Standardowy magazynek Glock na 17 naboi. Odwieczny faworyt amerykaсskich policjantуw i gangsterуw.
 		</text>
 	</string>
 
 	<string id="st_mag_glock_9x18_fmj">
-		<text>Modified 9x18 Glock Magazine</text>
+		<text>Zmodyfikowany magazynek 9x18 Glock</text>
 	</string>
 	<string id="st_mag_glock_9x18_fmj_descr">
 		<text>
-		Glock magazine modified to take the more common 9x18 Makarov round.
+		Zmodyfikowany magazynek do Glocka pozwalaj№cy zaіadowaж naboje z  9x18 Makarov.
 		</text>
 	</string>
 
 	<string id="st_mag_gsh18_9x19_fmj">
-		<text>Standard 9x19 Gsh-18 Magazine</text>
+		<text>Magazynek 9x19 Gsh-18</text>
 	</string>
 	<string id="st_mag_gsh18_9x19_fmj_descr">
 		<text>
-		Standard-issue Gsh-18 Magazine holding 18 rounds. The Gsh-18 is one of the modern sidearms used by Russian military and law enforcement.
+		Standardowy magazynek Gsh-18 na 18 naboi. Gsh-18 to jedna z nowoczesnych broni bocznych uїywanych przez rosyjskie wojsko i organy њcigania.
 		</text>
 	</string>
 
 	<string id="st_mag_hpsa_9x19_fmj">
-		<text>Standard 9x19 Browning Hi-Power Magazine</text>
+		<text>Magazynek 9x19 Browning Hi-Power</text>
 	</string>
 	<string id="st_mag_hpsa_9x19_fmj_descr">
 		<text>
-		Standard Browning Hi-Power Magazine holding 13 rounds. The Hi-Power is a reliable and affordable sidearm favored by many stalkers.
+	Standardowy magazynek Browning Hi-Power mieszcz№cy 13 naboi. Hi-Power to niezawodna i niedroga broс boczna, ulubiona przez wielu stalkerуw.
 		</text>
 	</string>
 
 	<string id="st_mag_hpsa_9x18_fmj">
-		<text>Modified 9x18 Browning Hi-Power Magazine</text>
+		<text>Zmodyfikowany magazynek 9x18 Browning Hi-Power</text>
 	</string>
 	<string id="st_mag_hpsa_9x18_fmj_descr">
 		<text>
-		Browning Hi-Power magazine modified to accept the 9x18 Makarov round.
+		Magazynek Browning Hi-Power zmodyfikowany w celu zaіadowania naboju 9x18 Makarowa.
 		</text>
 	</string>
 
 	<string id="st_mag_mp443_9x19_fmj">
-		<text>Standard 9x19 MP-443 Magazine</text>
+		<text>Magazynek 9x19 MP-443</text>
 	</string>
 	<string id="st_mag_mp443_9x19_fmj_descr">
 		<text>
-		Standard-issue 18-round magazine for the MP-443 "Grach". One of the primary sidearms of Russian military and law enforcement units.
+		Standardowy magazynek na 18 naboi do MP-443 „Grach”. Jedna z podstawowych broni bocznych rosyjskich jednostek wojskowych i organуw њcigania.
 		</text>
 	</string>
 
 	<string id="st_mag_mp443_9x18_fmj">
-		<text>Modified 9x18 MP-443 Magazine</text>
+		<text>Zmodyfikowany magazynek 9x18 MP-443</text>
 	</string>
 	<string id="st_mag_mp443_9x18_fmj_descr">
 		<text>
-		Modified MP-443 Magazine made to accept the 9x18 Makarov round.
+		Zmodyfikowany magazynek do MP-443 pozwalaj№cy zaіadowaж naboje z 9x18 Makarov.
 		</text>
 	</string>
 
 	<string id="st_mag_oc33_9x18_fmj">
-		<text>Standard 9x18 OTs-33 Pernach Magazine</text>
+		<text>Magazynek 9x18 OTs-33 Pernach</text>
 	</string>
 	<string id="st_mag_oc33_9x18_fmj_descr">
 		<text>
-		Standard OTs-33 Pernach Magazine holding 27 rounds. The Pernach succeeded the APS as an automatic machine pistol, being superior in almost every way except for style.
+	Standardowy magazynek Pernach OTs-33 na 27 naboi. Pernach zast№piі APS jako automatyczny pistolet maszynowy, przewyїszaj№c go niemal pod kaїdym wzglкdem, z wyj№tkiem stylu.
 		</text>
 	</string>
 
 	<string id="st_mag_oc33_9x19_fmj">
-		<text>Modified 9x19 OTs-33 Pernach Magazine</text>
+		<text>Zmodyfikowany 9x19 OTs-33 Pernach</text>
 	</string>
 	<string id="st_mag_oc33_9x19_fmj_descr">
 		<text>
-			OTs-33 Pernach magazine modified to load 9x19 Parabellum rounds.
+			Zmodyfikowany magazynek do OTs-33 Pernach pozwalaj№cy zaіadowaж naboje 9x19 Parabellum.
 		</text>
 	</string>
 
 
 	<string id="st_mag_pm_9x18_fmj">
-		<text>Standard 9x18 PM Magazine</text>
+		<text>Magazynek 9x18 PM</text>
 	</string>
 	<string id="st_mag_pm_9x18_fmj_descr">
 		<text>
-		Standard-issue PM magazine holding 8 rounds. The PM is lacking in both stopping power and magazine capacity, its only saving grace being how common it is.
+		Standardowy magazynek PM na 8 naboi. PM nie ma ani siіy hamowania, ani pojemnoњci magazynka, a jedynym plusem jest to, їe czкsto wystкpuje.
 		</text>
 	</string>
 
 	<string id="st_mag_pm_9x19_fmj">
-		<text>Modified 9x19 PM Magazine</text>
+		<text>Zmodyfikowany magazynek 9x19 PM</text>
 	</string>
 	<string id="st_mag_pm_9x19_fmj_descr">
 		<text>
-			PM Magazine modified to accept 9x19 Parabellum rounds. The larger round provides a scant increase in power.
+			PM Magazine zmodyfikowany tak, aby przyjmowaі naboje 9x19 Parabellum. Wiкkszy nabуj zapewnia niewielki wzrost mocy.
 		</text>
 	</string>
 
 	<string id="st_mag_pmm_9x18_fmj">
-		<text>Standard 9x18 PMM magazine</text>
+		<text>Magazynek 9x18 PMM</text>
 	</string>
 	<string id="st_mag_pmm_9x18_fmj_descr">
 		<text>
-			Standard-issue PMM magazine holding 12 rounds. A noticeable improvement over the PM.
+		Standardowy magazynek PMM na 12 naboi. Zauwaїalna poprawa w stosunku do PM.
 		</text>
 	</string>
 
 	<string id="st_mag_pmm_9x19_fmj">
-		<text>Modified 9x19 PMM Magazine</text>
+		<text>Zmodyfikowany magazynek 9x19 PMM</text>
 	</string>
 	<string id="st_mag_pmm_9x19_fmj_descr">
 		<text>
-			PMM Magazine modified to accept 9x19 Parabellum rounds.
+			Zmodyfikowany magazynek do PMM pozwalaj№cy zaіadowaж naboje 9x19 Parabellum.
 		</text>
 	</string>
 
 	<string id="st_mag_pp2000_9x19_fmj">
-		<text>Standard 9x19 PP-2000 Magazine</text>
+		<text>Magazynek 9x19 PP-2000</text>
 	</string>
 	<string id="st_mag_pp2000_9x19_fmj_descr">
 		<text>
-		Standard issue PP-2000 Magazine with a capacity of 30 rounds.
+	Magazynek PP-2000 w standardowym wydaniu o pojemnoњci 30 naboi.
 		</text>
 	</string>
 
 	<string id="st_mag_pp2000_9x18_fmj">
-		<text>Modified 9x18 PP-2000 Magazine</text>
+		<text>Zmodyfikowany magazynek 9x18 PP-2000</text>
 	</string>
 	<string id="st_mag_pp2000_9x18_fmj_descr">
 		<text>
-			PP-2000 Magazine modified to take the 9x18 Makarov round.
+			Magazynek PP-2000 dostosowany do pocisku 9x18 Makarov.
 		</text>
 	</string>
 
 	<string id="st_mag_sig220_11.43x23_fmj">
-		<text>Standard .45 ACP SIG Sauer P220 Magazine</text>
+		<text>Magazynek .45 ACP SIG Sauer P220</text>
 	</string>
 	<string id="st_mag_sig220_11.43x23_fmj_descr">
 		<text>
-			7-round .45 ACP magazine for the SIG P220 handgun. The P220 is popular with bodyguards and security officers, and does a decent job in the Zone.
+			Magazynek na 7 nabojуw .45 ACP do pistoletu SIG P220. P220 jest popularny wњrуd ochroniarzy i agentуw bezpieczeсstwa, i wykonuje przyzwoit№ pracк w Strefie.
 		</text>
 	</string>
 
 	<string id="st_mag_tt33_7.62x25_p">
-		<text>Standard 7.62x25 TT-33 Magazine</text>
+		<text>Magazynek 7.62x25 TT-33</text>
 	</string>
 	<string id="st_mag_tt33_7.62x25_p_descr">
 		<text>
-		8-round 7.62x25 TT-33 Magazine. This Great War classic still has its admirers in the Zone.
+	8-nabojowy magazynek 7,62x25 TT-33. Ten klasyk Wielkiej Wojny wci№ї ma swoich wielbicieli w Strefie.
 		</text>
 	</string>
 
 
 	<string id="st_mag_usp_11.43x23_fmj">
-		<text>Standard .45 ACP USP Magazine</text>
+		<text>magazynek .45 ACP USP</text>
 	</string>
 	<string id="st_mag_usp_11.43x23_fmj_descr">
 		<text>
-			Standard 12-round USP magazine for .45 ACP variant of the USP.
+			Standardowy magazynek na 12 naboi USP do wariantu USP .45 ACP.
 		</text>
 	</string>
 
 	<string id="st_mag_usp_9x19_fmj">
-		<text>Standard 9x19 USP Magazine</text>
+		<text>Magazynek 9x19 USP</text>
 	</string>
 	<string id="st_mag_usp_9x19_fmj_descr">
 		<text>
-			Standard 15-round USP magazine for the 9mm "Match" variants of the USP.
+			Standardowy 15-nabojowy magazynek USP do 9-milimetrowych wariantуw USP „Match”.
 		</text>
 	</string>
 
 
 	<string id="st_mag_walther_9x19_fmj">
-		<text>Standard 9x19 Walther P99 Magazine</text>
+		<text>Magazynek 9x19 Walther P99</text>
 	</string>
 	<string id="st_mag_walther_9x19_fmj_descr">
 		<text>
-		16-round standard issue Walther P99 Magazine for 9x19 Parabellum.
+	Standardowy 16-nabojowy magazynek Walther P99 do parabellum 9x19.
 		</text>
 	</string>
 
 	<!-- begin smgs -->
 
 	<string id="st_mag_bizon_9x18_fmj">
-		<text>Standard 9x18 PP-19 Magazine </text>
+		<text>Magazynek 9x18 PP-19</text>
 	</string>
 	<string id="st_mag_bizon_9x18_fmj_descr">
 		<text>
-		Standard 64-round helical magazine for the PP-19 Bizon submachine gun. The high capacity is offset by its inherent unreliability in feeding rounds.
+		Standardowy 64-nabojowy magazynek spiralny do pistoletu maszynowego PP-19 Bizon. Wysoka wydajnoњж jest rуwnowaїona przez jej wrodzon№ zawodnoњж w іadowaniu naboi.
 		</text>
 	</string>
 
 	<string id="st_mag_bizon_9x19_fmj">
-		<text>Modified 9x19 PP-19 Magazine</text>
+		<text>Zmodyfikowany magazynek 9x19 PP-19</text>
 	</string>
 	<string id="st_mag_bizon_9x19_fmj_descr">
 		<text>
-		Modified PP-19 magazine made to accept the 9x19 Tokarev round. Clearly the work of a wizard, considering the complexity of the Bizon's helical magazine.
+		Zmodyfikowany magazynek PP-19 przystosowany do іadowania naboju 9x19 Tokarev. Najwyraџniej praca czarodzieja, bior№c pod uwagк zіoїonoњж spiralnego magazynu Bizona.
 		</text>
 	</string>
 
@@ -355,128 +355,128 @@ Pistols and MP's
 	</string>
 
 	<string id="st_mag_kiparis_9x18_fmj">
-		<text>Standard 9x18 Kiparis Magazine</text>
+		<text>Magazynek 9x18 Kiparis</text>
 	</string>
 	<string id="st_mag_kiparis_9x18_fmj_descr">
 		<text>
-		Standard 30-round Kiparis Magazine. The Kiparis is a cheap submachine gun that has its admirers amongst bandit and renegade clans.
+		Standardowy 30-nabojowy magazynek Kiparis. Kiparis to tani pistolet maszynowy, ktуry ma swoich wielbicieli wњrуd klanуw bandytуw i renegatуw.
 		</text>
 	</string>
 
 	<string id="st_mag_kiparis_9x19_fmj">
-		<text>Modified 9x19 Kiparis Magazine</text>
+		<text>Zmodyfikowany magazynek 9x19 Kiparis</text>
 	</string>
 	<string id="st_mag_kiparis_9x19_fmj_descr">
 		<text>
-		Modified 30-round Kiparis Magazine made to accept the 9x19 Parabellum round. The Kiparis is a cheap submachine gun that has its admirers amongst bandit and renegade clans.
+		Zmodyfikowany 30-nabojowy magazynek Kiparis przystosowany do naboju 9x19 Parabellum. Kiparis to tani pistolet maszynowy, ktуry ma swoich wielbicieli wњrуd klanуw bandytуw i renegatуw.
 		</text>
 	</string>
 
 	<string id="st_mag_vityaz_9x19_fmj">
-		<text>Standard 9x19 Vityaz-SN Magazine</text>
+		<text>Magazynek 9x19 Vityaz-SN</text>
 	</string>
 	<string id="st_mag_vityaz_9x19_fmj_descr">
 		<text>
-			Standard-issue 30-round 9x19 magazine for the Vityaz-SN. Uncommon weapon in the Zone, as the Ukrainian Military doesn't field this weapon.
+		Standardowy 30-nabojowy magazynek 9x19 do Vityaz-SN. Niezwykіa broс w Strefie, poniewaї Ukraiсskie Wojsko nie sprzedaje tej broni.
 		</text>
 	</string>
 
 	<string id="st_mag_vityaz_9x18_fmj">
-		<text>Modified 9x18 Vityaz-SN Magazine</text>
+		<text>Zmodyfikowany magazynek9x18 Vityaz-SN</text>
 	</string>
 	<string id="st_mag_vityaz_9x18_fmj_descr">
 		<text>
-		Vityaz-SN Magazine modified to accept 9x18 Makarov.
+		Zmodyfikowany magazynek Vityaz-SN przystosowany do naboi Makarowa 9x18.
 		</text>
 	</string>
 
 	<string id="st_mag_vz61_9x19_fmj">
-		<text>Standard 9x19 vz.61 Magazine</text>
+		<text>Magazynek 9x19 vz.61</text>
 	</string>
 	<string id="st_mag_vz61_9x19_fmj_descr">
 		<text>
-		20-round standard issue Vz.61 magazine. A reliable weapon that enjoys immense popularity with the criminal underworld.
+		20-nabojowy standardowy magazynek Vz.61. Niezawodna broс, ktуra cieszy siк ogromn№ popularnoњci№ w przestкpczym pуіњwiatku.
 		</text>
 	</string>
 
 	<string id="st_mag_vz61_9x18_fmj">
-		<text>Modified 9x18 vz.61 Magazine</text>
+		<text>Zmodyfikowany magazynek 9x18 vz.61</text>
 	</string>
 	<string id="st_mag_vz61_9x18_fmj_descr">
 		<text>
-			20-round Vz.61 magazine modified slightly to feed 9x18 Makarov rounds.
+			20-nabojowy magazynek Vz.61 nieznacznie zmodyfikowany do іadowania pociskami 9x18 Makarova.
 		</text>
 	</string>
 
 	<string id="st_mag_p90_5.7x28_ss190">
-		<text>Standard 5.7x28 P90 Magazine</text>
+		<text>Magazynek 5.7x28 P90</text>
 	</string>
 	<string id="st_mag_p90_5.7x28_ss190_descr">
 		<text>
-			Standard 50-round helical magazine used in the P90. So futuristic!
+			Standardowy 50-nabojowy magazynek spiralny uїywany w P90. Tak bardzo futurystyczne!
 		</text>
 	</string>
 
 	<string id="st_mag_ppsh41_7.62x25_p">
-		<text>Standard PPSh41 Drum calibre 7.62x25</text>
+		<text>Magazynek PPSh41 Drum calibre 7.62x25</text>
 	</string>
 	<string id="st_mag_ppsh41_7.62x25_p_descr">
 		<text>
-		Standard PPSh41 Drum calibre 7.62x25.
+		Magazynek do PPSh41 Drum calibre 7.62x25.
 		</text>
 	</string>
 
 	<string id="st_mag_mp5_9x19_fmj">
-		<text>Standard 9x19 MP5 Magazine</text>
+		<text>Magazynek 9x19 MP5</text>
 	</string>
 	<string id="st_mag_mp5_9x19_fmj_descr">
 		<text>
-            30-round magazine for the popular and ubiquitous MP5. The MP5 is a favorite of stalkers from all walks of life, providing sufficient firepower to fend off dogs and bandits alike.
+            30-nabojowy magazynek do popularnego i wszechobecnego MP5. MP5 jest ulubieсcem stalkerуw ze wszystkich њrodowisk, zapewniaj№c wystarczaj№c№ siік ognia, aby odeprzeж psy i bandytуw.
 		</text>
 	</string>
 
 	<string id="st_mag_mp5_9x18_fmj">
-		<text>Modified 9x18 MP5 Magazine</text>
+		<text>Zmodyfikowany magazynek 9x18 MP5</text>
 	</string>
 	<string id="st_mag_mp5_9x18_fmj_descr">
 		<text>
-            MP5 magazine modified to take 9x18 Makarov rounds. Conversions to 9x18 are fairly common for the MP5, given its popularity and familiarity to many of the Zone's technicians.
+            Magazynek MP5 dostosowany do pociskуw Makarowa 9x18. Konwersje na 9x18 s№ doњж powszechne w MP5, bior№c pod uwagк jego popularnoњж i umiejкtnoњci wielu technikуw Zone.
 		</text>
 	</string>
 
 	<string id="st_mag_mp7_9x19_fmj">
-		<text>Modified 9x19 MP7 Magazine</text>
+		<text>Zmodyfikowany magazynek 9x19 MP7</text>
 	</string>
 	<string id="st_mag_mp7_9x19_fmj_descr">
 		<text>
-            40-round extended MP7 magazine modified to accept 9x19 Parabellum rounds. Due to the somewhat rare nature of 4.6x30 rounds, some thrifty technicians were able to retrofit the MP7 to fire more common 9mm pistol rounds.
+            Poszerzony magazynek MP7 na 40 nabojуw zmodyfikowany tak, aby mieњciі naboje 9x19 Parabellum. Ze wzglкdu na doњж rzadki charakter pociskуw 4,6x30, niektуrzy oszczкdni technicy byli w stanie zmodernizowaж MP7 tak, aby strzelaі bardziej popularnymi pociskami pistoletowymi kal. 9 mm.
 		</text>
 	</string>
 
 	<string id="st_mag_mp7_9x18_fmj">
-		<text>Modified 9x18 MP7 Magazine</text>
+		<text>Zmodyfikowany magazynek 9x18 MP7</text>
 	</string>
 	<string id="st_mag_mp7_9x18_fmj_descr">
 		<text>
-		40-round extended MP7 magazine modified yet again to accept 9x18 Parabellum rounds. The nonstandard modification on top of a nonstandard modification tends to cause issues with reliability with the weapon.
+		Poszerzony magazynek MP7 na 40 nabojуw ponownie zmodyfikowany tak, aby mieњciі naboje 9x18 Parabellum. Niestandardowa modyfikacja w poі№czeniu z niestandardow№ modyfikacj№ powoduje problemy z niezawodnoњci№ broni.
 		</text>
 	</string>
 
 	<string id="st_mag_mp5_11.43x23_fmj">
-		<text>.45 ACP "Frasier" MP5 Magazine</text>
+		<text>Magazynek .45 ACP "Frasier" MP5</text>
 	</string>
 	<string id="st_mag_mp5_11.43x23_fmj_descr">
 		<text>
-            Custom-built magazine for the MP5 "Frasier". Holds 30 rounds of .45 ACP ammunition. Rumored to be a commission for an unknown eccentric Dutyer.
+            Wykonany na zamуwienie magazynek do MP5 "Frasier". Mieњci 30 naboi .45 ACP. Podobno to zlecenie dla nieznanego ekscentrycznego Powinnoњciowca.
 		</text>
 	</string>
 
 	<string id="st_mag_ump45_11.43x23_fmj">
-		<text>Standard .45 ACP UMP Magazine</text>
+		<text>Magazynek .45 ACP UMP</text>
 	</string>
 	<string id="st_mag_ump45_11.43x23_fmj_descr">
 		<text>
-			Standard 25-round UMP magazine chambered in .45 ACP. The UMP is an uncommon but highly sought after weapon in the Zone due to its excellent handling and high stopping power.
+		Standardowy 25-nabojowy magazynek UMP w naboju .45 ACP. UMP jest niezwykі№, ale bardzo poszukiwan№ broni№ w Strefie ze wzglкdu na doskonaі№ obsіugк i duї№ siік obalaj№c№.
 		</text>
 	</string>
 

@@ -1,914 +1,914 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 
 <!-- Utilities -->
 
 	<!-- Mutants -->
 	<string id="st_dyn_news_lurker_1">
-		<text>a lurker</text>
+		<text> lurker</text>
 	</string>
 	<string id="st_dyn_news_lurker_2">
-		<text>We were attacked by a lurker</text>
+		<text>Zaatakowaі na lurker</text>
 	</string>
 	<string id="st_dyn_news_lurker_3">
-		<text>We got jumped by a lurker</text>
+		<text>Naskoczyі na nas lurker</text>
 	</string>
 	<string id="st_dyn_news_lurker_4">
-		<text>We were attacked by lurkers</text>
+		<text>Zaatakowaіy nas lurkery</text>
 	</string>
 	<string id="st_dyn_news_lurker_5">
-		<text>We got ambushed by lurkers</text>
+		<text>Zasadzka lurkerуw!</text>
 	</string>
 	<string id="st_dyn_news_lurker_6">
-		<text>a pack of lurkers</text>
+		<text>grupa lurkerуw</text>
 	</string>
 	<string id="st_dyn_news_lurker_7">
-		<text>lurkers</text>
+		<text>lurkery</text>
 	</string>
 
 	<string id="st_dyn_news_psysucker_1">
-		<text>a psysucker</text>
+		<text>psi-pijawka</text>
 	</string>
 	<string id="st_dyn_news_psysucker_2">
-		<text>We got ambushed by a psysucker</text>
+		<text>Zasadzka psi-pijawek</text>
 	</string>
 	<string id="st_dyn_news_psysucker_3">
-		<text>A psysucker ambushed us</text>
+		<text>Wpadliњmy w zasadzkк psi-pijawek</text>
 	</string>
 	<string id="st_dyn_news_psysucker_4">
-		<text>We got attacked by psysuckers</text>
+		<text>Zaatakowaіy nas psi-pijawki</text>
 	</string>
 	<string id="st_dyn_news_psysucker_5">
-		<text>We got ambushed by a bunch of psysuckers</text>
+		<text>Wpadliњmy w zasadzkк grupy psi-pijawek</text>
 	</string>
 	<string id="st_dyn_news_psysucker_6">
-		<text>a pack of psysuckers</text>
+		<text>grupa psi-pijawek</text>
 	</string>
 	<string id="st_dyn_news_psysucker_7">
-		<text>psysuckers</text>
+		<text>psi-pijawki</text>
 	</string>
 
 	<string id="st_dyn_news_boar_1">
-		<text>a boar</text>
+		<text>dzik</text>
 	</string>
 	<string id="st_dyn_news_boar_2">
-		<text>We got attacked by a boar</text>
+		<text>Zaatakowaі nas dzik</text>
 	</string>
 	<string id="st_dyn_news_boar_3">
-		<text>We ran into boars</text>
+		<text>Wpadliњmy na dziki</text>
 	</string>
 	<string id="st_dyn_news_boar_4">
-		<text>We were attacked by a pack of boars</text>
+		<text>Zaatakowaіa nas grupa dzikуw</text>
 	</string>
 	<string id="st_dyn_news_boar_5">
-		<text>We ran into some boars</text>
+		<text>Wpadliњmy na parк dzikуw</text>
 	</string>
 	<string id="st_dyn_news_boar_6">
-		<text>a pack of wild boars</text>
+		<text>grupa dzikуw</text>
 	</string>
 	<string id="st_dyn_news_boar_7">
-		<text>boars</text>
+		<text>dziki</text>
 	</string>
 
 	<string id="st_dyn_news_dog_1">
-		<text>a dog</text>
+		<text>pies</text>
 	</string>
 	<string id="st_dyn_news_dog_2">
-		<text>We got attacked by a dog</text>
+		<text>Zaatakowaі nas pies</text>
 	</string>
 	<string id="st_dyn_news_dog_3">
-		<text>We ran into a dog</text>
+		<text>Wpadliњmy na psa</text>
 	</string>
 	<string id="st_dyn_news_dog_4">
-		<text>We were attacked by a pack of dogs</text>
+		<text>Zaatakowaіa nas grupa psуw</text>
 	</string>
 	<string id="st_dyn_news_dog_5">
-		<text>We ran into a pack of dogs</text>
+		<text>Wpadliњmy na grupк psуw</text>
 	</string>
 	<string id="st_dyn_news_dog_6">
-		<text>a pack of dogs</text>
+		<text>grupa psуw</text>
 	</string>
 	<string id="st_dyn_news_dog_7">
-		<text>dogs</text>
+		<text>psy</text>
 	</string>
 
 	<string id="st_dyn_news_flesh_1">
-		<text>a flesh</text>
+		<text>zombie</text>
 	</string>
 	<string id="st_dyn_news_flesh_2">
-		<text>We were attacked by a flesh</text>
+		<text>Zaatakowaіo nas zombie</text>
 	</string>
 	<string id="st_dyn_news_flesh_3">
-		<text>We ran into a flesh</text>
+		<text>Wpadliњmy na zombie</text>
 	</string>
 	<string id="st_dyn_news_flesh_4">
-		<text>We got rushed by a pound of flesh</text>
+		<text>Ruszyіo na nas kilka zombie</text>
 	</string>
 	<string id="st_dyn_news_flesh_5">
-		<text>We got attacked by flesh</text>
+		<text>Zaatalowaіa nas grupa zombie</text>
 	</string>
 	<string id="st_dyn_news_flesh_6">
-		<text>a pound of fleshes</text>
+		<text>grupa zombie</text>
 	</string>
 	<string id="st_dyn_news_flesh_7">
-		<text>fleshes</text>
+		<text>zombie</text>
 	</string>
 
 	<string id="st_dyn_news_pseudodog_1">
-		<text>a pseudodog</text>
+		<text>nibypies</text>
 	</string>
 	<string id="st_dyn_news_pseudodog_2">
-		<text>We were attacked by a pseudodog</text>
+		<text>Zaatakowaі nas nibypies</text>
 	</string>
 	<string id="st_dyn_news_pseudodog_3">
-		<text>A pseudodog jumped us</text>
+		<text>Skoczyі na nas nibypies</text>
 	</string>
 	<string id="st_dyn_news_pseudodog_4">
-		<text>We got hit by a pack of pseudodogs</text>
+		<text>Uderzyіa nas wataha nibypsуw</text>
 	</string>
 	<string id="st_dyn_news_pseudodog_5">
-		<text>We ran into a pack of pseudodogs</text>
+		<text>Wpadliњmy na watahк nibypsуw</text>
 	</string>
 	<string id="st_dyn_news_pseudodog_6">
-		<text>a pack of pseudodogs</text>
+		<text>wataha nibypsуw</text>
 	</string>
 	<string id="st_dyn_news_pseudodog_7">
-		<text>pseudodogs</text>
+		<text>nibypsy</text>
 	</string>
 
 	<string id="st_dyn_news_snork_1">
-		<text>a snork</text>
+		<text>snork</text>
 	</string>
 	<string id="st_dyn_news_snork_2">
-		<text>We got jumped by a snork</text>
+		<text>Skoczyі na nas snork</text>
 	</string>
 	<string id="st_dyn_news_snork_3">
-		<text>We ran into a snork</text>
+		<text>Wpadliњmy na snorka</text>
 	</string>
 	<string id="st_dyn_news_snork_4">
-		<text>We got attacked by a bunch of snorks</text>
+		<text>Zaatakowaіa nas grupa snorkуw</text>
 	</string>
 	<string id="st_dyn_news_snork_5">
-		<text>We ran into a bunch of snorks</text>
+		<text>Wpadliњmy na grupк snorkуw</text>
 	</string>
 	<string id="st_dyn_news_snork_6">
-		<text>a group of snorks</text>
+		<text>grupa snorkуw</text>
 	</string>
 	<string id="st_dyn_news_snork_7">
-		<text>snorks</text>
+		<text>snorki</text>
 	</string>
 
 	<string id="st_dyn_news_bloodsucker_1">
-		<text>a bloodsucker</text>
+		<text>pijawka</text>
 	</string>
 	<string id="st_dyn_news_bloodsucker_2">
-		<text>We got ambushed by a bloodsucker</text>
+		<text>Wpadliњmy w zasadzkк pijawek</text>
 	</string>
 	<string id="st_dyn_news_bloodsucker_3">
-		<text>A bloodsucker ambushed us</text>
+		<text>Zasadzka pijawek</text>
 	</string>
 	<string id="st_dyn_news_bloodsucker_4">
-		<text>We got attacked by bloodsuckers</text>
+		<text>Zaatakowaіy nas pijawki</text>
 	</string>
 	<string id="st_dyn_news_bloodsucker_5">
-		<text>We got ambushed by a bunch of bloodsuckers</text>
+		<text>Wpadliњmy w zasadzkк kilku pijawek</text>
 	</string>
 	<string id="st_dyn_news_bloodsucker_6">
-		<text>a pack of bloodsuckers</text>
+		<text>kilka pijawek</text>
 	</string>
 	<string id="st_dyn_news_bloodsucker_7">
-		<text>bloodsuckers</text>
+		<text>pijawki</text>
 	</string>
 
 	<string id="st_dyn_news_burer_1">
-		<text>a burer</text>
+		<text>burer</text>
 	</string>
 	<string id="st_dyn_news_burer_2">
-		<text>We got attacked by a burer</text>
+		<text>Zaatakowaі nas burer</text>
 	</string>
 	<string id="st_dyn_news_burer_3">
-		<text>We ran into a burer</text>
+		<text>Wpadliњmy na burera</text>
 	</string>
 	<string id="st_dyn_news_burer_4">
-		<text>We got attacked by burers</text>
+		<text>Zaatakowaіy nas burery</text>
 	</string>
 	<string id="st_dyn_news_burer_5">
-		<text>We ran into some burers</text>
+		<text>Wpadliњmy na parк burerуw</text>
 	</string>
 	<string id="st_dyn_news_burer_6">
-		<text>a bunch of burers</text>
+		<text>parк burerуw</text>
 	</string>
 	<string id="st_dyn_news_burer_7">
-		<text>burers</text>
+		<text>burery</text>
 	</string>
 
 	<string id="st_dyn_news_chimera_1">
-		<text>a chimera</text>
+		<text>chimera</text>
 	</string>
 	<string id="st_dyn_news_chimera_2">
-		<text>We were attacked by a chimera</text>
+		<text>Zaatakowaіa nas chimera</text>
 	</string>
 	<string id="st_dyn_news_chimera_3">
-		<text>We got jumped by a chimera</text>
+		<text>Wpadliњmy na chimerк</text>
 	</string>
 	<string id="st_dyn_news_chimera_4">
-		<text>We were attacked by chimeras</text>
+		<text>Zaatakowaіy nas chimery</text>
 	</string>
 	<string id="st_dyn_news_chimera_5">
-		<text>We got ambushed by chimeras</text>
+		<text>Zasadzka chimer</text>
 	</string>
 	<string id="st_dyn_news_chimera_6">
-		<text>a pack of chimeras</text>
+		<text>wataha chimer</text>
 	</string>
 	<string id="st_dyn_news_chimera_7">
-		<text>chimeras</text>
+		<text>chimery</text>
 	</string>
 
 	<string id="st_dyn_news_controller_1">
-		<text>a controller</text>
+		<text>kontroler</text>
 	</string>
 	<string id="st_dyn_news_controller_2">
-		<text>We got attacked by a controller</text>
+		<text>Zaatakowaі nas kontroler</text>
 	</string>
 	<string id="st_dyn_news_controller_3">
-		<text>A controller ambushed us</text>
+		<text>Zasadzka kontrolera</text>
 	</string>
 	<string id="st_dyn_news_controller_4">
-		<text>We got attacked by a couple controllers</text>
+		<text>Zaatakowaі№ nas para kontrolerуw</text>
 	</string>
 	<string id="st_dyn_news_controller_5">
-		<text>We ran into a school of controllers</text>
+		<text>Wpadliњmy na szkуіkк kontrolerуw</text>
 	</string>
 	<string id="st_dyn_news_controller_6">
-		<text>a school of controllers</text>
+		<text>szkуіka kontrolerуw</text>
 	</string>
 	<string id="st_dyn_news_controller_7">
-		<text>controllers</text>
+		<text>kontrolery</text>
 	</string>
 
 	<string id="st_dyn_news_poltergeist_1">
-		<text>a poltergeist</text>
+		<text>duch</text>
 	</string>
 	<string id="st_dyn_news_poltergeist_2">
-		<text>We got hit by a poltergeist</text>
+		<text>Trafiі nas duch</text>
 	</string>
 	<string id="st_dyn_news_poltergeist_3">
-		<text>We ran into a poltergeist</text>
+		<text>Wpadliњmy na ducha</text>
 	</string>
 	<string id="st_dyn_news_poltergeist_4">
-		<text>We were attacked by poltergeists</text>
+		<text>Zaatakowaіy nas duchy</text>
 	</string>
 	<string id="st_dyn_news_poltergeist_5">
-		<text>We ran into poltergeists</text>
+		<text>Wpadliњmy na duchy</text>
 	</string>
 	<string id="st_dyn_news_poltergeist_6">
-		<text>a couple poltergeists</text>
+		<text>parк duchуw</text>
 	</string>
 	<string id="st_dyn_news_poltergeist_7">
-		<text>poltergeists</text>
+		<text>duchy</text>
 	</string>
 
 	<string id="st_dyn_news_gigant_1">
-		<text>a pseudogiant</text>
+		<text>nibyolbrzym</text>
 	</string>
 	<string id="st_dyn_news_gigant_2">
-		<text>We got attacked by a pseudogiant</text>
+		<text>Zaatakowaі nas nibyolbrzym</text>
 	</string>
 	<string id="st_dyn_news_gigant_3">
-		<text>We ran into a pseudogiant</text>
+		<text>Wpadliњmy na nibyolbrzyma</text>
 	</string>
 	<string id="st_dyn_news_gigant_4">
-		<text>We got attacked by pseudogiants</text>
+		<text>Zaatakowaіy nas nibyolbrzymy</text>
 	</string>
 	<string id="st_dyn_news_gigant_5">
-		<text>We were attacked by pseudogiants</text>
+		<text>Wpadliњmy na nibyolbrzymy</text>
 	</string>
 	<string id="st_dyn_news_gigant_6">
-		<text>a couple pseudogiants</text>
+		<text>parк nibyolbrzymуw</text>
 	</string>
 	<string id="st_dyn_news_gigant_7">
-		<text>pseudogiants</text>
+		<text>nibyolbrzymy</text>
 	</string>
 
 	<string id="st_dyn_news_karlik_1">
-		<text>a karlik</text>
+		<text>karzeі</text>
 	</string>
 	<string id="st_dyn_news_karlik_2">
-		<text>We got attacked by a midget</text>
+		<text>Zaatakowaі nas karzeі</text>
 	</string>
 	<string id="st_dyn_news_karlik_3">
-		<text>We ran into a karlik</text>
+		<text>Wpadliњmy na karіa</text>
 	</string>
 	<string id="st_dyn_news_karlik_4">
-		<text>We got attacked by karliks</text>
+		<text>Zaatakowіy nas karіy</text>
 	</string>
 	<string id="st_dyn_news_karlik_5">
-		<text>We were attacked by karliks</text>
+		<text>Wpadliњmy na karіy</text>
 	</string>
 	<string id="st_dyn_news_karlik_6">
-		<text>a couple midgets</text>
+		<text>kilka karіуw</text>
 	</string>
 	<string id="st_dyn_news_karlik_7">
-		<text>karliks</text>
+		<text>karіy</text>
 	</string>
 
 	<string id="st_dyn_news_tushkano_1">
-		<text>a tushkano</text>
+		<text>tuszkan</text>
 	</string>
 	<string id="st_dyn_news_tushkano_2">
-		<text>We got rushed by tushkano</text>
+		<text>Ruszyі na nas tuszkan</text>
 	</string>
 	<string id="st_dyn_news_tushkano_3">
-		<text>Tushkano attacked us</text>
+		<text>Zaatakowaі nas tuszkan</text>
 	</string>
 	<string id="st_dyn_news_tushkano_4">
-		<text>We got rushed by a pack of tushkano</text>
+		<text>Ruszyіy na nas tuszkany</text>
 	</string>
 	<string id="st_dyn_news_tushkano_5">
-		<text>We got hit by a pack of tushkano</text>
+		<text>Zaatakowaіa nas wataha tuszkanуw</text>
 	</string>
 	<string id="st_dyn_news_tushkano_6">
-		<text>a pack of tushkano</text>
+		<text>wataha tuszkanуw</text>
 	</string>
 	<string id="st_dyn_news_tushkano_7">
-		<text>tushkanos</text>
+		<text>tuszkany</text>
 	</string>
 
 	<string id="st_dyn_news_psy_dog_1">
-		<text>a psy-dog</text>
+		<text>psi-psy</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_2">
-		<text>We got attacked by a psy-dog</text>
+		<text>Zaatakowaі nas psi-pies</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_3">
-		<text>We got ambushed by a psy-dog</text>
+		<text>Zasadzka psi-psуw</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_4">
-		<text>We ran into a pack of psy-dogs</text>
+		<text>Wpadliњmy na watahк psi-psуw</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_5">
-		<text>We got attacked by psy-dogs</text>
+		<text>Zaatakowaіa nas wataha psi-psуw</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_6">
-		<text>a pack of psy-dogs</text>
+		<text>wataha psi-psуw</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_7">
-		<text>psy-dogs</text>
+		<text>psi-psy</text>
 	</string>
 
 	<string id="st_dyn_news_psy_dog_phantom_1">
-		<text>a phantom</text>
+		<text>widmo</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_phantom_2">
-		<text>We got attacked by a psy-dog</text>
+		<text>Zaatakowaіo nas widmo</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_phantom_3">
-		<text>We ran into a psy-dog</text>
+		<text>Wpadliњmy na widmo</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_phantom_4">
-		<text>We got ambushed by psy-dogs</text>
+		<text>Zasadzka widm</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_phantom_5">
-		<text>We ran into a pack of psy-dogs</text>
+		<text>Wpadliњmy na watahк widm</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_phantom_6">
-		<text>a pack of psy-dogs</text>
+		<text>wataha widm</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_phantom_7">
-		<text>phantoms</text>
+		<text>widma</text>
 	</string>
 
 	<string id="st_dyn_news_zombied_1">
-		<text>a zombified stalker</text>
+		<text>stalker-zombie</text>
 	</string>
 	<string id="st_dyn_news_zombied_2">
-		<text>We got attacked by a zombie</text>
+		<text>Zaatakowaі nas stalker-zombie</text>
 	</string>
 	<string id="st_dyn_news_zombied_3">
-		<text>We ran into a zombie</text>
+		<text>Wpadliњmy na stalkera-zombie</text>
 	</string>
 	<string id="st_dyn_news_zombied_4">
-		<text>We were attacked by zombies</text>
+		<text>Zaatakowali nas stalkerzy-zombie</text>
 	</string>
 	<string id="st_dyn_news_zombied_5">
-		<text>We ran into a bunch of zombies</text>
+		<text>Wpadliњmy na grupк stalkerуw-zombie</text>
 	</string>
 	<string id="st_dyn_news_zombied_6">
-		<text>a squad of zombies</text>
+		<text>grupa stalkerуw-zombie</text>
 	</string>
 	<string id="st_dyn_news_zombied_7">
-		<text>zombified stalkers</text>
+		<text>stalkerzy-zombie</text>
 	</string>
 
 	<string id="st_dyn_news_cat_1">
-		<text>a cat</text>
+		<text>kot</text>
 	</string>
 	<string id="st_dyn_news_cat_2">
-		<text>We got ambushed by a cat</text>
+		<text>Zaskoczyі nas kot</text>
 	</string>
 	<string id="st_dyn_news_cat_3">
-		<text>We ran into a cat</text>
+		<text>Wpadliњmy na koty</text>
 	</string>
 	<string id="st_dyn_news_cat_4">
-		<text>We were attacked by a group of cats</text>
+		<text>Zaatakowaіa nas wataha kotуw</text>
 	</string>
 	<string id="st_dyn_news_cat_5">
-		<text>We got jumped by some fucking cats</text>
+		<text>Wpadliњmy na jakieњ jebane koty</text>
 	</string>
 	<string id="st_dyn_news_cat_6">
-		<text>a group of cats</text>
+		<text>wataha kotуw</text>
 	</string>
 	<string id="st_dyn_news_cat_7">
-		<text>cats</text>
+		<text>koty</text>
 	</string>
 
 	<string id="st_dyn_news_fracture_1">
-		<text>a fracture</text>
+		<text>zіamany</text>
 	</string>
 	<string id="st_dyn_news_fracture_2">
-		<text>We were attacked by a fracture</text>
+		<text>Zaatakowaі nas zіamany</text>
 	</string>
 	<string id="st_dyn_news_fracture_3">
-		<text>We ran into a fracture</text>
+		<text>Wpadliњmy na zіamanego</text>
 	</string>
 	<string id="st_dyn_news_fracture_4">
-		<text>We were attacked by a bunch of fractures</text>
+		<text>Zaatakowaіo nas kilku zіamanych</text>
 	</string>
 	<string id="st_dyn_news_fracture_5">
-		<text>Fractures attacked us</text>
+		<text>Zіamani zaatakowali nas</text>
 	</string>
 	<string id="st_dyn_news_fracture_6">
-		<text>a group of fractures</text>
+		<text>grupa zіamanych</text>
 	</string>
 	<string id="st_dyn_news_fracture_7">
-		<text>fractures</text>
+		<text>zіamani</text>
 	</string>
 
 	<string id="st_dyn_news_zombie_1">
-		<text>a zombie</text>
+		<text>zombie</text>
 	</string>
 	<string id="st_dyn_news_zombie_2">
-		<text>We were attacked by a zombie</text>
+		<text>Zaatakowaіo nas zombi</text>
 	</string>
 	<string id="st_dyn_news_zombie_3">
-		<text>We ran into a zombie</text>
+		<text>Wpadliњmy na zombi</text>
 	</string>
 	<string id="st_dyn_news_zombie_4">
-		<text>We got attacked by zombies</text>
+		<text>Zaatakowaіy nas zombiaki</text>
 	</string>
 	<string id="st_dyn_news_zombie_5">
-		<text>We ran into some zombies</text>
+		<text>Wpadliњmy na zombiaki</text>
 	</string>
 	<string id="st_dyn_news_zombie_6">
-		<text>a bunch of zombies</text>
+		<text>grupa zombiakуw</text>
 	</string>
 	<string id="st_dyn_news_zombie_7">
-		<text>zombies</text>
+		<text>zombiaki</text>
 	</string>
 
 	<string id="st_dyn_news_rat_1">
-		<text>a rat</text>
+		<text>szczur</text>
 	</string>
 	<string id="st_dyn_news_rat_2">
-		<text>We got attacked by rats</text>
+		<text>Zaatakowaіy nas szczury</text>
 	</string>
 	<string id="st_dyn_news_rat_3">
-		<text>Fucking rats attacked us</text>
+		<text>Zasrane szczury nas zaatakowaіy</text>
 	</string>
 	<string id="st_dyn_news_rat_4">
-		<text>We got rushed by a ton of rats</text>
+		<text>Ruszyіy na nas setki szczurуw</text>
 	</string>
 	<string id="st_dyn_news_rat_5">
-		<text>We got attacked by a bunch of rats</text>
+		<text>Zaatakowaіy nas setki szczurуw</text>
 	</string>
 	<string id="st_dyn_news_rat_6">
-		<text>a bunch of rats</text>
+		<text>mnуstwo szczurуw</text>
 	</string>
 	<string id="st_dyn_news_rat_7">
-		<text>rats</text>
+		<text>szczury</text>
 	</string>
 
 	<!-- Factions -->
 	<string id="st_dyn_news_comm_trader_6">
-		<text>Trader</text>
+		<text>Kupiec</text>
 	</string>
 
 	<string id="st_dyn_news_comm_actor_1">
-		<text>a stalker</text>
+		<text>stalker</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_2">
-		<text>a loner</text>
+		<text>samotnik</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_3">
-		<text>some stalker</text>
+		<text>jakiњ stalker</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_4">
-		<text>some loner</text>
+		<text>jakiњ samotnik</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_5">
 		<text>stalker</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_6">
-		<text>Loner</text>
+		<text>samotnik</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_7">
-		<text>stalkers</text>
+		<text>stalkerzy</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_8">
-		<text>loners</text>
+		<text>samotnicy</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_9">
-		<text>stalkers</text>
+		<text>stalkerzy</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_10">
-		<text>loners</text>
+		<text>samotnicy</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_11">
-		<text>We need help!</text>
+		<text>Potrzebujemy pomocy!</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_12">
-		<text>Help us!</text>
+		<text>Pomуї nam!</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_13">
-		<text>Need help, please.</text>
+		<text>Potrzebna pomoc, proszк.</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_14">
-		<text>Help!</text>
+		<text>Pomocy!</text>
 	</string>
-	
+
 	<string id="st_dyn_news_comm_monolith_1">
-		<text>a Monolith</text>
+		<text>Monolit</text>
 	</string>
 	<string id="st_dyn_news_comm_monolith_2">
-		<text>one of the Monolith</text>
+		<text>jeden z Monolitu</text>
 	</string>
 	<string id="st_dyn_news_comm_monolith_3">
-		<text>some Monolith troop</text>
+		<text>jednostki Monolitu</text>
 	</string>
 	<string id="st_dyn_news_comm_monolith_4">
-		<text>a Monolith</text>
+		<text>Monolit</text>
 	</string>
 	<string id="st_dyn_news_comm_monolith_5">
-		<text>Monolith</text>
+		<text>Monolit</text>
 	</string>
 	<string id="st_dyn_news_comm_monolith_6">
-		<text>Monolith</text>
+		<text>Monolit</text>
 	</string>
 	<string id="st_dyn_news_comm_monolith_7">
-		<text>Monolith</text>
+		<text>Monolit</text>
 	</string>
 	<string id="st_dyn_news_comm_monolith_8">
-		<text>Monolith troops</text>
+		<text>jednostki Monolit</text>
 	</string>
 	<string id="st_dyn_news_comm_monolith_9">
-		<text>Monolith</text>
+		<text>Monolit</text>
 	</string>
 	<string id="st_dyn_news_comm_monolith_10">
-		<text>Monolith forces</text>
+		<text>siіy Monolit</text>
 	</string>
 	<string id="st_dyn_news_comm_monolith_11">
-		<text>Brothers, help us!</text>
+		<text>Bracia, pomуїcie!</text>
 	</string>
 	<string id="st_dyn_news_comm_monolith_12">
-		<text>Brothers, help!</text>
+		<text>Bracia, pomocy!</text>
 	</string>
 	<string id="st_dyn_news_comm_monolith_13">
-		<text>We need help, brothers!</text>
+		<text>Potrzebujemy pomocy, bracia!</text>
 	</string>
 	<string id="st_dyn_news_comm_monolith_14">
-		<text>Help!</text>
+		<text>Pomocy!</text>
 	</string>
-	
+
 	<string id="st_dyn_news_comm_bandit_1">
-		<text>a bandit</text>
+		<text>bandyta</text>
 	</string>
 	<string id="st_dyn_news_comm_bandit_2">
-		<text>one of those bandits</text>
+		<text>jeden z tych bandytуw</text>
 	</string>
 	<string id="st_dyn_news_comm_bandit_3">
-		<text>one of the thugs</text>
+		<text>jeden z tych zbirуw</text>
 	</string>
 	<string id="st_dyn_news_comm_bandit_4">
-		<text>some bandit</text>
+		<text>jakiњ bandyta</text>
 	</string>
 	<string id="st_dyn_news_comm_bandit_5">
-		<text>bandit</text>
+		<text>bandyta</text>
 	</string>
 	<string id="st_dyn_news_comm_bandit_6">
-		<text>Bandit</text>
+		<text>Bandyta</text>
 	</string>
 	<string id="st_dyn_news_comm_bandit_7">
-		<text>bandits</text>
+		<text>Bandyci</text>
 	</string>
 	<string id="st_dyn_news_comm_bandit_8">
-		<text>thugs</text>
+		<text>zbir</text>
 	</string>
 	<string id="st_dyn_news_comm_bandit_9">
-		<text>some bandits</text>
+		<text>paru bandytуw</text>
 	</string>
 	<string id="st_dyn_news_comm_bandit_10">
-		<text>thugs</text>
+		<text>zbiry</text>
 	</string>
 	<string id="st_dyn_news_comm_bandit_11">
-		<text>Yo, help us out!</text>
+		<text>Ej, pomуї nam!</text>
 	</string>
 	<string id="st_dyn_news_comm_bandit_12">
-		<text>We need some fucking help!</text>
+		<text>Potrzebujemy jebanej pomocy!</text>
 	</string>
 	<string id="st_dyn_news_comm_bandit_13">
-		<text>We're in some deep shit here, boys!</text>
+		<text>Wpadliњmy w niezіe gуwno, chіopcy!</text>
 	</string>
 	<string id="st_dyn_news_comm_bandit_14">
-		<text>Hey hey hey, we need help!</text>
+		<text>Hej, potrzebna nam pomoc!</text>
 	</string>
-	
+
 	<string id="st_dyn_news_comm_dolg_1">
-		<text>a Dutyer</text>
+		<text>Powinonњж</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_2">
-		<text>a guy from Duty</text>
+		<text>goњж z Powinnoњci</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_3">
-		<text>some guy from Duty</text>
+		<text>jakiњ goњж z Powinnoњci</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_4">
-		<text>one of the guys from Duty</text>
+		<text>jeden z Powinnoњci</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_5">
-		<text>dolg</text>
+		<text>Powinnoњж</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_6">
-		<text>Duty</text>
+		<text>Powinnoњж</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_7">
-		<text>Duty</text>
+		<text>Powinnoњж</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_8">
-		<text>Duty soldiers</text>
+		<text>їoіnierze Powinnoњci</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_9">
-		<text>Duty</text>
+		<text>Powinnoњж</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_10">
-		<text>Duty forces</text>
+		<text>siіy Powinnoњci</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_11">
-		<text>We need backup!</text>
+		<text>Potrzebujemy wsparcia!</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_12">
-		<text>Requesting backup!</text>
+		<text>Dajcie wsparcie!</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_13">
-		<text>Requesting immediate support!</text>
+		<text>Proњba o natychmiastowe wsparcie!</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_14">
-		<text>We need reinforcements!</text>
+		<text>Potrzebujemy posiіkуw!</text>
 	</string>
-	
+
 	<string id="st_dyn_news_comm_ecolog_1">
-		<text>a scientist</text>
+		<text>naukowiec</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_2">
-		<text>an egghead</text>
+		<text>jajogіowy</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_3">
-		<text>some ecologist</text>
+		<text>naukowcy</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_4">
-		<text>some egghead</text>
+		<text>jajogіowi</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_5">
-		<text>default</text>
+		<text>Naukowiec</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_6">
-		<text>Ecologist</text>
+		<text>Naukowiec</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_7">
-		<text>scientists</text>
+		<text>naukowcy</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_8">
-		<text>ecologists</text>
+		<text>naukowcy</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_9">
-		<text>some scientists</text>
+		<text>jacyњ naukowcy</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_10">
-		<text>eggheads</text>
+		<text>jajogіowi</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_11">
-		<text>Help! Somebody please help us!</text>
+		<text>Pomocy! Niech nam ktoњ pomoїe!</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_12">
-		<text>Please help! Someone!</text>
+		<text>Porszк! Ktokolwiek!</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_13">
-		<text>This is a remote science team, requesting assistance!</text>
+		<text>Tu grupa naukowcуw, potrzebujemy ochrony!</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_14">
-		<text>Someone, help!</text>
+		<text>Ktokolwiek, pomocy!</text>
 	</string>
-	
+
 	<string id="st_dyn_news_comm_csky_1">
-		<text>a Clear Sky stalker</text>
+		<text>Czyste Niebo</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_2">
-		<text>a guy from Clear Sky</text>
+		<text>koleњ z Czystego Nieba</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_3">
-		<text>one of the guys from Clear Sky</text>
+		<text>jeden z Czystego Nieba</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_4">
-		<text>some guy from Clear Sky</text>
+		<text>jakiњ typ z Czystego Nieba</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_5">
-		<text>Clear Sky</text>
+		<text>Czyste Niebo</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_6">
-		<text>Clear Sky</text>
+		<text>Czyste Niebo</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_7">
-		<text>Clear Sky</text>
+		<text>Czyste Niebo</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_8">
-		<text>Clear Sky</text>
+		<text>Czyste Niebo</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_9">
-		<text>Clear Sky</text>
+		<text>CCzyste Niebo</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_10">
-		<text>Clear Sky stalkers</text>
+		<text>stalkerzy Czystego Nieba</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_11">
-		<text>Help us out!</text>
+		<text>Pomуїcie nam!</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_12">
-		<text>This is Clear Sky, we need help!</text>
+		<text>Tu Czyste Niebo, potrzebujemy pomocy!</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_13">
-		<text>Stalkers, help us!</text>
+		<text>Stalkerzy, pomуїcie!</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_14">
-		<text>Help!</text>
+		<text>Pomocy!</text>
 	</string>
-	
+
 	<string id="st_dyn_news_comm_army_1">
-		<text>a soldier</text>
+		<text>їoіnierz</text>
 	</string>
 	<string id="st_dyn_news_comm_army_2">
-		<text>an army guy</text>
+		<text>wojak</text>
 	</string>
 	<string id="st_dyn_news_comm_army_3">
-		<text>some soldier</text>
+		<text>jakiњ їoіnierz</text>
 	</string>
 	<string id="st_dyn_news_comm_army_4">
-		<text>some army guy</text>
+		<text>jakiњ wojak</text>
 	</string>
 	<string id="st_dyn_news_comm_army_5">
-		<text>army</text>
+		<text>mundurowy</text>
 	</string>
 	<string id="st_dyn_news_comm_army_6">
-		<text>Military</text>
+		<text>Wojsko</text>
 	</string>
 	<string id="st_dyn_news_comm_army_7">
-		<text>soldiers</text>
+		<text>їoіnierze</text>
 	</string>
 	<string id="st_dyn_news_comm_army_8">
 		<text>Spetsnaz</text>
 	</string>
 	<string id="st_dyn_news_comm_army_9">
-		<text>some soldiers</text>
+		<text>jacyњ їoіnierze</text>
 	</string>
 	<string id="st_dyn_news_comm_army_10">
-		<text>the military</text>
+		<text>wojskowi</text>
 	</string>
 	<string id="st_dyn_news_comm_army_11">
-		<text>Requesting support!</text>
+		<text>Proњba o wsparcie!</text>
 	</string>
 	<string id="st_dyn_news_comm_army_12">
-		<text>We need backup!</text>
+		<text>Potrzebujemy wsparcia!</text>
 	</string>
 	<string id="st_dyn_news_comm_army_13">
-		<text>Requesting reinforcements!</text>
+		<text>Proњba o posiіki!</text>
 	</string>
 	<string id="st_dyn_news_comm_army_14">
-		<text>Squad to base! Requesting immediate reinforcements!</text>
+		<text>Oddziaі do bazy! Ї№danie natychmiastowych posiіkуw!</text>
 	</string>
-	
+
 	<string id="st_dyn_news_comm_killer_1">
-		<text>a merc</text>
+		<text>najemnik</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_2">
-		<text>one of the mercs</text>
+		<text>jeden z najemnikуw</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_3">
-		<text>some merc</text>
+		<text>jakis najemnik</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_4">
-		<text>one of those mercs</text>
+		<text>jeden z tych najemnikуw</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_5">
-		<text>killer</text>
+		<text>zabуjca</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_6">
-		<text>Mercenary</text>
+		<text>Najemnicy</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_7">
-		<text>mercs</text>
+		<text>najemy</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_8">
-		<text>mercenaries</text>
+		<text>najemnicy</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_9">
-		<text>some mercs</text>
+		<text>jakieњ najemy</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_10">
-		<text>mercenaries</text>
+		<text>najemnicy</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_11">
-		<text>Requesting backup!</text>
+		<text>Proњba o wsparcie!</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_12">
-		<text>We need backup!</text>
+		<text>Potrzebne wsparcie!</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_13">
-		<text>Requesting support!</text>
+		<text>Proњba o posiіki!</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_14">
-		<text>Send backup!</text>
+		<text>Wyњlijcie posiіki!</text>
 	</string>
-	
+
 	<string id="st_dyn_news_comm_stalker_1">
-		<text>a stalker</text>
+		<text>stalker</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_2">
-		<text>a loner</text>
+		<text>samotnik</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_3">
-		<text>some stalker</text>
+		<text>jakiњ stalker</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_4">
-		<text>some loner</text>
+		<text>jakiњ samotnik</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_5">
 		<text>stalker</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_6">
-		<text>Loner</text>
+		<text>Samotnik</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_7">
-		<text>stalkers</text>
+		<text>stalkerzy</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_8">
-		<text>loners</text>
+		<text>samotnicy</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_9">
-		<text>some stalkers</text>
+		<text>jacyњ stalkerzy</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_10">
-		<text>loners</text>
+		<text>samotnicy</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_11">
-		<text>Guys, we need some help!</text>
+		<text>Chіopaki, potrzbna pomoc!</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_12">
-		<text>Help us!</text>
+		<text>Pomуїcie!</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_13">
-		<text>Help us out!</text>
+		<text>Pomуї nam!</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_14">
-		<text>Brothers, help!</text>
+		<text>Bіagam, pomуїcie!</text>
 	</string>
-	
+
 	<string id="st_dyn_news_comm_zombied_1">
-		<text>a zombie</text>
+		<text>zombi</text>
 	</string>
 	<string id="st_dyn_news_comm_zombied_2">
-		<text>some zombie</text>
+		<text>jakieњ zombi</text>
 	</string>
 	<string id="st_dyn_news_comm_zombied_3">
-		<text>some zombie</text>
+		<text>jakieњ zombi</text>
 	</string>
 	<string id="st_dyn_news_comm_zombied_4">
-		<text>a zombie</text>
+		<text>zombi</text>
 	</string>
 	<string id="st_dyn_news_comm_zombied_5">
-		<text>zombie</text>
+		<text>zombi</text>
 	</string>
 	<string id="st_dyn_news_comm_zombied_6">
-		<text>Zombie</text>
+		<text>Zombi</text>
 	</string>
 	<string id="st_dyn_news_comm_zombied_7">
-		<text>zombies</text>
+		<text>zombiaki</text>
 	</string>
 	<string id="st_dyn_news_comm_zombied_8">
-		<text>zombies</text>
+		<text>zombiaki</text>
 	</string>
 	<string id="st_dyn_news_comm_zombied_9">
-		<text>some zombies</text>
+		<text>jakieњ zombiaki</text>
 	</string>
 	<string id="st_dyn_news_comm_zombied_10">
-		<text>zombies</text>
+		<text>zombiaki</text>
 	</string>
 	<string id="st_dyn_news_comm_zombied_11">
 		<text>Uuuuhh!</text>
@@ -922,136 +922,136 @@
 	<string id="st_dyn_news_comm_zombied_14">
 		<text>Uuurrh...</text>
 	</string>
-	
+
 	<string id="st_dyn_news_comm_freedom_1">
-		<text>a Freedomer</text>
+		<text>Wolnoњж</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_2">
-		<text>a guy from Freedom</text>
+		<text>goњж z Woknoњci</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_3">
-		<text>some guy from Freedom</text>
+		<text>jakiњ typ z Wolnoњci</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_4">
-		<text>one of the guys from Freedom</text>
+		<text>jeden z tych od Wolnoњci</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_5">
-		<text>Freedom</text>
+		<text>Wolnoњж</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_6">
-		<text>Freedom</text>
+		<text>Wolnoњж</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_7">
-		<text>Freedom</text>
+		<text>Wolnoњж</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_8">
-		<text>Freedom stalkers</text>
+		<text>Stalker z Wolnoњci</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_9">
-		<text>Freedom</text>
+		<text>Wolnoњж</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_10">
-		<text>Freedom forces</text>
+		<text>siіy Wolnoњci</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_11">
-		<text>Guys, help!</text>
+		<text>Chіopaki, pomocy!</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_12">
-		<text>We need some help over here!</text>
+		<text>Potrzebujemy tu pomocy!</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_13">
-		<text>Hey, help us out!</text>
+		<text>Hej, pomуїcie nam!</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_14">
-		<text>Shit, help!</text>
+		<text>Cholera, pomocy!</text>
 	</string>
-	
+
 	<string id="st_dyn_news_comm_renegade_1">
-		<text>a renegade</text>
+		<text>renegat</text>
 	</string>
 	<string id="st_dyn_news_comm_renegade_2">
-		<text>one of those renegades</text>
+		<text>jeden z tych renegatуw</text>
 	</string>
 	<string id="st_dyn_news_comm_renegade_3">
-		<text>one of the thugs</text>
+		<text>jeden z tych њcierw</text>
 	</string>
 	<string id="st_dyn_news_comm_renegade_4">
-		<text>some renegade</text>
+		<text>jakiњ renegat</text>
 	</string>
 	<string id="st_dyn_news_comm_renegade_5">
-		<text>renegade</text>
+		<text>renegat</text>
 	</string>
 	<string id="st_dyn_news_comm_renegade_6">
-		<text>Renegade</text>
+		<text>Renegat</text>
 	</string>
 	<string id="st_dyn_news_comm_renegade_7">
-		<text>renegades</text>
+		<text>renegat</text>
 	</string>
 	<string id="st_dyn_news_comm_renegade_8">
-		<text>thugs</text>
+		<text>zbir</text>
 	</string>
 	<string id="st_dyn_news_comm_renegade_9">
-		<text>some renegades</text>
+		<text>jacyњ renegaci</text>
 	</string>
 	<string id="st_dyn_news_comm_renegade_10">
-		<text>thugs</text>
+		<text>zbiry</text>
 	</string>
 	<string id="st_dyn_news_comm_renegade_11">
-		<text>Yo, help us out!</text>
+		<text>Hej, pomуї!</text>
 	</string>
 	<string id="st_dyn_news_comm_renegade_12">
-		<text>We need some fucking help!</text>
+		<text>Potrzebna jebana pomoc!</text>
 	</string>
 	<string id="st_dyn_news_comm_renegade_13">
-		<text>We're in some deep shit here, boys!</text>
+		<text>Jesteњmy w ciemnej dupie, chlopaki!</text>
 	</string>
 	<string id="st_dyn_news_comm_renegade_14">
-		<text>Hey hey hey, we need help!</text>
+		<text>Hej hej, pomуїcie!</text>
 	</string>
-	
+
 	<string id="st_dyn_news_comm_greh_1">
-		<text>a Sinner</text>
+		<text>Grzesznik</text>
 	</string>
 	<string id="st_dyn_news_comm_greh_2">
-		<text>a dark stalker</text>
+		<text>ciemny stalker</text>
 	</string>
 	<string id="st_dyn_news_comm_greh_3">
-		<text>a member of Sin</text>
+		<text>czіonek Grzechu</text>
 	</string>
 	<string id="st_dyn_news_comm_greh_4">
-		<text>some Sinner</text>
+		<text>jakiњ Grzesznik</text>
 	</string>
 	<string id="st_dyn_news_comm_greh_5">
-		<text>Sinner</text>
+		<text>Grzesznik</text>
 	</string>
 	<string id="st_dyn_news_comm_greh_6">
-		<text>Sin</text>
+		<text>Grzech</text>
 	</string>
 	<string id="st_dyn_news_comm_greh_7">
-		<text>Sinners</text>
+		<text>Grzesznicy</text>
 	</string>
 	<string id="st_dyn_news_comm_greh_8">
-		<text>fanatics</text>
+		<text>fanatycy</text>
 	</string>
 	<string id="st_dyn_news_comm_greh_9">
-		<text>some fanatics</text>
+		<text>jacyњ fanatycy</text>
 	</string>
 	<string id="st_dyn_news_comm_greh_10">
-		<text>lunatics</text>
+		<text>lunatycy</text>
 	</string>
 	<string id="st_dyn_news_comm_greh_11">
-		<text>The infidels are too strong!</text>
+		<text>Niewierni s№ zbyt silni!</text>
 	</string>
 	<string id="st_dyn_news_comm_greh_12">
-		<text>We shan't falter!</text>
+		<text>Nie zawahamy siк!</text>
 	</string>
 	<string id="st_dyn_news_comm_greh_13">
-		<text>The impure are fighting back!</text>
+		<text>Nieczyњci stawiaj№ opуr!</text>
 	</string>
 	<string id="st_dyn_news_comm_greh_14">
-		<text>We require assistance, brothers!</text>
+		<text>Potrzebujemy waszego wsparcia, bracia!</text>
 	</string>
-	
+
 	<string id="st_dyn_news_comm_greh_npc_1">
 		<text>a Sinner</text>
 	</string>
@@ -1094,7 +1094,7 @@
 	<string id="st_dyn_news_comm_greh_npc_14">
 		<text>We require assistance, brothers!</text>
 	</string>
-	
+
 	<string id="st_dyn_news_comm_army_npc_1">
 		<text>a soldier</text>
 	</string>
@@ -1137,7 +1137,7 @@
 	<string id="st_dyn_news_comm_army_npc_14">
 		<text>Squad to base! Requesting immediate reinforcements!</text>
 	</string>
-	
+
 	<string id="st_dyn_news_comm_isg_1">
 		<text>a member of UNISG</text>
 	</string>
@@ -1510,7 +1510,7 @@
 	<string id="st_dyn_news_new_military">
 		<text>near the Army Warehouses,</text>
 	</string>
-	
+
 	<!-- Daleko -->
 	<string id="st_dyn_l09_deadcity_daleko_1">
 		<text>the tunnel to the Army Warehouses</text>
@@ -1532,7 +1532,7 @@
 	</string>
 	<string id="st_dyn_l09_deadcity_daleko_7">
 		<text>the isolated houses</text>
-	</string>	  
+	</string>
 	<string id="st_dyn_jupiter_underground_daleko_1">
 		<text>the tunnels</text>
 	</string>
@@ -1766,7 +1766,7 @@
 	</string>
 	<string id="st_dyn_l10_limansk_daleko_6">
 		<text>the gastronom</text>
-	</string>	  
+	</string>
 	<string id="st_dyn_l04_darkvalley_daleko_1">
 		<text>the abandoned farm</text>
 	</string>
@@ -1835,7 +1835,7 @@
 	</string>
 	<string id="st_dyn_l10_radar_daleko_5">
 		<text>the forest</text>
-	</string>	  
+	</string>
 	<string id="st_dyn_l10_red_forest_daleko_1">
 		<text>the bridge</text>
 	</string>
@@ -2026,7 +2026,7 @@
 	</string>
 	<string id="st_dyn_l09_deadcity_blizko_7">
 		<text>at the isolated houses</text>
-	</string>										   		  
+	</string>
 	<string id="st_dyn_jupiter_underground_blizko_1">
 		<text>in the tunnels</text>
 	</string>
@@ -2816,9 +2816,9 @@
 		<text>psy-storm</text>
 	</string>
 
-	
+
 <!-- Reports and Responses -->
-	
+
 		<!-- Response - death by stalker -->
 	<string id="st_dyn_news_res_death_stalker_1">
 		<text>Bastards! They killed him! I'm gonna find them, and I'm gonna tear them a new one!</text>
@@ -3572,7 +3572,7 @@
 	<string id="st_dyn_news_res_fake_death_surge_15">
 		<text>Tip of the day: mark some safe spots in every area. You never know when an emission is gonna hit.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_res_fake_death_surge_16">
 		<text>The Zone is an unforgiving bitch.</text>
 	</string>
@@ -3632,7 +3632,7 @@
 	<string id="st_dyn_news_gossip_arte_4">
 		<text>Sakharov will want his hands on this $what!</text>
 	</string>
-	
+
 	<string id="st_dyn_news_gossip_arte_5">
 		<text>Yes! Just nabbed a $what!</text>
 	</string>
@@ -3718,7 +3718,7 @@
 	<string id="st_dyn_news_res_artefact_12">
 		<text>You probably just made yourself several enemies.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_res_artefact_13">
 		<text>So is that it for you then? Leaving the Zone?</text>
 	</string>
@@ -3839,7 +3839,7 @@
 	<string id="st_dyn_news_gossip_buy_8">
 		<text>I just bought some $what. Good price, too.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_gossip_buy_9">
 		<text>$who managed to hook me up with some $what. He's alright.</text>
 	</string>
@@ -3878,7 +3878,7 @@
 	</string>
 	<string id="st_dyn_news_gossip_buy_8">
 		<text>Wow! Today's $what stock must've just gone on sale or something. Just got some at a bargain price.</text>
-	</string>		
+	</string>
 	<!-- Response - bought items-->
 	<string id="st_dyn_news_res_trade_1">
 		<text>That reminds me, I need to buy new equipment.</text>
@@ -3898,7 +3898,7 @@
 	<string id="st_dyn_news_res_trade_6">
 		<text>Yeah, I should stock up on supplies, too.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_res_trade_7">
 		<text>Good for you, mate.</text>
 	</string>
@@ -3941,7 +3941,7 @@
 	<string id="st_dyn_news_res_trade_20">
 		<text>I've got more important things to spend money on.</text>
 	</string>
-	
+
 	<!-- upgrade gossip -->
 	<string id="st_dyn_news_gossip_upgrade_1">
 		<text>$who just installed the $upgrade upgrade for my lovely $what. Good shit, but any more at these prices and I'll be bled dry.</text>
@@ -3955,7 +3955,7 @@
 	<string id="st_dyn_news_gossip_upgrade_4">
 		<text>$who said that the $upgrade upgrade would be worth my investment... I think I just got ripped off.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_gossip_upgrade_5">
 		<text>Am I a sucker? Just had $who put the $upgrade upgrade on my shooter.</text>
 	</string>
@@ -4024,7 +4024,7 @@
 	<string id="st_dyn_news_gossip_kill_wounded_10">
 		<text>Stop whining and die with some dignity.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_gossip_kill_wounded_11">
 		<text>We're not taking prisoners - end him!</text>
 	</string>
@@ -4135,7 +4135,7 @@
 	<string id="st_dyn_news_gossip_hostage_6">
 		<text>Let's see if we can extract information from this lowlife.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_gossip_hostage_7">
 		<text>Whew! This guy put up a fight. Not so tough now.</text>
 	</string>
@@ -4225,7 +4225,7 @@
 	<string id="st_dyn_news_loot_good_10">
 		<text>Sorry dead man, but I need your items.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_loot_good_11">
 		<text>Nice! Some good stuff on this fellow.</text>
 	</string>
@@ -4346,7 +4346,7 @@
 	<string id="st_dyn_news_loot_good_50">
 		<text>I'll put this kit to good use, that's the best we can do for him.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_loot_bad_1">
 		<text>Meh, nothing good, his pockets are empty.</text>
 	</string>
@@ -4371,7 +4371,7 @@
 	<string id="st_dyn_news_loot_bad_8">
 		<text>His backpack is empty... damn it!</text>
 	</string>
-	
+
 	<string id="st_dyn_news_loot_bad_9">
 		<text>What the hell? This guy didn't own shit...</text>
 	</string>
@@ -4438,8 +4438,8 @@
 	<string id="st_dyn_news_loot_bad_30">
 		<text>Hm, this stalker had some sort of book on him. I think I'll keep this for myself.</text>
 	</string>
-	
-	
+
+
 	<string id="st_dyn_news_loot_item_1">
 		<text>That bastard was carrying $what, I will keep it.</text>
 	</string>
@@ -4458,7 +4458,7 @@
 	<string id="st_dyn_news_loot_item_6">
 		<text>He was carrying $what. I'll make good use of it.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_loot_item_7">
 		<text>Anyone looking for $what? Well, guess I'll keep it....</text>
 	</string>
@@ -4561,7 +4561,7 @@
 	<string id="st_dyn_news_loot_item_40">
 		<text>That dead stalker had $what. Well, that's done with.</text>
 	</string>
-	
+
 	<!-- Found stashes -->
 	<string id="st_dyn_news_found_stash_1">
 		<text>WHO TOOK MY STASH?!!!</text>
@@ -4584,7 +4584,7 @@
 	<string id="st_dyn_news_found_stash_7">
 		<text>Goddamn it... Can't a man hide his stash in peace? I give up.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_res_found_stash_1">
 		<text>Well, sucks to be you.</text>
 	</string>
@@ -4600,10 +4600,10 @@
 	<string id="st_dyn_news_res_found_stash_5">
 		<text>You should have hidden it better.</text>
 	</string>
-	
-	
+
+
 <!-- Task news -->
-	
+
 	<!-- Bounty gossip -->
 	<string id="st_dyn_news_gossip_bounty_1">
 		<text>I've just seen $who, $where. I heard someone put a bounty on his head.</text>
@@ -4617,7 +4617,7 @@
 	<string id="st_dyn_news_gossip_bounty_4">
 		<text>It seems $who has made some powerful enemies. From what I heard, they plan to search for him next $where.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_gossip_bounty_5">
 		<text>Friendly warning to $who: you've got a price out on your head.</text>
 	</string>
@@ -4675,7 +4675,7 @@
 	<string id="st_dyn_news_gossip_task_LL_4">
 		<text>If the rumours are true, Ukraine's chief scientific consultant recently fled back into the Zone. He goes under the pseudonym of "Strelok". There're a lot of stories surrounding this guy, but what's his business this time?</text>
 	</string>
-	
+
 	<string id="st_dyn_news_gossip_task_MS_1">
 		<text>My friend came back from his trip yesterday. He told me about some creepy guy who preached his group about a new clan. Called "Sin" or something. Did someone contact him before?</text>
 	</string>
@@ -4688,7 +4688,7 @@
 	<string id="st_dyn_news_gossip_task_MS_4">
 		<text>It seems that someone is recruiting members for an unknown side. They call themselves "Sin". I can't tell if this is some bad joke, but keep an eye for any suspicious stalkers you see.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_gossip_task_oa_csky">
 		<text>We got some work people. Unidentified radio transmissions have been detected recently. I need volunteers to investigate the source. Details will be shared on meeting.</text>
 	</string>
@@ -4707,7 +4707,7 @@
 	<string id="st_dyn_news_gossip_task_oa_stalker">
 		<text>Stalkers, unidentified radio transmissions have been detected recently. I'm looking for someone to investigate the source. Meet me in the Bunker and I will share details.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_gossip_task_dp_1">
 		<text>See you... I can... see you... I can...</text>
 	</string>
@@ -4732,7 +4732,7 @@
 	<string id="st_dyn_news_gossip_task_dp_8">
 		<text>You will die... enemy of the Monolith.</text>
 	</string>
-	
+
 <!-- Random news -->
 
 	<!-- Post-surge -->
@@ -4766,7 +4766,7 @@
 	<string id="st_dyn_news_surge_after_10">
 		<text>All right, people. It's safe now.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_surge_after_11">
 		<text>Damn! I'll never get used to that!</text>
 	</string>
@@ -4871,7 +4871,7 @@
 	<string id="st_dyn_news_surge_template_14">
 		<text>Prepare for the worst... Expect a $what $when.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_surge_template_15">
 		<text>Here's a tip for all my old friends out there: storm's on its way. You can expect a $what $when.</text>
 	</string>
@@ -5113,7 +5113,7 @@
 	<string id="st_dyn_news_surge_builder_start_stalker_7">
 		<text>The Swamp Doctor mentioned that</text>
 	</string>
-	
+
 	<string id="st_dyn_news_surge_builder_start_greh_1">
 		<text>The Masters have given the signal,</text>
 	</string>
@@ -5268,7 +5268,7 @@
 	<string id="st_dyn_news_surge_builder_end_monolith_5">
 		<text>The infidels will be purified</text>
 	</string>
-	
+
 	<string id="st_dyn_news_surge_builder_end_greh_1">
 		<text>It shall slay our enemies</text>
 	</string>
@@ -5337,7 +5337,7 @@
 	<string id="st_dyn_news_spam_faction_bandit_17">
 		<text>Fucking state. You don't get shit from them, you turn the other direction, and they ruin your life for nothing.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_spam_faction_bandit_18">
 		<text>Olivius, we've got another rat. The hidden stuff was completely gone. Go break some heads for me.</text>
 	</string>
@@ -5444,7 +5444,7 @@
 	<string id="st_dyn_news_spam_faction_csky_12">
 		<text>There are signs of bandits camping in the northern farms. Don't let them get comfortable.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_spam_faction_csky_13">
 		<text>This is the deep recon team: we're trying the public channel because we can't get a hold of anyone. If you hear this, please respond!</text>
 	</string>
@@ -5617,7 +5617,7 @@
 	<string id="st_dyn_news_spam_faction_dolg_29">
 		<text>Don't gunk up the channel. Nobody cares about your lucky kills.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_spam_faction_dolg_30">
 		<text>This is why you buy an Exoskeleton... that thing hit like a train.</text>
 	</string>
@@ -5685,7 +5685,7 @@
 	<string id="st_dyn_news_spam_faction_ecolog_11">
 		<text>Professor Hermann speaking. For the last two days, we have been waiting for the results of our psy-emission research from Professor Sakharov, however, he has been refusing to contact us. What is the meaning of this?</text>
 	</string>
-	
+
 	<string id="st_dyn_news_spam_faction_ecolog_12">
 		<text>We need medical extraction immediately! One of our researchers fell into some Fruit Punch and he's not looking too good. Send someone to y7_1 now!</text>
 	</string>
@@ -5867,7 +5867,7 @@
 	<string id="st_dyn_news_spam_faction_freedom_31">
 		<text>Chaps, guess what! The ganja, the one growing near da springboard! It hits like a truck! Hahahaaa!!!</text>
 	</string>
-	
+
 	<string id="st_dyn_news_spam_faction_freedom_32">
 		<text>Ok, we need to wake the fuck up - clocking out is fine around the base, but not if people are counting on you to defend the Barrier. I'm going to have Gatekeeper going around planting his foot in the asses of any slackers.</text>
 	</string>
@@ -6017,7 +6017,7 @@
 	<string id="st_dyn_news_spam_faction_killer_40">
 		<text>Meeker said that he left it near the old shopping center and it wasn't there on the next day. I think they took the bait.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_spam_faction_army_1">
 		<text>Base, this is Delta squad. We've located the entrance to the Dark Valley lab. What are our orders?\n \n%c[255,160,160,160]Anonymous\n%c[default]Bloody hell! Switch to the private channel!</text>
 	</string>
@@ -6139,7 +6139,7 @@
 	<string id="st_dyn_news_spam_faction_army_40">
 		<text>Whoever is in the area: I just saw an unknown creature crawl over the encampment wall. This looks really bad.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_spam_faction_monolith_1">
 		<text>Soldiers, do not meddle in areas with variable psi-emissions. You'll get your damn brains fried.</text>
 	</string>
@@ -6261,7 +6261,7 @@
 	<string id="st_dyn_news_spam_faction_monolith_40">
 		<text>One of our corpses seems to have escaped. Dispatch teams north of Pripyat Outskirts as well as the river. This one may have information.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_spam_faction_greh_1">
 		<text>Every emission is a single step toward cleansing this planet.</text>
 	</string>
@@ -6360,7 +6360,7 @@
 	<string id="st_dyn_news_zone_activity_troop_none_8">
 		<text>$mechanic here. I'm looking for steel plates and carbon fibre. So if you came by any damaged armours, make sure to bring them to me and I will give you discounts on repairing services.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_zone_activity_troop_none_9">
 		<text>$speaker here, reporting on the completion of our patrol for today: everything is very quiet, not a hostile spotted the whole way. It feels a bit eerie.\nI wouldn't call this sector safe for anything less than a fire-team.</text>
 	</string>
@@ -6382,8 +6382,8 @@
 	<string id="st_dyn_news_zone_activity_troop_none_15">
 		<text>$speaker was supposed to come by with his squad and relieve us, what gives? We're six hours overdue and we've got better things to do than stand around out here twiddling our thumbs.</text>
 	</string>
-	
-	
+
+
 	<string id="st_dyn_news_zone_activity_troop_mutant_1">
 		<text>This is $speaker... My squad has been attacked by $target several minutes ago $location. Requesting assistance immediately!</text>
 	</string>
@@ -6402,7 +6402,7 @@
 	<string id="st_dyn_news_zone_activity_troop_mutant_6">
 		<text>What's going on in $map? We lost contact with the squad $location.\nSomeone saw $target roaming the place, I need more info about the situation there.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_zone_activity_troop_mutant_7">
 		<text>Attention! This is $speaker's team in the north of $map, we got hit by some sort of mutant attack a few minutes ago - we couldn't make positive ID.\nWe lost a man, requesting orders, urgent!</text>
 	</string>
@@ -6421,8 +6421,8 @@
 	<string id="st_dyn_news_zone_activity_troop_mutant_12">
 		<text>This is $leader. Any patrols in $map should pull back to a position $location immediately. We've received intel of hostile movement, probably $target.\nStart moving immediately; it may be nothing, but we need to take precautions.</text>
 	</string>
-	
-	
+
+
 	<string id="st_dyn_news_zone_activity_troop_enemy_1">
 		<text>This is $speaker. Requesting assistance immediately!\nMy squad in $map has been attacked by $target a few minutes ago. We took position $location, hurry up!</text>
 	</string>
@@ -6453,7 +6453,7 @@
 	<string id="st_dyn_news_zone_activity_troop_enemy_10">
 		<text>$leader, this is $speaker. After a long battle with $target $location, we managed to hold two captives.\nWhat do you want to do with them?</text>
 	</string>
-	
+
 	<string id="st_dyn_news_zone_activity_troop_enemy_11">
 		<text>$leader, come in! We were ambushed by $target $location! We got into a cross-fire and we lost half of the squad!\nMost of us are injured and we pulled back to a defensive position.\nWe need reinforcements immediately! They're still coming in!</text>
 	</string>
@@ -6475,7 +6475,7 @@
 	<string id="st_dyn_news_zone_activity_troop_enemy_17">
 		<text>We've been skirmishing with $target for several hours now. No casualties to report and we think we've killed two of them.\nRight now, it looks like they're holing up $location. Do you want us to stay on them?</text>
 	</string>
-	
+
 	<string id="st_dyn_news_zone_activity_troop_friend_1">
 		<text>This is $speaker. We met $target $location. One of them is suffering from a bad injury.\nI marked the location of our base for them. Make sure to provide them with medical assistance.</text>
 	</string>
@@ -6494,7 +6494,7 @@
 	<string id="st_dyn_news_zone_activity_troop_friend_6">
 		<text>Just found dead bodies of $target here in $map, or what's left of them... Seems like some wild mutants got those poor guys.\nI'm about to reach my destination $location. $speaker out.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_zone_activity_troop_friend_7">
 		<text>$speaker here. The hostiles we were tracking turned out to be $target.\nWe asked them if they had seen any activity and they hadn't. We're leaving them $location and finishing our patrol.</text>
 	</string>
@@ -6515,8 +6515,8 @@
 	</string>
 	<string id="st_dyn_news_zone_activity_troop_friend_13">
 		<text>We came by $target on our way back. They're preparing for a raid on mutants spotted $location.\nWe'll join them and split the meat.</text>
-	</string>		
-	
+	</string>
+
 	<string id="st_dyn_news_zone_activity_group_none_1">
 		<text>Weird... the emergency signal I received was pointing to this location $location.\nI have been searching for ten minutes at least, not a single trace of the missing group was found... I wonder what happened.</text>
 	</string>
@@ -6541,7 +6541,7 @@
 	<string id="st_dyn_news_zone_activity_group_none_8">
 		<text>$mechanic here. I'm missing steel plates and carbon fibre.\nIf you came by any damaged armours, make sure to bring them to me and I will give you discounts on repairing services.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_zone_activity_group_none_9">
 		<text>$trader, can you get in contact with $speaker and his group? They're moving way too far north past the safety markers and we can't get them on the radio.\nHave you heard from them?</text>
 	</string>
@@ -6564,7 +6564,7 @@
 		<text>Hey, $speaker, there's no change with that developing anomaly. It hasn't moved closer to the ground, but it does appear to be increasing in intensity.\nI think it's probably some sort of space anomaly, but others are saying it looks like a gravity concentrate. I don't think it will impede our business.</text>
 	</string>
 
-	
+
 	<string id="st_dyn_news_zone_activity_group_mutant_1">
 		<text>This is $speaker... My group has been attacked by $target a few minutes ago $location. Is there anyone nearby!</text>
 	</string>
@@ -6582,8 +6582,8 @@
 	</string>
 	<string id="st_dyn_news_zone_activity_group_mutant_6">
 		<text>What's going on? We lost contact with the group $location.\nSomeone saw $target roaming the place, is there anyone around who can give us more info about the situation?</text>
-	</string>	
-	
+	</string>
+
 	<string id="st_dyn_news_zone_activity_group_mutant_7">
 		<text>Uh, $leader, it's $speaker. We're moving east in $map because we're being shadowed by some sort of mutant pack, $target maybe.\nWe're not equipped to handle this many, what should we do?</text>
 	</string>
@@ -6602,7 +6602,7 @@
 	<string id="st_dyn_news_zone_activity_group_mutant_12">
 		<text>This is $leader to all of our guys in $map. We just had $speaker and his squad go check out some noises $location and we lost contact with them.\nAnyone in the area: I want some eyes on that location; don't go charging in, just watch it for a while.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_zone_activity_group_enemy_1">
 		<text>This is $speaker. We need backup!\nMy group has been attacked by $target a few minutes ago. We're taking cover $location, hurry up!</text>
 	</string>
@@ -6633,7 +6633,7 @@
 	<string id="st_dyn_news_zone_activity_group_enemy_10">
 		<text>$leader, this is $speaker. We had a big gunfight with $target $location. We made it alive, and we have two captives right here.\nWhat should we do with them?</text>
 	</string>
-	
+
 	<string id="st_dyn_news_zone_activity_group_enemy_11">
 		<text>Ok, this is $speaker. $target in the area have been taking potshots at us for half an hour.\nWe're not sure what they're up to - we don't want to start a firefight.</text>
 	</string>
@@ -6677,7 +6677,7 @@
 	<string id="st_dyn_news_zone_activity_group_friend_7">
 		<text>So we came by $target on our way back. They're preparing for a big raid on mutants $location.\nWe'll join them and split the meat... hehe...</text>
 	</string>
-	
+
 	<string id="st_dyn_news_zone_activity_group_friend_8">
 		<text>Well, thanks to $target, we avoided walking into an ambush.\nWe're going to wait with them for awhile until we continue our journey to $map.</text>
 	</string>
@@ -6694,7 +6694,7 @@
 		<text>Alright, this is $speaker. We just ran into a group of $target and they told us that they saw the missing squad $location just a few hours ago.\nShould we take a look?</text>
 	</string>
 
-	
+
 	<string id="st_dyn_news_zone_activity_scientist_none_1">
 		<text>Weird... the emergency signal I received was pointing to this location $location.\nI have been searching for ten minutes at least, not a single trace of the missing group was found...</text>
 	</string>
@@ -6719,7 +6719,7 @@
 	<string id="st_dyn_news_zone_activity_scientist_none_8">
 		<text>$mechanic here. I'm looking for samples from gravitational anomalies. It's for an experimental outfit upgrade I'm currently working on.\nMake sure to bring me what you can find.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_zone_activity_scientist_none_9">
 		<text>Someone let $mechanic know that his experimental shock absorber that he installed on my suit works pretty well.\nWithout it, I wouldn't be sending this message.</text>
 	</string>
@@ -6732,7 +6732,7 @@
 	<string id="st_dyn_news_zone_activity_scientist_none_12">
 		<text>This is $speaker and the technical team reporting that the new sensors are now active in $map.\nIf anyone has any problems, I would talk to $mechanic first - it's probably on his end.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_zone_activity_scientist_mutant_1">
 		<text>This is $speaker... My group has been attacked by $target a few minutes ago $location. Requesting assistance immediately!</text>
 	</string>
@@ -6751,7 +6751,7 @@
 	<string id="st_dyn_news_zone_activity_scientist_mutant_6">
 		<text>What's going on? We lost contact with the group $location.\nSomeone saw $target roaming the place, I need more info about the situation there.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_zone_activity_scientist_mutant_7">
 		<text>This is the rescue team sent to find the missing expedition $location.\nSorry to say that we found the remains of $speaker and five of his men.\nLooks like they were overrun by $target.</text>
 	</string>
@@ -6764,7 +6764,7 @@
 	<string id="st_dyn_news_zone_activity_scientist_mutant_10">
 		<text>$leader, I can hear heavy gunfire, sounds like it's from our colleagues $location.\nI think they may have run into those $target after all. We're on our way to support them.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_zone_activity_scientist_enemy_1">
 		<text>This is $speaker. Requesting assistance immediately!\nMy group been attacked by $target a few minutes ago. We took position $location, hurry up!</text>
 	</string>
@@ -6792,7 +6792,7 @@
 	<string id="st_dyn_news_zone_activity_scientist_enemy_9">
 		<text>I've received information about possible raid in $map. Seems like $target are looking for trouble. Stay safe.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_zone_activity_scientist_enemy_10">
 		<text>$leader, we're abandoning our mission after we spotted a large group of $target headed our way.\nThey might still be after us. We're not armed for this kind of thing!</text>
 	</string>
@@ -6802,7 +6802,7 @@
 	<string id="st_dyn_news_zone_activity_scientist_enemy_12">
 		<text>Attention field teams: this is $leader.\n$speaker and his group have been attacked in $map.\nIf there is anyone near by who is willing to help, I can assure extraordinary compensation.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_zone_activity_scientist_friend_1">
 		<text>This is $speaker. We met $target $location. One of them is suffering from a bad injury.\nI marked the location of our base for them. Make sure to provide them with medical assistance.</text>
 	</string>
@@ -6824,7 +6824,7 @@
 	<string id="st_dyn_news_zone_activity_scientist_friend_7">
 		<text>We came by $target on our way to the anomaly field. They're preparing for a raid on mutants spotted $location.\nWe'll join them for now, the research will be continued later.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_zone_activity_scientist_friend_8">
 		<text>This is the research team in $map.\nWe met some $target searching for artefacts and we decided to share the information we had about updated anomaly maps.\nHopefully $leader will permit this sort of thing.</text>
 	</string>
@@ -6840,7 +6840,7 @@
 	<string id="st_dyn_news_zone_activity_scientist_friend_12">
 		<text>After staying $location for awhile, we noticed some passing $target and they've agreed to guide us.\nWe're starting off now, wish us luck!</text>
 	</string>
-	
+
 	<!-- Random news-->
 	<string id="st_dyn_news_spam_1">
 		<text>$clr_1Alkash Programmer\n$clr_2I need access to the internet. Is there any in the Bar, or perhaps over at Sidorovich's place?</text>
@@ -7349,7 +7349,7 @@
 	<string id="st_dyn_news_spam_169">
 		<text>$clr_1Anonymous\n$clr_2One day the Zone shall purify this sinful world. Join us to live in a peaceful paradise, or perish with the rest.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_spam_170">
 		<text>$clr_1Anonymous\n$clr_2Misha! Misha, come in! You've been in there too long, are you ok? Misha, pick up! Ok, alright Misha, we're coming in to get you. Alright, the door - now go!</text>
 	</string>
@@ -7790,7 +7790,7 @@
 	<string id="st_dyn_news_death_reason_45">
 		<text>a horrific look on his face, no wounds at all. I believe it was a controller... who... who's there?!....</text>
 	</string>
-	
+
 	<string id="st_dyn_news_death_reason_46">
 		<text>looks like his entire chest is caved in... not sure</text>
 	</string>
@@ -7896,9 +7896,9 @@
 	<string id="st_dyn_news_death_reason_80">
 		<text>something very strange is happening to the body it... it seems to be fading out of existence!</text>
 	</string>
-	
+
 <!-- Special news -->
-	
+
 	<!-- Time news -->
 	<string id="st_dyn_news_time_night_1">
 		<text>Damn, it's really dark now isn't it? Stay close to your camp.</text>
@@ -7957,7 +7957,7 @@
 	<string id="st_dyn_news_time_night_19">
 		<text>Damn, the sun's already going down... I can already feel something unsettling in the vicinity.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_time_night_20">
 		<text>The night is for the bold. No more tourist shit - the night Zone is the real Zone.</text>
 	</string>
@@ -8038,7 +8038,7 @@
 	<string id="st_dyn_news_time_morning_20">
 		<text>Hey, guys! Finally, dawn has come. I'm tired of shaking in fear in the dark. Better to shiver in the light of day...</text>
 	</string>
-	
+
 	<string id="st_dyn_news_time_morning_21">
 		<text>Bad night, almost no sleep. Shit, I've things to do...</text>
 	</string>
@@ -8100,7 +8100,7 @@
 	<string id="st_dyn_news_time_noon_10">
 		<text>Boars and fleshes go crazy at this time, don't be a hero and go on a hunting trip alone.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_time_noon_11">
 		<text>Let's get this shit done while we still can - we can't wait around forever.</text>
 	</string>
@@ -8192,7 +8192,7 @@
 	<string id="st_dyn_news_time_evening_10">
 		<text>What a view, won't mind sticking around.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_time_evening_11">
 		<text>Shit... time to find a safe place for the night.</text>
 	</string>
@@ -8264,7 +8264,7 @@
 	<string id="st_dyn_news_weather_clear_8">
 		<text>Feels good to be outside today.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_weather_clear_9">
 		<text>Good day for hunting. Who wants some fresh meat?</text>
 	</string>
@@ -8326,7 +8326,7 @@
 	<string id="st_dyn_news_weather_partly_8">
 		<text>Feels good to get out today.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_weather_partly_9">
 		<text>I don't think it will rain - just some clouds.</text>
 	</string>
@@ -8376,7 +8376,7 @@
 	<string id="st_dyn_news_weather_cloudy_6">
 		<text>Some people say having cloudy weather all the time is depressing. Personally, I like it this way.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_weather_cloudy_7">
 		<text>The sky is foreboding.</text>
 	</string>
@@ -8435,7 +8435,7 @@
 	<string id="st_dyn_news_weather_foggy_9">
 		<text>Mutants might be hiding in the fog, keep your eyes peeled.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_weather_foggy_10">
 		<text>Ah, shit. This crappy weather is just what we need right now.</text>
 	</string>
@@ -8491,7 +8491,7 @@
 	<string id="st_dyn_news_weather_rain_8">
 		<text>The rain is getting inside my mask...</text>
 	</string>
-	
+
 	<string id="st_dyn_news_weather_rain_9">
 		<text>What's wrong with a little rain?</text>
 	</string>
@@ -8553,7 +8553,7 @@
 	<string id="st_dyn_news_weather_storm_10">
 		<text>I can feel my ass getting wet, should've bought a better outfit.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_weather_storm_10">
 		<text>What a shit day to be outside.</text>
 	</string>
@@ -8604,7 +8604,7 @@
 	<string id="st_dyn_news_enemy_activity_zombied_5">
 		<text>It seems one of those brainwashed guys is wandering around.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_enemy_activity_zombied_6">
 		<text>Looks like the corpses are up and walking around.</text>
 	</string>
@@ -8620,7 +8620,7 @@
 	<string id="st_dyn_news_enemy_activity_zombied_10">
 		<text>We've been watching $who for a while. Not sure what it's up to.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_res_enemy_activity_zombied_1">
 		<text>You know what to do once you see one of them getting closer.</text>
 	</string>
@@ -8636,7 +8636,7 @@
 	<string id="st_dyn_news_res_enemy_activity_zombied_5">
 		<text>He's probably just looking for his lost brain.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_res_enemy_activity_zombied_6">
 		<text>How about we go put it down for good?</text>
 	</string>
@@ -8652,7 +8652,7 @@
 	<string id="st_dyn_news_res_enemy_activity_zombied_10">
 		<text>Where do these things keep coming from?</text>
 	</string>
-	
+
 	<string id="st_dyn_news_enemy_activity_stalker_1">
 		<text>Hey, one of the guys spotted $who not far from here. There might be more around.</text>
 	</string>
@@ -8677,7 +8677,7 @@
 	<string id="st_dyn_news_enemy_activity_stalker_8">
 		<text>Be careful, $who is lurking around.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_enemy_activity_stalker_9">
 		<text>We appear to have $who in the area.</text>
 	</string>
@@ -8714,7 +8714,7 @@
 	<string id="st_dyn_news_enemy_activity_stalker_20">
 		<text>Take up positions, I just saw $who.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_res_enemy_activity_stalker_1">
 		<text>Someone is looking for trouble.</text>
 	</string>
@@ -8745,7 +8745,7 @@
 	<string id="st_dyn_news_res_enemy_activity_stalker_10">
 		<text>They killed one of my friends the other day, fucking bastards. Let me know if he gets any closer.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_res_enemy_activity_stalker_11">
 		<text>Again? Didn't they get enough last time?</text>
 	</string>
@@ -8776,7 +8776,7 @@
 	<string id="st_dyn_news_res_enemy_activity_stalker_20">
 		<text>We'll watch and make sure no one comes this way.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_enemy_activity_mutant_4_1">
 		<text>We're in trouble, one of our guys spotted $who not far from here.</text>
 	</string>
@@ -8795,7 +8795,7 @@
 	<string id="st_dyn_news_enemy_activity_mutant_4_6">
 		<text>Did you hear that! It sounds exactly like $who...</text>
 	</string>
-	
+
 	<string id="st_dyn_news_enemy_activity_mutant_4_7">
 		<text>This might turn out to be a very bad day - reports of $who in the area.</text>
 	</string>
@@ -8811,8 +8811,8 @@
 	<string id="st_dyn_news_enemy_activity_mutant_4_11">
 		<text>Fuck sake, we've got $who coming this way.</text>
 	</string>
-	
-	
+
+
 	<string id="st_dyn_news_res_enemy_activity_mutant_4_1">
 		<text>Are you serious?!</text>
 	</string>
@@ -8828,7 +8828,7 @@
 	<string id="st_dyn_news_res_enemy_activity_mutant_4_5">
 		<text>Shit... keep your eyes open.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_res_enemy_activity_mutant_4_6">
 		<text>This could be really bad.</text>
 	</string>
@@ -8847,7 +8847,7 @@
 	<string id="st_dyn_news_res_enemy_activity_mutant_4_11">
 		<text>Aim for the head, it's our only chance.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_enemy_activity_mutant_3_1">
 		<text>We're in trouble, one of our guys spotted $who not far from here</text>
 	</string>
@@ -8866,7 +8866,7 @@
 	<string id="st_dyn_news_enemy_activity_mutant_3_6">
 		<text>Hey... guys, you heard that?! sounds like $who... it must be $who!</text>
 	</string>
-	
+
 	<string id="st_dyn_news_enemy_activity_mutant_3_7">
 		<text>We might be in for a fight, $who has been spotted not far from here.</text>
 	</string>
@@ -8883,7 +8883,7 @@
 		<text>Oh shit, $who! Hope it hasn't noticed us yet.</text>
 	</string>
 
-	
+
 	<string id="st_dyn_news_res_enemy_activity_mutant_3_1">
 		<text>Keep your distance, and try not to bring it over here. I don't feel like dying today...</text>
 	</string>
@@ -8896,7 +8896,7 @@
 	<string id="st_dyn_news_res_enemy_activity_mutant_3_4">
 		<text>Oh great... stay alert, it might get close.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_res_enemy_activity_mutant_3_5">
 		<text>Ok, stay down - do not engage unless it notices us.</text>
 	</string>
@@ -8912,7 +8912,7 @@
 	<string id="st_dyn_news_res_enemy_activity_mutant_3_9">
 		<text>More and more of these things every week...</text>
 	</string>
-	
+
 	<string id="st_dyn_news_enemy_activity_mutant_2_1">
 		<text>I can hear the sound of $who, seems like trouble.</text>
 	</string>
@@ -8928,7 +8928,7 @@
 	<string id="st_dyn_news_enemy_activity_mutant_2_5">
 		<text>Don't get too comfortable, $who has been spotted not far from here.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_enemy_activity_mutant_2_6">
 		<text>Just saw $who, can't say how many there were.</text>
 	</string>
@@ -8944,7 +8944,7 @@
 	<string id="st_dyn_news_enemy_activity_mutant_2_10">
 		<text>Apparently, $who is getting closer. Think we can take it?</text>
 	</string>
-	
+
 	<string id="st_dyn_news_res_enemy_activity_mutant_2_1">
 		<text>Damn... I hate those things.</text>
 	</string>
@@ -8957,7 +8957,7 @@
 	<string id="st_dyn_news_res_enemy_activity_mutant_2_4">
 		<text>Those freaks are no joke, keep your eyes open.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_res_enemy_activity_mutant_2_5">
 		<text>Good, it was getting boring around here.</text>
 	</string>
@@ -8976,7 +8976,7 @@
 	<string id="st_dyn_news_res_enemy_activity_mutant_2_10">
 		<text>Those things are tricky, don't get overconfident.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_enemy_activity_mutant_1_1">
 		<text>Seems like $who is getting wild around here.</text>
 	</string>
@@ -8989,7 +8989,7 @@
 	<string id="st_dyn_news_enemy_activity_mutant_1_4">
 		<text>Check that out, $who is getting closer.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_enemy_activity_mutant_1_5">
 		<text>Ok, we see it: just $who.</text>
 	</string>
@@ -9008,7 +9008,7 @@
 	<string id="st_dyn_news_enemy_activity_mutant_1_10">
 		<text>Some mutant is getting a little close for comfort. Looks like $who.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_res_enemy_activity_mutant_1_1">
 		<text>Big deal, my friend.</text>
 	</string>
@@ -9033,7 +9033,7 @@
 	<string id="st_dyn_news_res_enemy_activity_mutant_1_8">
 		<text>Carry on, son.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_res_enemy_activity_mutant_1_9">
 		<text>Well, just keep an eye on it, I guess.</text>
 	</string>
@@ -9104,10 +9104,10 @@
 	<string id="st_dyn_news_res_dumb_zombie_9">
 		<text>How cute. You're not trying to invite your dead fellas over here, are you?</text>
 	</string>
-	
-	
+
+
 <!-- Companions news -->
-	
+
 	<!-- Companions - Life -->
 	<string id="st_dyn_news_companion_life_all_1">
 		<text>I'm starting to feel hungry.</text>
@@ -9190,8 +9190,8 @@
 	<string id="st_dyn_news_companion_life_all_27">
 		<text>Have you ever heard stories about dark stalkers? They lurk in the shadows, ambush unsuspecting stalkers and drag them away somewhere, never to be seen again...</text>
 	</string>
-	
-	
+
+
 	<string id="st_dyn_news_companion_life_all_28">
 		<text>I swear I keep hearing something.</text>
 	</string>
@@ -9322,7 +9322,7 @@
 	<string id="st_dyn_news_companion_life_bandit_18">
 		<text>Yo $name, let me know if you spotted a lonely stalker wandering around, okay?</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_life_bandit_19">
 		<text>We're pals, right? Good, so remember that when the shit hits the fan.</text>
 	</string>
@@ -9414,8 +9414,8 @@
 	<string id="st_dyn_news_companion_life_army_8">
 		<text>We need to get rid of those Freedomers forever.</text>
 	</string>
-	
-	
+
+
 	<string id="st_dyn_news_companion_life_army_9">
 		<text>And I thought maneuvers were bad.</text>
 	</string>
@@ -9546,7 +9546,7 @@
 	<string id="st_dyn_news_companion_life_csky_11">
 		<text>What happened to the old team was unfortunate.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_life_csky_12">
 		<text>Be cautious and plan out all your movements. To survive, you have to be thinking all the time.</text>
 	</string>
@@ -9671,7 +9671,7 @@
 	<string id="st_dyn_news_companion_life_dolg_12">
 		<text>I have orders to shoot Freedom spies on sight, let me know if you spotted one.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_life_dolg_13">
 		<text>No matter how many mutants we put down, more keep coming. How can we hit them at the source?</text>
 	</string>
@@ -9796,7 +9796,7 @@
 	<string id="st_dyn_news_companion_life_ecolog_13">
 		<text>Psi-storms usually don't participate in artefact creation, massive blowouts on the other hand are a whole different story.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_life_ecolog_14">
 		<text>Organs mutate in so many novel ways: Flesh eyes with olfactory receptors, Snork tendon strength, regenerative properties in the Bloodsucker heart... even the crows demonstrate remarkable changes.</text>
 	</string>
@@ -9911,8 +9911,8 @@
 	</string>
 	<string id="st_dyn_news_companion_life_freedom_11">
 		<text>Sooner or later, we will free the Zone from those who abuse its treasures.</text>
-	</string>	
-	
+	</string>
+
 	<string id="st_dyn_news_companion_life_freedom_12">
 		<text>Got anything on you, bro?</text>
 	</string>
@@ -10046,8 +10046,8 @@
 	<string id="st_dyn_news_companion_life_killer_15">
 		<text>Stalkers are usually the easiest targets in the Zone. Sometimes I feel bad about killing one.</text>
 	</string>
-	
-	
+
+
 	<string id="st_dyn_news_companion_life_killer_16">
 		<text>Don't make it personal. Just get it done.</text>
 	</string>
@@ -10169,8 +10169,8 @@
 	<string id="st_dyn_news_companion_life_stalker_15">
 		<text>I came here looking for work and opportunities, I want throw my old life behind. What about you, $name?</text>
 	</string>
-	
-	
+
+
 	<string id="st_dyn_news_companion_life_stalker_16">
 		<text>Always keep your eyes open, $name - opportunities are everywhere.</text>
 	</string>
@@ -10291,7 +10291,7 @@
 	<string id="st_dyn_news_companion_level_home_6">
 		<text>Been here for quite a long time.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_level_home_7">
 		<text>Good time to stock up on supplies.</text>
 	</string>
@@ -10342,7 +10342,7 @@
 	<string id="st_dyn_news_companion_level_l11_pripyat_10">
 		<text>Why did I agree on coming along with you...</text>
 	</string>
-	
+
 
 	<string id="st_dyn_news_companion_level_l11_pripyat_11">
 		<text>Shit... there's too many angles here. I feel exposed.</text>
@@ -10406,7 +10406,7 @@
 	<string id="st_dyn_news_companion_level_l01_escape_10">
 		<text>The situation at the outpost is unstable. Many parties are fighting over it.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_level_l01_escape_11">
 		<text>The outside world is so close...</text>
 	</string>
@@ -10459,7 +10459,7 @@
 	<string id="st_dyn_news_companion_level_k02_trucks_cemetery_7">
 		<text>You can hide in the camp in the north-eastern side. It's a good place to stay safe from emissions.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_level_k02_trucks_cemetery_8">
 		<text>It's a lonely, forsaken place.</text>
 	</string>
@@ -10509,7 +10509,7 @@
 	<string id="st_dyn_news_companion_level_k01_darkscape_7">
 		<text>We can stop by the warehouse to rest for a bit, although I'm not sure who's controlling it.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_level_k01_darkscape_8">
 		<text>Damn, it can be quiet here. It's... sort of comforting.</text>
 	</string>
@@ -10574,7 +10574,7 @@
 	<string id="st_dyn_news_companion_level_k00_marsh_12">
 		<text>You can find some stashes in those farms... if you're lucky enough.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_level_k00_marsh_13">
 		<text>I don't want to know what lives in the water...</text>
 	</string>
@@ -10633,7 +10633,7 @@
 	<string id="st_dyn_news_companion_level_l12_stancia_7">
 		<text>I have never been this nervous in my whole life...</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_level_l12_stancia_8">
 		<text>We are going to have some stories to tell...</text>
 	</string>
@@ -10680,7 +10680,7 @@
 	<string id="st_dyn_news_companion_level_l10_limansk_6">
 		<text>I have a feeling that one day the Monolith will seize control over the whole city.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_level_l10_limansk_7">
 		<text>North of here is all Monolith territory.</text>
 	</string>
@@ -10742,7 +10742,7 @@
 	<string id="st_dyn_news_companion_level_l09_deadcity_8">
 		<text>My friend told me about a tunnel system beneath the city, a whole grid connects every building around.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_level_l09_deadcity_9">
 		<text>This place is so dreary... no wonder the mercs are so unfriendly.</text>
 	</string>
@@ -10801,7 +10801,7 @@
 	<string id="st_dyn_news_companion_level_l08_yantar_9">
 		<text>Hearing stories about the massive zombie waves over here, the psi-emitter is probably bigger than what I imagined.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_level_l08_yantar_10">
 		<text>Damn, I hate this place.</text>
 	</string>
@@ -10861,7 +10861,7 @@
 	<string id="st_dyn_news_companion_level_l07_military_10">
 		<text>Comet anomalies usually roam the village. It's normal to find fried stalkers lying around the place.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_level_l07_military_11">
 		<text>It's rarely quiet here - firefights are very common.</text>
 	</string>
@@ -10917,7 +10917,7 @@
 	<string id="st_dyn_news_companion_level_l06_rostok_8">
 		<text>Here you can find either valuable artefacts, or instant death.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_level_l06_rostok_9">
 		<text>Weird to think that the Bar is a stones-throw away.</text>
 	</string>
@@ -10986,7 +10986,7 @@
 	<string id="st_dyn_news_companion_level_l04_darkvalley_14">
 		<text>Packs of mutants make incursions from the hills, so be ready with that shooter.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_level_l03_agroprom_1">
 		<text>Lots of stalkers died here. This place is no joke.</text>
 	</string>
@@ -11002,7 +11002,7 @@
 	<string id="st_dyn_news_companion_level_l03_agroprom_5">
 		<text>Let's stay out of the underground section, I heard stories about dangerous anomalies and nightmarish creatures flooding the tunnels.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_level_l03_agroprom_6">
 		<text>It's strange that the loners hold a settlement so close to the military HQ; it's like they're asking for it.</text>
 	</string>
@@ -11067,7 +11067,7 @@
 	<string id="st_dyn_news_companion_level_l02_garbage_12">
 		<text>If you're looking for artefacts, your best pick would be the vehicle graveyard, or the radioactive swamp on the other side.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_level_l02_garbage_13">
 		<text>People don't come to the Zone for the beauty...</text>
 	</string>
@@ -11105,7 +11105,7 @@
 	<string id="st_dyn_news_companion_level_l05_bar_6">
 		<text>Duty won't allow anyone go near their headquarters.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_level_l05_bar_7">
 		<text>I used to enjoy watching the Arena... but I get enough killing out in the Zone. I don't need to see any more.</text>
 	</string>
@@ -11188,7 +11188,7 @@
 	<string id="st_dyn_news_companion_level_l10_red_forest_9">
 		<text>Freedom from the south, Monolith from Radar, bandits at the bridge, stalkers near Forester's tower.\nA usual day in the Red Forest.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_level_l10_red_forest_10">
 		<text>Did you hear that? Something else is out there...</text>
 	</string>
@@ -11248,7 +11248,7 @@
 	<string id="st_dyn_news_companion_level_l10_radar_12">
 		<text>I can hear voices inside my head...</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_level_l10_radar_13">
 		<text>Shit, shit, shit... what are we doing here?</text>
 	</string>
@@ -11283,7 +11283,7 @@
 	<string id="st_dyn_news_companion_level_l12_stancia_2_7">
 		<text>I have never been this nervous in my whole life...</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_level_l12_stancia_2_8">
 		<text>We are going to have some stories to tell...</text>
 	</string>
@@ -11311,7 +11311,7 @@
 	<string id="st_dyn_news_companion_level_l12_stancia_2_16">
 		<text>I am not prepared for this.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_level_pripyat_1">
 		<text>What an empty place, quite depressing actually.</text>
 	</string>
@@ -11342,7 +11342,7 @@
 	<string id="st_dyn_news_companion_level_pripyat_10">
 		<text>The hospital is probably the biggest building around here. Monolith squads might be hiding in there.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_level_pripyat_11">
 		<text>One day this whole place will just... crumble away to dust.</text>
 	</string>
@@ -11432,7 +11432,7 @@
 	<string id="st_dyn_news_companion_level_jupiter_19">
 		<text>Bandits hide in the container warehouse because it's a remote location.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_level_jupiter_20">
 		<text>All sorts of bad things inside the Jupiter Factory. There's a reason why everyone stays way the hell away.</text>
 	</string>
@@ -11491,7 +11491,7 @@
 	<string id="st_dyn_news_companion_level_zaton_16">
 		<text>You might find an Electro in the Iron Forest anomaly. Be careful though, poltergeists are waiting for careless stalkers.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_level_zaton_17">
 		<text>You can see the power plant from here... damn, we're close.</text>
 	</string>
@@ -11515,7 +11515,7 @@
 	<string id="st_dyn_news_companion_rank_1_3">
 		<text>You haven't spent much time in the Zone, right $name? Seems like it.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_rank_1_4">
 		<text>Fresh from the real world, eh $name? Better get used to it.</text>
 	</string>
@@ -11537,14 +11537,14 @@
 	<string id="st_dyn_news_companion_rank_1_10">
 		<text>Pretty new to the Zone, aren't you? You'll learn.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_rank_2_1">
 		<text>Feels good to join a guy who knows what he's doing, $name.</text>
 	</string>
 	<string id="st_dyn_news_companion_rank_2_2">
 		<text>Your name is $name? My PDA says you have quite the experience, glad to have your company.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_rank_2_3">
 		<text>$name, right? I've heard that you know a thing or two.</text>
 	</string>
@@ -11569,8 +11569,8 @@
 	<string id="st_dyn_news_companion_rank_2_10">
 		<text>You've been around, right? So don't lead us into a death-trap. So many people die before they realize what happened.</text>
 	</string>
-	
-	
+
+
 	<string id="st_dyn_news_companion_rank_3_1">
 		<text>You're $name?! I heard a lot about your adventures back at our campfire last night. My friends said you're one of the few who survived a while in the Zone.</text>
 	</string>
@@ -11598,11 +11598,11 @@
 	</string>
 	<string id="st_dyn_news_companion_rank_3_9">
 		<text>You're one of the Zone success stories, right? Well, good for you.\nYou never know how long it's going to last...</text>
-	</string>	
+	</string>
 	<string id="st_dyn_news_companion_rank_3_10">
 		<text>They've been saying you're a lucky one, $name. Apparently, you don't die easily.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_rank_4_1">
 		<text>I can't believe it... the living legend, $name himself!</text>
 	</string>
@@ -11612,7 +11612,7 @@
 	<string id="st_dyn_news_companion_rank_4_3">
 		<text>Is this real... It's $name! You have my utmost respect.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_rank_4_4">
 		<text>Honored to be on your team, $name.</text>
 	</string>
@@ -11648,7 +11648,7 @@
 	<string id="st_dyn_news_companion_rep_1_4">
 		<text>People say you fucked up big time, $name. What have you done exactly?</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_rep_1_5">
 		<text>So you know you're kind of... hated, right? Just wanted to let you know.</text>
 	</string>
@@ -11667,20 +11667,20 @@
 	<string id="st_dyn_news_companion_rep_1_10">
 		<text>You know, $name, they say you're going to get what comes to you.\nOh, not me, of course. Just saying...</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_rep_2_1">
 		<text>$name... I don't recall your name.</text>
 	</string>
 	<string id="st_dyn_news_companion_rep_2_2">
 		<text>Your reputation seems fine enough, $name.</text>
-	</string>	
+	</string>
 	<string id="st_dyn_news_companion_rep_2_3">
 		<text>$name, you seem like a nice guy. Are you new around here?</text>
 	</string>
 	<string id="st_dyn_news_companion_rep_2_4">
 		<text>My PDA doesn't show much info about you $name. That's a good thing, I suppose.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_rep_2_5">
 		<text>Don't take this the wrong way, $name, but you're kind of a boring guy.</text>
 	</string>
@@ -11694,7 +11694,7 @@
 		<text>Lots of scary people around, $name. Are you a guy I can trust?</text>
 	</string>
 
-	
+
 	<string id="st_dyn_news_companion_rep_3_1">
 		<text>You're $name right? I've heard good stuff about you the other day, keep it up.</text>
 	</string>
@@ -11710,7 +11710,7 @@
 	<string id="st_dyn_news_companion_rep_3_5">
 		<text>People say that you're a man of your word, $name. I'm glad to join your team.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_companion_rep_3_6">
 		<text>I know you're not like these other guys around here, $name. They're all a bunch of backstabbers, I'm telling you.</text>
 	</string>
@@ -11786,7 +11786,7 @@
 	<string id="st_dyn_news_warfare_capture_troop_3">
 		<text>Reporting to the general headquarters. The situation in $map has taken a new turn, enemies have retreated following the planned ambush $location. We will guard the place while waiting for new orders.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_warfare_capture_scientist_1">
 		<text>$speaker speaking. The area $location is secured. Waiting for new orders.</text>
 	</string>
@@ -11796,7 +11796,7 @@
 	<string id="st_dyn_news_warfare_capture_scientist_3">
 		<text>Reporting to the general headquarters. The situation in $map has taken a new turn, enemies have retreated following the planned ambush $location. We will guard the place while waiting for new orders.</text>
 	</string>
-	
+
 	<string id="st_dyn_news_warfare_capture_group_1">
 		<text>$speaker's here. The area $location is under control. The ambush was a big success.</text>
 	</string>
@@ -11808,7 +11808,7 @@
 	</string>
 
 <!-- Extra -->
-	
+
 	<!-- Special -->
 	<string id="st_dyn_news_spc_obituary_s">
 		<text>$clr_1Death Report -$clr_2 $who_name ($who_comm) killed $victim_name ($victim_comm).\n$clr_1Location -$clr_2 $where.</text>
@@ -11933,9 +11933,9 @@
 	<string id="st_dyn_news_anonymous">
 		<text>Anonymous</text>
 	</string>
-	
-		
 
 
-	
+
+
+
 </string_table>
